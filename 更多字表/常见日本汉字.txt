@@ -1,0 +1,37 @@
+# 32个汉语文献中使用频率较高的日本汉字
+# 来自《日本汉字的汉语读音规范（草案）》（2005年）
+#
+# 日本汉字字形	序号	日语读音	汉语普通话规范读音
+
+匂	1	nio-u	yún
+丼	2	don	dǎn
+辻	3	tsuji	shí
+込	4	ko-mu	rù
+凧	5	tako	jīn
+杣	6	soma	shān
+枠	7	waku	zá
+畑	8	hata/hatake	tián
+栃	9	tochi	lì
+栂	10	toga	méi
+峠	11	touge	kǎ
+俣	12	mata	yǔ
+籾	13	momi	rèn
+畠	14	hata/hatake	tián
+雫	15	shizuku	xià
+笹	16	sasa	shì
+塀	17	hei	píng
+椙	18	sugi	chāng
+硲	19	hazama	yù
+蛯	20	ebi	lǎo
+喰	21	ku-u	cān
+搾	22	shibo-ru saku	zhà
+榊	23	sakaki	shén
+働	24	hatara-ku/dou	dòng
+糀	25	kouji	huā
+鞆	26	tomo	bǐng
+槇	27	maki	zhēn
+樫	28	kashi	jīan
+鴫	29	shigi	tián
+噺	30	hanashi	xīn
+簗	31	yana	liáng
+麿	32	maro	mó

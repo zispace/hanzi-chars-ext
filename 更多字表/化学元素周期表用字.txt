@@ -1,0 +1,124 @@
+# 化学元素周期表用字
+# 已命名元素共118项
+# https://zh.wikipedia.org/wiki/元素列表
+# 
+# 中国大陆	中國香港	中國臺灣	序号	元素符号	英文	发现/观测年代	备注
+
+氢	氫	氫	1	H	Hydrogen	1766	氕氘氚
+氦	氦	氦	2	He	Helium	1868	
+锂	鋰	鋰	3	Li	Lithium	1817	
+铍	鈹	鈹	4	Be	Beryllium	1798	
+硼	硼	硼	5	B	Boron	1808	
+碳	碳	碳	6	C	Carbon		
+氮	氮	氮	7	N	Nitrogen	1772	
+氧	氧	氧	8	O	Oxygen	1771	
+氟	氟	氟	9	F	Fluorine	1886	
+氖	氖	氖	10	Ne	Neon	1898	
+钠	鈉	鈉	11	Na	Sodium	1807	
+镁	鎂	鎂	12	Mg	Magnesium	1755	
+铝	鋁	鋁	13	Al	Aluminium	1825	
+硅	矽	矽	14	Si	Silicon	1824	*矽与硒、锡同音，1955年将矽改为硅。
+磷	磷	磷	15	P	Phosphorus	1669	
+硫	硫	硫	16	S	Sulfur		
+氯	氯	氯	17	Cl	Chlorine	1774	
+氩	氬	氬	18	Ar	Argon	1894	
+钾	鉀	鉀	19	K	Potassium	1807	
+钙	鈣	鈣	20	Ca	Calcium	1808	
+钪	鈧	鈧	21	Sc	Scandium	1879	
+钛	鈦	鈦	22	Ti	Titanium	1791	
+钒	釩	釩	23	V	Vanadium	1801	
+铬	鉻	鉻	24	Cr	Chromium	1794	
+锰	錳	錳	25	Mn	Manganese	1770	
+铁	鐵	鐵	26	Fe	Iron		
+钴	鈷	鈷	27	Co	Cobalt	1732	
+镍	鎳	鎳	28	Ni	Nickel	1751	
+铜	銅	銅	29	Cu	Copper		
+锌	鋅	鋅	30	Zn	Zinc		
+镓	鎵	鎵	31	Ga	Gallium	1875	
+锗	鍺	鍺	32	Ge	Germanium	1886	
+砷	砷	砷	33	As	Arsenic		
+硒	硒	硒	34	Se	Selenium	1817	
+溴	溴	溴	35	Br	Bromine	1825	
+氪	氪	氪	36	Kr	Krypton	1898	
+铷	銣	銣	37	Rb	Rubidium	1861	
+锶	鍶	鍶	38	Sr	Strontium	1787	
+钇	釔	釔	39	Y	Yttrium	1794	
+锆	鋯	鋯	40	Zr	Zirconium	1789	
+铌	鈮	鈮	41	Nb	Niobium	1801	
+钼	鉬	鉬	42	Mo	Molybdenum	1778	
+锝	鎝	鍀	43	Tc	Technetium	1937	*
+钌	釕	釕	44	Ru	Ruthenium	1807	
+铑	銠	銠	45	Rh	Rhodium	1804	
+钯	鈀	鈀	46	Pd	Palladium	1803	
+银	銀	銀	47	Ag	Silver		
+镉	鎘	鎘	48	Cd	Cadmium	1817	
+铟	銦	銦	49	In	Indium	1863	
+锡	錫	錫	50	Sn	Tin		
+锑	銻	銻	51	Sb	Antimony		
+碲	碲	碲	52	Te	Tellurium	1782	
+碘	碘	碘	53	I	Iodine	1811	
+氙	氙	氙	54	Xe	Xenon	1898	
+铯	銫	銫	55	Cs	Caesium	1860	
+钡	鋇	鋇	56	Ba	Barium	1772	
+镧	鑭	鑭	57	La	Lanthanum	1838	
+铈	鈰	鈰	58	Ce	Cerium	1803	
+镨	鐠	鐠	59	Pr	Praseodymium	1885	
+钕	釹	釹	60	Nd	Neodymium	1885	
+钷	鉕	鉕	61	Pm	Promethium	1945	
+钐	釤	釤	62	Sm	Samarium	1879	
+铕	銪	銪	63	Eu	Europium	1896	
+钆	釓	釓	64	Gd	Gadolinium	1880	
+铽	鋱	鋱	65	Tb	Terbium	1842	
+镝	鏑	鏑	66	Dy	Dysprosium	1886	
+钬	鈥	鈥	67	Ho	Holmium	1878	
+铒	鉺	鉺	68	Er	Erbium	1842	
+铥	銩	銩	69	Tm	Thulium	1879	
+镱	鐿	鐿	70	Yb	Ytterbium	1878	
+镥	鑥	鎦	71	Lu	Lutetium	1906	镏与硫同音，1955年将镏改为镥
+铪	鉿	鉿	72	Hf	Hafnium	1911	
+钽	鉭	鉭	73	Ta	Tantalum	1802	
+钨	鎢	鎢	74	W	Tungsten	1781	
+铼	錸	錸	75	Re	Rhenium	1908	
+锇	鋨	鋨	76	Os	Osmium	1803	
+铱	銥	銥	77	Ir	Iridium	1803	
+铂	鉑	鉑	78	Pt	Platinum	1735	
+金	金	金	79	Au	Gold		
+汞	汞	銾	80	Hg	Mercury		
+铊	鉈	鉈	81	Tl	Thallium	1861	
+铅	鉛	鉛	82	Pb	Lead		
+铋	鉍	鉍	83	Bi	Bismuth	约1500	
+钋	釙	釙	84	Po	Polonium	1898	
+砹	砹	砈	85	At	Astatine	1940	*
+氡	氡	氡	86	Rn	Radon	1898	
+钫	鈁	鍅	87	Fr	Francium	1939	*
+镭	鐳	鐳	88	Ra	Radium	1898	
+锕	錒	錒	89	Ac	Actinium	1899	
+钍	釷	釷	90	Th	Thorium	1829	
+镤	鏷	鏷	91	Pa	Protactinium	1913	
+铀	鈾	鈾	92	U	Uranium	1789	
+镎	鎿	錼	93	Np	Neptunium	1940	*
+钚	鈈	鈽	94	Pu	Plutonium	1940	*
+镅	鎇	鋂	95	Am	Americium	1944	*
+锔	鋦	鋦	96	Cm	Curium	1944	
+锫	錇	鉳	97	Bk	Berkelium	1949	*
+锎	鐦	鉲	98	Cf	Californium	1950	*
+锿	鎄	鑀	99	Es	Einsteinium	1952	*
+镄	鐨	鐨	100	Fm	Fermium	1952	
+钔	鍆	鍆	101	Md	Mendelevium	1955	
+锘	鍩	鍩	102	No	Nobelium	1958	
+铹	鐒	鐒	103	Lr	Lawrencium	1961	
+𬬻	鑪	鑪	104	Rf	Rutherfordium	1964	*
+𬭊	𨧀	𨧀	105	Db	Dubnium	1968	*
+𬭳	䤭	𨭎	106	Sg	Seaborgium	1974	*
+𬭛	𨨏	𨨏	107	Bh	Bohrium	1981	
+𬭶	𨭆	𨭆	108	Hs	Hassium	1984	
+鿏	䥑	䥑	109	Mt	Meitnerium	1982	
+𫟼	鐽	鐽	110	Ds	Darmstadtium	1994	
+𬬭	錀	錀	111	Rg	Roentgenium	1994	
+鿔	鎶	鎶	112	Cn	Copernicium	1996	
+鿭	鉨	鉨	113	Nh	Nihonium	2004	
+𫓧	鈇	鈇	114	Fl	Flerovium	1999	
+镆	鏌	鏌	115	Mc	Moscovium	2003	
+𫟷	鉝	鉝	116	Lv	Livermorium	2000	
+鿬	鿬	鿬	117	Ts	Tennessine	2009	
+鿫	鿫	鿫	118	Og	Oganesson	2002	
