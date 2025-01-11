@@ -1,0 +1,41 @@
+# 幽灵汉字（ghost characters）
+# 指的来源不明、实际中没用，主要是人为错误而被纳入字符集的汉字，起源自日语；广义可包括一些自创字、讹写。
+# 资料：
+# https://zh.wikipedia.org/wiki/中日韓統一表意文字
+# https://www.wdic.org/w/WDIC/幽霊文字
+# https://ja.wikipedia.org/wiki/幽霊文字
+# https://www.dampfkraft.com/ghost-characters.html
+# https://tieba.baidu.com/p/7325497921 幽灵汉字「彁」的前世今生
+#
+# 其他：⿺走袁	𧽚
+
+妛
+挧
+暃
+椦
+槞
+蟐
+袮
+閠
+駲
+墸
+壥
+彁
+垈
+垉
+岾
+恷
+橸
+汢
+熕
+碵
+穃
+粐
+粭
+粫
+糘
+膤
+軅
+鍄
+靹
+鵈

@@ -1,0 +1,35 @@
+# 淘汰的计量用字表
+# 主要来自《部分计量单位名称统一用字表》（1977年）
+#
+# 旧计量用字	现译名	外文名称	备注
+
+浬	海里	nautical mile	三级字
+哩	英里	mile	一级字
+㖊	英寻	fathom	
+浔	英寻	fathom	二级字
+呎	英尺	foot	
+吋	英寸	inch	
+𠺖	英亩	acre	
+𭈈	英亩	acre	
+竔	升	litre	
+嘝	蒲式耳	bushel	
+呏	加仑	gallon	
+嗧	加仑	gallon	
+𠵆	英担	hundredweight	
+𠰴	英石	stone	
+唡	盎司	ounce	
+喱	格令	grain	二级字
+瓩	千瓦	kilowatt	
+乇	托	torr	
+㕫	方	phon	
+𠳼	宋	sone	
+𠸍	美	mel	
+𥿝	旦	denier	
+⿰纟太	特	tex	
+兛	千克	kilogram	补充
+兡	百克		补充
+兙	十克		补充
+兝	分克		补充
+兣	厘克		补充
+兞	毫克		补充
+糎	厘米	centimeter	补充
