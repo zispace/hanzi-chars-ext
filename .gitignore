@@ -8,3 +8,6 @@
 *.csv
 *.tsv
 *.pdf
+
+todo/
+temp/

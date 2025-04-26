@@ -1,6 +1,7 @@
 # 非规范字的二简字
 # 《第二次汉字简化方案（草案）》1977年
 # https://zh.wikisource.org/wiki/第二次汉字简化方案（草案）
+# https://www.babelstone.co.uk/Fonts/Erjian.html
 # 【※】中表示规范字列中有非规范汉字；【*】表示词语。
 # 
 # 二简字	规范字	备注
