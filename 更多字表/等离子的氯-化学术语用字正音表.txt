@@ -1,0 +1,318 @@
+# 化学术语用字正音表
+# 百度化学吧-等离子的氯, 化学术语用字正音表.pdf, https://tieba.baidu.com/p/2586394220	
+#
+# 说明：
+# - 修正可类推简化字（和文档内显示一致）：鈇-𫓧、鉝-𫟷、錀-𬬭、鎶-鿔、鑪-𬬻、䥑-鿏、𨧀-𬭊、𨨏-𬭛、𨭆-𬭶、𨭎-𬭳
+# - 化学元素新增4项：鿭镆鿬鿫
+#
+# 字段说明：
+# “字表序号”序号来自《通用规范汉字表》（2013年6月），※表示表外字。
+# “分组”字段：
+# - 元素：元素名称（原114字，新增4字）
+# - 旧元：元素的非规范翻译（30字）
+# - 象形：象形字（2字）
+# - 会意：会意字（6字）
+# - 反切：反切字（6字）
+# - 有机：有机物（80字，其中草字头20字，口字旁28字，肉月旁20字，酉字旁12字）
+# - 类金：类金属离子（7字）
+# - 气体：气字头的气体（2字）
+# - 化合：化合物命名用字（9字）
+# - 化物：化学物质命名用字（12字）
+# - 非化：非化学物质用字（11字）
+# - 多音：多音字辨析（2字）
+# - 其他：其他已经淘汰的字（4字）
+#
+# 化学用字	拼音	字表序号	英文名	分组	词语	备注
+
+吖	ā	6532		有机	～啶 / ～嗪	
+锕	ā	5190	actinium(Ac)	元素		
+锿	āi	7684	einsteinium(Es)	元素		
+砹	ài	4474	astatine(At)	元素		
+鑀	ài	※	einsteinium / ionium	旧元		（锿·台湾地区用法/钍）
+氨	ān	1937	ammonia	气体		
+铵	ǎn	4886	ammonium	类金		
+胺	àn	4597	amine	有机		
+薁	ào	7756	azulene	有机		
+鿫	ào	※	Oganesson(Og)	元素		新增
+鐭	ào	※	osmium	旧元		（锇）
+钯	bǎ	4246	palladium(Pd)	元素		
+鉳	běi	※	berkelium	旧元		（锫·台湾地区用法）
+钡	bèi	4241	barium(Ba)	元素		
+焙	bèi	5274	bake	非化	～烧	
+鋍	bèi	※	beryllium	旧元		（铍）
+苯	běn	3855	benzene	有机		
+芘	bǐ	6573	pyrene	有机		
+吡	bǐ	3705		有机	～啶 / ～嗪 / ～咯 / ～喃	
+铋	bì	4543	bismuth(Bi)	元素		
+苄	biàn	3675	benzyl	有机		
+钵	bō	4530		非化	烤～ / 研～	
+{⿰钅玻}	bō	※	niesbohrium(Ns)	旧元		（𬭊）
+𬭛	bō	7537	bohrium(Bh)	元素		
+铂	bó	4537	platinum(Pt)	元素		
+卟	bǔ	3538		有机	～吩 / ～啉	
+钚	bù	4239	plutonium(Pu)	元素		
+钸	bù	※	plutonium	旧元		（钚·台湾地区用法）
+曾	céng	2747		化物	～青	
+澄	chéng	3299		多音	[形容词] ～清 / ～清点	
+匙	chí	2259	spoon	非化	燃烧～ / 药～	
+重	chóng	1552	double, di-; re-	多音	～氮基 / ～铬酸 / ～过磷酸钙 / ～结晶 / ～排	
+氚	chuān	3726	tritium	会意		
+醇	chún	3223	alcohol	有机		
+哒	dā	6827		有机	～嗪	
+打	dá	196		化物	苏～	
+𫟼	dá	7180	darmstadtium(Ds)	元素		
+甙	dài	※	glucoside	其他		（苷）
+氮	dàn	2671	nitrogen(N)	元素		
+氘	dāo	3599	deuterium	会意		
+锝	dé	5485	technetium(Tc)	元素		
+澄	dèng	3299		多音	[动词] ～清 / ～清器	
+镝	dī	6117	dysprosium(Dy)	元素		
+茋	dǐ	6659	stilbene	有机		
+釱	dì	※	yttrium	旧元		（钇）
+碲	dì	5679	tellurium(Te)	元素		
+碘	diǎn	2877	iodine(I)	元素		
+淀	diàn	2431		化物	～粉	
+啶	ding	4850		有机		
+铥	diū	7185	thulium(Tm)	元素		
+氡	dōng	4247	radon(Rn)	元素		
+胨	dòng	4279	peptone	有机		
+鋀	dòu	※	thorium	旧元		（钍）
+𬭊	dù	7375	dubnium(Db)	元素		
+哚	duǒ	4223		有机		
+锇	é	5184	osmium(Os)	元素		
+苊	è	6571	acenaphthene	有机		
+砈	è	※	astatine	旧元		（砹·台湾地区用法）
+噁	è	7519		有机	～嗪 / ～唑 / 二～英	
+蒽	ēn	5375	anthracene	有机		
+铒	ěr	4866	erbium(Er)	元素		
+鍅	fǎ	※	francium	旧元		（钫·台湾地区用法）
+钒	fán	3942	vanadium(V)	元素		
+钫	fāng	4245	francium(Fr)	元素		
+菲	fēi	2202	phenanthrene	有机		
+镄	fèi	7686	fermium(Fm)	元素		
+吩	fēn	0741		有机		
+氛	fēn	1124	atmosphere	非化	离子～	
+酚	fēn	4787	phenol	有机		
+砜	fēng	4170	sulfone	化合		
+呋	fū	3698		有机	～喃	
+𫓧	fū	6844	flerovium(Fl)	元素		
+氟	fú	4248	fluorine(F)	元素		
+砩	fú	※		其他	～石	（氟石）
+钆	gá	6536	gadolinium(Gd)	元素		
+钙	gài	1525	calcium(Ca)	元素		
+苷	gān	3854	glycoside	化合		
+酐	gān	4469	anhydride	有机		
+凎	gàn	※	alkoxide	化物		
+锆	gào	5183	zirconium(Zr)	元素		
+鿔	gē	※	copernicium(Cn)	元素		
+镉	gé	5947	cadmium(Cd)	元素		
+铬	gè	4880	chromium(Cr)	元素		
+汞	gǒng	0628	mercury(Hg)	元素		
+澒	gǒng	※	mercury	旧元		（汞）
+咕	gū	1083		有机	～啉	
+钴	gǔ	4529	cobalt(Co)	元素		
+胍	guā	4284	guanidine	有机		
+硅	guī	2240	silicon(Si)	元素		
+癸	guǐ	1748	dec-	化合	～烷	
+铪	hā	4878	hafnium(Hf)	元素		
+{⿰钅哈}	hā	※	hahnium(Ha)	旧元		（𬭊）
+胲	hǎi	7032	hydroxylamine	有机		
+氦	hài	4550	helium(He)	元素		
+{⿰钅罕}	hǎn	※	hahnium(Ha)	旧元		（𬭊）
+𬭶	hēi	7939	hassium(Hs)	元素		
+磺	huáng	※	sulfur	化合		
+泋	huì	※	oxonium	其他		（水合氢离子）
+钬	huǒ	6850	holmium(Ho)	元素		
+镓	jiā	5952	gallium(Ga)	元素		
+钾	jiǎ	1931	potassium(K)	元素		
+硷	jiǎn	※	alkali	其他		（碱）
+碱	jiǎn	3091	alkali	化合		
+间	jiàn	847	meta-(m-)	化合	～二甲苯	
+酵	jiào	3086		非化	发～	
+金	jīn	1166	gold(Au)	元素		
+腈	jīng	5227	nitrile	有机		
+肼	jǐng	3977	hydrazine	有机		
+锔	jú	5189	curium(Cm)	元素		
+咔	kǎ	3908		有机	～唑	
+胩	kǎ	6869	carbylamine	有机		
+鉲	kǎ	※	californium	旧元		（锎·台湾地区用法）
+锎	kāi	7381	californium(Cf)	元素		
+蒈	kǎi	7308	carane	有机		
+莰	kǎn	6949	camphane	有机		
+鏮	kāng	※	scandium	旧元		（钪）
+钪	kàng	6849	scandium(Sc)	元素		
+氪	kè	4888	krypton(Kr)	元素		
+龲	kù	※	kurchatovium(Ku)	旧元		（𬬻）
+喹	kuí	5132		有机	～啉	
+醌	kūn	5890	quinone	有机		
+铼	lái	5179	rhenium(Re)	元素		
+镧	lán	6249	lanthanum(La)	元素		
+铹	láo	7374	lawrencium(Lr)	元素		
+铑	lǎo	4865	rhodium(Rh)	元素		
+㗊	léi	※	porphine	象形		
+镭	léi	6345	radium(Ra)	元素		
+锂	lǐ	5182	lithium(Li)	元素		
+𫟷	lì	※	livermorium(Lv)	元素		
+钌	liǎo	3723	ruthenium(Ru)	元素		
+啉	lín	4820		有机		
+燐	lín	※	phosphorus	旧元		（“磷”的异体字）
+磷	lín	3398	phosphorus(P)	元素		
+鏻	lín	7943	phosphonium	类金		
+膦	lìn	6137	phosphine	有机		
+呤	lìng	3915		有机		
+硫	liú	2592	sulfur(S)	元素		
+镏	liú	5950	lutetium	旧元		（镥·台湾地区用法）
+锍	liǔ	7380	sulfonium; matte	类金		
+𬬻	lú	7006	rutherfordium(Rf)	元素		
+镥	lǔ	7941	lutetium(Lu)	元素		
+錴	lù	※	rhodium	旧元		（铑）
+铝	lǚ	2305	aluminium(Al)	元素		
+氯	lǜ	2673	chlorine(Cl)	元素		
+𬬭	lún	6848	roentgenium(Rg)	元素		
+咯	luò	4224		有机		
+鎷	mǎ	※	masurium	旧元		（锝）
+鿏	mài	7373	meitnerium(Mt)	元素		
+酶	méi	5673	enzyme	化物		
+镅	méi	7687	americium(Am)	元素		
+鋂	méi	※	americium	旧元		（镅·台湾地区用法）
+镁	měi	5739	magnesium(Mg)	元素		
+钔	mén	6690	mendelevium(Md)	元素		
+锰	měng	2945	manganese(Mn)	元素		
+䓝	mèng	※	menthyl	有机		
+咪	mī	1514		有机	～唑	
+醚	mí	6071	ether	有机		
+脒	mǐ	4596	amidine	有机		
+嘧	mì	5722		有机	～啶	
+镆	mò	7785	Moscovium(Mc)	元素		新增
+钼	mù	4534	molybdenum(Mo)	元素		
+镎	ná	7788	neptunium(Np)	元素		
+哪	nǎ	1515		有机		
+呐	nà	0738		有机		
+钠	nà	1530	sodium(Na)	元素		
+氖	nǎi	3600	neon(Ne)	元素		
+釢	nǎi	※	neodymium	旧元		（钕）
+萘	nài	4750	naphthalene	有机		
+錼	nài	※	neptunium	旧元		（镎·台湾地区用法）
+喃	nán	5130		有机		
+氝	nèi	※	neon	旧元		（氖）
+铌	ní	4544	niobium(Nb)	元素		
+鿭	nǐ	※	Nihonium(Nh)	元素		新增
+脲	niào	4923	urea	有机		
+镍	niè	5949	nickel(Ni)	元素		
+苧	níng	6660	limonene	有机		
+钕	nǚ	3943	neodymium(Nd)	元素		
+锘	nuò	7530	nobelium(No)	元素		
+哌	pài	4221		有机	～啶 / ～嗪	
+𠸁	pài	※		有机		（哌）
+锫	péi	7535	berkelium(Bk)	元素		
+硼	péng	5433	boron(B)	元素		
+砒	pī	4167	arsenic	化物		
+铍	pí	4545	beryllium(Be)	元素		
+苉	pǐ	6572	picene	有机		
+𠯯	piàn	※		有机	～呐醇	（频哪醇）
+嘌	piào	5697		有机	～呤	
+氕	piē	6511	protium	会意		
+钋	pō	3722	polonium(Po)	元素		
+钷	pǒ	7005	promethium(Pm)	元素		
+镤	pú	7938	protactinium(Pa)	元素		
+镨	pǔ	7942	praseodymium(Pr)	元素		
+齐	qí	518		化物	(旧读 jì) 汞～	
+芑	qǐ	3582	1,3-cyclohexadiene	有机		
+铅	qiān	1934	lead(Pb)	元素		
+茜	qiàn	4108	Indian madder	化物	～素	
+锖	qiāng	7528		非化	～色	
+镪	qiāng	6251	strong acid	化物		
+羟	qiǎng	4952	hydroxyl	反切		
+嗪	qín	5432		有机		
+氢	qīng	1542	hydrogen(H)	元素		
+氰	qíng	5193	cyanogen	气体		
+巯	qiú	5323	hydrosulfuryl	反切		
+䓛	qū	7134	chrysene	有机		
+醛	quán	6068	aldehyde	有机		
+炔	quē	4008	alkyne	会意		
+铷	rú	4887	rubidium(Rb)	元素		
+朊	ruǎn	※	protein	有机		（蛋白质）
+脎	sà	7030	osazone	有机		
+噻	sāi	6107		有机	～啶 / ～吩 / ～嗪 / ～唑	
+色	sè	509	color	非化	褪～	
+铯	sè	4882	caesium(Cs)	元素		
+色	shǎi	509	color	非化	[口语] 褪～	
+钐	shān	6689	samarium(Sm)	元素		
+砷	shēn	4477	arsenic(As)	元素		
+鉮	shén	7007	arsonium	类金		
+胂	shèn	4282	arsine	有机		
+胜	shēng	1594	peptide	有机		（肽）
+䏡	shì	6865	proteose	有机		（朊间质）
+铈	shì	4540	cerium(Ce)	元素		
+锶	sī	5735	strontium(Sr)	元素		
+塑	sù	3001		化物	～料	
+酸	suān	3089	acid	化合		
+羧	suō	5555	carboxyl	反切		
+铊	tā	4542	thallium(Tl)	元素		
+鎝	tǎ	7678	technetium	旧元		（锝·台湾地区用法）
+肽	tài	3979	peptide	有机		
+钛	tài	4240	titanium(Ti)	元素		
+酞	tài	4786	phthalein	有机		
+钽	tǎn	4533	tantalum(Ta)	元素		
+碳	tàn	3092	carbon(C)	元素		
+羰	tāng	5988	carbonyl	反切		
+醣	táng	※	carbohydrate	有机		（糖类）
+铽	tè	7376	terbium(Tb)	元素		
+䏲	tī	7213	stibonium	有机		
+锑	tī	5187	antimony(Sb)	元素		
+鿬	tián	※	Tennessine(Ts)	元素		新增
+萜	tiē	4754	terpene	有机		
+铁	tiě	1932	iron(Fe)	元素		
+烃	tīng	4330	hydrocarbon	反切		
+铜	tóng	2306	copper(Cu)	元素		
+酮	tóng	5412	ketone	有机		
+钍	tǔ	3939	thorium(Th)	元素		
+烷	wán	4961	alkane	会意		
+鎓	wēng	7789	onium	类金		
+肟	wò	3742	oxime	有机		
+芴	wù	6574	fluorene	有机		
+钨	wū	4244	tungsten(W)	元素		
+矽	xī	※	silicon	旧元		（硅·台湾地区用法）
+硒	xī	4791	selenium(Se)	元素		
+釸	xī	※	silicon	旧元		（硅）
+烯	xī	4957	alkene	会意		
+锡	xī	2938	tin(Sn)	元素		
+醯	xī	6376	anilide	有机		
+鎴	xí	※	strontium	旧元		（锶）
+𬭳	xǐ	7937	seaborgium(Sg)	元素		
+氙	xiān	3725	xenon(Xe)	元素		
+酰	xiān	5413	acyl	有机		
+霰	xiàn	6425		化物	～石	
+硝	xiāo	2590	nitre	化合		
+缬	xié	6021		化物	～氨酸	
+锌	xīn	2665	zinc(Zn)	元素		
+溴	xiù	5579	bromine(Br)	元素		
+醑	xǔ	7848	spirit	非化	～剂	
+旋	xuán	2393	rotate	非化	～光性	
+亚	yà	373		化合	～硝酸钠	
+氩	yà	4548	argon(Ar)	元素		
+铔	yà	※	ammonium	类金		
+烊	yáng	4640	fuse; molten	非化		
+𨦡	yáng	※	oxonium	类金		
+氧	yǎng	1936	oxygen(O)	元素		
+釶	yě	※	yttrium	旧元		（钇）
+铱	yī	4884	iridium(Ir)	元素		
+钇	yǐ	3597	yttrium(Y)	元素		
+鉯	yǐ	※	illinium	旧元		（钷）
+镱	yì	8004	ytterbium(Yb)	元素		
+铟	yīn	4869	indium(In)	元素		
+银	yín	2309	silver(Ag)	元素		
+吲	yǐn	3711		有机	～哚 / ～唑	
+茚	yìn	3866	indene	有机		
+𦎓	yōu	※	thiocarbonyl	反切		
+铀	yóu	4536	uranium(U)	元素		
+铕	yǒu	7179	europium(Eu)	元素		
+甾	zāi	4083	steroid	象形		
+甑	zèng	6169		非化	曲颈～	
+锗	zhě	5482	germanium(Ge)	元素		
+脂	zhī	1995	fat	有机		
+酯	zhǐ	5414	ester	有机		
+重	zhòng	1552	heavy	多音	～晶石 / ～水	
+䓬	zhuó	7126	tropylium	有机		
+腙	zōng	7403	hydrazone	有机		
+唑	zuò	4519		有机		
