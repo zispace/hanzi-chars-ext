@@ -1,5 +1,5 @@
 # 方正繁简字表
-# 共9664字（含繁体2241字）
+# 共9664字（含繁体共2241字，简体等字共7423字。）
 # https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/fangzheng_jianfan.txt
 #
 #汉字	Unicode	繁体
