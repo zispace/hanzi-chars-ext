@@ -1,0 +1,15 @@
+# https://github.com/3type/glyphs-han/blob/master/Tables/Fundamental%20(Simplified).txt
+# 共12字
+
+今
+国
+意
+我
+永
+然
+警
+转
+酬
+随
+风
+鹰

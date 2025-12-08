@@ -1,0 +1,15 @@
+# https://github.com/3type/glyphs-han/blob/master/Tables/Fundamental%20(Traditional).txt
+# 共12字
+
+東
+国
+三
+力
+今
+書
+鷹
+酬
+鬱
+愛
+袋
+永

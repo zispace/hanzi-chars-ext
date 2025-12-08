@@ -1,5 +1,6 @@
 # https://github.com/3type/glyphs-han/blob/master/Tables/Commonly%20Used%20on%20Internet.txt
- 
+# 共9169字
+
 一
 丁
 七

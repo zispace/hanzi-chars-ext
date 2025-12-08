@@ -2,6 +2,7 @@
 # 汉字共1440个
 # （1246个书报刊上的常用字、154个社会生活常用字以及40个构字能力强的补充字）
 # 来自：【法国】安雄（Bernard Allanic, 2007）《补充对外汉语教学大纲的空白：〈一级阅读字表〉及说明》（« The" Missing link" in the Teaching of Chinese Characters as a Foreign Language »）
+# https://web.archive.org/web/20071125121200/http://www.fask.uni-mainz.de/inst/chinesisch/hanzirenzhi_papers_allanic.htm
 
 阿
 啊

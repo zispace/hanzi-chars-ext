@@ -1,4 +1,5 @@
 # https://github.com/3type/glyphs-han/blob/master/Tables/Undecomposable.txt
+# 共318字
 
 一
 丁
