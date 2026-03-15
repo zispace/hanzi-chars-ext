@@ -46,7 +46,7 @@
 铋	bì	4543	bismuth(Bi)	元素		
 苄	biàn	3675	benzyl	有机		
 钵	bō	4530		非化	烤～ / 研～	
-{⿰钅玻}	bō	※	niesbohrium(Ns)	旧元		（𬭊）
+𳇮	bō	※	niesbohrium(Ns)	旧元		（𬭊）
 𬭛	bō	7537	bohrium(Bh)	元素		
 铂	bó	4537	platinum(Pt)	元素		
 卟	bǔ	3538		有机	～吩 / ～啉	
@@ -118,7 +118,7 @@
 {⿰钅哈}	hā	※	hahnium(Ha)	旧元		（𬭊）
 胲	hǎi	7032	hydroxylamine	有机		
 氦	hài	4550	helium(He)	元素		
-{⿰钅罕}	hǎn	※	hahnium(Ha)	旧元		（𬭊）
+𰾉	hǎn	※	hahnium(Ha)	旧元		（𬭊）
 𬭶	hēi	7939	hassium(Hs)	元素		
 磺	huáng	※	sulfur	化合		
 泋	huì	※	oxonium	其他		（水合氢离子）
