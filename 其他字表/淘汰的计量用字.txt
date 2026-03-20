@@ -25,7 +25,7 @@
 𠳼	宋	sone	
 𠸍	美	mel	
 𥿝	旦	denier	
-⿰纟太	特	tex	
+𲸰	特	tex	
 兛	千克	kilogram	补充
 兡	百克		补充
 兙	十克		补充
