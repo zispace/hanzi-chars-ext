@@ -1,0 +1,3191 @@
+# 常用标准汉喃字表（2023年版）表2
+# 作者：汉喃研究与应用协会（原名：越南汉喃复兴委员会）
+# http://www.hannom-rcv.org/NS/bchnctd%20150123.pdf
+# 表2共2934字（表1分6级共3987字，两表合计6921字）
+#
+# 𡨸漢喃	音讀	譬喻	𥱬註
+
+啞	Á	啞口 á khẩu	
+啞	á	啞𤴬 á đau	
+啞	ớ	𤋾啞 ấm ớ	
+噁	ạc	𠿮噁 ậm ạc	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+呃	ách	嚶呃 anh ách [聲]	
+呃	nhách	𦂄呃 dai nhách · 浪呃 lãng nhách	
+阨	ÁCH	阨塞 ách tắc	
+軛	ÁCH	軛𤛠 ách trâu · 軛奴隸 ách nô lệ	
+伌	ạch	𥑴伌 ì ạch · 𤃝伌 lạch ạch	
+隘	ẢI	隘關 ải quan · 苦隘 khổ ải · 隘支棱 Ải Chi Lăng	
+膉	ải	𥶁膉 lạt ải · 繩膉 thừng ải · 𤇨朱膉𡐙 phơi cho ải đất	
+縊	ẢI	縊殺 ải sát · 自縊 tự ải	
+曖	áy	曖𢖱 áy náy [𠸨] · 𦹯曖𣈖斜 cỏ áy bóng tà	
+庵	AM	丐庵 cái am	
+𩹎	ám	𥺊𩹎 cháo ám	
+撖	ẵm	撖嬖 ẵm bế · 撖捧 ẵm bồng	
+𤀔	ẩm	𤀔㲸 ẩm ướt · 曀𤀔 ế ẩm [𠸨] · 𤀔濕 ẩm thấp · 𤷴𤀔 ê ẩm	
+𠿮	ậm	𠿮噁 ậm ạc	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+坱	ang	丐坱 cái ang	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+𣺻	ăng	𣺻乙 ăng ắc · 𣺻𣺻 ăng ẳng [聲]	
+𠹃	ắng	唵𠹃 im ắng	
+愥	ảnh		⇔ 英𧘇 anh ấy
+坳	ao	坳潭 ao đầm	
+懊	ẢO	懊惱 ảo não	
+奧	áo	共和奧 Cộng hoà Áo	
+𨁲	ập	𨁲𦤾 ập đến	
+遏	át	𢭹遏 lấn át · 㲸遏 ướt át · 𡥵遏主 con át chủ [摱]	
+𢖮	ắt	𢖮沛 ắt phải · 𢖮羅 ắt là	
+乙	ẤT	乙丑 Ất Sửu · 乙卯 Ất Mão	
+乙	ắc	𣺻乙 ăng ắc · 𣹓乙 đầy ắc	
+毆	ẨU	毆打 ẩu đả	
+𬏠	ẩu	𬏠𪭥 ẩu tả	
+妑	bả		⇔ 婆𧘇 bà ấy
+𩚥	bả	𩚥𤝞 bả chuột · 打𩚥 đánh bả	
+𩚥	bá	把𦠘 bá vai	
+把	bả	倴把 bươn bả · 把𦠘 bả vai · 𠬠把穭 một bả lúa	
+噃	bá	嗏噃 chà bá [嘆]	
+𢗌	bạ	𫌶𢗌 bậy bạ	
+搏	BÁC	搏鬥 bác đấu	
+煿	bác	煿𠨡 bác trứng	
+苝	bấc	𣘃苝 cây bấc · 𥾘苝 sợi bấc · 珥如苝 nhẹ như bấc · 㗂苝㗂鈘 tiếng bấc tiếng chì	
+𢴾	bai	吱𢴾 chê bai · 𢯏𢴾 bẻ bai	
+俳	BÀI	俳句 bài cú	
+𨭍	bay	丐𨭍 cái bay	
+㔥（㔥󠄁）	bẩy	㔥𬨠 bẩy lên · 杶㔥 đòn bẩy · 𢭻㔥 xúi bẩy · 憞𪭼㔥 run lẩy bẩy	
+𫌶	bậy	𫌶𢗌 bậy bạ	
+𨥧	băm	𨥧捕 bãm bổ · 𨥧𬚸 băm thịt · 𨥧釩 bãm vằm · 郎𨥧 lang băm	
+𠹰	bặm	𠹰腜 bặm môi · 𡏧𠹰 bụi bặm [𠸨] · 𠹰 𥉲 bặm trợn	
+𢶸	bấm	𢶸至 bấm chí · 𢶸䏾 bấm bụng	
+𦡣	bầm	𦻳𦡣 tím bầm · 𦡣𣎖 bầm giập	
+𦡣	vạm	𦡣𥒮 vạm vỡ	
+𫲃󠄁	bầm	𫲃󠄁𠚢𬏇𥝽𫲃󠄁憞 bầm ra ruộng cấy bầm run	
+偘	bẫm	脯偘 bụ bẫm · 朱𤛠咹偘 cho trâu ăn bẫm · 𫼻得𦁺偘 vớ được món bẫm	
+癍	BAN	焠發癍 sốt phát ban	
+𦁂	bấn	慫𦁂 túng bấn	
+貧	BẦN	貧農 bần nông · 貧窮 bần cùng	
+𢠈	bần	𢠈神 bần thần	
+鎊	BẢNG	鎊英 bảng Anh	
+䅭	báng	𣘃䅭 cây báng · 勃䅭 bột báng · 䅭銃 báng súng	
+謗	BÁNG	誹謗 phỉ báng	
+𤹔	báng	𤹔渃 báng nước	
+枋	bàng	𣘃枋 cây bàng	
+䄱	bàng	𦹯䄱 cỏ bàng · 𧄑䄱 cói bàng	
+蚌	BẠNG	蚌鷸 bạng duật	
+𠶉	bẵng	𠬃𠶉 bỏ bẵng · 悁𠶉𠫾 quȇ n bẵng đi	
+炳	bảnh	炳包 bảnh bao [𠸨]	
+褒	BAO	褒貶 bao biếm	
+泡	BÀO	泡影 bào ảnh	
+飽	BÃO	飽和 bão hoà	
+乏	bấp	乏𦛼 bấp bênh	
+潗	bập	潗𠹯 bập bẹ · 吶𤇥潗 nói lập bập	
+𦪑	bát	𢭄𦪑 cạy bát	
+紱	bạt	紱𩂏 bạt che [摱] · 茹紱 nhà bạt [摱] ·寮紱 lều bạt [摱] · 𡲫紱 vải bạt [摱]	
+跋	BẠT	跋涉 bạt thiệp · 𠳒跋 lời bạt	
+鈸	bạt	鐃鈸 nạo bạt · 銅鈸 đồng bạt [摱]	
+匐	bặt	唵匐 im bặt	
+垉	bàu	垉蓮 bàu sen · 恅垉 làu bàu [𠸨]	
+裒	bâu	裒𠓨 bâu vào · 裒襖 bâu áo	
+裒	bu		⇔ 裒 bâu
+㨐	bấu	㨐至 bấu chí · 㨐㧼 bấu véo · 㨐𬗠 bấu víu	
+𨼚	be	𦩰𨼚近𤅶 xuồng be gần bến	
+𫮦	be	𫮦坡 be bờ	
+𢯏	bẻ	𢯏對 bẻ đôi · 扒𢯏 bắt bẻ	
+𢜢	bẽ	𢜢㥬 bẽ bàng	
+梐	bẹ	梐荎 bẹ chuối · 梐椰 bẹ dừa	
+𠹯	bẹ	潗𠹯 bập bẹ	
+𤚆	bê	𡥵𤚆 con bê	
+𣷭	bể	底𣷭 đáy bể	
+𥓳	bể	丐鉢被𥓳耒 cái bát bị bể rồi	
+桮	bễ	𠺙桮 thổi bễ · 䈵桮 ống bễ · 浖桮 thụt bễ	
+薜	BỆ	薜荔 bệ lệ	
+咟	béc	咟噴 béc phun · 咟支 béc-giê [摱]	
+胉	bệch	𤽸胉 trắng bệch	
+𠷨	bẻm	𠷨𠵐 bẻm mép	
+䡢	ben	車䡢 xe ben · 車載䡢 xe tải ben	
+𤶒󠄁（𤶒）	ben	𫉱𤶒󠄁 lang ben	
+抃	bện	抃𥿣 bện chão	
+鋲	beng	杈鋲 xà beng	
+泙	bềnh	泠泙 lềnh bềnh	
+𧴋	beo	𤜯𧴋 cọp beo · 𦝂𧴋 đít beo · 𧴋𦖻 beo tai	
+脿	béo	脿𦡡 béo ngậy	
+䕯	bèo	蘿䕯 lá bèo · 䕯蕘 bèo nhèo [𠸨] · 餅䕯 bánh bèo	
+殍	bẽo	薄殍 bạc bẽo[𠸨]	
+𠻅	bẹp	碮𠻅 đè bẹp · 㑲𠻅 nằm bẹp · 𠻅拰 bẹp dúm	
+𥇂	bét	𥇂眜 bét mắt · 項𥇂 hạng bét · 捏𥇂 nát bét · 𠾦𥇂 be bét [𠸨]	
+𫊽	bét	蟡𫊽 ve bét	
+𡌀	bết	𡌀潑 bết bát [𠸨] · 𨀺𡌀 lết bết · 𠶎𡌀 bê bết	
+𡋾	bệt	𡎦𡋾 ngồi bệt · 咧𡋾 lệt bệt · 咖啡𡋾 cà phê bệt	
+苾	bí	果苾 quả bí	
+𠸠󠄁（𠸠）	bí	𠸠󠄁甫 bí bo [聲]	
+俖	bĩ	俖㥬 bĩ bàng	
+柀	bìa	柀冊 bìa sách · 柀𡹃 bìa rừng	
+詖	bịa	詖撻 bịa đặt	
+甓	bịch	甓𥟉 bịch thóc · 甓𥼱 bịch kẹo · 䈬甓 bồ bịch	
+礔	bịch	礔𦙏 bịch ngực · 𠐔礔 lố bịch · 砰礔 bình bịch [聲] · 𬦮礔𠬠丐 nhảy bịch một cái	
+貶	BIẾM	褒貶 bao biếm · 貶畫 biếm hoạ · 針貶 châm biếm	
+洴	biền	𣵮洴 bưng biền	
+駢	biền	駢別 biền biệt	
+諘	biểu	𠲖𪀊徠低諘！ Ê cu lại đây biểu! · 僶其、𠚢低𠋺諘！ Thằng kia, ra đây tao biểu!	
+𠍥	bỉm	丐𠍥 cái bỉm · 𠍥𠫾 bỉm đi	
+砭	bìm	砭䒦 bìm bịp	
+汴	bin	汴𠲅 bin (pin) sạc [摱]	
+𠯴	bịn	𠯴𠱉 bịn rịn [𠸨]	
+秉	bỉnh	嗙秉 bướng bỉnh [𠸨]	
+丙	BÍNH	丙子 Bính Tí · 丙寅 Bính Dần	
+砰	bình	砰礔 bình bịch [聲]	
+胼	bĩnh	匏胼 bầu bĩnh · 破胼 phá bĩnh	
+䒦	bịp	砭䒦 bìm bịp	
+莂	bịt	莂𦖻 bịt tai · 莂𩈘 bịt mặt · 莂𤿰 bịt trống · 𪖫箭莂鉄 mũi tên bịt sắt	
+瓢	bìu	瓢𢬢 bìu díu · 瓢𬃻 bìu dái	
+褓	bịu	𠬠褓裙襖 một bịu quần áo · 泮褓 bận bịu [𠸨]	
+逋	bo	𭊫逋 ki bo  · 𡨺逋逋 giữ bo bo	
+鯆	bò	𩵜鯆 cá bò	
+𡀨	bõ	拯𡀨 chẳng bõ	
+㗘	bô	吶㗘㗘 nói bô bô [聲]	
+𠴙	bở	𧃷𠴙 khoai bở · 想𠴙 tưởng bở · 𫼻𠴙 vớ bở	
+𡃓	bớ	扒𡃓 bắt bớ [𠸨]	
+𠳝	bỡ	𠳝𢣸 bỡ ngỡ	
+卜	BỐC	占卜 chiêm bốc	
+𢱎	bời	𦇒𢱎 rối bời · 𨔈𢱎 chơi bời	
+渀	bõm	皮渀 bì bõm [聲] · 𡔑渀 lõm bõm	
+泵	bơm	丐泵 cái bơm [摱] · 泵渃 bơm nước [摱]	
+𣭛	bờm	𣭛馭 bờm ngựa · 𣭛𬇁 bờm xơm · 僶𣭛 thằng bờm	
+姂	bợm	𧦟姂 bịp bợm · 姂𫅷 bợm già · 姂𠻼 bợm nhậu	
+𤵳	bón	燥𤵳 táo bón	
+𪝕	bòn	𪝕捽 bòn rút · 𪝕㩢 bòn mót	
+坌	bộn	坌皮 bộn bề [𠸨]	
+𩺡	bơn	鱓𩺡 thờn bơn	
+𢸚	bong	𢸚筋 bong gân · 𢸚𧿀 bong tróc · 𤽸𢸚 trắng bong	
+槰	bòng	𣘃槰 cây bòng · 果槰 quả bòng	
+䙜	bòng	𭢌䙜 đèo bòng · 𫼳䙜𠫾塘 mang bòng đi đường · 摱丐包䙜勃 mượn cái bao bòng bột	
+𩸮	bống	𩵜𩸮 cá bống	
+捧	bồng	捧嬖 bồng bế	
+蓬	BỒNG	蓬萊 bồng lai	
+𠷕	boong	𠷕𠷕 boong boong [聲] · 丐𠷕 cái boong [摱]	
+䑺	boong	䑺艚 boong tàu [摱]	
+抸	bốp	𠰏抸 bôm bốp	
+𠶙	bộp	𠶙摯 bộp chộp	
+渤	bọt	渃渤 nước bọt · 䕯渤 bèo bọt · 渤㳥 bọt sóng	
+𥩾	bốt	𥩾挌 bốt gác [摱] · 𥩾警察 bốt cảnh sát [摱]	
+𩋚	bốt	𩋚膏蒭 bốt cao-su [摱] · 蹎𠫾對𩋚𤽸 chân đi đôi bốt trắng [摱]	
+𤴭	bớt	𤴭青 bớt xanh	
+𡜵	bu	𡜵㗒 bu ơi	
+䈻	bu	丐䈻抵𡳝𪃿 cái bu để rốt gà	
+咘	bú	咘𣼺 bú mớm	
+脯	bụ	脯偘 bụ bẫm · 𦙶𢬣㛪𡮣脯 cổ tay em bé bụ	
+𫫢	bự	𫫢哃 bự đùng · 𫰅𫫢 to bự · 翁𫫢 ông bự · 𦙶𫫢𦛋 cổ bự ghét · 𩈘𫫢粉 mặt bự phấn · 𬃻𦹳𫫢 trái thơm bự	
+䋠	bủa	䋠䋥 bủa lưới · 䋠圍 bủa vây	
+𭎟	bựa	𭎟𩚵 bựa cơm · 𭎟𪘵 bựa răng	
+㯷	bục	㯷講 bục giảng · 磟㯷 lục bục	
+𠸟	bui	𠸟固𠬠𢚸忠悋孝 bui có một lòng trung lẫn hiếu	
+筫	búi	筫𦹯 búi cỏ · 筫𩯀徠 búi tóc lại	
+𣱭	bủm	丐𣱭 cái bủm	
+𡀫	bùm	𡀫 bùm [聲]	
+𡀫	lẩm	𡀫唫 lẩm cẩm · 𡀫稟 lẩm bẩm [𠸨]	
+𠏟	bụm	𠬠𠏟𥽌 một bụm gạo · 𠏟𠰘唭 bụm miệng cười	
+㤓	bủn	㤓𫢗 bủn xỉn · 㤓噋 bủn rủn	
+𥻸	bún	𥻸𦙣 bún mọc	
+𨮇	bung	𨮇衝 bung xung	
+𣵮	bưng	𣵮洴 bưng biền	
+掤	bứng	掤𣘃 bứng cây · 掤𪥘󠄁家庭𠫾𬨠沔𡶀 bứng cả gia đình đi lȇ n miền núi	
+𣞻（𣘓）	bưởi	𣘃𣞻 cây bưởi · 絁𤿭𣞻 the vỏ bưởi	
+𬗄	bươm	襤𬗄 lươm bươm · 𧛊𬗄 rách bươm	
+倴	bươn	倴把 bươn bả · 倴𦃀 bươn chải	
+嗙	bướng	嗙秉 bướng bỉnh [𠸨]	
+𤶽	buốt	洌𤶽 rét buốt · 𤴬𤶽 đau buốt · 𤶽䏧 buốt da	
+蚫	bươu	蚫頭 bươu đầu · 𧎜蚫 ốc bươu	
+𤷶	bướu	丐𤷶 cái bướu · 𤷶𦙶 bướu cổ	
+伓	bứt	伓𢲼 bứt rứt · 伓𩯀 bứt tóc · 伓𦹯憑鐮 bứt cỏ bằng liềm	
+𣘁	CA	𣘁茶 ca trà [摱]	
+蜞	cà	蜞𧋵 cà cuống	
+𡁤	cạc	𡁤𡁤 cạc cạc [聲] · 𡁤𦁸 cạc mạng [摱] · 𡁤幔形 cạc màn hình	
+䏱	cặc	檑䏱𤙭 roi cặc bò	
+䏱	kẹc		⇔ 䏱  cặc
+㘌	cạch	㘌𩈘 cạch mặt · 㘌𦤾𫅷 cạch đến già ·梮㘌 cọc cạch · 𤃝㘌 lạch cạch [聲]	
+街	cai	老街 Lào Cai	𡨸尼得讀如格發音尼只𥪝名詞 𥢆尼。 Chữ này được đọc như cách phát âm này chỉ trong danh từ riêng này.
+掑	cài	掑𨷯 cài cửa · 掑擺 cài bẫy · 掑撻 cài đặt	
+𧉝	cáy	𡥵𧉝 con cáy · 𧍆𧉝 cua cáy · 𩻐𧉝 mắm cáy · 㦉如𧉝 nhát như cáy	
+𢭄	cạy	𢭄𨷯 cạy cửa	
+𢭄	cậy		⇔ 𢭄 cạy
+猉	cầy	𬚸猉 thịt cầy · 猉香 cầy hương · 假猉 giả cầy	
+𪴗	cậy	𣘃𪴗 cây cậy	
+詌	càm	詌諃 càm ràm	
+𣔋	căm	𣔋車踏 căm xe đạp	
+肣	cằm	丐肣 cái cằm · 歛肣 lẹm cằm · 肣𣃱 cằm vuông · 𩯁肣 râu cằm	
+扲	cặm	扲𢷴 cặm cụi · 扲𪲍 cặm nêu	
+噤	câm	噤𠰘 câm miệng · 劇噤 kịch câm · 噤𦖡 câm điếc	
+乾	CÀN	乾坤 càn khôn	
+乾	KIỀN	乾坤 kiền khôn	
+𣷯	cặn	𣷯粑 cặn bã · 𣷯𠴜 cặn kẽ	
+筋	CÂN	筋肉 cân nhục	
+筋	gân	筋骨 gân cốt · 筋槶 gân guốc [𠸨]	
+䌍	cẩn	𣘊物䌍硨磲 đồ vật cẩn xà cừ	
+艮	CẤN	卦艮 quái Cấn	
+泿	cấn	泿渃 cấn nước	
+硍	cấn	硍蹎 cấn chân · 垓硍 gay cấn	
+豤	cấn	𤞼豤 lợn cấn	
+𫆥	cáng	𫆥當 cáng đáng	
+𨀿	cẳng	𨀿蹎 cẳng chân · 𨀿𧦕 cẳng ghế · 𢮩𨀿 𧼋 co cẳng chạy	
+庚	CANH	庚子 Canh Tí · 庚寅 Canh Dần	
+綆	canh	綆絲黹𡲫 canh tơ chỉ vải	
+𥓷	canh	叫𥓷𥓷 kêu canh canh [聲]	
+鐛	cảnh	鐎鐛 cảnh tiu	
+稿	CẢO	稿論 cảo luận  · 稿葬 cảo táng · 遺稿 di cảo · 稿𦹳 cảo thơm	
+縞	CẢO	縞服 cảo phục	
+𠞟	cạo	刀𠞟 dao cạo	
+𫊩	cạp	𧌂𫊩 bọ cạp	
+𠳖	cạp	咜𠳖 xà cạp	
+芨	CẬP	白芨 bạch cập	
+桔	CÁT	桔梗 cát cánh	
+桔	quýt	桔糖 quýt đường	
+𪁄	cắt	𪀄𪁄 chim cắt	
+吃	CẬT	吃力 cật lực	
+吃	khật	吃啹 khật khừ · 吃𢓋 khật khưỡng	
+𦛋	cật	果𦛋 quả cật · 𦛋𥯌 cật tre	
+皋	cau	皋𣮮 cau mày	
+㤧	cáu	㤧噶 cáu gắt	
+垢	cáu	垢𡑪 cáu ghét	
+𧧷	càu	𧧷𦈂 càu nhàu	
+駒	CÂU	𨀒駒 vó câu	
+狗	CẨU	海狗 hải cẩu · 靈狗 linh cẩu	
+枸	CẨU	枸杞 cẩu kỉ	
+苟	CẨU	苟且 cẩu thả	
+𫽚	cẩu	𫽚行 cẩu hàng · 竿𫽚 cần cẩu	
+逅	CẤU	邂逅 giải cấu	
+椇	cọ	𣘃椇 cây cọ	
+𢮭	cọ	𠳚𢮭 cãi cọ · 𢮭嚓 cọ xát	
+賈	CỔ	賈害 cổ hại	
+臌	CỔ	臌脹 cổ trướng	
+𡚝	cồ	大𡚝越 Đại Cồ Việt · 𪀄𪄸𡚝 chim trích cồ	
+鈷	cỗ	鈷炮 cỗ pháo · 鈷排 cỗ bài	
+𩚩	cỗ	鎫𩚩 mâm cỗ · 𩚩𢚸 cỗ lòng · 𩚩盤 cỗ bàn	
+𨍄	cộ	車𨍄 xe cộ	
+𫈅	cóc	果𫈅 quả cóc	
+𧋉	cóc	𡥵𧋉 con cóc	
+梮	cọc	㨂梮 đóng cọc · 撻梮 đặt cọc · 𩲡梮 còi cọc	
+𤭏	cốc	𤭏𠹾𤎏 cốc chịu nóng	
+鵒	cốc	𡥵鵒 con cốc	
+侷	cộc	裙侷 quần cộc · 侷椂 cộc lốc · 侷𣝀 cộc cằn · 𭊛侷 lộc cộc [聲]	
+𢜽	cỏi	勁𢜽 cứng cỏi [𠸨] · 歉𢜽 kém cỏi [𠸨]	
+𧄑	cói	𣘃𧄑 cây cói · 𥴜𧄑 chiếu cói	
+𠎺	côi	單𠎺 đơn côi · 𠎺𠬒 côi cút · 𣳡𠎺 mồ côi	
+臼	cối	臼迆 cối giã	
+𦓊（𦓊󠄁）	cỗi	𣝀𦓊 cằn cỗi	
+𣛣	cơi	𣛣摕 cơi nới · 𣛣茹 cơi nhà · 𣛣撜𦺓 cơi đựng trầu	
+膁	còm	膁𡎝 còm cõi [𠸨]	
+𥺻	cốm	餅𥺻 bánh cốm	
+𥖜	cộm	𪠗𥖜 dày cộm · 礷𥖜 lộm cộm [𠸨] · 浽 𥖜 nổi cộm	
+𣋜	cợm	劇𣋜 kịch cợm	
+䐊	cồn	𥻂憑䐊 dán bằng cồn [摱]	
+醌	cồn	𨢇醌 rượu cồn [摱] · 性醌 tính cồn [摱] · 空固醌 không có cồn [摱]	
+𡑱	cồn	𡑱𡋥 cồn cát · 𡑱𦛌 cồn ruột · 𡑱搞 cồn cào	
+𠲟	cớn	𢏣𠲟 cong cớn	
+𢏣	cong	𢏣𨙍 cong queo · 塘𢏣 đường cong · 𢏣 𠲟 cong cớn	
+𠗸	cóng	冷𠗸 lạnh cóng · 洌𠗸 rét cóng · 𠗸𢬣 cóng tay · 𠗸渃 cóng nước	
+𣌶	còng	𣌶𨉞 còng lưng · 丐𣌶 cái còng · 𣌶𢬣 còng tay	
+𧋄	còng	𡥵𧋄𧋄 con còng còng	
+𮜲	cõng	𮜲僥 cõng nhau · 𮜲𧋻哏𪃿茹 cõng rắn cắn gà nhà	
+𦮎	cọng	𦮎蔞 cọng rau · 𦮎稴 cọng rơm · 𦮎𦹯 cọng cỏ	
+𨫋	cồng	丐𨫋 cái cồng · 㗂𨫋 tiếng cồng · 𨫋𡙴 cồng kềnh [𠸨]	
+秴	cóp	𭊫秴 ki cóp · 秴抇 cóp nhặt · 秴排 cóp bài [摱]	
+秴	cốp	秴車 cốp xe [摱]	
+𠺻	cộp	𡂏𠺻 lộp cộp · 𦖑𠬠㗂𠺻 nghe một tiếng cộp	
+嗗	cót	嗗咭 cót két [聲] · 絏嗗 dây cót [摱]	
+嗗	khụt	嗗喫 khụt khịt	
+𥱪	cót	𥱪穭 cót lúa	
+噘	cọt	噘搩 cọt kẹt [聲]	
+撅	cột	撅馭 cột ngựa	
+榘	củ	榘𧃷 củ khoai	
+岣	cù	岣嶗 cù lao	
+樛	cù	畑樛 đèn cù	
+懼	CỤ	驚懼 kinh cụ	
+据	CƯ	拮据 kiết cư	
+渠	CỪ	渠魁 cừ khôi · 爐渠 lò cừ · 窒渠 rất cừ · 開渠 khai cừ · 渠㨂艚 cừ đóng tàu	
+磲	CỪ	硨磲 xà cừ	
+𬄨	cừ	湧𬄨 dộng cừ · 𬄨坡坳 cừ bờ ao	
+坖	cữ	𠼤坖 kiêng cữ	
+昛	cữ	於昛 ở cữ · 𥝽倲昛 cấy đúng cữ · 昛洌 𡳳𢆥 cữ rét cuối năm	
+巨	CỰ	巨擘 cự phách · 巨富 cự phú	
+𧍆	cua	𡥵𧍆 con cua · 坧𧍆 gạch cua	
+鐻	cứa	割鐻 cắt cứa · 鐻𦙶 cứa cổ	
+鐻	khứa	鐻對 khứa đôi · 鐻𤿭柑 khứa vỏ cam	⇔ 鐻 cứa
+距	cựa	具距 cụ cựa [𠸨] · 距揆 cựa quậy	
+䗇	cúc	𡥵䗇 con cúc	
+鞠	CÚC	鞠躬 cúc cung	
+𨨠	cúc	𨨠襖 cúc áo	
+𣔞	cui	錐𣔞 dùi cui · 𨆢𣔞 lui cui	
+獪（狯）	cúi	𩵜獪 cá cúi	
+㽿	cùi	病㽿 bệnh cùi	
+蒐	cùi	蒐椰 cùi dừa · 蒐𣔟 cùi bắp · 蒐𦙴 cùi chỏ	
+𪇋	cùi	𪀄𪂰𪇋 chim giẻ cùi	
+圚	cũi	丐圚 cái cũi · 圚㹥 cũi chó	
+𢷴	cụi	扲𢷴 cặm cụi · 𥟹𢷴 lụi cụi [𠸨]	
+𦀻	cửi	縸𦀻 mắc cửi	
+檎	cùm	杠檎 gông cùm	
+𪂳	cun	𪂳𪄥 cun cút	
+猑	cún	𡥵猑 con cún	
+裩	cùn	丐裩 cái cùn	
+𨮉	cùn	刀𨮉 dao cùn · 䇛𨮉 chổi cùn · 理事𨮉 lí sự cùn	
+躬	CUNG	鞠躬 cúc cung	
+栱	củng	栱頭 củng đầu	
+硔	cụng	硔頭 cụng đầu · 𤙭硔 bò cụng	
+畺	cưng	畺𡥵 cưng con · 畺朝 cưng chiều	
+钁	cuốc	丐钁 cái cuốc · 钁步 cuốc bộ	
+𪅦	cuốc	𪀄𪅦 chim cuốc	
+腳	CƯỚC	腳蹎 cước chân · 根腳 căn cước · 山腳 sơn cước · 腳費 cước phí	
+𦃁	cước	𡥵𦃁 con cước · 用𦃁𫜵絏竿鉤 dùng cước làm dây cần câu · 𢬣發𦃁 tay phát cước	
+挶	cược	亇挶 cá cược · 撻挶 đặt cược · 挶錢 cược tiền · 挶貝僥 cược với nhau	
+𥖩（𬒊）	cuội	𥒥𥖩 đá cuội · 𠲕𥖩 nhăng cuội · 吶嚉如𥖩 nói dối như cuội	
+玵	cườm	玵𢬣 cườm tay · 籺玵 hạt cườm	
+㤮	cuống	隴㤮 luống cuống	
+𧋵	cuống	蜞𧋵 cà cuống	
+𫈃	cuống	𫈃花 cuống hoa	
+𠚵	cúp	𠚵𩯀 cúp tóc [摱] · 𠚵電 cúp điện [摱] · 𠚵糧 cúp lương [摱]	
+磆	cút	磆𨢇 cút rượu	
+𠬒	cút	𠬒𠫾 cút đi · 𠎺𠬒 côi cút	
+𪄥	cút	𪂳𪄥 cun cút	
+𡭕	cụt	𡭕興 cụt hứng · 𩩫𡭕 xương cụt · 𥣛𡭕 mống cụt	
+𮇕	cứt	𮇕𤛠 cứt trâu · 𮇕𪃿 cứt gà · 𮇕瀻 ứt đái · 𮇕鉄 cứt sắt	
+𤀞	chả	𠋺𤀞別 tau chả biết	
+𪃲	chả	𪀄𪃲 chim chả	
+乍	chạ	終乍 chung chạ · 𨄂乍 lang chạ	
+擢	chạc	咹擢 ăn chạc · 擢錢 chạc tiền · 𨀧擢 chững chạc	
+𫃶	chạc	𫃶𣘃 chạc cây · 絏𫃶 dây chạc	
+𫫊	chách	吶攊𫫊 nói lách chách	
+𦃀	chải	𦃀𩯀 chải tóc · 盤𦃀 bàn chải · 𦃀础 chải chuốt · 倴𦃀 bươn chải · 𥳂𦃀頭 lược chải đầu	
+厔	chái	厔茹 chái nhà · 𡏘厔 hè chái	
+櫅	chay	𣘃櫅 cây chay	
+𩶪	cháy	𩵜𩶪 cá cháy	
+𣖖	chày	琫𣖖 bóng chày · 𠳚𣖖𠳚臼 cãi chày cãi cối	
+𩹭	chày	𩵜𩹭 cá chày	
+𢥖	chây	𢥖𢜞 chây lười	
+𢥖	trây		⇔ 𢥖 chây
+𤈜	chấy	𤈜𩵽 chấy tôm	
+𤈜	chấy	𧋺𧎠 chấy rận	
+𧋺	chí	固𧋺時𢴖 có chí thì gãi	⇔ 𧋺 chấy
+痁	chàm	病痁 bệnh chàm · 𩈘浽痁 mặt nổi chàm	
+灆	chàm	襖灆 áo chàm	
+𥾚	chầm	揞𥾚 ôm chầm · 𥾚𥾚 chầm chậm	
+𧿒	chẫm	𨈇𧿒 lẫm chẫm	
+𧿒	đẫm		⇔ 𧿒 chẫm
+滇	chan	滇羹 chanh canh · 滇貯 chan chứa · 斧㧺滇𠹗 búa đập chan chát	
+診	CHẨN	診斷 chẩn đoán	
+賑	CHẨN	賑濟 chẩn tế · 發賑 phát chẩn	
+𣆮	chang	依𣆮 y chang · 𣌝𣆮𣆮 nắng chang chang	
+鋹	chàng	丐鋹 cái chàng	
+𧑆	chàng	𧊌𧑆 chão chàng	
+橙	chanh	橙些 chanh ta · 橙西 chanh tây · 茶橙 chè chanh · 茶橙 trà chanh · 伶橙 lanh chanh [𠸨]	
+𦭒	chánh	𧤁固𦭒 sừng có chánh	
+湩	chành	湩膨 chành bành · 湩湩 chành chạnh ·泈湩 chòng chành	
+湩	chạnh		⇔ 湩 chành
+湩	nhành		⇔ 湩 chành
+湩	trành	泈湩 tròng trành	⇔ 湩 chành
+𢤜	chạnh	𢤜𢚸 chạnh lòng	
+𥿣	chão	抃𥿣 bện chão	
+𧊌	chão	𧊌𧑆 chão chàng	
+𠹗	chát	沓𠹗 đốp chát	
+𤁩	chắt	𤁩漉 chắt lọc · 𤁩招 chắt chiu	
+𡦫	chắt	𡥙𡦫 cháu chắt	
+劕	chặt	劕𣘃 chặt cây	
+㑳	châu	官㑳 quan châu	
+楱	chấu	蹎楱 chân chấu · 塊𠶎宗 4 楱 khối bê-tông 4 chấu	
+𨗛	chầu	𨗛徝 chầu chực · 𨗛紒 chầu rìa · 𨗛𡗶 chầu trời · 咹𠬠𨗛 ăn một chầu	
+𡊱	chậu	𩩫𡊱 xương chậu · 𡊱渃 chậu nước	
+𢯙	chẻ	𢯙檜 chẻ củi · 𢯙𥯌 chẻ tre	
+𡍘	ché	𡍘𩻐 ché mắm	
+𡍘	choé		⇔ 𡍘 ché
+痆	chề	𠲖痆 ê chề · 𥘀痆痆 nặng chề chề	
+𬿈	chếch	佂𬿈 chênh chếch	
+擲	chệch	𫜵擲 làm chệch	
+擲	trệch		⇔ 擲 chệch
+鮎	chẽm	𩵜鮎 cá chẽm	
+拈	chêm	拈𠓨 chêm vào · 拈𩪞 sụn chêm	
+沾	chễm	沾治 chễm chệ	
+㙻	chèn	㙻押 chèn ép · 㙻𨷯 chèn cửa · 㙻𢭹 chèn lấn	
+𢸢	chẹn	𢸢𦙶 chẹn cổ · 𢸢卬 chẹn ngang	
+𨠣	chếnh	𨠣𤶜 chếnh choáng	
+𠲜	chềnh	𫯳𠲜 chồng chềnh · 𠲜𪝼 chềnh ềnh	
+㹦	cheo	𡥵㹦㹦 con cheo cheo · 㹦蹽 cheo leo [𠸨]	
+𧵓	cheo	𡠣𧵓 cưới cheo	
+袑	chéo	袑巾 chéo khăn · 塘袑 đường chéo · 袑 𧣳 chéo góc	
+紥	chét	𧌂紥 bọ chét · 𠬠紥𢬣 một chét tay	
+𬗗	chẹt	𬗗𦙥 chẹt họng · 扒𬗗 bắt chẹt	
+𫩝	chi	叫𫩝𫩝 kêu chi chi (chí chí) [聲]	
+𡛰	chỉ		⇔ 姉𧘇 chị ấy
+𨨲	chì	筆𨨲 bút chì · 𨨲折 chì chiết [𠸨]	
+𢶾	chỉa	撍𢶾 chôm chỉa [𠸨]	
+䤠	chĩa	䤠𠀧 chĩa ba · 䤠銃 chĩa súng	
+䤠	chỉa		⇔ 䤠 chĩa
+𪮁	chịch	𪮁 chịch [俗]	
+煎	chiên	𩚵煎 cơm chiên · 𥸷煎 xôi chiên · 煎𤇤 chiên xào	
+邅	CHIÊN	迍邅 truân chiên	
+邅	CHUYÊN	迍邅 truân chuyên	
+廛	chiền	𫷨廛 chùa chiền	
+鉦	chiêng	鉦𤿰 chiêng trống	
+𠲷	chiếp	𠲷𠲷 chiêm chiếp [聲]	
+𠲷	chiêm		⇔ 𠲷 chiếp
+昭	chiêu	姑昭 cô chiêu · 冘昭 đăm chiêu · 蹎冘跢蹎昭 chân đăm đá chân chiêu	
+𣸬	chiêu	𣸬𠬠喁渃 chiêu một ngụm nước	
+沼	CHIỂU	沼臺 chiểu đài	
+炤	chiểu	阮廷炤 Nguyễn Đình Chiểu	⇔ 照 chiểu
+𥴜	chiếu	𧜖𥴜 chăn chiếu	
+㐱	chỉn	㐱周 chỉn chu	
+𠃩	chín	次𠃩 thứ chín	
+儨	chít	儨巾 chít khăn · 儨𠴜汻 chít kẽ hở	
+𦙴	chỏ	蒐𦙴 cùi chỏ · 𪐬𦙴 ngòn chỏ · 指𦙴 chỉ chỏ	
+啫	chơ	啫噅 chơ vơ · 𢣻啫 lơ chơ	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+𥡈	choai	𥡈𥡈 choai choai · 馭𥡈 ngựa choai	
+𣘌	chóc	榘𣘌 củ chóc	
+㫼	choé	至㫼 chí choé · 𧹻㫼 đỏ choé	
+𦴶	choè	𦴶𣾵 choè choẹt	
+𪄦	choè	𬷩𪄦 chích choè	
+𣾵	choẹt	𦴶𣾵 choè choẹt	
+椎	chòi	椎𠚢 chòi ra · 椎𪝅 chòi mòi	
+𢊛	chòi	𢊛更 chòi canh · 𢊛擱 chòi gác	
+䒹	chồi	𠛌䒹䄧𦬩 đâm chồi nẩy lộc	
+𠱤	chội	𡒻𠱤 chật chội [𠸨]	
+𤈪	chới	𤈪貝 chới với · 執𤈪 chấp chới	
+笘	chòm	笘𣇟 chòm sao · 笘𥯎 chòm xóm · 笘𩯁 chòm râu · 笘𣘃 chòm cây	
+撍	chôm	撍𢶾 chôm chỉa [𠸨]	
+跕	chổm	主跕 chúa chổm · 跕跩 chổm dậy	
+𨇸	chồm	謖𧜖𨇸𧻭 tốc chăn chồm dậy	
+𡹟	chởm	𡾭𡹟 lởm chởm	
+佔	chớm	佔𦬑 chớm nở · 佔病 chớm bệnh	
+嶟	chon	嶟𡻖 chon von [𠸨]	
+炵	chong	炵畑 chong đèn · 炵炵 chong chong [𠸨]	
+泈	chòng	泈湩 chòng chành · 泈擉 chòng chọc ·泈嘺 chòng ghẹo	
+泈	tròng	泈湩 tròng trành	⇔ 泈 chòng
+蔠	chông	𢱛蔠 rải chông · 蔠佂 chông chênh [𠸨]	
+偅	chổng	偅𡙴 chổng kềnh · 偅整 chổng chểnh	
+𩮿	chóp	𩮿𡶀 chóp núi · 𩮿䈻 chóp bu · 𩮿嘖 chóp chép	
+摯	chộp	摯𥙩 chộp lấy · 𠶙摯 bộp chộp	
+𢬮	chọt	𧼋𢬮 chạy chọt	
+䱣	chốt	𩵜䱣 cá chốt	
+𥈳	chột	𥈳眜 chột mắt · 𥈳䏾 chột bụng · 𥈳胣 chột dạ · 煺𥈳 thui chột · 𣘃𥈳 cây chột	
+𡂒	chớt	𡂒𠰹 chớt nhả	
+啁	chu	啁㖼 chu mỏ	
+媎	chửa	固媎 có chửa	
+徝	chực	𨗛徝 chầu chực · 徝䟻 chực chờ	
+跮	chúi	跮𠓩 chúi nhủi · 跮𪖫 chúi mũi · 跮頭 chúi đầu	
+𢹉	chùi	撈𢹉 lau chùi · 𢹉蹎 chùi chân	
+𪒽	chũi	𤝞𪒽 chuột chũi · 𧍝𪒽 dế chũi	
+䍄	chum	丐䍄 cái chum · 䍄㙕 chum vại	
+𫇳	chùm	𫇳花 chùm hoa · 𫇳果 chùm quả	
+𥱱	chụm	𥱱徠 chụm lại · 𥱱蹎 chụm chân · 𥱱檜 chụm củi · 𥱱焒 chụm lửa	
+𨀛	chùn	𨀛𨀈 chùn bước	
+盅	CHUNG	盅𨢇 chung rượu	
+蒸	CHƯNG	餅蒸 bánh chưng · 蒸拮 chưng cất	
+洆	chửng	𨁟捕洆 ngã bổ chửng	
+𨀧	chững	𨄴𨀧 chập chững · 𨀧擢 chững chạc ·咹𬡶𨀧 ăn mặc chững	
+汋	chuốc	汋𥙩 chuốc lấy · 汋禍 chuốc vạ · 汋𨢇 chuốc rượu	
+雀	chược	麻雀 mạt chược [摱]	
+𣙯	chuôi	𣙯刀 chuôi dao · 𣙯鎌 chuôi gươm · 捻滕𣙯 nắm đằng chuôi	
+𩸯	chuối	𩵜𩸯 cá chuối	
+漼	chuồi	朱漼𬺗 cho chuồi xuống	
+𨒸	chuồn	𨒸𠅒 chuồn mất	
+彰	CHƯƠNG	表彰 biểu chương	
+樟	CHƯƠNG	樟腦 chương não	
+掌	CHƯỞNG	𣆅掌 phim chưởng · 掌理 chưởng lí ·掌薄 chưởng bạ · 降龍十八掌 Giáng Long Thập Bát Chưởng	
+掌	trương	掌巡 trương tuần	
+瘴	CHƯỚNG	瘴氣 chướng khí · 嵐瘴 lam chướng	
+悜	chường	悜𩈘 chường mặt · 𢥇悜 chán chường [𠸨]	
+础	chuốt	𦃀础 chải chuốt · 𢫵础 trau chuốt	
+㑁	chứt	𠊛㑁 người Chứt	
+㤎	da	㤎悊 da diết	
+㤎	gia		⇔ 㤎 da
+𧹟	dà	𤿭𧹟 vỏ dà · 𦭷𧹟 màu dà · 𢴍𧹟 dần dà [𠸨]	
+吔	dã	吔𨢇 dã rượu	
+㖡	dạ	㖡𠳐 dạ vâng	
+𢖺	dạc	𢘭𢖺 dõng dạc [𠸨]	
+𫐟	dặc	𨱽𫐟 dài dặc · 𨀊𫐟 dằng dặc	
+𧜵	dải	𧜵𫄎 dải lụa · 𧜵掩 dải yếm · 𧜵銀河 dải ngân hà · 𧜵分隔 dải phân cách	
+𢘽	dái	坤朱𠊛些𢘽 khôn cho người ta dái	
+𢘽	rái		⇔ 𢘽 dái
+𤋵	dãi	𤋵油 dãi dầu · 𤋵𣌝 dãi nắng	
+𢴐	day	𢴐𠞹 day dứt · 𢴐眜 day mắt · 𢴐穴 day huyệt	
+洩	dáy	洳洩 dơ dáy	
+拽	dấy	拽軍 dấy quân · 拽兵 dấy binh · 焒拽 𬨠 lửa dấy lên	
+𢴗	dạm	𢴗𡉦 dạm ngõ	
+𥭍	dăm	𥭍𥯌 dăm tre · 𥭍樻 dăm cối	
+𨂘	dẫm	𨂘踏 dẫm đạp · 𪭴𨂘 dò dẫm · 唑𨂘 doạ dẫm	
+𦂼	dậm	丐𦂼 cái dậm	
+𦂼	giậm		⇔ 𦂼 dậm
+𢺤	dan	𢺤𢬢 dan díu · 𢺤𢬣 dan tay	
+𥳄	dần	丐𥳄 cái dần	
+𧿯	dận	𧿯蹎 dận chân · 𧿯𬺗 dận xuống	
+𨀊	dằng	𨀊𫐟 dằng dặc · 𨀍𨀊 dùng dằng	
+棦	dành	𣘃棦棦 cây dành dành	
+棦	giành		⇔ 棦 dành
+𨄹	dạo	𠫾𨄹 đi dạo	
+𭧙	dạo	𭧙尼 dạo này	
+唊	dap	唊鈐 dap găm [摱]	𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𰁡	dấp	𠍵𰁡 dáng dấp	
+搣	dạt	搣𤁠 dạt dào	
+迭	dặt	𠽮迭 dè dặt · 迭𫇿 dặt thuốc · 𢭼迭 dìu dặt	
+迭	đit		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+軼	DẬT	軼事 dật sự	
+逸	DẬT	隱逸 ẩn dật · 淫逸 dâm dật · 逸史 dật sử	
+溢	DẬT	餘溢 dư dật	
+酉	DẬU	𣇞酉 giờ Dậu · 乙酉 Ất Dậu	
+𣏌	dẻ	楛𣏌蜜 gỗ dẻ mật	
+鵜	dẽ	鵜𧉙 dẽ giun	
+𠴭	dể	輕𠴭 khinh dể	
+𧍝	dế	𧍝𧓭 dế mèn · 𧍝𧍝𣉍 dế dũi [𠸨]	
+湜	dề	淫湜 dầm dề · 吔湜 dã dề · 雜湜 tạp dề [摱]	
+啖	dèm	啖𢯠 dèm pha	
+喕	den		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+挰	dềnh	挰揚 dềnh dàng	
+溋	dềnh	𨀍溋 dùng dềnh	
+溋	dình		⇔ 溋 dềnh
+鞢	dép	𩌂鞢 giày dép · 對鞢 đôi dép	
+挗	di	挗𡥵蜆朱𣩂 di con kiến cho chết	
+𧻑	dí	𧻑蹺𠸜𥌈 dí theo tên trộm · 𧻑蹺伮𣭻 𬨠！ dí theo nó mau lên! · 𧻑𠼖 dí dỏm [𠸨]	
+苡	DĨ	薏苡 ý dĩ	
+杝	dĩa	丐杝 cái dĩa	
+奕	DỊCH	赫奕 hách dịch	
+亦	DIỆC	貓貓亦 mèo miếc [𠸨] · 𩵜𩵜亦 cá kiếc [𠸨]	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+𪁂	diệc	𪀄𪁂 chim diệc	
+焰	diêm	焰生 diêm sinh · 包焰 bao diêm · 焰鐄 diêm vàng · 焰臾 diêm dúa [𠸨]	
+閻	DIÊM	閻王 Diêm vương	
+鹽	DIÊM	政鹽 chính diêm · 鹽田 diêm điền	
+艷	DIỄM	嬌艷 kiều diễm · 艷麗 diễm lệ · 艷福 diễm phúc	
+延	DIÊN	外延 ngoại diên · 縣延慶 huyện Diên Khánh	
+涎	DIÊN	龍涎香 long diên hương	
+葉	DIẾP	蔞葉 rau diếp · 葉𩵜 diếp cá	
+葉	DIỆP	葉綠 diệp lục · 傾葉 khuynh diệp · 柏葉 bách diệp · 竹葉 trúc diệp	
+鍱	DIỆP	鍱𦓿 diệp cày	
+悊	diết	㤎悊 da diết	
+悊	giết		⇔ 悊 diết
+𠺧	diều	丐𠺧 cái diều	
+遶	diễu	遶兵 diễu binh · 遶行 diễu hành · 遶庯 diễu phố	
+遶	nhảu	𮞊遶 nhanh nhảu [𠸨]	
+耀	DIỆU	黃耀 Hoàng Diệu · 陳光耀 Trần Quang Diệu	
+𥇌	dim	𥋲𥇌 lim dim [𠸨]	
+𢸝	dìm	𢸝價行 dìm giá hàng · 𢸝𬺗渃 dìm xuống nước · 伮被姑𢸝 nó bị cô dìm	
+𰈏	din	𡥵𰈏 con din	
+穎	DĨNH	穎悟 dĩnh ngộ	
+鐷	díp	刀鐷 dao díp · 眜鐷徠 mắt díp lại	
+𢬢	díu	瓢𢬢 bìu díu	
+𦾤	dó	𣘃𦾤 cây dó · 紙𦾤 giấy dó	
+喥	dọ	𠴞次呶徠喥次其 bàn thứ nọ lại dọ thứ kia	
+喥	dô	𩑰𥳉 trán dô	
+𥳉	giô		⇔ 𥳉 dô
+唋	dớ	𥋶唋 dấm dớ	
+允	DOÃN	應允 ưng doãn	
+尹	DOÃN	府尹 phủ doãn · 𣱆尹 họ Doãn	
+盈	DOANH	盈餘 doanh dư	
+𡹐	doi	𡹐𡐙 doi đất	
+𠐸	dôi	𠐸𠚢 dôi ra	
+𦟿	dồi	𠰳𦟿 miếng dồi	
+𢢊	dỗi	𢚷𢢊 giận dỗi · 㘋𢢊 hờn dỗi	
+蛦	dơi	𡥵蛦 con dơi	
+𥉰	dòm	𥉰𥄭 dòm ngó · 䈵𥉰 ống dòm	
+𥉰	nhòm		⇔ 𥉰 dòm
+𦛊	dòn	唭𦛊 cười dòn · 𦛊吔 dòn dã · 黰𦛊 đen dòn · 餅𥹠𦛊 bánh đa dòn	
+槦	dong	𣘃槦 cây dong	
+𦡦	dong	𦡦𦡦 dong dỏng [𠸨]	
+𦡦	dỏng	𦡦𦡦 dong dỏng [𠸨]	
+𢘭	dõng	𢘭𢖺 dõng dạc [𠸨]	
+搈	dông	搈𨱽 dông dài	
+𩘪	dông	𩘪𩘣 dông tố · 𩘪𪥘󠄁𢆥 dông cả năm	
+𩘪	giông	𩘪𩙍 giông gió	⇔ 𩘪 dông
+湧	dộng	湧𨷯 dộng cửa · 湧𬄨 dộng cừ	
+𣔻	dột	茹𣔻 nhà dột · 𣔻捏 dột nát · 𠻇𣔻 dại dột · 膒𣔻 ủ dột	
+蝣	DU	部蜉蝣 bộ Phù du	
+蕷	dự	𥽌蕷 gạo dự	
+諛	dua	阿誽 a dua · 誽佞 dua nịnh	
+臾	dúa	焰臾 diêm dúa [𠸨]	
+𦼥	dứa	𣘃𦼥 cây dứa · 果𦼥 quả dứa	
+椰	dừa	𣘃椰 cây dừa	
+筍	DUẨN	黎筍 Lê Duẩn	
+燏	DUẬT	陳日燏 Trần Nhật Duật	
+遹	DUẬT	范慎遹 Phạm Thận Duật	
+鷸	DUẬT	蚌鷸 bạng duật	
+浴	DỤC	沐浴 mộc dục	
+翼	DỰC	右翼 hữu dực	
+裔	DUỆ	後裔 hậu duệ · 裔夷 duệ di	
+睿	DUỆ	睿哲 duệ triết · 陳睿宗 Trần Duệ Tông	
+拰	dúm	𠻅拰 bẹp dúm	
+呫	dụm	𧶄呫 dành dụm	
+搎	dun	搎𢩽 dun đẩy · 搎車 dun xe · 搎𢤡 dun rủi	
+踴	DŨNG	踴躍 dũng dược	
+𢘩	dửng	𢘩𦝺 dửng mỡ	
+𢘩	rửng		⇔ 𢘩 dửng
+躍	DƯỢC	踴躍 dũng dược	
+𠏮	duối	𥋶𠏮 dấm duối	
+𣝉	duối	𣘃𣝉 cây duối	
+𬧕	duỗi	𬧕𣦎 duỗi thẳng · 𬧕蹎 duỗi chân	
+佯	DƯƠNG	佯東擊西 dương đông kích tây	
+仗	dượng	仗𡒬 dượng ghẻ · 仛仗 cha dượng · 注仗 chú dượng	
+栘	đa	𣘃栘 cây đa	
+𪀓	đa	𪀄𪀓𪀓 chim đa đa	
+鴕	ĐÀ	鴕鳥 đà điểu	
+鐸	đác	洛鐸 lác đác	
+瀻	đái	𥺿瀻 ỉa đái	
+苔	ĐÀI	苔原 đài nguyên	
+颱（台）	ĐÀI	颱風 đài phong	
+𩂠	đậy	𩂏𩂠 che đậy · 動𩂠 động đậy	
+耽	đam	耽迷 đam mê · 耽樂 đam lạc · 丐之拱耽 cái gì cũng đam	
+痰	ĐÀM	痰𧖱 đàm máu	
+痰	đờm	痰𣹘 đờm dãi	
+曇	ĐÀM	曇花 đàm hoa	
+氮	ĐẠM	氮燐喀璃 đạm lân ca-li	
+冘	đăm	冘昭 đăm chiêu · 蹎冘跢蹎昭 chân đăm đá chân chiêu	
+潫	đằm	潫𧺀 đằm thắm · 㲸潫 ướt đằm	
+旦	ĐÁN	花旦 hoa đán · 節元旦 tết nguyên đán	
+檀	ĐÀN	𣘃白檀 cây bạch đàn	
+捵	đắn	𨅸捵 đứng đắn · 捵𢵋 đắn đo	
+𨧝	đẵn	𨧝𣘃 đẵn cây · 𨧝𣖙 đẵn mía · 𠬠𨧝楛 một đẵn gỗ	
+憚	đặn	調憚 đều đặn [𠸨] · 𣹓憚 đầy đặn [𠸨]	
+𢠤󠄁	đần	𢠤󠄁鈍 đần độn · 愚𢠤󠄁 ngu đần · 扡𢠤󠄁 đỡ đần [𠸨]	
+癉	đẫn	咜癉 đờ đẫn [𠸨]	
+嘽	đận	柁嘽 đà đận · 吝嘽 lận đận	
+澢	đáng	塘澢 đường đáng	
+簦	đăng	㨂簦 đóng đăng	
+藤	ĐẰNG	葛藤 cát đằng	
+𠎬	đấng	𠎬英雄 đấng anh hùng · 𠎬救星 đấng cứu tinh · 𠎬造化 đấng tạo hoá	
+忉	đao	嘮忉 lao đao	
+芀	đao	苾芀 bí đao · 榘芀 củ đao	
+靼	ĐÁT	韃靼 Thát Đát	
+靼	ĐẬU	逗車 đậu xe	
+逗	đỗ	逗車 đỗ xe	⇔ 逗 đậu
+砥	đe	𨑗砥𨑜鈽 trên đe dưới búa	
+悌	đẽ	惵悌 đẹp đẽ [𠸨]	
+啲	đếch	啲懃 đếch cần · 啲別 đếch biết	
+墊	đệm	𠸜墊 tên đệm · 墊彈 đệm đàn · 墊床 đệm giường	
+𦛉	đéo	𠋺𦛉懃別！ Tao đéo cần biết!	
+岹	đèo	𡾬岹 dốc đèo · 𨅹岹洡𤂬 trèo đèo lội suối	
+𭢌	đèo	𭢌䙜 đèo bòng · 𭢌行 đèo hàng	
+𠞸	đẽo	𠞸𠞡 đẽo gọt · 鑟𠞸 đục đẽo · 𠖭𠞸 lẽo đẽo	
+𪸽	đét	𤷍𪸽 gầy đét · 枯𪸽 khô đét · 黰𪸽 đen đét [聲]	
+𮬩	đểu	𮬩𫆥 đểu cáng · 𮬩者 đểu giả · 㹥𮬩 chó đểu · 𨔈𮬩 chơi đểu	
+呧	đi	漫呧噅 Man-đi-vơ [摱]	𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𡚦	đĩ	𨔈𡚦 chơi đĩ	
+笛	ĐỊCH	彈笛 đàn địch	
+𦖡	điếc	𦖡𦖻 điếc tai · 𦖡𭉪 điếc đặc	
+䀨	điềm	䀨令 điềm lành	
+刁	điêu	吶刁 nói điêu	
+刁	ĐIỂU	鴕鳥 đà điểu	
+鳥	đụ	鳥媽 đụ má [俗]	
+弔	ĐIẾU	弔文 điếu văn	
+𫁵	điếu	𫁵𦓿 điếu cày · 𫁵炶 điếu đóm	
+疔	ĐINH	疔𩯁 đinh râu	
+疔	đanh	𤷿頭疔 nhọt đầu đanh	
+訂	ĐÍNH	訂正 đính chính · 訂婚 đính hôn · 考訂 khảo đính	
+掟	đính	掟𧘚 đính khuy · 𡲫𧹻掟𡨸鐄 vải đỏ đính chữ vàng	
+挺	đĩnh	挺度 đĩnh đạc	
+艇	ĐĨNH	潛水艇 tiềm thủy đĩnh	
+錠	ĐĨNH	金錠 kim đĩnh · 萬應錠 vạn ứng đĩnh	
+𦝂	đít	𦝂𧴋 đít beo	
+𬇓	địt	𬇓！ địt! [俗]	
+𤂂	đìu	𤂂㳜 đìu hiu	
+裯	địu	裯𡥵 địu con	
+艔	đò	轉艔 chuyến đò	
+㡯	đọ	㡯飭 đọ sức · 𬧺㡯 so đọ	
+賭	đố	句賭 câu đố · 打賭 đánh đố · 賭媄䀡 đố mẹ xem	
+朵	ĐOÁ	朵花 đoá hoa · 𠄩朵牡丹 hai đoá mẫu đơn	
+朵	ĐOÀI	卦兌 quái Đoài	
+兌	đoái	兌懷 đoái hoài · 兌傷 đoái thương · 兌矓景𫇰𠊛𠸗 đoái trông cảnh cũ người xưa	
+短	ĐOẢN	短劍 đoản kiếm · 短脈 đoản mạch · 所短 sở đoản · 短語 đoản ngữ	
+𥖐	đọi	𥖐𩚵 đọi cơm · 咹空𢧚𥖐、吶拯𢧚𠳒 ăn không nên đọi, nói chẳng nên lời	
+𡑖	đỗi	過𡑖 quá đỗi	
+戴	đội	戴𢃱 đội mũ	
+炶	đóm	𫁵炶 điếu đóm · 炶炶 đom đóm [𠸨]	
+炶	đom	炶炶 đom đóm [𠸨]	⇔ 炶 đóm
+沓	đôm	沓沓 đôm đốp	
+沓	đốp	沓𠹗 đốp chát · 沓沓 đôm đốp	
+玷	đốm	㹥玷 chó đốm · 𤒢玷 lốm đốm	
+𢲠	đơm	𢲠撻 đơm đặt	
+惇	ĐÔN	惇篤 đôn đốc	
+敦	ĐÔN	敦篤 đôn đốc · 敦促 đôn thúc · 敦厚 đôn hậu · 倫敦 Luân Đôn	
+墩	ĐÔN	墩楛 đôn gỗ	
+扽	đốn	扽𣘃 đốn cây	
+飩	ĐỒN	餛飩 hồn đồn	
+飩	thánh	餛飩 hoành thánh [摱]	
+鈍	ĐỘN	𢠤󠄁鈍 đần độn	
+𣁲	đong	𣁲迻 đong đưa	
+秱	đòng	秱秱 đòng đòng	
+董	ĐỔNG	扶董 Phù Đổng · 董理 đổng lí	
+董	đổng	吶董 nói đổng · 𠯽董 chửi đổng	
+㗳	đớp	㗳𥺒 đớp thính · 㹥㗳 chó đớp · 𩵜㗳 𩝇 cá đớp mồi	
+哆	đứ	哆𣴙 đứ đừ · 𡎦哆𠚢 ngồi đứ ra	
+𣴙	đừ	𤻻𣴙 mệt đừ · 哆𣴙 đứ đừ · 𡃖𣴙 lừ đừ	
+鑟	đục	鑟圇 đục tròn	
+𥊖	đui	𥊖霧 đui mù	
+𦢶	đùi	𣔟𦢶 bắp đùi · 裙𦢶 quần đùi	
+𦅭	đũi	𡲫𦅭 vải đũi · 裙襖𦅭 quần áo đũi	
+𦅰	đùm	𦅰襆 đùm bọc	
+焞	đun	焞渃 đun nước · 焞𤍇 đun nấu	
+𡶁	đùn	𥺿𡶁 ỉa đùn · 蛽𡶁𡐙 mối đùn đất	
+庉	đụn	庉𤌋 đụn khói · 庉𥟉 đụn thóc	
+𨆟	đủng	𨆟䟓 đủng đỉnh [𠸨]	
+襠	đũng	裙𦀪襠 quần vá đũng	
+燭	đuốc	抪燭 bó đuốc · 檜燭 củi đuốc · 畑燭 đèn đuốc	
+𤠂	đười	𤠂𤠆 đười ươi	
+㷋	đượm	𧺀㷋 thắm đượm · 濃㷋 nồng đượm	
+𧛆	đụp	襖𦀪𦀐𦀪𧛆 áo vá chằng vá đụp	
+曀	ế	曀𤀔 ế ẩm [𠸨] · 曀𫯳 ế chồng	
+嗌	ếch	叫嗌嗌 kȇ u ếch ếch [聲]	
+嚥	en	嚥嚥 en en	
+𪝼	ềnh	㑲𪝼 nằm ềnh · 𠲜𪝼 chềnh ềnh	
+𪝼	ình	𪝼䏾 ình bụng · 𪝼益 ình ịch · 𪝼轟 ình oàng	
+朠	ễnh	朠䏾 ễnh bụng · 𡥵朠𫊬 con ễnh ương	
+㕭	eo	㕭𠾸 eo xèo · 㕭㗒 eo ơi	
+腰	eo	腰狹 eo hẹp · 腰𡐙 eo đất · 腰𨉞 eo lưng · 腰㴜 eo biển	
+殀	ẻo	擣殀 trù ẻo · 殀𪫦 ẻo lả	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+𢰳	éo	𢰳𢰳 eo éo · 𢰳𠻗 éo le · 捥𢰳 uốn éo	
+𢰳	eo	𢰳𢰳 eo éo	⇔ 𢰳 éo
+𠇺	ẹp	俋𠇺 ọp ẹp	
+𠮙	ét	𠮙涳 ét-xăng [摱]	
+𠮙	ẹt	喐𠮙 ọt ẹt [聲]	
+喓	êu	喓喂 êu ôi [嘆]	
+𪵤	ga	瓶𪵤 bình ga [摱]	
+𠶄	gạ	𠶄𡀯 gạ chuyện	
+㓢	gạc	㓢𠸜𥪝名冊 gạc tȇ n trong danh sách · 攑㓢 gỡ gạc [𠸨]	
+觡	gạc	觡㹯 gạc hươu	
+𦂦	gạc	𨬋𦂦㲸 miếng gạc ướt	
+棘	gấc	𥸷棘 xôi gấc	
+𢹆	gài	𢹆擺 gài bẫy · 𢹆𨷯 gài cửa	
+𢴖	gãi	固𧋺時𢴖 có chí thì gãi	
+㨟	gảy	㨟彈 gảy đàn · 㨟稴𠓨𤇮 gảy rơm vào bếp	
+㨟	khảy		⇔ 㨟 gảy
+𩺺	gáy	𩵜𩺺 cá gáy	
+𠰁	gáy	𪃿𠰁𡀴𡀴 gà gáy o o	
+𬛑	gáy	𬛑冊 gáy sách	
+㧡	gẩy	㧡彈 gẩy đàn · 㧡盤併 gẩy bàn tính	
+𤷍	gầy	𤷍𤷱 gầy mòn · 𤷍𪸽 gầy đét	
+𨭺	gam	其露𨭺 ki-lô-gam [摱]	
+㨔	găm	𬚸羝㨔蒜 thịt dê găm tỏi	
+鈐	găm	針鈐 kim găm · 鈐行 găm hàng · 刀鈐 dao găm · 唊鈐 dap găm [摱]	
+𧃃	gắm	𧃃𡶀 gắm núi · 絏𧃃 dây gắm · 寄𧃃 gửi gắm [𠸨] · 𧃃𥇚 gắm ghé [𠸨]	
+𢤝	gằm	儈𢤝 cúi gằm	
+齽	gặm	𤝞齽 chuột gặm · 齽𠰃 gặm nhấm	
+𢭬	gạn	𢭬𡃕 gạn gùng [𠸨] · 𢭬漉 gạn lọc · 𢭬 𠳨 gạn hỏi · 𢭬濁𢵱沖 gạn đục khơi trong	
+鋼	gang	鍊鋼 luyện gang	
+𡬼	gang	𦯬𡬼 dưa gang	
+㮗	găng	𣘃㮗 cây găng	
+𫧂	gáo	𫧂椰 gáo dừa · 彈𫧂 đàn gáo	
+檤	gạo	𣘃檤 cây gạo	
+𢰽	gắp	𢰽籤 gắp thăm · 丐𢰽 cái gắp · 𢰽式咹 gắp thức ăn	
+𥄫	gấp	𥄫𥇚 gấp ghé	
+𥄫	ngấp		⇔ 𥄫 gấp
+岋	gập	岋冊 gập sách · 岋𡹡 gập ghềnh	
+浗	gàu	浗𣙩 gàu sòng	
+浗	gầu		⇔ 浗 gàu
+脙	gàu	𬖾脙 phở gàu · 頭固𡗉脙 đầu có nhiều gàu	
+脙	gầu		⇔ 脙 gàu
+𠯜	gâu	𠯜𠯜 gâu gâu [聲]	
+䑴	ghe	䑴船 ghe thuyền	
+𤴪	ghẻ	𤴪𤹙 ghẻ chốc · 𤴪𧋆 ghẻ ruồi · 丐𤴪 cái ghẻ · 𤴪渃 ghẻ nước	
+𡒬	ghẻ	姨𡒬 dì ghẻ · 𡒬冷 ghẻ lạnh	
+𥇚	ghé	𥄫𥇚 gấp ghé	
+𥇚	nghé		⇔ 𥇚 ghé
+㙋	ghè	㙋𩻐 ghè mắm · 㖗㙋 gầm ghè [𠸨]	
+𥗎	ghề	𥕥𥗎 gồ ghề [𠸨]	
+𮞑	ghếch	𮞑蹎 ghếch chân	
+𧁴	ghém	蔞𧁴 rau ghém · 襘𧁴 gói ghém	
+𡹡	ghềnh	𣴜𡹡 thác ghềnh  · 岋𡹡 gập ghềnh	
+嘺	ghẹo	嘹嘺 trêu ghẹo	
+𡑪	ghét	垢𡑪 cáu ghét	
+剘	ghi	𢯏剘 bẻ ghi	
+𢙕	ghiếc	𡃍𢙕 gớm ghiếc	
+𠋵	ghiền	ghiền nặng 𠋵𨢇 · ghiền rượu 𠊛𠋵古喀印 · người ghiền cô-ca-in [摱]	
+捦	ghim	捦𠓨 ghim vào	
+𩸱	ghím	𩵜𩸱 cá ghím	
+拑	ghìm	拑𬘋 ghìm chặt	
+𢵌	giụi	𢵌眜 giụi mắt	
+𢵌	dụi	𢵌眜 dụi mắt · 搥𢵌 dúi dụi	⇔ 𢵌 giụi
+𩸰	go	丐𩸰𩵜 cái go cá	
+𦁿	gô	𦁿𦙶 gô cổ · 繓𦁿 trói gô · 𪃿𦁿 gà gô	
+𥕥	gồ	𩑰𥕥 trán gồ · 𡐙𥕥 đất gồ · 𥕥𥗎 gồ ghề [𠸨]	
+塸	gơ	塸絏𧃷榔 gơ dây khoai lang · 𠊛𤄷塸萊 người Ra Gơ-lai (Glai)	
+𪡽󠄁（𪡽󠄂）	gở	吶𪡽󠄁 nói gở · 怪𪡽󠄁 quái gở	
+埧	gờ	埧𤬪 gờ ngói · 埧盤 gờ bàn · 埧𦑃𨷯 gờ cánh cửa	
+梏	gộc	梞梏 gậy gộc	
+澮（浍）	gội	浸澮 tắm gội · 澮頭 gội đầu · 油澮 dầu gội	
+搛	gom	搛𢵰 gom góp · 收搛 thu gom	
+𡑲	gốm	𣘊𡑲 đồ gốm · 𠏲𡑲 thợ gốm	
+𡃍	gớm	𠺳𡃍 ghê gớm · 𡃍𢙕 gớm ghiếc · 𡃍！ gớm!	
+琨	gôn	琫琨 bóng gôn [摱] · 𡑝琨 sân gôn [摱] · 榾琨 cột gôn [摱]	
+𰜠	gợn	𰜠㳥 gợn sóng	
+嗊	gỏng	噶嗊 gắt gỏng	
+嗊	ngỗng	藝嗊 nghề ngỗng [𠸨]	
+槓	gọng	槓鏡 gọng kính	
+杠	gông	杠檎 gông cùm	
+𭡅󠄁	gồng	挭𭡅󠄁 gánh gồng · 𭡅󠄁𨉟 gồng mình	
+佮	gộp	賚佮 lãi gộp · 佮徠 gộp lại	
+𠞡	gọt	𠞸𠞡 đẽo gọt · 𠞡𡧲 gọt giũa	
+淈	gột	淈𣳮 gột rửa · 淈仍意擬腐敗 gột những ý nghĩ hủ bại	
+㘗	gu	合㘗 hợp gu [摱] · 㘗審美 gu thẩm mĩ [摱]	
+佝	gù	佝𨉞 gù lưng	
+㖵	gừ	㖗㖵 gầm gừ	
+𨗥（𨗥󠄁）	gũi	近𨗥 gần gũi [𠸨]	
+𡃕	gùng	𢭬𡃕 gạn gùng [𠸨]	
+薑	gừng	榘薑 củ gừng	
+槶	guốc	鞢槶 dép guốc · 槶楛 guốc gỗ	
+𤶹	guộc	𤷍𤶹 gầy guộc [𠸨]	
+軖	guồng	軖𣛠 guồng máy · 軖捁𥾘 guồng kéo sợi	
+縎	gút	紩縎黹 thắt gút chỉ	
+咦	gi		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+釲	gỉ	𨫪釲 han gỉ · 釲𡏥 gỉ sét · 釲眜 gỉ mắt · 釲𪖫 gỉ mũi	
+釲	rỉ	釲𡏥 rỉ sét	⇔ 釲 gỉ
+侇	gí	㑲侇 nằm gí · 碮𠻅侇𬺗 đè bẹp gí xuống	
+枷	gia	𣘃校枷 cây giâu gia	
+枷	da		⇔ 枷 gia
+迆	giã	迆𥽌 giã gạo	
+捔	giác	捔𨉞 giác lưng	
+偕	GIAI	百年偕老 bách niên giai lão	
+𤐃	giãi	𤐃排 giãi bày · 𤐃𤍊 giãi tỏ	
+㑘	giáy	𠊛㑘 người Giáy	
+䟢	giãy	䟢𣩂 giãy chết · 䟢䄧 giãy nảy	
+䟢	rẫy		⇔ 䟢 giãy
+𦀊	giây	墨𦀊𠓨襖 mực giây vào áo	
+𥹋	giầy	餅𥹋 bánh giầy	
+𥹋	dày		⇔ 𥹋 giầy
+𥹋	dầy		⇔ 𥹋 giầy
+𥋶	giấm	𥋶搥 giấm giúi	
+𥋶	dấm	𥋶𠏮 dấm duối · 𥋶唋 dấm dớ	⇔ 𥋶 giấm
+𨡉	giấm	𨡉𤽸 giấm trắng · 䣷如𨡉 chua như giấm	
+𨡉	dấm		⇔ 𨡉 giấm
+𨃵	giẫm	𨃵踏 giẫm đạp	
+𨁹	giậm	𨁹蹎 giậm chân	
+𨁹	dậm		⇔ 𨁹 giậm
+𧍴	gián	𡥵𧍴 con gián	
+橺	giàn	橺𦲾 giàn mướp	
+僴	giãn	舒僴 thư giãn	
+僴	dãn		⇔ 僴 giãn
+洚	giáng	洚朱𠬠梞 giáng cho một gậy	
+𢭩	giằng	𢭩扯 giằng xé · 𢭩𢮩 giằng co · 𢭩𢴘 giằng xay	
+箏	giành	丐箏 cái giành	
+蛟	GIAO	蛟龍 giao long	
+狡	GIẢO	奸狡 gian giảo · 狡猾 giảo hoạt · 猾詐 giảo trá	
+絞	GIẢO	罪絞 tội giảo · 絞刑 giảo hình	
+𣎖	giập	𣎖捏 giập nát · 𦡣𣎖 bầm giập	
+𣎖	chập		⇔ 𣎖 giập
+泆	giạt	㵢泆 trôi giạt · 泆𠓨坡 giạt vào bờ	
+𢳂	giắt	𢳂𢬣僥 giắt tay nhau · 𢳂錢𠓨紩𠦻 giắt tiền vào thắt lưng	
+𥭛	giậu	樔𥭛 rào giậu · 𥭛楛𨒺茹 giậu gỗ quanh nhà	
+綵	giẻ	綵𧛊 giẻ rách	
+𪂰	giẻ	𪀄𪂰𪇋 chim giẻ cùi	
+秷	gié	秷穭 gié lúa	
+掂	giếm	𢭳掂 giấu giếm	
+掂	diếm	𢭳掂 giấu diếm	⇔ 掂 giếm
+𦟘	gien	部𦟘 bộ gen · 相作𦟘 tương tác gen	
+𦟘	gen		⇔ 𦟘 gien
+萾	giền	蔞萾 rau giền	
+萾	dền		⇔ 萾 giền
+浙	giẹt	𪖫浙 mũi giẹt · 𤷿㐌浙𬺗 nhọt đã giẹt xuống	
+嘋	giễu	𠶜嘋 chế giễu · 嘋𠹳 giễu cợt	
+𨃝	giò	蹎𨃝 chân giò	
+𥱰	giò	𥱰𤙭 giò bò · 𥱰鮓 giò chả	
+捛	giở	捛冊 giở sách · 捛襖𠚢𬡶 giở áo ra mặc	
+䇶	giốc	㗂䇶 tiếng giốc	
+蜼	giòi	𡥵蜼 con giòi	
+蜼	dòi		⇔ 蜼 giòi
+伅	giòn	伅偖 giòn giã · 黰伅 đen giòn	
+𡅌	giỡn	吶𡅌 nói giỡn · 𡅌𩈘 giỡn mặt · 𢴉𡅌 đùa giỡn · 𨔈𡅌 chơi giỡn	
+笗	giong	抪檜笗 bó củi giong · 樔笗 rào giong	
+𩢦	giong	𩢦燭 giong đuốc · 𩢦帆𠚢𣾺 giong buồm ra khơi · 𩢦𤛠𠚢𬏇 giong trâu ra ruộng	
+𪢊	gióng	𪢊鐘 gióng chuông · 𪢊㨋 gióng giả [𠸨]	
+柊	giông	柊𪥘󠄁𢆥 giông cả năm	
+𧊕	giông	麒𧊕 kì giông · 盲𧊕 manh giông · 沙𧊕 sa giông	
+㘁	gịt	㘁𪖫 gịt mũi	
+𱡃（𪮴）	giũ	𣾹𱡃 giặt giũ	
+㗎	giụa	𣼼㗎 giàn giụa [𠸨] · 䟢㗎 giãy giụa [𠸨]	
+搥	giúi	𨁟搥 ngã giúi  · 𥋶搥 giấm giúi · 搥𢵌 giúi giụi	
+搥	dúi	搥朱 dúi cho · 搥𢵌 dúi dụi · 𡥵搥 con dúi	⇔ 搥 giúi
+𡑓	giùm	𫜵𡑓 làm giùm	
+撴	giun	撴僥𨁟 giun nhau ngã	
+掁	giương	掁弓 giương cung · 掁圍 giương vây ·掁眜 giương mắt	
+𧯶	há	𧘇𧯶沛羅惡咍哰？ Ấy há phải là ác hay sao?	
+霞	HÀ	雲霞 vân hà	
+鶴	HẠC	𪀄鶴 chim hạc · 紅鶴 hồng hạc	
+黑	HẮC	黑素 hắc tố  · 黑煙 hắc ín [摱] · 黑店 hắc điếm · 黑暗 hắc ám · 黑馬 hắc mã ·黑猩猩 hắc tinh tinh	
+黑	hắc	黑斧 hắc búa · 㤚黑 hăng hắc · 排算黑過 bài toán hắc quá	
+赫	HÁCH	赫奕 hách dịch	
+孩	HÀI	孩兒 hài nhi	
+鞋	HÀI	對鞋 đôi hài	
+㦑	hám	㦑名 hám danh · 㦑利 hám lợi · 洃㦑 hôi hám [𠸨]	
+噷	hăm	噷𠇍歲 hăm mấy tuổi	
+㤷	hằm	㤷㤷 hằm hằm · 㤷嗄 hằm hè	
+㤷	hầm	㤷嗄 hầm hè	⇔ 㤷 hằm
+𥼲	hẩm	𩚵𥼲 cơm hẩm · 𥼲㳜 hẩm hiu	
+𤐚	hầm	𤐚𩩫 hầm xương	
+爁	hậm	爁𤍋 hậm hực	
+𰗯	han	蘿𰗯 lá han	
+𨫪	han	𨫪釲 han rỉ	
+暵	HÁN	旱暵 hạn hán	
+蔊	HÀN	蔊菜 hàn thái	
+痕	hằn	䌰痕 nếp hằn · 痕餅車 hằn bánh xe	
+痕	ngấn	𤵖痕 vết ngấn · 痕渃 ngấn nước	
+釁	HẤN	𨠳釁 gây hấn · 𢭁釁 hề hấn [𠸨]	
+胻	háng	樣胻 dạng háng · 𡮠𤻭胻啊？ mày ngứa háng à?	
+响	hắng	哅响 húng hắng · 响𠰩 hắng giọng	
+亙	hẵng	亙抵妬 hẵng để đó	
+𬿦	hẫng	紇𬿦 hụt hẫng · 珥𬿦 nhẹ hẫng	
+哼	hanh	𢝜哼 đành hanh · 𩙍哼 gió hanh	
+毫	HÀO	錢毫 tiền hào	
+蠔	HÀO	𡥵蠔 con hào	
+蠔	hàu	𡥵蠔 con hàu	
+𠲡	hão	許𠲡 hứa hão  · 𠲡玄 hão huyền	
+昊	HẠO		𡨸漢尼主要得使用朱𠸜男界。 Chữ Hán này chủ yếu được sử dụng cho tên nam giới.
+浩	HẠO	浩然 hạo nhiên · 浩氣 hạo khí	
+顥	HẠO		𡨸漢尼主要得使用朱𠸜男界。 Chữ Hán này chủ yếu được sử dụng cho tên nam giới.
+灝	HẠO		𡨸漢尼主要得使用朱𠸜男界。 Chữ Hán này chủ yếu được sử dụng cho tên nam giới.
+盍	hạp		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+熻	hấp	熻𩚵 hấp cơm	
+𫤾	hắt	𫤾癐 hắt hủi · 𫤾㳜 hắt hiu	
+迄	hất	迄𨀿 hất cẳng · 迄𦛜 hất hàm	
+𬷎	hâu	鷂𬷎 diều hâu	
+茩	hấu	𦯬茩 dưa hấu	
+𭌟	hê	嘑𭌟 hả hê [𠸨]	
+𠯋	hể	𠯋嘑 hể hả	
+𠯋	hi	唭𠯋𠯋 cười hi hi [聲]	
+嗘	hề	唭嗘嗘 cười hề hề	
+侅	hếch	𪖫侅 mũi hếch · 侅蹎𬨠 hếch chân lên	
+𡑯	hẻm	𡉦𡑯 ngõ hẻm · 塘𡑯 đường hẻm	
+𠻃	hen	𠯖𠻃 ho hen	
+䘆	hến	𡥵䘆 con hến · 䘆𤇤 hến xào	
+亨	hênh	𤾟亨 hớ hênh · 惺亨 tênh hênh	
+㺧	heo	𡥵㺧 con heo	
+𤉗	héo	𤉗焝 héo hon · 枯𤉗 khô héo	
+鶡	hét	𪀄鶡 chim hét	
+𠻑	hì	𠻑𡄆 hì hục [聲] · 𠻑會 hì hụi [聲]	
+𩊽	hia	對𩊽 đôi hia	
+𢷓	hích	𢷓𣎣𢬣𠓨𦘹伴 hích khuỷu tay vào sườn bạn · 用把𦠘𢷓𠬠丐 dùng bả vai hích một cái	
+𢷓	huých	𢷓㹥𠚢哏 huých chó ra cắn	⇔ 𢷓 hích
+檄	HỊCH	檄文 hịch văn	
+嫌	HIỀM	嫌隙 hiềm khích · 嫌疑 hiềm nghi	
+軒	HIÊN	行軒 hàng hiên · 𠃅軒 mái hiên	
+𥋵	him	𥋵𥋵 him him	
+嬐	hĩm	丐嬐 cái hĩm	
+馨	HINH	馨香 hinh hương	
+擤	hỉnh	擤𪖫 hỉnh mũi · 憾擤 hóm hỉnh [𠸨]	
+䀫	híp	䀫眜 híp mắt	
+𭊪	hít	㖧𭊪 hôn hít	
+㳜	hiu	𤂂㳜 đìu hiu · 㳜𣔲 hiu quạnh	
+諕	hố	被諕 bị hố	
+醐	HỒ	醍醐 đề hồ	
+怙	hỗ	怙價 hỗ giá	
+𤏤	hơ	𤏤過焒 hơ qua lửa	
+𤾟	hớ	𤾟亨 hớ hênh	
+噓	hờ	噓𠾿 hờ hững · 𨷯𢬱噓 cửa khép hờ	
+鏵	hoa	𠬠鏵 một hoa	單位𢵋 đơn vị đo
+嚯	hoác	𢌌嚯 rộng hoác  · 𢲫嚯 mở hoác  · 𥧪嚯 trống hoác · 𫫥嚯 toang hoác	
+霍	HOẮC	霍亂 hoắc loạn · 揮霍 huy hoắc	
+霍	hoắc	𨓐霍 lạ hoắc · 啐霍 thối hoắc · 醜霍 xấu hoắc	
+藿	HOẮC	藿香 hoắc hương	
+𥩇	hoắm	漊𥩇 sâu hoắm	
+浣	hoán	糖浣 đường hoán	
+喚	HOÁN	呼喚 hô hoán	
+換	HOÁN	換𢷮 hoán đổi · 換改 hoán cải · 交換 giao hoán	
+桓	HOÀN	盤桓 bàn hoàn	
+宦	HOẠN	宦官 hoạn quan · 宦𤞼 hoạn lợn	
+唍	hoằn	和唍 hoạ hoằn [𠸨]	
+𣹔	hoảnh	𣋝𣹔 ráo hoảnh	
+猾	HOẠT	狡猾 giảo hoạt	
+𨨅	hoắt	𡭻𨨅 nhọn hoắt	
+嘝	hốc	𠹛嘝 há hốc · 𡎟嘝 hang hốc · 𥧪嘝 trống hốc · 嘝壑 hốc hác [𠸨]	
+斛	HỘC	𠬠斛 một hộc	單位𢵋 đơn vị đo
+暉	hoe	𧹻暉 đỏ hoe · 咏暉 vắng hoe	
+槐	HOÈ	𣘃槐 cây hoè · 花槐 hoa hoè [𠸨]	
+𤸫	hoen	𤸫釲 hoen gỉ · 𤸫癋 hoen ố	
+𠲣	hoét	𧹻𠲣 đỏ hoét · 花𠲣 hoa hoét [𠸨]	
+脄	hoi	苿脄 mùi hoi · 𠳾脄 hẳn hoi · 險脄 hiếm hoi	
+洄	hói	掏汒𢵼洄 đào mương vét hói · 𢵼洄引渃 vét hói dẫn nước	
+䰎	hói	䰎頭 hói đầu · 瀝䰎 rạch hói	
+亥	HỢI	𣇞亥 giờ Hợi · 乙亥 Ất Hợi	
+憾	hóm	憾擤 hóm hỉnh [𠸨] · 舅𡮣憾𡗋 cậu bé hóm lắm	
+𠮬	hỏn	准𠮬 chỏn hỏn · 𧹻𠮬 đỏ hỏn	
+𧍎	hôn	𡥵𧍎 con hôn	
+餛	HỒN	餛飩 hồn đồn	
+餛	hoành	餛飩 hoành thánh [摱]	
+烘	hong	烘𣌝 hong nắng	
+𤆺	hóng	𤇦𤆺 bồ hóng	
+𥈰	hóng	𥈰𩙍 hóng gió · 𥈰𡀯 hóng chuyện	
+𢞃	hòng	𢞃懞 hòng mong · 𢞃矓 hòng trông · 揨 𢞃 đừng hòng	
+胷	hông	𫰅胷𪥘󠄁胻 to hông cả háng · 促𠓨胷埃 thúc vào hông ai	
+𡏠	hông	鈉𡏠 nồi hông · 𡏠𥸷 hông xôi	
+吼	hống	吼赫 hống hách	
+洪	HỒNG	洪水 hồng thuỷ	
+𨸚	hóp	𨸚𦟐 hóp má	
+匣	hộp	匣茶 hộp trà	
+呷	hớp	呷魂 hớp hồn · 𩵜呷渤 cá hớp bọt · 呷 𠬠喁茶 hớp một ngụm trà	
+㧾	hốt	㧾𧅫 hốt rác	
+㧾	hót		⇔ 㧾 hốt
+栩	HỦ	𠊛羅栩 người La Hủ	
+粿	hủ	粿條 hủ tiếu [摱]	
+腐	HỦ	腐敗 hủ bại · 古腐 cổ hủ · 腐儒 hủ nho · 豆腐 đậu hủ	
+腐	PHỤ	豆腐 đậu phụ	
+吁	hú	吁咥 hú hí · 𪀄修吁 chim tu hú	
+旴	hù	旴唑 hù doạ · 𣋁旴 tối hù	
+胕	hũ	豆胕 đậu hũ	
+胕	hủ	豆胕 tàu-hủ [摱]	
+胕	phớ	豆胕 tào phớ	
+𪺛	hũ	丐𪺛 cái hũ · 𪺛𦯬 hũ dưa · 𪺛式咹 hũ thức ăn	
+嘘	hự	淤嘘 ứ hự [嘆]	
+𫊯	hua	醬固𫊯 tương có hua	
+勖	húc	勖頭 húc đầu · 𤛠𤙭勖僥 trâu bò húc nhau	
+𡄆（𡄆󠄁）	hục	熊𡄆 hùng hục	
+𤍋	hực	爁𤍋 hậm hực · 𬋙𤍋 hừng hực	
+携	HUỀ	提携 đề huề	
+蕙	HUỆ	花蕙 hoa huệ	
+𠇟	huênh	𠇟荒 huênh hoang [𠸨]	
+癐（𤶊）	hủi	病癐 bệnh hủi · 𫤾癐 hắt hủi	
+𠜮	húi	𠜮𩯀 húi tóc	
+鬩	huỵch	螢鬩 huỳnh huỵch [聲]	
+喧	HUYÊN	喧鬧 huyên náo · 喧天 huyên thuyên	
+喧	luyên	喧天 luyên thuyên	
+暄	HUYÊN	寒暄 hàn huyên	
+暄	HUYÊN	茹萱 nhà huyên	
+萱	hiên	花萱 hoa hiên	
+弦	HUYỀN	六弦琴 lục huyền cầm	
+懸	HUYỀN	懸案 huyền án	
+炫	HUYỄN	炫耀 huyễn diệu	
+眩	HUYỄN	眩惑 huyễn hoặc · 眩想 huyễn tưởng	
+穴	HUYỆT	穴道 huyệt đạo · 巢穴 sào huyệt	
+𢬔	huýt	𢬔𧥇 huýt còi · 𢬔哨 huýt sáo	
+𥵗	hum	𥳍𥵗 tùm hum · 𥵗噏 hum húp	
+𤞻	hùm	𩵽𤞻 tôm hùm	
+熏	hun	熏𤒘 hun đúc · 熏𤌋 hun khói	
+哅	húng	哅响 húng hắng	
+𦭪	húng	蔞𦭪 rau húng · 𦭪桂 húng quế · 𦭪橙 húng chanh	
+𤈍	hửng	熷𤈍 tưng hửng	
+𬋙	hừng	𬋙東 hừng đông · 𬋙𤍋 hừng hực	
+𠾿	hững	噓𠾿 hờ hững	
+𢯘	huơ	𢯘𢬣 huơ tay · 𢯘鎌 huơ gươm	
+謔	HƯỚC	諧謔 hài hước	
+㹯	hươu	𡥵㹯 con hươu · 㹯𣇟 hươu sao · 㹯高 𦙶 hươu cao cổ	
+噏	húp	𥵗噏 hum húp	
+貅	HƯU	貔貅 tì hưu	
+佑	HỰU	天佑 thiên hựu · 開佑 Khai Hựu	
+祐	HỰU	天祐 thiên hựu · 𫷨延祐 Chùa Diên Hựu · 黎維祐 Lê Duy Hựu	
+𥑴	ì	𥑴伌 ì ạch	
+𥑴	ĩ	𩆢𥑴 ầm ĩ	
+𥺿	ỉa	𥺿沚 ỉa chảy	
+𠸯	ỉn	𡅯𠸯 ủn ỉn [聲]	
+煙	ín	黑煙 hắc ín [摱]	
+𠸄	inh	𠸄𪨆 inh ỏi	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+伊	Y	𠸜𧵑伊 tên của y	
+倚	Ỷ	倚勢 ỷ thế · 倚權 ỷ quyền · 倚賴 ỷ lại	
+倚	ỉ	陰倚 âm ỉ	
+椅	Ỷ	丐椅 cái ỷ	
+𧱺	ỉ	𤞼𧱺 lợn ỉ	
+𡏉	yến	𠬠𡏉 một yến	單位𢵋 đơn vị đo
+夭	YỂU	𣩂夭 chết yểu	
+夭	ỉu	夭僄 ỉu xìu	
+窈	YỂU	窈窕 yểu điệu	
+𤄬	ke	䛒𤄬 xạo ke · 𠰘沚𤄬 miệng chảy ke ·性伮𤄬𡗋 tính nó ke lắm	
+𢩫	kẻ	𢩫𠬠塘𨱽 kẻ một đường dài	
+𦵗	ké	束𦵗 thúc ké	
+䗁	kè	則䗁 tắc-kè [摱]	
+𥰇	kè	坡𥰇 bờ kè · 笈𥰇 cặp kè [𠸨] · 𪂲𥰇 cò kè [𠸨]	
+𠴜	kẽ	𠴜汻 kẽ hở · 𣷯𠴜 cặn kẽ	
+笄	KÊ	及笄 cập kê	
+嵇	kê	籺嵇 hạt kê	
+雞	KÊ	𡥵雞 con kê	
+𡚄	kếch	𡚄𣭃 kếch xù · 𫰅𡚄 to kếch	
+𥗌	kệch	粗𥗌 thô kệch · 𥗌慬 kệch cỡm	
+鐱	kẽm	𡎡鐱 mỏ kẽm · 錢鐱 tiền kẽm	
+摼	ken	摼𠓨 ken vào · 摼徠坡樔 ken lại bờ rào · 𣘃樻𠚐摼𪠗 cây cối mọc ken dày	
+挸	kén	挸譔 kén chọn	
+繭	kén	襖繭 áo kén · 蒐繭 cùi kén	
+𥱲	kèn	丐𥱲 cái kèn · 𥱲距 kèn cựa	
+䌑	kên	䌑簦 kên đăng · 䌑𬌓䉒 kên tấm phên	
+𪅤	kên	𡥵𪅤𪅤 con kên kên	
+𨪝	kền	𨬈𨪝 mạ kền [摱] · 尼𨪝 ni-ken(kền) [摱]	
+鏗	keng	鈴鏗 leng keng [聲]	
+𡙴	kềnh	𨫋𡙴 cồng kềnh [𠸨] · 𡙴𪨈 kềnh càng ·泠𡙴 lềnh kềnh · 遴𡙴 lăn kềnh · 車載 𢭰𡙴 xe tải đổ kềnh	
+𢙼	kễnh	忣𢙼 cập kễnh	
+𤠃	kễnh	𡥵𤠃 con kễnh · 𤠃䏾 kễnh bụng	
+膠	keo	膠杣 keo sơn · 𣘃膠𦖻象 cây keo tai tượng	
+撟	kèo	杈撟 xà kèo	
+𡝔	kép	𡝔喝 kép hát	
+鋏	kẹp	鉗鋏 kìm kẹp · 𥼕鋏 lép kẹp	
+咭	két	嗗咭 cót két [聲] · 咭鉑 két bạc [摱]	
+𪆰	két	䴌𪆰 mòng két	
+岐	KÌ	三岐 Tam Kì	
+妓	KĨ	妓女 kĩ nữ	
+𠼻	kìa	𠼻！ Kìa! [嘆]	
+𠼻	cơ		⇔ 𠼻 kìa
+𣈒	kìa	𣈜𣈒 ngày kìa	
+𪆺	kịch	𪀄𪆺 chim kịch	
+臉	KIỂM	盎桃臉 áng đào kiểm	
+鹼	KIỀM	質鹼 chất kiềm · 鹼土 kiềm thổ · 金類鹼 kim loại kiềm	
+犍	KIỀN	目犍連 Mục Kiền Liên	
+榩	kiền	楛榩 gỗ kiền · 榩榩 kiền kiền	
+鍄	kiềng	蹎鍄 chân kiềng · 𤥑鍄 vòng kiềng · 凭如鍄𠀧蹎 vững như kiềng ba chân	
+𤵹	kiết	𤵹痢 kiết lị	
+喬	KIỀU	𣱆喬 họ Kiều · 喬富 Kiều Phú	
+蕎	KIỀU	蕎麥 kiều mạch	
+韭	kiệu	榘韭 củ kiệu	
+轎	KIỆU	𢷰轎 khiêng kiệu · 轎蠬 kiệu rồng	
+𠎠	kỉnh	㤧𠎠 cáu kỉnh · 𰈼𠎠 lỉnh kỉnh	
+勍	KÌNH	勍𢶢 kình chống · 勍敵 kình địch · 勍僥 kình nhau	
+鯨	KÌNH	鯨魚 kình ngư · 𣖖鯨 chày kình · 𩵜虎鯨 cá hổ kình	
+喼	kíp	喼𫜵𣎀 kíp làm đȇ m [摱]	
+𤌀	kíp	𤌀砮 kíp nổ · 銃𤌀 súng kíp	
+桀	kịt	礄桀 kĩu kịt	
+礄	kĩu	礄桀 kĩu kịt	
+柯	KHA	𣱆柯 họ Kha	
+疴	KHA	沉疴 trầm kha	
+軻	KHA	孟軻 Mạnh Kha · 荊軻 Kinh Kha	
+楷	KHẢI	楷書 khải thư	
+慨	KHÁI	感慨 cảm khái · 慷慨 khảng khái	
+𤡚	khái	𡥵𤡚 con khái	
+𥳐	khay	𥳐茶 khay trà · 𥳐𦺓 khay trầu	
+𫫤	khảy	唭𫫤 cười khảy · 吶𫫤 nói khảy	
+堪	KHAM	不堪 bất kham · 堪苦 kham khổ · 可堪 khả kham · 難堪 nan kham · 堪役𥘀 kham việc nặng	
+戡	KHAM	戡亂 kham loạn	
+坎	KHẢM	卦坎 quái Khảm	
+龕	KHÁM	丐龕𰨂 cái khám thờ	
+𠥈	khám	𠓨囚𠚢𠥈 vào tù ra khám	
+𦤯	khắm	𫫭𦤯 khai khắm	
+衾	KHÂM	衾殮 khâm liệm	
+撳	khấm	撳可 khấm khá	
+侃	khản	侃㗂 khản tiếng · 侃𭉪 khản đặc · 𠰩侃 giọng khản	
+𠰙	khàn	𠰙𦙶 khàn cổ · 𠰙𠰙 khàn khàn	
+糠	KHANG	糟糠 tao khang	
+卿	KHANH	愛卿 ái khanh · 卿將 khanh tướng · 國務卿 quốc vụ khanh	
+拷	KHẢO	拷問 khảo vấn	
+𥹬	khảo	餅𥹬 bánh khảo	
+𡂀	kháo	𡂀𡀯 kháo chuyện · 𡂀僥 kháo nhau	
+伋	khấp	伋俓 khấp khểnh	
+𨂖	khập	𨂖𨁍 khập khiễng	
+蔻	KHẤU	豆蔻 đậu khấu	
+蔻	kháu	蔻𠾶 kháu khỉnh	
+𤌳	khê	𩚵𤌳 cơm khê · 饒𤌳 nhiêu khê	
+契	KHẾ	契約 khế ước · 𫜵詞契𬥓𡐙 Làm tờ khế bán đất	
+栔	khế	𣘃栔 cây khế	
+憩	khệ	憩泥 khệ nệ	
+慊	khem	𠼤慊 kiêng khem	
+俓	khểnh	伋俓 khấp khểnh · 㑲俓 nằm khểnh	
+𩨼	kheo	𩨼蹎 kheo chân	
+𤋸	khét	𤋸哷 khét lẹt · 𤋸㗂 khét tiếng	
+撬	khều	撬𢪮 khều móc	
+棄	KHÍ	放棄 phóng khí	
+𠿁	khì	𠿁𠿁 khì khì	
+𧪢	khị	誘𧪢 dụ khị	
+㓶	khía	㓶𧣲 khía cạnh	
+欠	KHIẾM	欠缺 khiếm khuyết · 欠雅 khiếm nhã ·欠聽 khiếm thính	
+牽	KHIÊN	牽強 khiên cưỡng	
+㯠	khiên	丐㯠 cái khiên	
+㯠	khiêng	𢷰𠽢 khiêng vác · 𢷰𫆥 khiêng cáng	
+𢷰	khênh		⇔ 𢷰 khiêng
+𨁍	khiễng	𨂖𨁍 khập khiễng	
+𠾶	khỉnh	蔻𠾶 kháu khỉnh · 𠲮𠾶 khinh khỉnh · 𠺱𠾶 khủng khỉnh	
+𢝛	khít	𢝛犒 khít khao [𠸨]	
+喫	khịt	喫𪖫 khịt mũi · 嗗喫 khụt khịt · 列喫 lịt khịt	
+𠰋	khiu	肯𠰋 khẳng khiu [𠸨]	
+𤇌	kho	𬚸𤇌 thịt kho	
+袴	KHỐ	丐袴 cái khố	
+𠍲	khơ	𠍲楣 Khơ-me (Khmer) [摱] · 𠍲𩹮 Khơ Mú	
+𤵕	khờ	𤵕叩 khờ khạo [𠸨] · 傴𤵕 khù khờ · 𠻇 𤵕 dại khờ	
+挎	khoa	挎𢬣𢱖蹎 khoa tay múa chân	
+裸	KHOẢ	裸身 khoả thân	
+裸	loã	裸露 loã lồ	
+𬈎	khoả	𬈎蹎朱滌 khoả chân cho sạch · 𢚹𬈎 khuây khoả [𠸨]	
+掛	khoải	刻挂 khắc khoải	
+𬜴	khoáy	債𬜴 trái khoáy · 頭伮固𠄩𬜴 đầu nó có hai khoáy	
+鑧	khoan	𣛠鑧 máy khoan	
+𦨻	khoang	𦨻船 khoang thuyền	
+儣	khoắng	拞儣 khua khoắng	
+拀	khoanh	拀𢬣 khoanh tay · 拀餅麪 khoanh bánh mì · 拀答案倲 khoanh đáp án đúng	
+𤄃	khoát	𤄃𢬣 khoát tay	
+𥉯	khoé	𬔽𥉯 mánh khoé · 𧣲𥉯 cạnh khoé · 𥉯眜 khoé mắt	
+儌	khoẻo	𣱾儌 lẻo khoẻo	
+鈌	khoét	鈌𡓇 khoét lỗ · 鑟鈌 đục khoét	
+盔	KHÔI	盔甲 khôi giáp	
+傀	KHÔI	奇傀 kì khôi	
+𢐎	khom	𢐎𨉞 khom lưng · 𦡶𢐎 lom khom	
+莰	khóm	莰𣘃 khóm cây	
+閫	KHỔN	閨閫 khuê khổn	
+𢪬	khòng	挵𢪬 lòng khòng [𠸨]	
+𢪬	khỏng	挵𢪬 lỏng khỏng [𠸨]	
+𨨤	khớp	𨨤𩩫 khớp xương	
+𦟏	khu	丐𦟏 cái khu	
+𤹪	khú	𦯬𤹪 dưa khú · 𫅷𤹪 già khú	
+傴	khù	傴𤵕 khù khờ · 瀘傴 lù khù	
+呿	khư	呿呿 khư khư	
+啹	khừ	吃啹 khật khừ · 𡃖啹 lừ khừ · 許𢡠啹 hứa chắc khừ · 學勁啹 học cứng khừ	
+拞	khua	拞儣 khua khoắng · 拞𠃅棹 khua mái chèo	
+𪲀	khua	𪲀𥶄 khua nón	
+佉	khứa	佉老 khứa lão · 客佉 khách khứa · 懇佉 khấn khứa [𠸨]	
+𢚹	khuây	解𢚹 giải khuây · 𢚹𬈎 khuây khoả [𠸨]	
+捃	khuân	捃𠽢 khuân vác	
+閨	KHUÊ	閨閣 khuê các · 閨房 khuê phòng	
+擴	KHUẾCH	擴大 khuếch đại · 擴散 khuếch tán · 擴張 khuếch trương	
+啟	khui	啟𠚢 khui ra · 啟𥑂𨢇 khui chai rượu	
+𧘚	khuy	𧘚襖 khuy áo · 𧘚裙 khuy quần	
+圈	KHUYÊN	圈𦖻 khuyên tai	
+𣎣	khuỷu	𣎣𢬣 khuỷu tay	
+穹	khum	穹穹 khum khum	
+𨆃	khúm	𨆃埝 khúm núm	
+𠺱	khủng	𠺱𠾶 khủng khỉnh	
+掯	khựng	𤗆役調掯徠 mọi việc đều khựng lại · 當 𠫾唪掯徠 đang đi bỗng khựng lại	
+羌	KHƯƠNG	𠊛羌 người Khương	
+姜	KHƯƠNG	𣱆姜 họ Khương	
+𢓋	khưỡng	吃𢓋 khật khưỡng	
+肐	khướt	醝肐 say khướt	
+騾	la	𡥵騾 con la	
+𪫦	lả	殀𪫦 ẻo lả · 𪫦𪭥 lả tả	
+𪡉	lã	渃𪡉 nước lã	
+洛	lác	𢸠洛 khoác lác · 𦠱洛 phét lác  · 洛鐸 lác đác	
+櫟	lác	𦹯櫟 cỏ lác	
+𥋷	lác	𥋷眜 lác mắt	
+鴼	lạc	𪀄鴼 chim lạc	
+釛	lắc	𬌓釛 tấm lắc	
+肋	LẶC	雞肋 kê lặc	
+肋	lặc	肋嚟 lặc lè	
+勒	LẶC	彌勒 Di Lặc · 縣玉勒 Huyện Ngọc Lặc	
+勒	lắc	得勒 Đắk Lắk (Đắc Lắc)	𡨸尼得讀如格發音尼只𥪝名詞 𥢆尼。 Chữ này được đọc như cách phát âm này chỉ trong danh từ riêng này.
+𥷒	lách	𦰤𥷒 lau lách	
+𫇀	lách	蘿𫇀 lá lách	
+𤃝	lạch	𤃝瀧 lạch sông	
+𤃝	rịch	濁𤃝 rục rịch [𠸨]	
+棶（梾）	lai	𣘃棶 cây lai	
+𢆠	lài	𢆠𢆠 lài lài	
+𧕬（𧕬󠄁）	lãi	𡥵𧕬 con lãi	
+𠸨	láy	𠸨眜 láy mắt · 詞𠸨 từ láy	
+𪭼	lẩy	𪭼𤔻𢬣 lẩy móng tay · 憞𪭼㔥 run lẩy bẩy	
+浰	lầy	湓浰 bùn lầy · 蹉浰 sa lầy · 浰洡 lầy lội	
+𢹿（𢬦）	lẫy	𠀧𣎃別𢹿 ba tháng biết lẫy · 𢯒𢹿 bóp lẫy	
+嵐	LAM	嵐瘴 lam chướng	
+糮	lam	𩚵糮 cơm lam	
+淋	LÂM	淋漓 lâm li	
+霖	lâm	霖𩂐 lâm dâm	
+壈	lấm	𡓔湓 lấm bùn · 𡓔𬌓 lấm tấm · 𡓔濂 lấm lem	
+凜	lẫm	凜冽 lẫm liệt	
+廩	lẫm	廩𥟉 lẫm thóc	
+𨈇	lẫm	𨓐𨈇 lạ lẫm · 𨈇踸 lẫm chẫm	
+爛	LẠN	燦爛 xán lạn	
+䗲	lằn	蜄䗲 thằn lằn	
+𤶾	lằn	浽𤶾 nổi lằn · 𤶾檑 lằn roi	
+僯	lân	𦤾僯 đến lân  · 割僯僥擱 cắt lân nhau gác	
+撛	lân	消撛𠓨呠 tiêu lân vào vốn  · 合撛𨖅𣇜 𣊿 họp lân sang buổi chiều	
+麟	LÂN	麒麟 kì lân	
+𧼁	lẩn	𧼁𠬉 lẩn tránh · 𧼁遁 lẩn trốn	
+𫉱	lang	𫉱𤶒󠄁 lang ben  · 𡥵𤙭𫉱 con bò lang	
+啢	lạng	啢楛 lạng gỗ	
+魎	LẠNG	魍魎 võng lạng	
+鯪	lăng	𩵜鯪 cá lăng	
+㥄	lẳng	㥄𢣻 lẳng lơ · 竉㥄 lủng lẳng · 㥄𠫾 lẳng đi · 㥄𣼽 lẳng lặng [𠸨]	
+䗀	lằng	𧋆䗀 ruồi lằng · 䗀嚷 lằng nhằng [𠸨]	
+𬕨	lẵng	𬕨花 lẵng hoa	
+欞	lanh	𣘃欞 cây lanh [摱]	
+嶗	lao	岣嶗 cù lao	
+癆（痨）	LAO	病癆 bệnh lao	
+㧯	lảo	㧯倒 lảo đảo · 傠㧯 thảo lảo	
+澇	LẠO	水澇 thủy lạo	
+澇	lạo	澇𫩟 lạo xạo · 磟澇 lục lạo · 𪵅澇 lộn lạo	
+啦	láp	𦧷啦 liếm láp · 吶噃啦 nói bá láp	
+粒	LẠP	粒體 lạp thể	
+蠟	LẠP	白蠟 bạch lạp	
+蠟	sáp	粉蠟 phấn sáp · 蠟螉 sáp ong	
+𬅀	lát	楛𬅀 gỗ lát	
+喇	LẠT	喇嘛 lạt ma	
+𥶁	lạt	𧵑𠊛菩薩、𧵑𨉟𥶁𫃚 của người Bồ tát, của mình lạt buộc	
+搮	lắt	搮嘹 lắt léo · 搮𣱾 lắt lẻo · 搮摛 lắt lay · 㨋搮𧴱 trả lắt nợ	
+㗚	lất	秩㗚 trật lất	
+㗚	rật	𠻤㗚 rần rật [𠸨]	
+嗍	láu	嗍𰈼 láu lỉnh · 嗹嗍 liến láu	
+恅	làu	恅恅 làu làu · 恅垉 làu bàu [𠸨]	
+瘺	lậu	病瘺 bệnh lậu	
+𠻗	le	雙𠻗 song le · 惏𠻗 lăm le [𠸨]	
+𠻗	nhe	惏𠻗 nhăm nhe [𠸨]	
+𪅆	le	𪀄𪅆𪅆 chim le le	
+嚟	lè	嚟𦧜 lè lưỡi · 嚟𪷗 lè tè · 青嚟 xanh lè	
+藜	LÊ	藿藜 hoắc lê	
+𣠲（𣑶）	lể	計𣠲 kể lể · 𣠲荄 lể gai	
+𨘸	lếch	𨘸逖 lếch thếch	
+𩽏	lệch	𩵜𩽏 cá lệch	
+𩽏	lịch		⇔ 𩽏 lệch
+𩽏	nhệch		⇔ 𩽏 lệch
+濂	lem	濂溽 lem luốc · 濂濂 lem nhem [𠸨]	
+濂	nhem	𤆹濂 nhá nhem · 濂溽 nhem nhuốc · 濂濂 lem nhem [𠸨] · 𤷳濂 nhom nhem [𠸨]	⇔ 濂 lem
+𡄥	lẻm	𡄥𡄥 lem lẻm [𠸨]	
+𡄥	lem		⇔ 𡄥 lẻm
+蘝	lém	蘝蘝𠸄 lém lỉnh [𠸨]	
+𠿳	lèm	𠿳𣲹 lèm nhèm	
+歛	lẹm	歛肣 lẹm cằm · 銫歛 sắc lẹm	
+縺	len	襖縺 áo len [摱]	
+𨇍	lẻn	拮𨇍 cất lẻn · 𨇍圇 lẻn tròn	
+鈴	leng	鈴鏗 leng keng [聲] · 鈴鋲 leng beng	
+泠	lênh	泠汀 lênh đênh	
+泠	lềnh	泠浧 lềnh sềnh · 泠泙 lềnh bềnh	
+𩻻	leo	𩵜𩻻 cá leo	
+𣱾	lẻo	挵𣱾 lỏng lẻo · 蹽𣱾 leo lẻo · 𠼽𣱾 mách lẻo · 搮𣱾 lắt lẻo · 㓭𣱾 hớt lẻo · 𣱾𠵐 lẻo mép	
+膫	lèo	渃膫 nước lèo	
+繚	lèo	繚梩 lèo lái · 繚蕘 lèo nhèo · 絏繚 dây lèo · 𡨺繚 giữ lèo · 繚賞 lèo thưởng	
+𠖭	lẽo	冷𠖭 lạnh lẽo [𠸨] · 𤁕𠖭 lạt lẽo [𠸨]	
+瞭	lẹo	瞭眜 lẹo mắt · 荎瞭 chuối lẹo · 𧐖瞭 lươn lẹo [𠸨] · 瞭俏 lẹo tẹo [𠸨]	
+𥼕	lép	𥼕鋏 lép kẹp	
+𥉬	lét	蹽𥉬 leo lét	
+哷	lẹt	𤋸哷 khét lẹt	
+𨀺	lết	𠠍𨀺 lê lết	
+咧	lệt	咧𡋾 lệt bệt · 咧𣻂 lệt xệt	
+𡃔	lêu	𡃔！ lêu! [嘆] · 𡃔𭍌 lȇ u lổng · 被各伴 𡃔爲𥄬洏 bị các bạn lêu vì ngủ nhè	
+漓	LI	淋漓 lâm li	
+罹	LI	罹難 li nạn	
+唎	lì	唎呾 lì lợm · 𡍚唎 lầm lì · 𥗁唎 trơ lì ·塝唎 phẳng lì	
+痢	LỊ	病痢 bệnh lị · 𤵹痢 kiết lị	
+蒞	LỊ	省蒞 tỉnh lị	
+攡	lia	捿攡 thia lia · 攡攡 lia lịa · 攡𤗖𡊳𬺗坳 lia mảnh sành xuống ao	
+攡	lịa	攡攡 lia lịa	
+𥆁	liếc	𥆁䀡 liếc xem · 𥆁眜 liếc mắt · 𥆁刀 liếc dao	
+鐮	LIÊM	鉤鐮 câu liêm	
+鐮	liềm	𦧜鐮 lưỡi liềm · 伓𦹯憑鐮 bứt cỏ bằng liềm	
+𦧷	liếm	𦧷啦 liếm láp · 𦧷𠵐 liếm mép	
+殮	LIỆM	衾殮 khâm liệm · 殮𠊛 liệm người · 入殮 nhập liệm	
+殮	lịm	𡴯殮 ngất lịm	
+嗹	liến	嗹𠶤 liến thoắng · 嗹嗍 liến láu · 嗹𤠲 liến khỉ · 僶𡮣嗹 thằng bé liến	
+璉	LIỄN	璉𩚵 liễn cơm · 璉𡊳 liễn sành	
+𩙳	liệng	𢒎𩙳 bay liệng · 𩙳𥒥 liệng đá · 𦑃燕𩙳 𤥑 cánh én liệng vòng	
+𩷈	liệt	𩵜𩷈 cá liệt	
+寥	LIÊU	寂寥 tịch liêu	
+了	LIỄU	結了 kết liễu	
+𥋲	lim	𥋲𥇌 lim dim [𠸨]	
+𰈼	lỉnh	嗍𰈼 láu lỉnh · 蘝𰈼 lém lỉnh · 𰈼𠎠 lỉnh kỉnh	
+昤	lình	晠昤 thình lình	
+𡊻	lít	𡊻𭉴 lít nhít  [𠸨] · 𠬠𡊻 một lít [摱] ·眉璃𡊻 mi-li-lít [摱]	
+𥌧	ló	垃𥌧 lấp ló · 𥌧樣 ló dạng · 𥌧眜𠚢 ló mắt ra	
+𡀔	lọ	𡀔羅 lọ là	
+倮	lô	𠊛倮倮 người Lô Lô	
+瀂	lổ	𰺽瀂 loang lổ · 𥘷𡥵於瀂 trẻ con ở lổ	
+𠐔	lố	𠐔礔 lố bịch · 𠐔凌 lố lăng [𠸨] · 𠬠𠐔柑 một lố cam	
+𡋿	lở	𥒮𡋿 vỡ lở · 𡐙𡋿 đất lở	
+籚（𰩲）	lờ	抯籚 thả lờ	
+𠐳（𠐳󠄁）	lợ	𠐳𠐳 lờ lợ [𠸨] · 榘茄𡳝尼𠐳 củ cà-rốt này lợ	
+螺	LOA	噲螺 gọi loa · 丐螺 cái loa	
+𤆷	loá	𤆷眜 loá mắt · 熶𤆷 chói loá	
+𥉹	loà	𤏬𥉹 sáng loà · 霧𥉹 mù loà · 𥉹眜 loà mắt · 𥉹汊 loà xoà	
+𥉹	nhoà	扠𥉹 xoá nhoà · 溂𥉹 nhạt nhoà	
+夥	loã	同夥 đồng loã	
+𤁖	loã	𤁖𧖱 loã máu · 𤁖渃 lõa nước	
+欒（栾）	LOAN	團欒 đoàn loan	
+𰺽	loang	𰺽𠚢 loang ra · 𤵖油𰺽 vết dầu loang · 𡲫染被𰺽 vải nhuộm bị loang	
+𬂆	loảng	𬂆鏯 loảng soảng [聲]	
+𣿅	loãng	𢯠𣿅 pha loãng · 𥺊𣿅 cháo loãng · 𣿅 𩩫 loãng xương	
+𨗺	loanh	𨗺𨒺 loanh quanh [𠸨]	
+唰	loạt	唰咄 loạt xoạt [聲]	
+䱚	lóc	𩵜䱚 cá lóc	
+𠯿	lóc	𠯿唂 lóc cóc [聲] · 哭𠯿 khóc lóc [𠸨]	
+𫼚	lóc	𫼚𬚸 lóc thịt · 遴𫼚 lăn lóc	
+椂	lốc	穭椂 lúa lốc · 椂谷 lốc cốc · 𠬠椂𣷱 một lốc sữa [摱] · 𠬠椂曆 một lốc lịch [摱]	
+𪋖	lốc	𩂀𪋖 cơn lốc	
+𭊛	lộc	𭊛侷 lộc cộc [聲]	
+𤑬	loé	垃𤑬 lấp loé · 𣈢𩅀𤑬𬨠 tia chớp loé lên	
+𤍶	loè	𤇥𤍶 lập loè  · 伮咹面炳包抵𤍶天下 nó ăn diện bảnh bao để lòe thiên hạ	
+𤍶	nhoè	㲸𤍶 ướt nhoè · 被𤍶𠚢 bị nhoè ra	⇔ 𤍶 loè
+𤷯	loét	𡋿𤷯 lở loét · 被𤷯𠚢 bị loét ra · 𤺯𡋿 𤷯𫰅 mụn lở loét to	
+𩁦	loi	𥛭𩁦 lẻ loi [𠸨]	
+𣢹	lỏi	𠬃𣢹 bỏ lỏi · 卒𣢹 tốt lỏi	
+䋘	lòi	䋘𠚢 lòi ra · 䋘綷 lòi tói	
+𤞖	lòi	𤞼𤞖 lợn lòi	
+𣑳	lõi	骨𣑳 cốt lõi	
+𥑶	lọi	熶𥑶 chói lọi · 磟𥑶 lục lọi  · 𥑶蹎 lọi chân	
+𪆼	lôi	𪃿𪆼 gà lôi	
+𡋃	lồi	𡋃𡔑 lồi lõm · 𡋃眜 lồi mắt	
+蕾	LỘI	花蕾 hoa lội	
+𩭷（𩭷󠄁）	lơi	𪫦𩭷 lả lơi · 捹𩭷紀律 buông lơi kỷ luật	
+𭇶	lới	𬔽𭇶 mánh lới	
+𪘌	lợi	𪘵𪘌 răng lợi	
+𦡶	lom	𦡶𢐎 lom khom	
+𦗝	lỏm	𦖑𦗝 nghe lỏm · 學𦗝 học lỏm	
+𦗝	lóm		⇔ 𦗝 lỏm
+㘕	lòm	𧹻㘕 đỏ lòm · 𣞻䣷㘕 bưởi chua lòm	
+𡔑	lõm	𡋃𡔑 lồi lõm · 𡔑澟 lõm bõm · 𡔑𠓨 lõm vào	
+𤒢	lốm	𤒢玷 lốm đốm	
+礷	lộm	礷𥖜 lộm cộm [𠸨]	
+𡾭	lởm	𡾭𡹟 lởm chởm	
+呾	lợm	呾𠰩 lợm giọng · 唎呾 lì lợm	
+錀	lon	錀錫 lon thiếc	
+𫐮	lỏn	𫐮𠓨 lỏn vào · 𫐮𠚢 lỏn ra	
+崙	lôn	崑崙 Côn Lôn	
+侖	lổn	侖𫣑 lổn nhổn [𠸨]	
+腀	lồn	丐腀之勢？ cái lồn gì thế? [俗]	
+瀨	lởn	瀨湲 lởn vởn	
+㑝	lóng	㗂㑝 tiếng lóng	
+𢃈	lọng	傘𢃈 tàn lọng  · 𢂎𢃈 dù lọng	
+𭍌	lổng	𭍌偅 lổng chổng · 𡃔𭍌 lȇ u lổng	
+弄	LỘNG	弄權 lộng quyền	
+弄	lụng	𫜵弄 làm lụng [𠸨]	
+苙	lóp	苙𥼕 lóp lép	
+𡂏	lộp	𡂏𠶙 lộp bộp · 𡂏𠺻 lộp cộp	
+菈	lợp	菈茹 lợp nhà · 菈𢃱 lợp mũ	
+葎	lốt	蘿葎 lá lốt · 𧋻𠊝葎 rắn thay lốt · 𤢿戴葎裘 sói đội lốt cừu	
+𣼷	lớt	𣼷咈 lớt phớt [𠸨]	
+罏（𬙎）	lu	罏渃 lu nước · 丐罏 cái lu	
+葇	lú		
+葇	nhú	葇𬨠 nhú lên · 𦹰𣘃㐌葇 mầm cây đã nhú	
+瀘（泸）	lù	瀘瀘 lù lù · 瀘𣭃 lù xù [𠸨]	
+攎（𢫘）	lư	扐攎 lắc lư [𠸨]	
+𡃖	lừ	𡃖啹 lừ khừ · 𡃖𣴙 lừ đừ · 𡃖眜 lừ mắt · 𤻻𡃖 mệt lừ · 𤮾𡃖 ngọt lừ	
+泐	lự	𠊛泐 người Lự	
+摟	lùa	摟𠓨 lùa vào · 摟畜物散𠖾徠 lùa súc vật tản mát lại	
+𫄎（𫄄）	lụa	𫄎紋 lụa vân	
+呂	lữa	吝呂 lần lữa	
+踚	luẩn	踚𨆤 luẩn quẩn	
+𩺮	lục	𩵜𩺮 cá lục	
+𫦨	lức	𥽌𫦨 gạo lức · 𦹳𫦨 thơm lức	
+𤈞	lùi	𤈞𧃷 lùi khoai	
+𥟹	lụi	殘𥟹 tàn lụi · 𥟹敗 lụi bại · 𥟹𢷴 lụi cụi [𠸨] · 𥟹𩵜 lụi cá	
+𮎫	lụi	𣘃𮎫 cây lụi	
+壘	LUỸ	戰壘 chiến luỹ · 障壘 chướng luỹ · 營壘 dinh luỹ · 屯壘 đồn luỹ · 壕壘 hào luỹ · 城壘 thành luỹ	
+戀	LUYẾN	留戀 lưu luyến · 眷戀 quyến luyến · 戀愛 luyến ái · 戀惜 luyến tiếc · 自戀 tự luyến	
+𡄁	lúm	𡄁銅錢 lúm đồng tiền	
+菻	lùm	菻𣘃 lùm cây · 𣹓菻 đầy lùm · 菻菻 lùm lùm	
+𣼍	lún	𣼍𬺗 lún xuống · 泏𣼍 sụt lún · 𣼍濆 lún phún	
+𠍓	lùn	𠍓隰 lùn thấp	
+竉（竉󠄁）	lủng	竉㥄 lủng lẳng · 竉栱 lủng củng · 竉𠬠 𡊲 lủng một chỗ	
+蘢（蘢󠄁）	lùng	𦹯蘢 cỏ lùng	
+朗	lững	朗賞 lững thững [𠸨]	
+𤊒	luộc	𤊒𤇪 luộc chín · 𤊒蔞 luộc rau	
+懢	luộm	懢愖 luộm thuộm [𠸨]	
+掄	luồn	掄攊 luồn lách	
+掄	lòn		⇔ 掄 luồn
+𧐖	lươn	𡥵𧐖 con lươn · 𧐖瞭 lươn lẹo [𠸨]	
+隴（𨻫）	luống	隴蔞 luống rau · 隴㤮 luống cuống [𠸨]	
+梁	LƯƠNG	梁棟 lương đống	
+𦂻	luốt	剟𦂻 tuốt luốt	
+𧙀	lúp	鏡𧙀 kính lúp [摱]	
+㡴	lụp	㡴䉅 lụp xụp · 㡴𠌷 lụp chụp · 㡴芣 lụp bụp	
+茟	lút	茟頭 lút đầu	
+硫	LƯU	硫磺 lưu hoàng	
+嘛	MA	喇嘛 lạt ma	
+𡏢	mả	𣒵𡏢 cải mả · 墓𡏢 mồ mả · 改𡏢 cải mả	
+罵	MẠ	辱罵 nhục mạ · 凌罵 lăng mạ	
+𥢂	mạ	穭𥢂 lúa mạ	
+𨬈	mạ	𨬈鐄 mạ vàng	
+𨬈	mách	𠼽𣱾 mách lẻo	
+𠼽	méc		⇔ 𠼽 mách
+䁲	mại	眜固䁲 mắt có mại	
+𫙽（𱆤）	mại	𩵜𫙽 cá mại	
+𡮳	mảy	𡮳𡮳 mảy may · 𠬠𡮳 một mảy	
+𡮳	may		⇔ 𡮳 mảy
+𩄲	mây	𩙍𩄲 gió mây · 𩄲黰 mây đen	
+𫂗	mây	行𫂗𥯌撣 hàng mây tre đan	
+𣎊	mẩy	籺𣎊 hạt mẩy · 𣎊䏧𣎊𬚸 mẩy da mẩy thịt	
+𨊋	mẩy	𨉟𨊋 mình mẩy	
+𡕩	măm	𠴊𡕩 Rơ Măm	
+鎫	mâm	鎫𩚵 mâm cơm · 鎫𥸷 mâm xôi · 鎫鍮 mâm thau	
+𢠧	mẩm	𢡠𢠧 chắc mẩm [𠸨]	
+𢠧	mèm	醝𢠧 say mèm · 𫇰𢠧 cũ mèm	
+蔓	mạn	茶蔓 chè mạn	
+蔓	mơn	蔓蔓 mơn mởn [𠸨]	
+蔓	mởn	蔓蔓 mơn mởn [𠸨] · 𬏇蔞青蔓 ruộng rau xanh mởn	
+𫇞	mạn	𫇞船 mạn thuyền	
+𪉽	mặn	𪉽濃 mặn nồng	
+抿	mân	抿𢺀 mân mó · 抿迷 mân mê	
+𢠨	mẩn	迷𢠨 mê mẩn	
+𢠨	mấn	𢃱緍 mũ mấn	
+緍	mân		⇔ 緍 mấn
+㨉	mần	㨉役 mần việc · 頻㨉 tần mần	
+敏	MẪN	勤敏 cần mẫn · 敏感 mẫn cảm  · 敏幹 mẫn cán	
+槾	mận	𣘃槾 cây mận · 槾桃 mận đào	
+𤞽	mang	𡥵𤞽𡥵狔 con mang con nai	
+莽	mảng	莽䏧 mảng da  · 莽𦖑 mảng nghe · 莽悁 mảng quên	
+𣙷	máng	𣙷渃 máng nước · 𣙷㵊 máng xối	
+杧	mãng	𣘃杧球 cây mãng cầu	
+蟒	MÃNG	蟒蛇 mãng xà · 襖蟒 áo mãng	
+笀	măng	笀西 măng tây · 𢫚笀 xáo măng · 嗤笀 xi-măng [摱]	
+𩷶	măng	𩵜𩷶 cá măng	
+𠻵	mắng	𠯦𠻵 thét mắng · 𠻵𠲔 mắng nhiếc · 𠯽 𠻵 chửi mắng · 𠻵𠯽 mắng chửi · 聒𠻵 quát mắng	
+𬔽	mánh	𬔽𥉯 mánh khoé · 𬔽𭇶 mánh lới	
+𢅆	mành	𢅆𢅆 mành mành · 船𢅆 thuyền mành	
+𫙍	mãnh	翁𫙍 ông mãnh	
+旄	MAO	旗旄 cờ mao	
+𦙤	mào	𢵱𦙤 khơi mào	
+卯	MÃO	𣇞卯 giờ Mão · 辛卯 Tân Mão	
+𠸾	mấp	𠸾塻 mấp mô	
+𬟼	mát	𡥵𬟼 con mát (mạt)	
+𬟼	mạt	𬟼𪃿 mạt gà	
+末	MẠT	末劫 mạt kiếp · 末項 mạt hạng · 𠀳末 rẻ mạt	
+牟	MÂU	釋迦牟尼 Thích Ca Mâu Ni	
+牟	MƯU	牟利 mưu lợi	
+𠇩	mẩu	𠇩餅麪 mẩu bánh mì · 𠄩𠇩信 hai mẩu tin	
+𥭏	mấu	𥭏𢱝 mấu chốt	
+茂	MẬU	茂才 mậu tài	
+楣	me	𣘃楣 cây me	
+𥻙	mẻ	𩚵𥻙 cơm mẻ	
+𠩕	mé	𪜻𠩕 xếch mé · 邊𠩕債 bên mé trái	
+𫃎	mè	油𫃎 dầu mè · 𪉥𫃎 muối mè	
+𩹪	mè	𩵜𩹪 cá mè	
+𭩽	mè	榱𭩽 rui mè	
+米	MỄ	米西基 Mễ Tây Cơ	
+米	mễ	禮米 lễ mễ	
+𥊋	mếch	𥊋𢚸 mếch lòng	
+䟨	men	䟨蹺 men theo	
+𥾃（𥾃󠄁）	men	𥾃𨢇 men rượu	
+鏝	mèn	鐘鏝 chuông mèn · 咖鏝 cà-mèn [摱]	
+𧓭	mèn	𧍝𧓭 dế mèn	
+渵	meo	霂渵 mốc meo · 𬨠渵 lên meo · 渵渵 meo meo [聲]	
+𮘃	mẹo	謀𮘃 mưu mẹo	
+瀎	met	其露瀎 kí(ki)-lô-mét [摱]	
+𥬎	mẹt	丐𥬎 cái mẹt · 𩈘𥬎 mặt mẹt	
+𠴕	mếu	𠴕𠴕 mếu mếu · 𠴕𠰭 mếu máo	
+𥈢	mí	𥈢眜 mí mắt	
+𠸍	mỉa	𠸍腜 mỉa mai	
+𣖙	mía	𣘃𣖙 cây mía · 梇𣖙 gióng mía	
+覓	MỊCH	覓訪 mịch phỏng	
+覓	mích	斥覓 xích mích	
+寞	MỊCH	寂寞 tịch mịch · 靜寞 tĩnh mịch · 寞寞 mịch mịch	
+謐	MỊCH	靜謐 tĩnh mịch	
+冕	MIỆN	𢃱冕 mũ miện	
+𠰳	miếng	𠰳咹 miếng ăn	
+𨬋	miếng	鐄𨬋 vàng miếng	
+篾	miết	𬏽篾 mải miết	
+廟	MIẾU	文廟 văn miếu · 殿廟 đền miếu · 宗廟 tông miếu · 廟貌 miếu mạo	
+媌	miều	美媌 mĩ miều	
+𠻦	mím	𠻦腜 mím môi	
+俛	mĩm	俛腜 mĩm môi	
+㒙	min	劫𤯩𫯳㒙𠫾耒 cướp sống chồng min đi rồi	
+姄	mìn	媄姄 mẹ mìn · 姄絻 mìn mịn	
+䂥	mìn	𢱛䂥 rải mìn [摱] · 𢭯䂥 quét mìn [摱]	
+絻	mịn	絻芒 mịn màng [𠸨]	
+䏎	míp	杋䏎 múp míp	
+櫗	mít	𣘃櫗 cây mít · 𡫨櫗 kín mít · 櫗𭉪 mít đặc · 𠾼櫗 tịt mít	
+喵	miu		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𧄲	mo	𧄲榔 mo nang · 𩈘𧄲 mặt mo · 𧄲槔 mo cau · 偨𧄲 thầy mo	
+㖼	mỏ	獸㖼𩿠 thú mỏ vịt	
+𡮘	mỏ	𥘷𡮘 trẻ mỏ	
+𧉦	mò	塢𪃿固𧉦 ổ gà có mò	
+𤑮	mò	𤑮𤆺 mò hóng	
+𫂋	mõ	打𫂋 đánh mõ · 丐𫂋 cái mõ · 𫂋𥯌 mõ tre	
+麽	mô	𠫾麽 đi mô	
+𤇦	mồ	𤇦𤆺 mồ hóng	
+𤇦	bồ		⇔ 𤇦 mồ
+𧪨	mớ	𥄬𧪨 ngủ mớ · 吶𧪨 nói mớ	
+𧜗	mớ	縸𧜗 mắc mớ · 𠬠𧜗役 một mớ việc · 𤾓𠦳萬𧜗抵𠓨兜 trăm nghìn vạn mớ để vào đâu	
+𫲎	mợ	舅𫲎 cậu mợ	
+莯	móc	𣘃莯 cây móc	
+𦙣	mọc	𥻸𦙣 bún mọc	
+霂	mốc	榾𡉿 cột mốc · 𡉿界 mốc giới · 㩒𡉿 cắm mốc	
+𡉿	mốc	𤀔霂 ẩm mốc · 霂渵 mốc meo · 𬨠霂 lên mốc	
+沐	MỘC	沐浴 mộc dục	
+挴	moi	挴𢪮 moi móc	
+𢪛	mói	𤐝𢪛 soi mói · 𫼳𢪛𠫾𥝽 mang mói đi cấy	
+𩸳	mòi	𩵜𩸳 cá mòi	
+𪝅	mòi	䁛𪝅 coi mòi · 𪉽𪝅 mặn mòi · 椎𪝅 chòi mòi	
+𤞦	mọi	𠊛𤞦 người mọi  · 𤞦𤞪 mọi rợ	𡨸異體常﨤𥪝歷史 Chữ dị thể thường gặp trong lịch sử：󱟁
+莓	môi	烏莓 ô môi	
+楳	môi	丐楳 cái môi	
+䗋	mối	𩵜䗋 cá mối ·𧋻䗋 rắn mối	
+烸	mồi	烸焒 mồi lửa	
+𡼇	mỏm	𡼇𡶀 mỏm núi · 𡼇𡐙 mỏm đất · 𡼇𡾫 mỏm đồi	
+𡂅	mõm	𡂅㹥 mõm chó · 𡂅馭 mõm ngựa · 𤇪𡂅 chín mõm	
+𣼺	mớm	咘𣼺 bú mớm · 𣼺𣷱 mớm sữa	
+𬦢󠄁	mon	𬦢󠄁䟨 mon men	
+菛	môn	𧃷菛 khoai môn	
+𢺳（𪮳）	mơn	𢺳𡥵 mơn con · 𢺳鎮 mơn trớn	
+蠓	mòng	𧋟蠓 muỗi mòng	
+䴌	mòng	𪀄䴌 chim mòng · 䴌𪆰 mòng két	
+𭲿	mọng	𢫮𭲿 căng mọng · 𭲿渃 mọng nước · 𤇪 𭲿 chín mọng	
+䑅	mông	䑅𦝂 mông đít	
+冡	mồng	冡𪃿 mồng gà	
+冡	mùng		⇔ 冡 mồng
+𤛔	mộng	𤛠𤛔 trâu mộng	
+漞	móp	漞𠵐 móp mép · 漞𠓨 móp vào	
+䏜	mọp	跪䏜𬺗 quì mọp xuống	
+㩢	mót	𢹦㩢 lượm mót · 㩢抇 mót nhặt · 㩢穭 mót lúa · 㩢瀻 mót đái	
+蠛	mọt	𡥵蠛 con mọt · 螻蠛 sâu mọt	
+𣋻	mốt	𣈜𣋻 ngày mốt · 𣈕𣋻 mai mốt	
+𮪶	mu	𮪶𧒍 mu rùa · 𩩫𮪶 xương mu	
+湈	mủ	𧖱湈 máu mủ · 剛湈 cương mủ	
+𩹮	mú	𩵜𩹮 cá mú	
+嗎	mửa	𠷀嗎 nôn mửa · 𣾿嗎 ói mửa	
+𢪷	múc	𢪷渃 múc nước · 𢪷𥺊 múc cháo	
+睦	MỤC	和睦 hoà mục	
+𥯍	mui	𥯍船 mui thuyền · 𩂏𥯍𬨠 che mui lên	
+𢙽	mủi	𢙽𢚸 mủi lòng	
+脢	múi	脢𣞻 múi bưởi · 脢柑 múi cam	
+𦟣	mũm	𦟣俛 mũm mĩm	
+椚	mun	楛椚 gỗ mun	
+𫃐	mủn	𫃐𠚢 mủn ra · 繜𫃐 tủn mủn	
+𡍜	mùn	𡍜鋸 mùn cưa · 𡍜𪷦 mùn vẩn · 𡍜𧅫 mùn rác	
+𤺯	mụn	𤺯𤷿 mụn nhọt	
+𥶃	mủng	𥴗𥶃 thúng mủng	
+幪	mùng	幪幔 mùng màn	
+𤶼	mưng	𤶼湈 mưng mủ · 𤷿𤶼 nhọt mưng	
+𬄪	muôi	𠬠𬄪羹 một muôi canh	
+𤇿	muồi	𤇪𤇿 chín muồi · 𥄬𤇿 ngủ muồi	
+妹	MUỘI	師妹 sư muội · 賢妹 hiền muội	
+梚	muỗm	𣘃梚 cây muỗm	
+𮔔	muỗm	𡥵𮔔 con muỗm	
+獴	muông	𪀄獴 chim muông · 獴獸 muông thú	
+𦬺	muống	蔞𦬺 rau muống	
+𨮵	muỗng	丐𨮵 cái muỗng	
+𨮵	muỗm		⇔ 𨮵 muỗng
+汒	mương	汒渃 mương nước · 汒汫 mương rãnh ·汒𣙷 mương máng	
+𠉋	mường	𠊛𠉋 người Mường	
+𦲾	mướp	橺𦲾 giàn mướp	
+𠇱	muốt	𤽸𠇱 trắng muốt	
+滵	mướt	滵𠖾 mướt mát · 滵𧺕 mướt rượt · 滵𣳡洃 mướt mồ hôi	
+沫	mượt	沫𣻕 mượt mà [𠸨] · 滃沫 óng mượt · 𩯀沫 tóc mượt · 青沫 xanh mượt	
+杋	múp	杋䏎 múp míp	
+莈	mụt	莈𤷿 mụt nhọt · 莈𧋆 mụt ruồi · 莈笀 mụt măng	
+𦰡	na	果𦰡 quả na	
+嗱	nả	包嗱 bao nả · 擃嗱 nong nả · 沛空嗱？ phải không nả?	
+𥭵	nả	𧵑𥭵 của nả	
+哪	ná	赧哪 nấn ná	
+𫸶	ná	丐𫸶 cái ná · 𢏑𫸶 bắn ná	
+㑚	nà	𧀒㑚 nõn nà	
+拿	NÃ	追拿 truy nã · 公安拿仉奸 công an nã kẻ gian	
+拿	nã	拿炮𠓨屯敵 nã pháo vào đồn địch	
+𫱗	nạ	𫱗𣳔 nạ dòng	
+匿	NẶC	匿名 nặc danh	
+喏	nặc	濃喏 nồng nặc	
+㘃	nấc	㘃𡭕 nấc cụt	
+𮥛	nấc	𮥛簜 nấc thang · 㨢𬨠𠬠𮥛 nâng lên một nấc	
+腋	nách	氍𠓨腋 cù vào nách	
+抳	nai	抳𦄇 nai nịt	
+埿	nai	埿𨢇 nai rượu	
+㭁	nải	𢬣㭁 tay nải · 㭁荎 nải chuối · 𬓐㭁 trễ nải	
+𧈣	nái	螻𧈣 sâu nái	
+𤜠	nái	𤞼𤜠 lợn nái	
+𥾋	nái	𥾋𫄎 lụa nái · 裙𥾋 quần nái	
+𭝎	nại	拯𭝎艱勞 chẳng nại gian lao	
+𢖱	náy	曖𢖱 áy náy [𠸨]	
+𣅅	nãy	班𣅅 ban nãy · 𣅶𣅅 lúc nãy · 欺𣅅 khi nãy	
+腩	nạm	𬖾腩 phở nạm [摱]	
+錜	nạm	錜鐄 nạm vàng	
+𥸁	nan	𥸁𥯌 nan tre	
+儺	nán	儺徠 nán lại · 𡎦儺添 ngồi nán thȇ m	
+赧	nấn	赧哪 nấn ná	
+嫨	nần	𧴱嫨 nợ nần	
+𣡤	nạng	𢶢𣡤 chống nạng · 𣡤𢬣𣡤蹎 nạng tay nạng chân	
+㑷	nằng	㑷喏 nằng nặc [𠸨]	
+饢	nấng	𩝺饢 nuôi nấng [𠸨]	
+𧰗	nành	豆𧰗 đậu nành	
+㝹	nao	㝹農 nao núng [𠸨] · 𠷀㝹 nôn nao	
+鬧	NÁO	鬧動 náo động · 鬧熱 náo nhiệt · 鬧𠽋 náo nức	
+鐃	nạo	鐃鈸 nạo bạt · 𣘃鐃擒窒𢡠𢬣 cây nạo cầm rất chắc tay · 鐃𣛭𣛭 nạo đu đủ	
+𩄵	nấp	隱𩄵 ẩn nấp	
+汭	nập	漝汭 tấp nập	
+𢟹	nẩu		⇔ 耨𧘇 nậu ấy
+𢟹	nẫu		⇔ 𢟹 nẩu
+𤊲	nẫu	𤇪𤊲 chín nẫu · 𤊲𤎐 nẫu nực · 𤊲㑚 nẫu nà	
+耨	nậu	頭耨 đầu nậu · 襖耨 áo nậu	
+𦕗	nẻ	㘿𦕗 nứt nẻ	
+柅	nê	𣘃柅 cây nê	
+泥	NỆ	拘泥 câu nệ	
+泥	nệ	憩泥 khệ nệ	
+逽	nêch		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𨡯	nêm	𨡯羹 nêm canh · 𩻐𨡯 mắm nêm	
+𣑻	nêm	㨂𣑻 đóng nêm · 𣑻𢱝 nêm chốt · 𬘋如 𣑻 chặt như nêm	
+𫫞	nếm	𫫞𱱇 nếm trải · 㑲荄𫫞𦟽 nằm gai nếm mật	
+𧛋	nệm	㑲𧛋 nằm nệm · 𧛋唏 nệm hơi	
+搌	nén	拵搌 dồn nén	
+𦮴	nén	榘𦮴 củ nén · 𦮴鐄 nén vàng · 𦮴香 nén hương	
+𨫀	nén	𠬠𨫀 một nén	單位𢵋 đơn vị đo
+𪰟	nến	𣘃𪰟 cây nến · 畑𪰟 đèn nến · 紙𪰟 giấy nến	
+𢬧	nện	𢬧𡐙 nện đất · 𢬧𡲫 nện vải · 𢬧劕 nện chặt · 𢬧朱𠬠丐 nện cho một cái	
+儜	nênh		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+釖	neo	㖼釖 mỏ neo · 釖逗 neo đậu · 抯釖 thả neo	
+𡑩	nẻo	𨷯𡑩 cửa nẻo · 𡑩塘 nẻo đường · 𡑩賒 nẻo xa · 每𠊛𠬠𡑩 mỗi người một nẻo	
+㨥	nép	𢬱㨥 khép nép · 㨥𬺗 nép xuống	
+𠹑	nẹt	𠴓𠹑 đe nẹt	
+𢟗	nết	𢟗那 nết na · 仄𢟗 trắc nết · 性𢟗 tính nết	
+𪡇	nỉ	𪡇嫩 nỉ non · 奈𪡇 nài nỉ · 𡅧𪡇 năn nỉ · 襖𪡇 áo nỉ [摱] · 𥶄𪡇 nón nỉ [摱]	
+𪡇	nì	𡅧𪡇 nằn nì	⇔ 𪡇 nỉ
+鈮	nĩa	用鈮劅𪿙 dùng nĩa xúc vôi	
+𡀡	ních	𠴐𡀡 núc ních · 𬘋𡀡 chặt ních	
+𦉗	niêu	鈉𦉗 nồi niêu · 𩚵𦉗 cơm niêu	
+尿	NIỆU	尿道 niệu đạo	
+𠲃	nín	𠲃𣼽 nín lặng	
+𥷨	níp	𣗿𥷨 tủ níp	
+𦄇	nịt	絏𦄇 dây nịt · 抳𦄇 nai nịt	
+𫼩	níu	𫼩捁 níu kéo	
+溺	nịu	㕴溺 nũng nịu	
+弩	nỏ	𢹿弩 lẫy nỏ · 弩別 nỏ biết · 弩得 nỏ được	
+𬊨	nỏ	𤇨𬊨 phơi nỏ · 𬊨𠵘 nỏ mồm	
+𦀨	nơ	丐𦀨 cái nơ · 𦀨𧊉 nơ bướm	
+𡝖	nỡ	𡝖芇 nỡ nào	
+𧂭	nóc	𧂭茹 nóc nhà · 𣔻自𧂭𣔻𬺗 dột từ nóc dột xuống	
+𩽖	nóc	𩵜𩽖 cá nóc	
+𣕬	nọc	㨂𣕬 đóng nọc	
+蝳	nọc	蝳毒 nọc độc · 蝳𧋻 nọc rắn · 𧓅蝳 nòng nọc [𠸨]	
+𡄍	nốc	𡄍𨡕 nốc bia · 𡄍𨢇 nốc rượu · 隻𡄍 chiếc nốc	
+𨁡	noi	𨁡蹺 noi theo · 𨁡𦎛 noi gương	
+㐻	nòi	㐻𥞖 nòi giống	
+𣊌	nôi	𣌝𣊌 nắng nôi [𠸨]	
+𥱮	nôi	丐𥱮 cái nôi · 𧽠𥱮 thôi nôi	
+摕	nới	摕挵 nới lỏng	
+𥈶	nom	𥈶𧡊 nom thấy · 𢟙𥈶 chăm nom · 矓𥈶 trông nom · 𥈶蹺 nom theo	
+喃	nôm	𡨸喃 chữ Nôm · 喃那 nôm na	
+𩄑	nồm	𩙍𩄑 gió nồm · 𡗶𩄑 trời nồm	
+䭃	nộm	䭃𧍇 nộm sứa · 䭃花荎 nộm hoa chuối	
+𰑳	nơm	𰑳𢟕 nơm nớp [𠸨]	
+䈒	nơm	䈒扒𩵜 nơm bắt cá	
+𧀒	nõn	𧀒荎 nõn chuối · 𧀒㑚 nõn nà	
+𠷀	nôn	𠷀嗎 nôn mửa · 𠷀㝹 nôn nao	
+擃	nong	擃𩌂 nong giày · 擃飭 nong sức · 擃嗱 nong nả · 椌固擃鏡 khung có nong kính	
+𥵛	nong	𥵛蠶 nong tằm · 丐𥵛 cái nong	
+𧓅	nòng	𧓅蝳 nòng nọc [𠸨]	
+𪇌	nông	𪀄𪁭𪇌 chim bồ nông	
+𢟕	nớp	𰑳𢟕 nơm nớp [𠸨]	
+𠯆	nự	拒𠯆 cự nự	
+𥫭	nứa	𣘃𥫭 cây nứa	
+𠴐	núc	𠴐𡀡 núc ních	
+𤎐	nực	𤎏𤎐 nóng nực · 𤎐唭 nực cười	
+埝	núm	埝𡑵 núm vung · 埝斤 núm cân · 𨆃埝 khúm núm	
+蕽	nùn	蕽稴 nùn rơm	
+憹	núng	㝹憹 nao núng [𠸨]	
+憹	nùng	惱憹 não nùng	
+儂	nùng	𠊛儂 người Nùng	
+㕴	nũng	𫜵㕴 làm nũng · 㕴溺 nũng nịu · 𡥵㕴媄 con nũng mẹ	
+湳	nườm	湳𣻀 nườm nượp [𠸨]	
+䁸	nuông	䁸朝 nuông chiều	
+𢭗	nương	𢭗𨉟𠓨𧦕 nương mình vào ghế	
+𣻀	nượp	湳𣻀 nườm nượp [𠸨]	
+𦄠	nuột	𦄠㑚 nuột nà · 惱𦄠 não nuột [𠸨]	
+𥧩	núp	𥧩𨉟 núp mình · 𥧩𣈖 núp bóng	
+紐	NỮU	紐約 Nữu Ước	
+莪	nga	𦹯莪 cỏ nga	
+鱳	ngác	𩵜鱳 cá ngác	
+㗁	ngạc	㗁𦙥 ngạc họng	
+腭	NGẠC	腭化 ngạc hóa	
+鱷	NGẠC	鯨鱷 kình ngạc	
+𥔲	ngắc	𥔲迯 ngắc ngoải · 𥔲語 ngắc ngứ · 㑋𥔲 ngúc ngắc	
+𡿃	ngách	逧𡿃 ngóc ngách · 𡉦𡿃 ngõ ngách	
+𠊎	ngái	𠊛𠊎 người Ngái	
+𠵨	ngáy	𠵨哺哺 ngáy pho pho	
+𦡡	ngậy	脿𦡡 béo ngậy	
+黔	ngăm	黔黔黰 ngăm ngăm đen	
+吟	ngâm	吟哦 ngâm nga · 吟詩 ngâm thơ · 吟詠 ngâm vịnh	
+汵	ngâm	茄汵𩻐 cà ngâm mắm · 汵𩵽 ngâm tôm	
+𪃛	ngan	𪃛𪄌 ngan ngỗng	
+𩜽	ngán	嗷𩜽 ngao ngán · 𢥇𩜽 chán ngán · 𩜽儼 ngán ngẩm [𠸨]	
+岸	NGẠN	右岸 hữu ngạn · 左岸 tả ngạn	
+諺	NGẠN	諺語 ngạn ngữ	
+𠵫	ngàng	𢣸𠵫 ngỡ ngàng	
+樈	ngạnh	怏樈 ương ngạnh · 箭固樈 tȇ n có ngạnh · 樈𩵜𩵾 ngạnh cá trȇ 	
+𩺿	ngạnh	𩵜𩺿 cá ngạnh	
+嗷	ngao	嘵嗷 nghêu ngao · 喝嗷 hát ngao	
+獒	NGAO	㹥獒 chó ngao	
+遨	NGAO	遨遊 ngao du	
+螯	ngao	𡥵螯 con ngao	
+獓	ngáo	𡥵獓 con ngáo · 獓𧋾 ngáo ộp · 忤獓 ngổ ngáo · 獓𥒥 ngáo đá	
+𬳜	ngát	八𬳜 bát ngát · 𦹳𬳜 thơm ngát · 𬳜香 ngát hương · 𩂁𬳜 ngút ngát	
+𠖯	ngắt	𦻳𠖯 tím ngắt · 冷𠖯 lạnh ngắt	
+𢪰	ngắt	𢪰𠳒 ngắt lời  · 𢪰葻花 ngắt bông hoa	
+𢪰	lắt	𢪰花 lắt hoa	⇔ 𢪰 ngắt
+𣿃	ngấu	𩻐𣿃 mắm ngấu · 𣿃哯 ngấu nghiến	
+湡	ngầu	濁湡 đục ngầu · 矓窒湡 trông rất ngầu	
+𠿄	ngậu	𠿄𬽾 ngậu xị	
+犠（𤚇）	nghé	𡥵犠 con nghé	
+𠊙	nghè	翁𠊙 ông nghè · 𠊙𥾘 nghè sợi	
+𤈝	nghẹ	𤮗𤈝 lọ nghẹ	
+倪	NGHÊ	𣱆倪 họ Nghê · 悞倪 ngô nghê [𠸨] · 𥄬倪 ngủ nghê [𠸨]	
+猊	NGHÊ	狻猊 toan nghê · 𡥵猊 con nghê	
+鯢	NGHÊ	鯨鯢 kình nghê	
+𢣂（𢣂󠄁）	nghễ	傲𢣂 ngạo nghễ	
+𥉥	nghếch	呆𥉥 ngốc nghếch	
+𪭄	nghệch	𩈘𪭄 mặt nghệch · 㘈𪭄 ngờ nghệch · 𪭄愕 nghệch ngạc [𠸨]	
+噖	nghem		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+垷	nghẽn	塞垷 tắc nghẽn	
+𢌎	nghẹt	𢌎咀 nghẹt thở	
+嘵	nghêu	嘵嗷 nghêu ngao	
+嘵	nhéo	叫嘵嘵 kêu nheo nhéo	
+蟯	nghêu	𡥵蟯 con nghêu	
+蟯	ngoèo	蚖蟯 ngoằn ngoèo [𠸨]	
+𥪯	nghễu	𥪯喭 nghễu nghện [𠸨]	
+𥊘	nghía	𥋴𥊘 ngắm nghía	
+儼	NGHIỄM	儼然 nghiễm nhiên	
+儼	ngẩm	心儼 tâm ngẩm · 𩜽儼 ngán ngẩm [𠸨]	
+哯	nghiến	哯𪘵 nghiến răng · 𣿃哯 ngấu nghiến · 𠸂哯 nuốt nghiến	
+㘙	nghỉm	沉㘙 chìm nghỉm · 𤎕㘙 tắt nghĩm	
+頸	nghĩnh	唔頸 ngộ nghĩnh [𠸨]	
+𠑦	nghịt	𠑦𪖫 nghịt mũi · 黰𠑦 đen nghịt · 佟𠑦 đông nghịt · 𠦳𠑦 nghìn nghịt [摱]	
+憢	nghỉu	鐎憢 tiu nghỉu	
+𢫸	ngo	𢫸㧪 ngo ngoe	
+藕	ngó	藕蓮 ngó sen · 藕𧃷 ngó khoai	
+𥄭	ngó	𥄭𧡊 ngó thấy · 𥄭𠶐 ngó nghiêng · 𥄭 𨀑 ngó ngoáy [𠸨]	
+茣	ngò	蔞茣 rau ngò	
+忤	NGỖ	忤逆 ngỗ nghịch · 忤逆 ngỗ ngược	
+忤	ngổ	忤獓 ngổ ngáo	
+𦬶	ngổ	蔞𦬶 rau ngổ	
+訛	ngoa	吶訛 nói ngoa · 刁訛 điêu ngoa	
+鈺	ngoắc	鈺𢬣 ngoắc tay	
+𢫛	ngoặc	𨁪𢫛夾 dấu ngoặc kép	
+𠱓	ngoai	𢢯𠱓 nguôi ngoai [𠸨]	
+迯	ngoải	𥔲迯 ngắc ngoải	
+𨀑	ngoáy	𨀑脽 ngoáy đuôi · 𥄭𨀑 ngó ngoáy [𠸨]	
+𠶃	ngoạm	𠶃𥙩 ngoạm lấy · 㹥𠶃𩩫 chó ngoạm xương	
+蚖	ngoằn	蚖蟯 ngoằn ngoèo [𠸨]	
+𥋓	ngoảnh	𥋓徠 ngoảnh lại · 𥋓𩈘 ngoảnh mặt	
+逧	ngóc	逧𡿃 ngóc ngách · 逧頭 ngóc đầu	
+㧪	ngoe	㧪𭡏 ngoe nguẩy · 𢫸㧪 ngo ngoe · 㧪脽 ngoe đuôi	
+㳉	ngoét	㐳㳉 ngót ngoét	
+𢶼	ngoi	𢶼𠲺 ngoi ngóp · 𢶼𧻭 ngoi dậy	
+𤬪	ngói	坧𤬪 gạch ngói	
+𩿺	ngói	𪀄𩿺 chim ngói	
+𤼔	ngợm	𠊛𤼔 người ngợm · 逆𤼔 nghịch ngợm	
+𪐬	ngòn	黰𪐬 đen ngòn · 𧹻𪐬 đỏ ngòn · 𪐬𤮾 ngòn ngọt · 𪐬𦙴 ngòn chỏ	
+𠽓	ngốn	𠽓𣿃 ngốn ngấu [𠸨]	
+𡅑	ngọng	吶𡅑 nói ngọng · 𡅑𡅑𪶋 ngọng nghịu [𠸨]	
+顒	ngông	顒狂 ngông cuồng	
+𪄌	ngỗng	𪃛𪄌 ngan ngỗng	
+𠲺	ngóp	𢶼𠲺 ngoi ngóp	
+𢚼	ngợp	𤶜𢚼 choáng ngợp · 𢚼𡗶 ngợp trời	
+㐳	ngót	㐳㳉 ngót ngoét · 𠨡㐳 trứng ngót · 㐳 𠬠世紀 ngót một thế kỷ	
+𦬂	ngót	𫈨𦬂 ráy ngót · 蔞𦬂 rau ngót	
+𠯪	ngớt	𠯪𢚷 ngớt giận · 𠯪𩄎 ngớt mưa	
+魚	NGƯ	鮑魚 bào ngư	
+𣊘	ngừ	垠𣊘 ngần ngừ	
+俉	ngữ	俉𧘇𫜵咹之得 ngữ ấy làm ăn gì được	
+敔	ngữ	咹消固敔 ăn tiêu có ngữ	
+𤻭	ngứa	𤻭𠵨 ngứa ngáy [𠸨] · 𤻭蹎 ngứa chân · 𤻭藝 ngứa nghề	
+𭡏	nguây	𭡏𭡏 nguây nguẩy	
+𭡏	nguẩy	𭡏𭡏 nguây nguẩy · 𭡏頭辭挃 nguẩy đầu từ chối	
+𠰻	nguậy	午𠰻 ngọ nguậy [𠸨]	
+㑋	ngúc	㑋𥔲 ngúc ngắc	
+哎	ngủi	𠦯哎 ngắn ngủi [𠸨]	
+𠿯	ngùi	唅𠿯 ngậm ngùi · 𠿯𠿯 ngùi ngùi	
+𬹯	ngửi	𬹯𧡊 ngửi thấy · 𭊪𬹯 hít ngửi · 𬹯苿 ngửi mùi	
+魏	NGUỴ	阿魏 a nguỵ · 𣱆魏 họ Nguỵ	
+月	NGUYỆT	彈月 đàn nguyệt · 月報 nguyệt báo · 月食 nguyệt thực · 經月 kinh nguyệt	
+喁	ngụm	𠬠喁渃 một ngụm nước	
+𤍉	ngùn	𤍉𤈡 ngùn ngụt	
+㥥	ngùng	懝㥥 ngại ngùng	
+𥈴	ngước	𥈴眜 ngước mắt · 𥈴𬨠 ngước lên	
+𢢯	nguôi	𢢯𠱓 nguôi ngoai [𠸨] · 𢢯𢚷 nguôi giận	
+𪸟	nguội	𪸟冷 nguội lạnh · 𩚵𪸟 cơm nguội · 𠏲 𪸟 thợ nguội	
+𢗾	ngượng	𢗾㥥 ngượng ngùng · 𢗾汲 ngượng ngập · 𢗾𢗾𪶋 ngượng nghịu [𠸨]	
+𩓛	ngụp	𩓛𬺗 ngụp xuống	
+𩂁	ngút	𡶀高𩂁 núi cao ngút · 霓𩂁 nghi ngút	
+𤈡	ngụt	𤍉𤈡 ngùn ngụt	
+牛	NGƯU	牛郎 ngưu lang · 金牛 kim ngưu · 𣇟牛 sao ngưu	
+𠰹	nhả	𠰹𠚢 nhả ra · 𠰹𩝇 nhả mồi · 𡂒𠰹 chớt nhả	
+𤆹	nhá	𤆹濂 nhá nhem	
+㦡	nhác	𭞣㦡 nhếch nhác · 𤂗㦡 nháo nhác · 𢙫㦡 nhớn nhác	
+㦡	dác		⇔ 㦡 nhác
+䁻	nhác	䁻𧡊 nhác thấy · 䁻矓 nhác trông	
+啀	nhai	啀𩚵 nhai cơm	
+涯	NHAI	天涯 thiên nhai · 生涯 sinh nhai	
+𦲒	nhài	花𦲒 hoa nhài	
+𦲒	lài		⇔ 𦲒 nhài
+𠽬	nhại	𠽬徠 nhại lại · 𪀄𠽬 chim nhại · 濔𠽬 nhễ nhại · 𠽬𠳒𠊛恪 nhại lời người khác	
+𥅘	nháy	𥅘眜 nháy mắt · 扖𥅘 nhấp nháy	
+𮛢	nhạy	𮛢𤓩 nhạy bén · 𮛢感 nhạy cảm · 𮞊𮛢 nhanh nhạy	
+徍	nhầy	徍濡 nhầy nhụa · 𠍣徍 bầy nhầy	
+岩	NHAM	岩石 nham thạch · 岩險 nham hiểm	
+𩜠	nham	咹𩜠 ăn nham · 糮𩜠 lam nham	
+䚾	nhảm	信䚾 tin nhảm · 吶䚾 nói nhảm · 䚾𡭺 nhảm nhí	
+𰪯	nhám	𰪯𢬣 nhàm tay · 𰪯𰪯 nham nhám [𠸨]	
+𩸶	nhám	𩵜𩸶 cá nhám	
+𠲏	nhắm	𠲏𨢇 nhắm rượu	
+壬	NHÂM	壬申 Nhâm Thân · 壬辰 Nhâm Thìn	
+𠿹	nhẩm	𡀫𠿹 lẩm nhẩm · 併𠿹 tính nhẩm	
+𠰃	nhấm	齽𠰃 gặm nhấm	
+閒	NHÀN	安閒 an nhàn · 閒暇 nhàn hạ · 清閒 thanh nhàn · 閒居 nhàn cư	
+雁	NHẠN	𪀄雁 chim nhạn	
+雁	nhàn		⇔ 雁 nhạn
+絪	nhăn	絪繻 nhăn nhó [𠸨] · 絪𢬨 nhăn nhở ·絪䁱 nhăn nheo · 絪𢪭 nhăn nhúm	
+絪	dăn		⇔ 絪 nhăn
+㗴	nhằn	𣝀㗴 cằn nhằn [𠸨]	
+𣼴	nhẵn	歇𣼴 hết nhẵn · 𣼴𣾶 nhẵn nhụi [𠸨] · 𣼴𩈘 nhẵn mặt · 𠫾𣼴塘 đi nhẵn đường	
+𠽗	nhặn	雅𠽗 nhã nhặn [𠸨]	
+仞	nhẩn	仞芽 nhẩn nha	
+𠯄	nhẫn	自𧘇𠯄𫢩 từ ấy nhẫn nay	
+爙	nhang	爙畑 nhang đèn	
+𠲕	nhăng	掕𠲕 lăng nhăng	
+嚷	nhằng	𠻱嚷 lằng nhằng [𠸨] · 入嚷 nhập nhằng [𠸨] · 二嚷 nhì nhằng [𠸨]	
+𠯹	nhẵng	冗𠯹 nhũng nhẵng	
+蠅	nhặng	𧋆蠅 ruồi nhặng · 蠅𬽾 nhặng xị · 𫜵蠅 𬨠 làm nhặng lên	
+椩	nhành	椩𣘃 nhành cây · 㨢𫼛椩花 nâng niu nhành hoa	
+拎	nhạnh	抇拎 nhặt nhạnh [𠸨]	
+堯	nhao	吶堯堯 nói nhao nhao	
+𤂗	nháo	八𤂗 bát nháo · 𤂗𤄮 nháo nhào · 𥇈𤂗 nhốn nháo	
+𤂗	dáo		⇔ 𤂗 nháo
+𤃤	nhão	𡐙𤃤 đất nhão · 𣠳𤃤 mềm nhão · 𤃤𥹽 nhão nhoét [𠸨]	
+𠿱	nhạo	𠿱謗 nhạo báng · 𠶜𠿱 chế nhạo · 嘵𠿱 nhệu nhạo	
+𡊠	nháp	紙𡊠 giấy nháp · 𣱿𡊠 nhớp nháp	
+扖	nhấp	扖𠰘 nhấp miệng · 扖𥅘 nhấp nháy · 扖䠨 nhấp nhổm	
+溂	nhạt	𥊚溂 mờ nhạt · 溂𥉹 nhạt nhoà	
+𡥌	nhắt	𡥌𡥌 lắt nhắt · 𤝞𡥌 chuột nhắt	
+𡥌	lắt	𤝞𡥌 chuột lắt	⇔ 𡥌 nhắt
+抇	nhặt	𠹌抇𬘋𣖾 năng nhặt chặt bị	
+橈	nhàu	𣘃橈 cây nhàu · 𬃻橈 trái nhàu	
+𦈂	nhàu	𡲫𦈂 vải nhàu · 𦈂捏 nhàu nát · 𧧷𦈂 càu nhàu · 𦈂𦈂 nhàu nhàu	
+洏	nhè	哭洏 khóc nhè · 洏𪥘󠄁𣈜 nhè cả ngày ·洏頭𦓡打 nhè đầu mà đánh	
+濔	nhễ	濔𠽬 nhễ nhại	
+𭞣	nhếch	𭞣㦡 nhếch nhác	
+𣲹	nhèm	𠿳𣲹 lèm nhèm · 入𣲹 nhập nhèm	
+𠇦	nhẹm	𡨺𠇦 giữ nhẹm · 掩𠇦 ém nhẹm	
+蝒	nhện	𦁸蝒 mạng nhện  · 𡥵蝒 con nhện	
+蝒	dện		⇔ 蝒 nhện
+𤾱	nhênh	𤽸𤾱 trắng nhênh	
+䁱	nheo	䁱眜 nheo mắt	
+鱙	nheo	𩵜鱙 cá nheo	
+蕘	nhèo	䕯蕘 bèo nhèo [𠸨]	
+囁	nhép	𥼕囁 lép nhép	
+叺	nhẹp	捷叺 tẹp nhẹp · 碮叺 đè nhẹp	
+陧	nhét	陧𠓨 nhét vào · 抐陧 nhồi nhét	
+𪷴	nhẹt	𠻼𪷴 nhậu nhẹt [𠸨]	
+𡃺	nhệu	𡃺𠿱 nhệu nhạo	
+𡭺	nhí	䈬𡭺 bồ nhí	
+蹢	nhích	𨃽蹢 nhúc nhích	
+𠲔	nhiếc	𠻵𠲔 mắng nhiếc	
+繞	nhiễu	巾繞 khăn nhiễu	
+𤢾	nhím	𡥵𤢾 con nhím	
+𤢾	rím		⇔ 𤢾 nhím
+𠽒	nhỉnh	𠽒欣 nhỉnh hơn · 𠽒𠽒 nhinh nhỉnh [𠸨]	
+𠽒	nhinh		⇔ 𠽒 nhỉnh
+𭉴	nhít	𡊻𭉴 lít nhít  [𠸨]	
+皺	nhíu	皺𣮮 nhíu mày	
+檽	nho	𣘃檽 cây nho	
+繻	nhó	絪繻 nhăn nhó [𠸨]	
+繻	deo		⇔ 繻 nhó
+𬿕	nhoài	𤻻𬿕 mệt nhoài · 捕𬿕 bổ nhoài	
+晄	nhoáng	豪晄 hào nhoáng	
+𣋆	nhoạng	入𣋆 nhập nhoạng	
+傉	nhóc	傉𡥵 nhóc con · 僶傉 thằng nhóc · 𠲔傉 nhiếc nhóc	
+嘫	nhoẻn	嘫唭 nhoẻn cười	
+𥹽	nhoét	𤃤𥹽 nhão nhoét [𠸨]	
+𥹽	nhoẹt		⇔ 𥹽 nhoét
+焳	nhói	𤴬焳 đau nhói	
+𤻫	nhối	𤴵𤻫 nhức nhối [𠸨]	
+抐	nhồi	抐陧 nhồi nhét · 抐𧖱 nhồi máu · 抐勃 nhồi bột	
+𧐻	nhồi	𧎜𧐻 ốc nhồi	
+𤷳	nhom	瘖𤷳 ốm nhom	
+鈓	nhôm	鈉鈓 nồi nhôm [摱]	
+䠨	nhổm	扖䠨 nhấp nhổm	
+𨅄	nhón	𨅄𨃴 nhón gót · 𨅄蹎 nhón chân	
+𫣑	nhổn	侖𫣑 lổn nhổn [𠸨]	
+𥇈	nhốn	𪵅𥇈 lốn nhốn · 𥇈𤂗 nhốn nháo	
+𢚴	nhơn	𢚴𢚴 nhơn nhơn	
+𣼹	nhởn	𣼹洳 nhởn nhơ [𠸨]	
+𢙫	nhớn	𢙫㦡 nhớn nhác	
+𢙫	dớn		⇔ 𢙫 nhớn
+𦠥	nhờn	脿𦠥 béo nhờn · 𢬣𦠥 tay nhờn · 輕𦠥 khinh nhờn · 𦠥𫇿 nhờn thuốc	
+蛹	nhộng	蛹蠶 nhộng tằm	
+蛹	dộng		⇔ 蛹 nhộng
+𣱿	nhớp	𣱿𡊠 nhớp nháp	
+踤	nhót	踤徠 nhót lại · 𬦮踤 nhảy nhót	
+𣑵	nhót	𣘃𣑵 cây nhót · 果𣑵 quả nhót	
+𤷿	nhọt	癰𤷿 ung nhọt · 𤺯𤷿 mụn nhọt	
+𦝬	nhột	𦝬溂 nhột nhạt [𠸨]	
+𣼸	nhớt	𣼸㦉 nhớt nhát [𠸨]	
+濼	nhợt	䏧濼 da nhợt · 濼溂 nhợt nhạt · 濼濼 nhờn nhợt [𠸨]	
+濼	lợt		⇔ 濼 nhợt
+濼	nhờn	濼濼 nhờn nhợt [𠸨]	⇔ 濼 nhợt
+薷	NHU	香薷 hương nhu	
+乳	NHŨ	乳母 nhũ mẫu · 石乳 thạch nhũ · 金乳 kim nhũ · 乳漿 nhũ tương	
+餌	nhử	𩝇餌 mồi nhử · 餌𩵜 nhử cá	
+濡	nhụa	徍濡 nhầy nhụa	
+閏	NHUẬN	𢆥閏 năm nhuận	
+𨃽	nhúc	戎𨃽 nhung nhúc [𠸨] · 𨃽蹢 nhúc nhích	
+銳	NHUỆ	銳兵 nhuệ binh · 銳氣 nhuệ khí · 英銳 anh nhuệ	
+𠓩	nhủi	𠓩𠓨 nhủi vào · 𠓩𩵜 nhủi cá	
+軟	NHUYỄN	𢴘軟 xay nhuyễn · 𬚸軟 thịt nhuyễn ·潤軟 nhuần nhuyễn · 軟體 nhuyễn thể ·柔軟 nhu nhuyễn · 細軟 tế nhuyễn · 勃㐌軟 bột đã nhuyễn	
+軟	nhũn	𣠳軟 mềm nhũn	
+𢪭	nhúm	𢪭徠 nhúm lại · 𠬠𢪭 một nhúm	
+戎	NHUNG	兵戎 binh nhung · 戎𨃽 nhung nhúc [𠸨] · 戎𠲕 nhung nhăng [𠸨] · 𢖵戎 nhớ nhung [𠸨]	
+茸	NHUNG	茸㹯 nhung hươu	
+𣴛	nhúng	㳚𢬣 nhúng tay · 㳚渃 nhúng nước	
+溽	nhuốc	洳溽 nhơ nhuốc · 濂溽 nhem nhuốc	
+溽	luốc		⇔ 溽 nhuốc
+𢝀	nhút	𢝀㦉 nhút nhát	
+𢝀	dút		⇔ 𢝀 nhút
+葖	nhút	𩻐葖 mắm nhút	
+鈤	nhụt	𫜵鈤 làm nhụt · 𨮉鈤 cùn nhụt · 鈤志 nhụt chí	
+𡡅	o	婆𡡅 bà o	
+鵶	ó	囉鵶 la ó	
+𦶀	ô	秦𦶀 tần ô	
+癋	ố	𤸫癋 hoen ố · 𡲫被癋 vải bị ố	
+㐵	ơ	悇㐵 thờ ơ · 吶幽㐵 nói u ơ	
+𰂔	ợ	𰂔䣷 ợ chua · 𰂔唏 ợ hơi	
+喎	oa	哭喎喎 khóc oa oa	
+哇	oà	哭哇 khóc oà	
+蒦	oách	矓窒蒦 trông rất oách · 𬡶部尼朱蒦 mặc bộ này cho oách	
+𠶔	oai	叫𠶔𠶔 kêu oai oái	
+𠶔	oái	𠶔𪡶 oái oăm · 叫𠶔𠶔 kêu oai oái	
+痿	oải	濊痿 uể oải	
+矮	OẢI	矮香 oải hương	
+唈	oàm	唈唈 oàm oạp [聲]	
+唈	oạp	𥑴唈 ì oạp [聲] · 唈唈 oàm oạp [聲]	
+𪡶	oăm	𠶔𪡶 oái oăm	
+𥺹	oản	𥺹荎 oản chuối · 𥺹𥸷 oản xôi	
+倇	oằn	倇偎 oằn oại [𠸨] · 倇𬺗 oằn xuống · 莄 𣘃倇 cành cây oằn	
+𠻄	oang	𠻄𠻄 oang oang [聲]	
+瑩	OÁNH	阮春瑩 Nguyễn Xuân Oánh · 高玉瑩 Cao Ngọc Oánh	
+喔	óc	𪃿㕭喔 gà eo óc	
+喴	oe	喴喴 oe oe	
+煨	oi	煨妸 oi ả · 煨煏 oi bức · 煨𤎏 oi nóng	
+𥯜	oi	丐𥯜 cái oi	
+𪨆	ỏi	𠃣𪨆 ít ỏi  · 𠸄𪨆 inh ỏi	
+𣾿	ói	𠷀𣾿 nôn ói	
+偎	ÔI	依偎 ỷ ôi	
+偎	oại	倇偎 oằn oại [𠸨]	
+𦞏	ôi	𬚸𦞏 thịt ôi	
+猥	ỔI	猥陋 ổi lậu · 鄙猥 bỉ ổi	
+椳	ổi	果椳 quả ổi · 𣘃椳 cây ổi	
+渨	ối	𩓜渨 màng ối · 渃渨 nước ối · 栓塞渨 thuyên tắc ối · 𡀳渨𠚢蒂 còn ối ra đấy	
+噫	ới	囉㗒噫 la ơi ới · 噫婆𡥵㗒 ới bà con ơi ·固之噫朱別貝 có gì ới cho biết với	
+喑	om	喑讒 om sòm	
+喑	ồm	喑𧋾 ồm ộp [聲]	
+嚈	ỡm	嚈唹 ỡm ờ	
+𢞴	ớn	𢞴冷 ớn lạnh · 𢞴洌 ớn rét · 𢞴𪥘󠄁𠊛 ớn cả người	
+滃	óng	絲滃 tơ óng · 滃映 óng ánh · 囉滃滃 la óng óng	
+嗡	ông	嗡嗡 ông ổng [聲]	
+嗡	ổng	嗡嗡 ông ổng [聲]	
+慃	ổng		⇔ 翁𧘇 ông ấy
+俋	ọp	俋𠇺 ọp ẹp	
+偮	ốp	偮僥 ốp nhau · 偮役 ốp việc · 抪偮徠 bó ốp lại	
+䱒	ốp	𩵜䱒 cá ốp	
+𧋾	ộp	𧋾𧋾 ộp ộp [聲] · 喑𧋾 ồm ộp [聲]	
+顇	ót	𩯀顇𨱽過 tóc ót dài quá	
+喐	ọt	喐𠮙 ọt ẹt [聲]	
+𣎷	ớt	𣎷鐘 ớt chuông	
+𫮒	phá	潭𫮒 đầm phá	
+𠶊	phà	淝𠶊 phì phà [𠸨]	
+噗	phắc	㕫噗 phăng phắc	
+擘	PHÁCH	巨擘 cự phách	
+𩗀	phạch	𩗀𩗀 phạch phạch · 帆𢒎𩗀 buồm bay phạch · 𦑗𩗀𩗀 quạt phành phạch [𠸨]	
+𩗀	phành	𦑗𩗀𩗀 quạt phành phạch [𠸨]	
+㗑	phai	溂㗑 nhạt phai · 㗑𥊚 phai mờ · 㗑𦭷 phai màu	
+㧊	phẩy	派㧊 phe phẩy	
+𨮍	phăm	𨮍𠵽 phăm phắp	
+𢭾	phầm	𢭾怫 phầm phập	
+幡	PHAN	莄幡 cành phan	
+𡃎	phàn	𡃎難 phàn nàn	
+枌	phần	𣘃枌 cây phần	
+㧍	phang	𪢜㧍 phô phang · 㧍卬 phang ngang	
+搒	phàng	𢰺搒 phũ phàng	
+㕫	phăng	㕫噗 phăng phắc · 吶㕫 nói phăng · 𫜵㕫朱歱 làm phăng cho xong	
+枰	phanh	枰𢬣 phanh tay [摱]	
+𢴒	phành	𢴒𠚢 phành ra	
+𣿖	phao	𣿖救生 phao cứu sinh · 𣿖信䚾 phao tin nhảm	
+𠵽	phắp	𨮍𠵽 phăm phắp	
+𠵽	vep		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𭡚	phấp	𭡚𢭿 phấp phới · 𭡚倣 phấp phỏng	
+怫	phập	怫𤂧 phập phồng · 𢭾怫 phầm phập	
+𧿳	phắt	𨅸𧿳𧻭 đứng phắt dậy	
+𤽵	phau	𤽵𤽵 phau phau · 𤽸𤽵 trắng phau	
+腓	phè	𣹓腓 đầy phè · 腓𦙀 phè phỡn [𠸨] · 腓腓 phè phè · 𢥇腓 chán phè	
+𤾷	phếch	薄𤾷 bạc phếch	
+㕨	phem		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+礬	phèn	𡐙礬 đất phèn · 糖礬 đường phèn · 渃礬 nước phèn · 礬䣷 phèn chua	
+䉒	phên	䉒壁 phên vách · 糖䉒 đường phên	
+咆	phèo	淝咆 phì phèo [𠸨]	
+珐	phep		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𦠱	phét	𦠱洛 phét lác · 𠄩𠀲𦠱僥 hai đứa phét nhau [俗]	
+㗶	phết	𠚢㗶 ra phết	
+蚾	phi	𡥵蚾 con phi	
+匪	PHỈ	土匪 thổ phỉ	
+悱	phỉ	悱願 phỉ nguyền · 悱志 phỉ chí · 悱飭 phỉ sức	
+翡	PHỈ	翡翠 phỉ thuý	
+誹	PHỈ	誹謗 phỉ báng · 誹𢮫 phỉ nhổ	
+𦜀	phị	肥𦜀 phì phị	
+澼	phích	壓澼 áp-phích [摱] · 澼撜渃 phích đựng nước	
+泛	PHIẾM	浮泛 phù phiếm · 𡀯泛 chuyện phiếm ·泛指 phiếm chỉ · 泛函 phiếm hàm · 泛遊 phiếm du · 泛定 phiếm định · 泛神論 phiếm thần luận	
+飄	PHIÊU	飄搖 phiêu diêu	
+柉	phím	柉彈 phím đàn  · 盤柉 bàn phím	
+𠶏	phỉnh	𠶏𠱀 phỉnh phờ [𠸨] · 𠶏佞 phỉnh nịnh	
+胓	phình	脹胓 trương phình · 胓𠚢 phình ra	
+慓	phịu	奉慓 phụng phịu	
+赴	PHÓ	赴會 phó hội	
+駙	PHÒ	駙馬 phò mã	
+𪢜	phô	𪢜𠎩 phô bay · 𪢜㧍 phô phang	
+披	phơ	拂披 phất phơ	
+苤	phơ	鉑苤 bạc phơ	
+𡂄	phở	𡂄𡋿 phở lở · 𠯘𡂄 phớn phở	
+𬖾	phở	𩚵𬖾 cơm phở	
+𠱀	phờ	巴𠱀 bơ phờ · 𠱀𠱀噁 phờ phạc [𠸨] · 𠶏𠱀 phỉnh phờ [𠸨]	
+䟔	phóc	𬦮䟔 nhảy phóc	
+坯	PHÔI	坯𨨧 phôi thép	
+肺	phổi	炎肺 viêm phổi	
+𢭿	phới	𭡚𢭿 phấp phới · 𢭿𢭿 phơi phới	
+𢭿	phơi		⇔ 𢭿 phới
+𠆩	phom	𠆩𠊛 phom người [摱] · 𠆩𩌂惵 phom giày đẹp [摱]	
+𠱍	phớm	𠱍𠶏 phớm phỉnh	
+繁	PHỒN	繁華 phồn hoa	
+𠯘	phớn	𠯘𡂄 phớn phở	
+𦙀	phỡn	腓𦙀 phè phỡn [𠸨]	
+峰	PHONG	峰衙 Phong Nha	
+楓	PHONG	𣘃楓 cây phong	
+葑	PHONG	菲葑 phỉ phong	
+堸	phông	堸𡋂 phông nền [摱]	
+𤂧	phồng	𤂧𨑗 phồng lên · 䏧𤂧㷝 da phồng rộp	
+𤂧	phùng	𤂧𦛿 phùng mang · 襊𤂧𠚢 túi phùng ra	⇔ 𤂧 phồng
+仿	phỗng	僶仿 thằng phỗng · 仿𢬣𨑗 phỗng tay trên	
+𪾁	phốp	𤽸𪾁 trắng phốp · 𪾁法 phốp pháp [𠸨]	
+咈	phớt	咈過 phớt qua · 𣼷咈 lớt phớt [𠸨] · 咈矑 phớt lờ	
+甫	PHỦ	臺甫 đài phủ	
+蜉	PHÙ	部蜉蝣 bộ Phù du	
+𢰺	phũ	𢰺搒 phũ phàng	
+埠	PHỤ	商埠 thương phụ	
+茯	PHỤC	茯苓 phục linh	
+𢲭	phủi	𢲭𢬣 phủi tay · 𢲭𡏧 phủi bụi	
+噴	phun	噴渃 phun nước	
+濆	phún	𣼍濆 lún phún	
+𤂫	phùn	𤂫𩄎 phùn mưa · 𩄎𤂫 mưa phùn	
+𢱚	phung	𢱚費 phung phí	
+諷	PHÚNG	嘲諷 trào phúng	
+賵	PHÚNG	賵𠶇 phúng viếng	
+逢	PHÙNG	重逢 trùng phùng · 相逢 tương phùng	
+馮	PHÙNG	𣱆馮 họ Phùng · 馮克寬 Phùng Khắc Khoan	
+炥	phụt	𠺙炥 thổi phụt · 畑炥𤎕 đèn phụt tắt	
+炥	phọt		⇔ 炥 phụt
+𩿙	quạ	𡥵𩿙 con quạ · 𩿙黰 quạ đen	
+嘓	quác	嘓嘓 quác quác [聲] · 叫光嘓 kêu quang quác [聲]	
+嘓	QUÁCH	城郭 thành quách · 𣱆郭 họ Quách	
+郭	quách	炪郭仍傳挑淫 đốt quách những truyện khiêu dâm	
+槨	QUÁCH	𥪝棺外槨 trong quan ngoài quách	
+𬗜	quai	𥶄𬗜絛 nón quai thao	
+卦	QUÁI	八卦 bát quái	
+啩	quại	𠹴啩 quằn quại · 注些𢶻𢬣𬨠定啩碎 chú ta vung tay lên định quại tôi	
+𡇸	quây	𡇸群 quây quần	
+柜	quầy	柜冊 quầy sách · 柜報 quầy báo	
+𠏺	quẫy	𠏺踏 quẫy đạp · 亇𠏺 cá quẫy · 𠏺距 quẫy cựa · 𠏺𬨠芇！ Quẫy lên nào!	
+揆	quậy	距揆 cựa quậy	
+𣰙	quặm	𪖫𣰙 mũi quặm	
+𩮔	quăn	𩯀𩮔 tóc quăn · 𩮔𨙍 quăn queo	
+𦄻	quắn	𤴬𦄻 đau quắn	
+𠹴	quằn	𠹴啩 quằn quại · 𠹴𢳙 quằn quẹo · 𦧜刀被𠹴 lưỡi dao bị quằn	
+㴫	quặn	丐㴫 cái quặn	
+𤹓	quặn	𤴬𤹓 đau quặn · 𤹓𤴬𥪝𢚸 quặn đau trong lòng	
+窘	QUẪN	窘迫 quẫn bách · 窮窘 cùng quẫn · 困窘 khốn quẫn	
+癀	quảng	漊癀 sâu quảng	
+𫏈	quàng	𫏈𠓨 quàng vào · 瓊𫏈 quềnh quàng	
+挄	quăng	挄揇 quăng ném · 挄䋥 quăng lưới · 浪挄 loăng quăng [𠸨]	
+𧈽	quăng	𧌂𧈽 bọ quăng	
+𪠢	quẳng	𪠢𠫾 quẳng đi · 𪠢𠚢外𨷯 quẳng ra ngoài cửa	
+礦	quặng	礦鉄 quặng sắt · 丐礦 cái quặng · 礦派挒 quặng phe-rít	
+𣔲	quạnh	㳜𣔲 hiu quạnh · 孤𣔲 cô quạnh	
+𫽿	quào	𫽿㧨 quào cấu	
+𣌵	quắp	𣌵𥙩 quắp lấy · 𢮩𣌵 co quắp	
+彶	quặp	𩯁彶 râu quặp · 彶𠓨 quặp vào · 蹎𢬣彶𥙩莄𣘃 chân tay quặp lấy cành cây	
+𦑗	quạt	丐𦑗 cái quạt · 𦑗電 quạt điện · 𣛠𦑗𩙍 máy quạt gió	
+𢯔	quắt	𢯔𨙍 quắt queo · 𢯔徠 quắt lại · 𤉗𢯔 héo quắt · 𩈘𢯔 mặt quắt	
+䠇	quặt	䠇𢳙 quặt quẹo · 𢯏䠇 bẻ quặt	
+繘	quất	繘檑 quất roi · 𨒺繘 quanh quất [𠸨]	
+槻	que	槻檜 que củi · 搝蘿𠀧槻 xỏ lá ba que	
+𩱻	quẻ	𩱻𧴤 quẻ bói · 𠭤𩱻 giở quẻ	
+㹟	qué	𪃿㹟 gà qué	
+𨆠	què	𨆠蹎 què chân · 𨆠䠇 què quặt · 𨆠𡭕 què cụt	
+蹶	quệ	竭蹶 kiệt quệ · 蹶飭 quệ sức	
+𨙍	queo	𢏣𨙍 cong queo	
+𢳙	quẹo	𢳙𦙶 quẹo cổ · 𢳙𢬣債 quẹo tay trái	
+抉	quẹt	焰抉 diêm quẹt · 撝抉 va quẹt · 抉過抉徠 quẹt qua quẹt lại	
+鴃	quẹt	𪀄抉 chim quẹt	
+𪭱	quệt	𪭱渃眜 quệt nước mắt · 𫇿膏𪭱𠓨紙 thuốc cao quệt vào giấy	
+龜	QUY	金龜 kim qui	
+詭	QUỶ	詭譎 quỷ quyệt	
+癸	QUÝ	癸未 Quý Mùi · 癸亥 Quý Hợi	
+葵	QUỲ	紙葵 giấy quỳ · 花葵 hoa quỳ	
+跪	QUỴ	突跪 đột quỵ · 跪累 quỵ luỵ · 𨁟跪 ngã quỵ	
+跪	quỳ	跪𬺗 quỳ xuống · 跪𨆝 quỳ gối	
+娟	QUYÊN	嬋娟 thuyền quyên	
+倦	QUYỆN	困倦 khốn quyện · 歲𫅷飭倦 tuổi già sức quyện	
+䊎	quyện	和䊎 hoà quyện · 𦄄䊎 quấn quyện · 䊎 𠓨僥 quyện vào nhau · 蜜䊎𠓨箸 mật quyện vào đũa	
+譎	QUYỆT	詭譎 quỷ quyệt	
+𢷳	quýnh	𪜯𢷳 lính quýnh [𠸨]	
+𢵮	quýt	𦄄𢵮 quấn quýt	
+𧷾	quỵt	咹譎 ăn quỵt	
+撾	quơ	撾梞 quơ gậy · 撾揆 quơ quậy · 撾檜 quơ củi · 氷撾 bâng quơ	
+𠵩	quở	𠵩𠻵 quở mắng · 𠵩光 quở quang · 𠵩責 quở trách	
+𤄷（𤄷󠄁）	rả	𤄷嚦 rả rích	
+𤄷（𤄷󠄁）	ra	𠊛𤄷塸萊 người Ra Gơ-lai (Glai)	𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+筥	rá	咖筥 cà rá	
+𦳃	rà	薝𦳃 rườm rà [𠸨]	
+𬓰	rạ	稴𬓰 rơm rạ · 𣩂如㧴𬓰 chết như ngả rạ · 𡥵𬓰 con rạ	
+瀝	rạch	瀝𠚢 rạch ra · 瀝𠛨 rạch ròi · 涇瀝 kênh rạch · 瀝架 Rạch Giá	
+𡃄	rai	𢯦𡃄 lai rai	
+倈	ray	倈𢲼 ray rứt · 倈頭 ray đầu · 塘倈 đường ray [摱]	
+𤀕	ráy	𤀕𦖻 ráy tai · 𮇕𤀕 cứt ráy · 𣳮𤀕 rửa ráy	
+𫈨	ráy	𧃷𫈨 khoai ráy · 榘𫈨 củ ráy · 𫈨𦬂 ráy ngót	
+𣈙	rày	自𣈙𧗱𢖖󠄁 từ rày về sau	
+𣈙	rầy		⇔ 𣈙 rày
+逨（逨󠄁）	rầy	塘逨 đường rầy [摱]	
+𧍍（𧍍󠄁）	rầy	𡥵𧍍 con rầy	
+諃	ràm	詌諃 càm ràm	
+𧓦	rạm	𡥵𧓦 con rạm · 𧓦垌 rạm đồng	
+𦝃	rằm	𣈜𦝃 ngày rằm · 𦝄𦝃 trăng rằm	
+稔	rấm	稔𦰡 rấm na · 稔荎 rấm chuối · 稔𤇮 rấm bếp · 稔𢲼 rấm rứt · 稔𥟉𥞖 rấm thóc giống	
+梣	rầm	𨑗梣茹 trên rầm nhà	
+𢬶	rẫm	攞𢬶 rà rẫm	
+葚	rậm	𡹃葚 rừng rậm	
+灡	ran	𩂐灡 râm ran · 𩆐灡 sấm ran	
+灡	rân	㖡灡 dạ rân	⇔ 灡 ran
+炟	rán	餅炟 bánh rán · 𪃿炟 gà rán	
+𠻤	rần	𠻤𠻤 rần rần [𠸨] · 𠻤㗚 rần rật [𠸨]	
+𧎠	rận	𡥵𧎠 con rận  · 𧋺𧎠 chấy rận	
+𧎠	dận		⇔ 𧎠 rận
+烊	rang	烊𤍇 rang nấu · 烊𪉥 rang muối	
+蓢	ráng	蔞蓢 rau ráng	
+𠡧	ráng	𠡧飭 ráng sức	
+𩅜	ráng	𩅜𣊿 ráng chiều	
+𫭧	rặng	𫭧𣘃 rặng cây · 𫭧𡶀 rặng núi	
+炩	rành	炩脈 rành mạch · 炩炩 rành rành · 炩𤈠 rành rọt [𠸨]	
+汫	rãnh	汫渃 rãnh nước · 𤀖汫 ngòi rãnh	
+𨀼	rảo	𨀼𨀈 rảo bước	
+滛	rào	洡過滛 lội qua rào	
+𮦡	rào	𩄎𮦡 mưa rào · 𮦡𮦡 rào rào	
+𰛴	rạo	𰛴熤 rạo rực · 洮𰛴 rệu rạo	
+梍	rạo	㨂梍 đóng rạo · 㩒梍𡧲𤀖 cắm rạo giữa ngòi	
+𠪸	rạp	𠪸𣆅 rạp phim · 𠪸㗰 rạp tuồng	
+𢺎	rạp	𢺎𬺗 rạp xuống	
+𫁞	rấp	𫁞𡉦 rấp ngõ · 𫁞塘 rấp đường · 丐𫁞 𤝞 cái rấp chuột · 㵋頭𢆥㐌𫁞 mới đầu năm đã rấp	
+𤌣	rát	𤊡𤌣 bỏng rát	
+㗭	rắt	瀻㗭 đái rắt · 𠰉㗭 réo rắt	
+𮞿	rặt	𢄂𮞿仍柑 chợ rặt những cam · 吶𮞿㗂沔中 nói rặt tiếng miền Trung	
+蔞（蒌）	rau	蔞𦰦 rau cải	
+僽	rầu	𢞂僽 buồn rầu	
+𥗍	rè	揬𥗍 rụt rè	
+𥘶	rẽ	𢺹𥘶 chia rẽ · 𥘶𩯀 rẽ tóc · 塘𥘶 đường rẽ	
+𣾸	rề	𣾸攞 rề rà · 𣾸𣾸 rề rề	
+藶	rếch	藶𧅫 rếch rác · 疎藶 thưa rếch	
+簾	rèm	簾𨷯 rèm cửa	
+褳	ren	𦇒褳 rối ren · 塘𧟁憑褳 đường viền bằng ren	
+𨅍	rén	蹾𨅍 rón rén [𠸨]	
+𠷁	rèn	𠷁𠺅 rèn rẹt [聲]	
+𫫣	rên	𫫣𠯇 rên rỉ [𠸨] · 𫫣切 rên siết	
+𡃚	rền	𠸨𡃚 láy rền · 𡃚㘇 rền vang · 𡃚𠯇 rền rĩ [𠸨] · 𩆐𡃚 sấm rền	
+𠴔	rênh		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𠰉	réo	𠰉𬨠 réo lên · 叫𠰉 kêu réo · 𠰉噲 réo gọi	
+躐	rẹp	躐𬺗 rẹp xuống	
+𧉼	rệp	𡥵𧉼 con rệp	
+𠺅	rẹt	𠷁𠺅 rèn rẹt [聲]	
+𧏲	rết	𡥵𧏲 con rết · 𧋻𧏲 rắn rết	
+𧏲	rít		⇔ 𧏲 rết
+𧏲	tít		⇔ 𧏲 rết
+𦼔	rêu	苳𦼔 rong rêu	
+洮	rệu	𭬙洮 mục rệu · 洮𰛴 rệu rạo · 𬃻𣘃洮 trái cây rệu	
+荑	rì	踸荑 chậm rì · 青荑 xanh rì · 荑荑 rì rì	
+㐶	rĩ	僽㐶 rầu rĩ	
+𩮭	ria	𩯁𩮭 râu ria	
+𠹼	rỉa	𠹼𩽊 rỉa rói [𠸨] · 𠹼𣯡 rỉa lông	
+紒	rìa	邊紒 bên rìa · 𨗛紒 chầu rìa · 外紒 ngoài rìa	
+哋	rịa	鉢哋 bát rịa	
+𦵄	riềng	榘𦵄 củ riềng	
+燫	rim	燫𬚸 rim thịt	
+𠱉	rịn	湅𣳡洃 rịn mồ hôi · 𠯴𠱉 bịn rịn [𠸨]	
+揁	rinh	𢫝揁 rung rinh [𠸨]	
+珵	rỉnh	𬫉珵 rủng rỉnh	
+簝	riu	簝簝 riu riu · 𢩽簝扒𩹫 đẩy riu bắt tép	
+𠲢	ríu	𠮩𠲢 líu ríu · 𠲢挒 ríu rít	
+𠠙	rìu	斧𠠙 búa rìu	
+𢲛	rò	𢲛𠯇 rò rỉ · 瞿𢲛 cò rò	
+𥱨	rọ	𥱨𡂅 rọ mõm · 𥱨𤞼 rọ lợn	
+鱸（𫙔）	rô	𩵜鱸 cá rô	
+𦢞	rỗ	𩈘𦢞 mặt rỗ	
+𠴊	rơ	𠴊𡕩 Rơ Măm	
+𢵽	rớ	拮𢵽 cất rớ · 𢵽𦤾 rớ đến	
+𤞪	rợ	蠻𤞪 man rợ	
+𢮑	róc	𢮑𤿭 róc vỏ · 𢮑𤃝 róc rách	
+𪟆	rọc	𪟆紙 rọc giấy	
+轆	rọc	轆轆 ròng rọc [𠸨]	
+逳	rốc	打逳 đánh rốc · 捁逳𠫾 kéo rốc đi	
+蜟	rốc	羹𧍆蜟 canh cua rốc	
+淯	rộc	𬏇淯 ruộng rộc	
+𩽊	rói	鮮𩽊 tươi rói · 花菊鐄𩽊 hoa cúc vàng rói · 𠃅𤬪𧹻𩽊 mái ngói đỏ rói	
+𠛨	ròi	瀝𠛨 rạch ròi	
+燴（烩）	rọi	燴畑 rọi đèn · 照燴 chiếu rọi · 燴𤏬 rọi sáng · 𤐝燴 soi rọi	
+𧐽	róm	螻𧐽 sâu róm	
+𧒋	rọm	螻𧒋 sâu rọm	
+𩫦	rôm	𩫦𤄷 rôm rả · 吶𩫦 nói rôm	
+𤼓	rôm	𤼓𤵴 rôm sảy · 粉𤼓 phấn rôm	
+𠼖	rởm	𢟔𠼖 thói rởm · 咹𬡶𠼖 ăn mặc rởm	
+𠼖	dỏm	𧻑𠼖 dí dỏm [𠸨]	⇔ 𠼖 rởm
+滲	rớm	滲滲 rơm rớm [𠸨]	
+滲	rướm	滲𧖱 rướm máu · 滲滲 rươm rướm [𠸨]	⇔ 滲 rớm
+蹾	rón	蹾𨅍 rón rén [𠸨]	
+𦠆	rốn	丐𦠆 cái rốn · 墫膮割𦠆 chôn rau cắt rốn · 𡎦𦠆徠 ngồi rốn lại	
+𦠆	đún		⇔ 𦠆 rốn
+𦠆	rún		⇔ 𦠆 rốn
+𦠆	tún		⇔ 𦠆 rốn
+苳	rong	苳𦼔 rong rêu	
+𨀐	rong	喝𨀐 hát rong · 𨀐𨔈 rong chơi · 柜行 𨀐 quầy hàng rong	
+㗢	rống	𤙭㗢 bò rống	
+爉	rốp	爉𤊡 rốp bỏng	
+㷝	rộp	䏧𤂧㷝 da phồng rộp	
+㷝	dộp		⇔ 㷝 rộp
+㷝	giộp		⇔ 㷝 rộp
+𩄓	rợp	𩄓𣈖 rợp bóng · 旗𧹻𩄓𡗶 cờ đỏ rợp trời	
+𣹕	rót	𣹕渃𠓨卡 rót nước vào ca	
+𤈠	rọt	炩𤈠 rành rọt [𠸨]	
+𠱋	ru	喝𠱋 hát ru	
+𡀿	rú	𢜠𡀿 mừng rú · 𤢿𡀿 sói rú	
+𧀓	rú	𡹃𧀓 rừng rú · 𬨠𧀓劕檜 lên rú chặt củi	
+㾄	rù	氍㾄 cù rù	
+揄	rũ	眷揄 quyến rũ	
+揄	dũ	眷揄 quyến dũ · 𣘃拂揄 cây phất dũ	⇔ 揄 rũ
+𦛗	rữa	𭬙𦛗 mục rữa · 𦛗捏 rữa nát · 啐𦛗 thối rữa	
+𨮌	rựa	刀𨮌 dao rựa · 特𨮌 đực rựa	
+唷	rúc	唷嚦 rúc rích	
+𪵫	rức	㖫𪵫 rưng rức	
+榱	rui	榱𭩽 rui mè	
+藞	rụi	殘藞 tàn rụi · 𣘃藞 cây rụi · 𪸔藞 cháy rụi	
+揕	rúm	𢮩揕 co rúm	
+𠾣	rùm	𠾣鋲 rùm beng	
+噋	rủn	㤓噋 bủn rủn · 噋志 rủn chí	
+𬫉	rủng	𬫉珵 rủng rỉnh	
+佣	rúng	被佣精神 bị rúng tinh thần · 𠀳佣 rẻ rúng [𠸨]	
+苚	rụng	蘿苚 lá rụng · 淶苚 rơi rụng · 苚𨖨 rụng rời	
+㖫	rưng	𢜠㖫渃眜 mừng rưng nước mắt · 㖫㖫渃眜 rưng rưng nước mắt	
+𧌸	ruốc	𧌸𬚸 ruốc thịt · 𩻐𧌸 mắm ruốc	
+𩧍	ruổi	𩧍馭 ruổi ngựa	
+𧋆	ruồi	脺𧋆 nốt ruồi · 𧋆青 ruồi xanh · 螉𧋆 ong ruồi	
+𢱓	rưới	𧛊𢱓 rách rưới	
+𥙪	rưỡi	𠬠銅𥙪 một đồng rưỡi · 𠬠𣎃𥙪 một tháng rưỡi	
+𥙪	rưởi		⇔ 𥙪 rưỡi
+洟	rượi	𠖾洟 mát rượi · 癒洟 rũ rượi · 洟洟 rười rượi · 花鐄洟 hoa vàng rượi	
+薝	rườm	𠳒薝 lời rườm · 薝𦳃 rườm rà [𠸨]	
+𪡍	rướn	𪡍𬨠 rướn lên · 𪡍𦙶 rướn cổ	
+𢗆	rượn	𢗆𨔈 rượn chơi	
+拥	ruồng	拥怖 ruồng bỏ	
+𠳀	ruỗng	𭬙𠳀 mục ruỗng · 𠳀捏 ruỗng nát	
+樑	rường	𢶢樑 chống rường · 茹樑 nhà rường ·樑榾 rường cột	
+𧺕	rượt	𧺕蹺 rượt theo · 𧺕仉𥌈 rượt kẻ trộm	
+揬	rụt	揬𥗍 rụt rè	
+𢲼	rứt	伓𢲼 bứt rứt · 哏𢲼 cắn rứt · 𢲼𦛌 rứt ruột	
+裟	SA	袈裟 cà sa	
+𦲺	sả	蘿𦲺 lá sả · 𦹯𦲺 cỏ sả	
+𪀎	sả	𪀄𪀎 chim sả	
+𪮈	sả	𪮈𬚸 sả thịt · 𪮈荇 sả hành · 蹉𪮈 sa sả	
+咤	sá	咤吱 sá chi	
+拃	sạ	拃穭 sạ lúa	
+𠲅	sạc	汴𠲅 bin (pin) sạc [摱]	
+嗇	SẮC	彼嗇斯豐 bỉ sắc tư phong	
+𪁅	sắc	𪀄𪁅 chim sắc	
+嗾	sặc	嗾咵 sặc sụa [𠸨] · 𣩂嗾 chết sặc	
+𡗂	sai	𡗂果 sai quả	
+庹	sải	庹𢬣 sải tay · 庹𦑃 sải cánh	
+灑	SÁI	蕭灑 tiêu sái	
+𫪱	sái	𫪱𢬣 sái tay · 𫜵𫪱 làm sái · 𫪱渃 sái nước	
+𠇈	sãi	𠇈娓 sãi vãi	
+𢫟	sảy	𬕌𢫟 sàng sảy · 𢫟𥽌 sảy gạo	
+𤵴	sảy	𤼓𤵴 rôm sảy	
+𫽎	sẩy	𫽎蹎 sẩy chân · 疏𫽎 sơ sẩy · 𫽎胎 sẩy thai	
+𤈇	sấy	𤈇枯 sấy khô · 𤈇𬚸 sấy thịt	
+𣐴	sậy	𣘃𣐴 cây sậy · 𡓁𣐴 bãi sậy · 蹎如䈵𣐴 chân như ống sậy	
+杉	SAM	雲杉 vân sam	
+蔘	sam	蔞蔘 rau sam	
+𧑁	sam	𡥵𧑁 con sam · 脽𧑁 đuôi sam	
+讒	SÀM	讒言 sàm ngôn	
+讒	gièm	讒𢯠 gièm pha	
+讒	sàm	讒𬾟 sàm sỡ [𠸨]	
+墋	săm	茹墋 nhà săm [摱]	
+𥊀	săm	𥊀𤐝 săm soi · 𥊀𫑺 săm sưa	
+森	SÂM	鄭森 Trịnh Sâm · 森捠 sâm-banh (panh) [摱]	
+森	xum	森𢯷 xum vầy	
+𩅙	sẩm	𩅙𦭷 sẩm màu · 𩅙𣋁 sẩm tối · 𣞶𩅙 sến sẩm	
+讖	SẤM	讖傳 sấm truyền	
+𩆐	sấm	𩆐𩅀 sấm chớp	
+岑	SẦM	岑鬱 sầm uất	
+岑	sầm	𣋁岑 tối sầm	
+岑	xầm	𣋁岑 tối xầm	⇔ 岑 sầm
+岑	sẫm	青湛 xanh sẫm	
+湛	sậm	湛𦭷 sậm màu · 𧹻湛 đỏ sậm	
+汕	sán	汕齋 Sán Chay · 汕𢭼 Sán Dìu	
+疝	sán	病疝 bệnh sán · 𧉙疝 giun sán	
+赸	sán	赸徠 sán lại	
+𦼛	sắn	勃𦼛 bột sắn · 榘𦼛 củ sắn	
+莘	sần	莘䏧 sần da · 莘𥹯 sần sùi [𠸨] · 𧃷莘 khoai sần · 莘栗 sần sật [𠸨] · 𡲫醜莘 vải xấu sần	
+搶	SANG	搶奪 sang đoạt	
+爽	SẢNG	爽快 sảng khoái · 豪爽 hào sảng	
+愴	sảng	迷愴 mê sảng · 吶愴 nói sảng	
+𦼃	sắng	蔞𦼃 rau sắng	
+栍	sanh	𣘃栍 cây sanh	
+䲼	sảnh	𡥵䲼 con sảnh	
+廳	SẢNH	廳堂 sảnh đường · 大廳 đại sảnh	
+炒	SAO	炒𫇿 sao thuốc	
+𣒲	sao	𣘃𣒲 cây sao	
+哨	SÁO	哨𨱽 sáo dài  · 䈵哨 ống sáo	
+套	SÁO	客套 khách sáo · 套語 sáo ngữ · 句文套 câu văn sáo	
+𥱫	sáo	𬌓𥱫 tấm sáo · 幅𥱫 bức sáo	
+𪄤	sáo	𪀄𪄤 chim sáo	
+塙	sào	𠬠塙 một sào	單位𢵋 đơn vị đo
+謅	sạo	吶謅 nói sạo · 搐謅 sục sạo [𠸨]	
+鮹	sạo	𩵜鮹 cá sạo	
+㯿	sạp	丐㯿 cái sạp · 㯿蔞 sạp rau	
+䏠	sấp	㑲䏠 nằm sấp · 挹䏠 úp sấp · 䏠紙 sấp giấy · 䏠鉑 sấp bạc · 䏠咍𡂂？ sấp hay ngửa?	
+剎	SÁT	剎那 sát na	
+呹	sạt	呹𡋿 sạt lở · 呹業 sạt nghiệp	
+瑟	SẮT	琴瑟 cầm sắt	
+栗	sật	莘栗 sần sật [𠸨]	
+㮴	sấu	𣘃㮴 cây sấu	
+𣜷	sầu	蟡𣜷 ve sầu · 𣜷𥢆 sầu riêng · 𣜷兜 sầu đâu	
+茌	sè	茌茌 sè sè · 𨐮茌 cay sè · 𭰪茌 sập sè [𠸨]	
+茌	xè	𭰪茌 xập xè [𠸨]	
+𠱊	sê	侺𠱊 sum sê	
+𠱊	xuê	侺𠱊 xum xuê	⇔ 𠱊 sê
+䐭	sệ	䏶䐭 bệ sệ	
+䐭	xệ		⇔ 䐭 sệ
+呎	séc	𬌓呎 tấm séc · 共和呎 Cộng hoà Séc	
+𤑯	sém	𪸔𤑯 cháy sém	
+㦃	sẻn	𠽮㦃 dè sẻn · 㦃𬧺 sẻn so	
+﨡	sên	𧎜﨡 ốc sên	
+𣞶	sến	𣘃𣞶 cây sến · 楛𣞶 gỗ sến · 𣞶𩅙 sến sẩm · 𣞶𣞶𦼇 sến súa [𠸨]	
+浧	sềnh	泠浧 lềnh sềnh	
+𤵪	sẹo	𤵖𤵪 vết sẹo	
+𠊔	sếp	𠊔倨𢴉懷！ sếp cứ đùa hoài! [摱]	
+𩂶	sét	𩆐𩂶 sấm sét	
+𣻂	sệt	𭉪𣻂 đặc sệt	
+䳂	sếu	𪀄䳂 chim sếu	
+𬃗	si	𣘃𬃗 cây si	
+𢱟	sỉ	𢱟𬥓 bán sỉ	
+𪐢	sì	黰𪐢 đen sì	
+𨇗	sịch	脭𨇗 sình sịch	
+槮	sim	𣘃槮 cây sim	
+逞	SÍNH	逞外 sính ngoại · 逞矯法 sính kiểu Pháp	
+聘	SÍNH	聘禮 sính lễ	
+脭	sình	脭䏾 sình bụng · 脭𨇗 sình sịch	
+𰈤	sip		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𬿺	sít	𣃣𬿺 vừa sít · 吀𬿺 sin sít	
+𡦅	so	𡥵𡦅 con so	
+𩖅	sỏ	頭𩖅 đầu sỏ · 𩖅箭 sỏ tên	
+𧎷	sò	𧎷蝶 sò điệp	
+𩪵	sọ	𩪵𠊛 sọ người · 匣𩪵 hộp sọ	
+𢮀	sờ	𢮀𢺀 sờ mó	
+𢮀	rờ		⇔ 𢮀 sờ
+𬾟	sỡ	讒𬾟 sàm sỡ [𠸨] · 嗾𬾟 sặc sỡ [𠸨]	
+篡	SOÁN	篡𡾵 soán ngôi · 篡奪 soán đoạt · 篡逆 soán nghịch	
+篡	thoán		⇔ 篡 soán
+𪟄	sọc	𪟄𡲫 sọc vải	
+傗	sốc	𨠳傗 gây sốc [摱] · 傗反衛 sốc phản vệ [摱]	
+𩺯	sốc	𩵜𩺯 cá sốc	
+𤐝	soi	𤐝𦎛 soi gương  · 𤐝燴 soi rọi	
+𪤠	soi	𪤠𣘛 soi dâu	
+㰁	sói	花㰁 hoa sói	
+𩯹	sói	𩯹頭 sói đầu	
+誄	sõi	吶誄 nói sõi	
+𩟬	sổi	咹𩟬 ăn sổi	
+𩟬	sồi		⇔ 𩟬 sổi
+𦆙	sồi	襖𦆙 áo sồi · 𡲫𦆙 vải sồi · 𨷯楛𦆙 cửa gỗ sồi	
+𤴶	sởi	病𤴶 bệnh sởi	
+嚵	sòm	喑嚵 om sòm	
+摌	sởn	摌疏 sởn sơ · 摌𩯀𬛑 sởn tóc gáy	
+𦠳	sờn	𦠳𧛊 sờn rách · 𦠳𢚸 sờn lòng · 𦠳志 sờn chí	
+𧄐（𧄐󠄁）	song	𧦕𧄐 ghế song	
+𩽧（𩽧󠄁）	song	𩵜𩽧 cá song	
+椶	sồng	𣘃椶 cây sồng · 𣘽椶 nâu sồng	
+𣙫	sộp	𣘃𣙫 cây sộp	
+𩻒	sộp	𩵜𩻒 cá sộp	
+箻	sọt	丐箻 cái sọt · 撣箻𥯌 đan sọt tre	
+𰈸	sụ	𫰅𰈸 to sụ · 𢀭𰈸 giàu sụ · 𰈸𰈸 sù sụ	
+𰈸	sù		⇔ 𰈸 sụ
+樗	SƯ	樗樹 sư thụ	
+樗	xư		⇔ 樗 sư
+𣐳	sứ	花𣐳 hoa sứ	
+咵	sụa	嗾咵 sặc sụa [𠸨]	
+𬄁	sưa	楛𬄁 gỗ sưa · 花𬄁 hoa sưa	
+𧍇	sứa	𡥵𧍇 con sứa · 䭃𧍇 nộm sứa	
+㗜	súc	㗜𠰘 súc miệng	
+槒	súc	槒紙 súc giấy · 槒楛 súc gỗ	
+蓄	SÚC	蓄積 súc tích	
+搐	sục	搐謅 sục sạo [𠸨] · 𤉚搐 sôi sục [𠸨]	
+𠶗	sực	𠶗𢖵 sực nhớ · 𠶗擬𠚢 sực nghĩ ra	
+𫗾	sực	𫗾𠽋 sực nức · 𦹳𫗾 thơm sực	
+櫑	sui	𣘃櫑 cây sui	
+𡢽	sui	𡢽家 sui gia	
+㵽	sủi	圓㵽 viên sủi · 㵽渤 sủi bọt	
+𥹯	sùi	泏𥹯 sụt sùi	
+喘	suyển	衰喘 suy suyển [𠸨]	
+侐	suýt	侐𡛤 suýt nữa · 侐侈𠚢災難 suýt xảy ra tai nạn	
+𠶯	suỵt	𠶯㹥𠚢𨘗 suỵt chó ra đuổi · 𠶯！𡃊渚 suỵt! khẽ chứ	
+侺	sum	侺𠱊 sum sê · 侺合 sum họp	
+侺	xum	侺𠱊 xum xuê	⇔ 侺 sum
+噀	sún	噀𪘵 sún răng	
+𩪞	sụn	𩩫𩪞 xương sụn · 𩪞𠦻 sụn lưng	
+𣑁	sung	𣘃𣑁 cây sung	
+寵	SỦNG	寵愛 sủng ái	
+茺	súng	花茺 hoa súng	
+𬉎	sũng	㲸𬉎 ướt sũng · 𬉎渃 sũng nước	
+𤷖	sưng	𤷖𤶈 sưng tấy	
+棆	suôn	棆𢩿 suôn sẻ [𠸨]	
+𦘹	sườn	𩩫𦘹 xương sườn	
+㤝	suông	羹㤝 canh suông · 許㤝 hứa suông	
+孀	SƯƠNG	孀婦 sương phụ	
+𡒮	sướng	𥡗𬁒𡒮高 mạ mùa sướng cao	
+𣻑	sướt	𣻑過 sướt qua	
+𣻑	sượt	𦘹𣻑 sườn sượt	
+𣼳	súp	𣼳𭉪 súp đặc [摱] · 𣼳𩵜圓 súp cá viên [摱]	
+𣼳	xúp	𧙀𣼳 lúp xúp · 𣼳笀𧍆 xúp măng cua [摱]	
+𠿰	sứt	𠿰𠝫 sứt mẻ	
+丑	SỬU	𣇞丑 giờ Sửu · 辛丑 Tân Sửu	
+衺	tà	襖衺 áo tà	
+袏	tã	袏紙 tã giấy · 袏䘹 tã lót	
+榭	TẠ	水榭 thuỷ tạ	
+酢	TẠC	酬酢 thù tạc	
+稷	TẮC	社稷 xã tắc	
+𠷌	tặc	𠷌𦧜 tặc lưỡi	
+𡬷	tấc	𠬠𡬷 một tấc	單位𢵋 đơn vị đo
+碏	tách	碏茶 tách trà [摱]	
+哉	TAI	善哉 thiện tai	
+栽	TÀI	栽培 tài bồi	
+𭠣	táy	𭠣𢵯 táy máy	
+𤶈	tấy	𤷖𤶈 sưng tấy	
+糝	tám	𥽌糝 gạo tám	
+蠶（蚕）	tằm	𣘛蠶 dâu tằm	
+拶	tán	拶頭釘 tán đầu đinh	
+傘	TÁN	傘𣘃 tán cây	
+傘	TẢN	𡶀傘圓 núi Tản Viên	
+傘	tàn	傘𢃈 tàn lọng	
+辛	TÂN	辛苦 tân khổ	
+燖	tần	𪃿燖 gà tần	
+啨	tành	散啨 tan tành [𠸨] · 習啨 tập tành [𠸨]	
+𩄳	tạnh	𩄳𣋝 tạnh ráo	
+𠋺	tao	𡮠𠋺 mày tao	
+𠋺	tau		⇔ 𠋺 tao
+糟	TAO	糟糠 tao khang	
+臊	TAO	腥臊 tanh tao	
+早	TẢO	早婚 tảo hôn	
+掃	TẢO	掃墓 tảo mộ	
+藻	TẢO	蘋藻 tần tảo · 藻𦀵 tảo xoắn · 藻𧹻 tảo đỏ	
+棗	TÁO	棗西 táo tây	
+咂	táp	雹咂 bão táp	
+𠍱	tắp	賒𠍱 xa tắp · 𣦎𠍱 thẳng tắp · 𫜵𠍱 làm tắp · 𠍱𠓨茹 tắp vào nhà	
+撒	tát	撒渃 tát nước	
+𢹵	tạt	𢹵𠓨 tạt vào · 𢹵𨖅邊債 tạt sang bȇ n trái · 𢹵𧗱探茹 tạt về thăm nhà	
+膝	tất	蔽膝 bít tất	"裊得使用如𠬠詞獨立、得𢪏羅 「韠 tất」；裊得使用如詞𢯖、得𢪏羅「蔽膝 bít tất」。 Nếu được sử dụng như một từ độc lập, được viết là ""韠 tất""; nếu được sử dụng như từ ghép, được viết là ""蔽膝 bít tất""."
+嫉	TẬT	嫉妒 tật đố	
+蒺	TẬT	蒺藜 tật lê	
+走	TẨU	走馬 tẩu mã · 奔走 bôn tẩu · 行走 hành tẩu · 逃走 đào tẩu	
+𧷹	tậu	𧷹茹 tậu nhà · 𧷹車 tậu xe	
+呞	te	𧼋呞 chạy te · 呞鬚 te tua · 𠻗呞 le te ·襖㐌呞於𦠘 áo đã te ở vai	
+粃	tẻ	𥽌粃 gạo tẻ · 𥛭粃 lẻ tẻ [𠸨]	
+𢗽	tẻ	𢗽𠖯 tẻ ngắt · 𢞂𢗽 buồn tẻ · 𢗽𠿸 tẻ nhạt	
+𪷗	tè	瀻𪷗 đái tè	
+樨	TÊ	木樨 mộc tê	
+宰	TỂ	宰相 tể tướng · 屠宰 đồ tể	
+齊	TỀ	一齊 nhất tề · 整齊 chỉnh tề	
+齊	tày	齊𡗶 tày trời · 齊霆 tày đình · 𠊛齊 người Tày	
+齊	tề	破齊 phá tề	
+劑	TỄ	𫇿劑 thuốc tễ · 㕵𠬠劑𫇿 uống một tễ thuốc	
+唶	tếch	𣘃唶 cây tếch [摱] · 唶𠫾𠅒 tếch đi mất	
+𣑷	tem	𣑷噚 tòm tem · 𣑷票 tem phiếu [摱] · 𣑷保行 tem bảo hành [摱]	
+𢬅	têm	𢬅𦺓 têm trầu	
+鎆	ten	鎆銅 ten đồng · 存鎆 tòn ten [𠸨]	
+惺	tênh	惺亨 tênh hênh	
+𢜫	tểnh	漝𢜫 tấp tểnh	
+悄	teo	咏悄 vắng teo · 消𡮈 teo nhỏ	
+𦅃	tèo	繚𦅃 lèo tèo	
+俏	tẹo	子俏 tí tẹo · 咹俏 ăn tẹo · 瞭俏 lẹo tẹo [𠸨]	
+浹	tép	𠬠浹蒜 một tép tỏi · 𦚗浹 tóp tép [𠸨]	
+𩹫	tép	𩵽𩹫 tôm tép	
+𣜿	tệp	𣜿信 tệp tin	
+緤	tết	緤𩯀 tết tóc	
+妣	TỈ	先妣 tiên tỉ	
+璽	TỈ	玉璽 ngọc tỉ	
+婢	TÌ	婢女 tì nữ	
+巳	TỊ	𣇞巳 giờ Tị · 乙巳 Ất Tị	
+𢲟	tỉa	𢲟䢕 tỉa tót · 𢏑𢲟 bắn tỉa · 𣑺𢲟 trồng tỉa	
+爹	tía	爹媽 tía má	
+僭	TIẾM	僭𡾵 tiếm ngôi · 僭權 tiếm quyền	
+𤍖	tiềm	𤍖𩿠 tiềm vịt	
+箋	TIÊN	紙花箋 giấy hoa tiên	
+燮	TIẾP	士燮 Sĩ Tiếp	
+燮	NHIẾP	士燮 Sĩ Nhiếp · 申文燮 Thân Văn Nhiếp	⇔ 燮 tiếp
+截	TIỆT	𣩂截 chết tiệt · 截蟲 tiệt trùng · 除截 trừ tiệt	
+蕉	TIÊU	荎蕉 chuối tiêu	
+簫	TIÊU	𠺙簫 thổi tiêu	
+笑	TIẾU	笑林 tiếu lâm · 含笑 hàm tiếu · 談笑 đàm tiếu	
+憔	TIỀU	憔悴 tiều tuỵ	
+樵	TIỀU	樵夫 tiều phu	
+剿	TIỄU	剿除 tiễu trừ	
+剿	tĩu	俗剿 tục tĩu [𠸨]	
+噆	tỉm	𠸬噆 tủm tỉm	
+旌	TINH	旌旗 tinh kì	
+𠐉	típ	模𠐉 mô-típ [摱]	𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𠾼	tịt	霧𠾼 mù tịt · 𠾼𣰏 tịt ngòi	
+鐎	tiu	鐎鐛 cảnh tiu · 鐎憢 tiu nghỉu	
+嘬	tíu	嘬㘉 tíu tít	
+𧔋	tò	𧔋虶 tò vò	
+租	TÔ	地租 địa tô	
+𩘣	tố	𩘪𩘣 dông tố	
+媤	tơ	𤳆媤 trai tơ · 𡛔媤 gái tơ · 媤想 tơ tưởng · 媤𢠩 tơ mơ	
+唆	toa	唆茦 toa thuốc	
+嚄	toác	嚄嚯 toác hoác · 嚄𠚢 toác ra · 扯嚄 xé toác · 𢯙嚄 chẻ toác · 𧛊嚄 rách toác · 𫫥嚄 toang toác	
+劐	toạc	扯劐 xé toạc · 吶劐 nói toạc · 劐𠚢 toạc ra	
+狻	TOAN	狻猊 toan nghê	
+𦀷	toan	𡲫𦀷 vải toan [摱]	
+酸	TOAN	渃強酸 nước cường toan · 胃酸 vị toan	
+瓚	TOẢN	蔡文瓚 Thái Văn Toản	
+纘	TOẢN	阮光纘 Nguyễn Quang Toản · 武長纘 Võ Trường Toản	
+𫫥	toang	𫫥嚄 toang toác · 𫫥荒 toang hoang · 𢲫 𫫥 mở toang · 𫫥嚯 toang hoác	
+𡁧	toáng	吶𡁧 nói toáng · 囉𡁧 la toáng · 𠯽𡁧𪥘󠄁 𬨠 chửi toáng cả lên	
+䢨	toàng	𫟧䢨 tuềnh toàng · 荒䢨 hoang toàng · 𰺽䢨 loang toàng	
+撮	toát	𠬠撮 một toát	單位𢵋 đơn vị đo
+撮	tòi	尋撮 tìm tòi	
+謖	tốc	謖𧜖𨇸𧻭 tốc chăn chồm dậy	
+䏴	toe	䏴𠽌 toe toét · 䏴𠰘唭 toe miệng cười	
+𤂭	toé	縱𤂭 tung toé	
+𥊴	toét	𥊴眜 toét mắt · 𥊴𣲹 toét nhèm	
+𠽌	toét	𠽌𠰘 toét miệng · 咾𠽌 láo toét · 𠽌𠲣 toét hoét · 䏴𠽌 toe toét	
+𤻒	toi	𠅒𤻒 mất toi · 𣩂𤻒 chết toi · 𤻒命 toi mạng	
+蒜	tỏi	蒜西 tỏi tây · 莖蒜 hành tỏi	
+綷	tói	䋘綷 lòi tói	
+𥯒	tơi	𪭥𥯒 tả tơi · 𥯒𢱎 tơi bời · 襖𥯒 áo tơi ·冡𥯒 mồng tơi	
+噚	tòm	噚𣑷 tòm tem	
+𠺸	tõm	淶𠺸𬺗坳 rơi tõm xuống ao	
+𠺸	tũm	𠺸𠺸 tùm tũm	
+𠺸	tùm		⇔ 𠺸 tũm
+噂	ton	㖮噂 lon ton · 㖮𧩓 ton hót	
+巽	TỐN	卦巽 quái Tốn	
+𢣺	tợn	躁𢣺 táo tợn · 㺞𢣺 dữ tợn · 咹𢣺 ăn tợn	
+淙	tong	𤷍淙 gầy tong · 瘖淙 ốm tong · 淙𪭥 tong tả · 隆淙 long tong	
+𢮱	tông	被車𢮱 bị xe tông	
+宋	TỐNG	𣱆宋 họ Tống	
+𦚗	tóp	𦚗𦝺 tóp mỡ · 𦚗浹 tóp tép [𠸨] · 悄𦚗 teo tóp [𠸨] · 𢺹𠚢層𦚗 chia ra từng tóp	
+𠇽	tốp	層𠇽 từng tốp · 𠬠𠇽 một tốp	
+㗱	tợp	㗱𨢇 tợp rượu	
+䢕	tót	𬦮䢕 nhảy tót · 𤙭䢕 bò tót · 𧼋䢕𧗱茹 chạy tót về nhà	
+𨃍	tọt	𧼋𨃍 chạy tọt · 𠬃𨃍𠓨𠰘 bỏ tọt vào miệng	
+𭉫	tu	𭉫應𡄯 tu ừng ực	
+須	tua	須𠡚飭 tua gắng sức · 須𡨺𢷹 tua giữ gìn · 須遊歷 tua du lịch · 須𠯴 tua-bin [摱]	
+鬚	tua	鬚墨 tua mực · 鬚畑籠 tua đèn lồng	
+溑	tủa	溑𠚢 tủa ra · 蜆𥒮坥溑𬨢𡑝 kiến vỡ tổ tủa khắp sân	
+戌	TUẤT	𣇞戌 giờ Tuất · 戊戌 Mậu Tuất	
+恤	TUẤT	死恤 tử tuất	
+𠸘	tục	𪃿叫𠸘𠸘 gà kêu tục tục [聲]	
+𫟧	tuềnh	𫟧䢨 tuềnh toàng	
+髓	TUỶ	髓𩩖 tuỷ sống · 腛髓 óc tuỷ	
+悴	TUỴ	憔悴 tiều tuỵ	
+雋	TUYỂN	雋永 tuyển vĩnh	
+腺	TUYẾN	腺淚 tuyến lệ	
+泉	TUYỀN	九泉 cửu tuyền · 黃泉 hoàng tuyền	
+𠸬	tủm	𠸬噆 tủm tỉm	
+𥳍	tùm	𥳍𥵗 tùm hum · 𠽛𥳍 um tùm	
+𥯓	tụm	𥯓𠄼𥯓𠀧 túm năm tụm ba · 𡎦𥯓徠𠬠𡊲 ngồi tụm lại một chỗ	
+𥯓	túm		⇔ 𥯓 tụm
+澊	tun	澊唿 tun hút	
+繜	tủn	繜𫃐 tủn mủn	
+噌	tung	叫噌噌 kêu tung tung [聲]	
+𡾼	TỦNG	阮福寶𡾼 Nguyễn Phúc Bửu Tủng	
+葃	tược	園葃 vườn tược · 𠛌䒹䄧葃 đâm chồi nảy tược	
+𣻆	tuôn	𣻆淶 tuôn rơi · 𣻆潮 tuôn trào	
+洊	tuồn	洊𨀞 tuồn tuột · 洊𠫾 tuồn đi	
+𡀢	tuông	𡀢𠓨 tuông vào · 慳𡀢 ghen tuông	
+薔	TƯỜNG	花薔薇 hoa tường vi	
+匠	TƯỢNG	匠手 tượng thủ	
+剟	tuốt	剟穭 tuốt lúa · 剟𦂻 tuốt luốt · 別剟 biết tuốt	
+𨀞	tuột	橋𨀞 cầu tuột · 𣹗𨀞 trơn tuột · 𨀞𬺗 tuột xuống	
+𦭧	túp	𦭧寮 túp lều	
+酒	TỬU	酒色 tửu sắc · 酒館 tửu quán · 藥酒 dược tửu · 酌酒 chước tửu	
+𦚈	thạch	𦚈蔞俱 thạch rau câu	
+㕧	thây	…低㕧 ...đây thây	
+瀋	thẳm	漊瀋 sâu thẳm · 淢瀋 vực thẳm · 瀋瀋 thăm thẳm [𠸨]	
+𰃀	thẫm	𧹻𰃀 đỏ thẫm · 青𰃀 xanh thẫm · 襖𰃀仍𣳡洃 áo thẫm những mồ hôi	
+坍	than	𠬠坍 một than	單位𢵋 đơn vị đo
+蜄	thằn	蜄䗲 thằn lằn	
+訠	thẩn	詩訠 thơ thẩn	
+矧	thẫn	矧悇 thẫn thờ	
+倉	THẢNG	倉猝 thảng thốt	
+儻	THẢNG	倜儻 thích thảng	
+溗	thắng	溗渃行 thắng nước hàng	
+騬	thắng	騬鞍朱馭 thắng yên cho ngựa	
+錆	thanh	錆鎌 thanh gươm	
+絛	THAO	𥶄𬗜絛 nón quai thao	
+傠	thảo	孝傠 hiếu thảo · 傠賢 thảo hiền · 傠敬仛媄 thảo kính cha mẹ	
+㗖	thào	時㗖 thì thào · 慣㗖 quen thào · 𠻩㗖 thều thào	
+繰	thạo	成繰 thành thạo · 通繰 thông thạo · 繰藝 thạo nghề	
+𤏧	thắp	𤏧畑 thắp đèn · 𤏧香 thắp hương · 𤏧𤏬約𢠩 thắp sáng ước mơ	
+𤏧	THÁT	水獺 thủy thát	
+獺	tấy		
+獺	rái	𡥵獺 con rái · 獺𩵜 rái cá	⇔ 獺 tấy
+闥	THÁT	乾闥婆 Càn Thát Bà	
+韃	THÁT	韃靼 Thát Đát	
+鍮	thau	鎫鍮 mâm thau	
+艸	tháu	𢪏艸 viết tháu	
+𢔢	thâu	𢔢𣎀 thâu đêm · 𢔢𣈜 thấu ngày	
+𥮋	thẻ	𥮋生員 thẻ sinh viên	
+呭	thé	絁呭 the thé	
+𪮛	thè	𪮛嚟 thè lè · 𪮛𦧜 thè lưỡi	
+妻	THÊ	婚妻 hôn thê · 夫妻 phu thê · 妻子 thê tử · 妻妾 thê thiếp · 未婚妻 vị hôn thê	
+妻	xê	餅夫妻 bánh xu xê	
+淒	THÊ	淒涼 thê lương · 淒慘 thê thảm · 𠠍淒 lê thê [𠸨]	
+𩻔	thệ	𩵜𩻔 cá thệ	
+逖	thếch	𨘸逖 lếch thếch	
+㙴	thềm	㙴陸地 thềm lục địa	
+杄	then	杄𢱝 then chốt	
+杄	thẻn	𠊛琶杄 người Bà (Pà) Thẻn	𡨸尼得讀如格發音尼只𥪝名詞 𥢆尼。 Chữ này được đọc như cách phát âm này chỉ trong danh từ riêng này.
+𢉑	thênh	𢉑湯 thênh thang	
+絩	thêu	絩𦂾 thêu dệt · 椖絩 buồng thêu	
+吵	thểu	失吵 thất thểu	
+吵	thỉu	𣵲吵 bẩn thỉu	
+𠻩	thều	𠻩㗖 thều thào	
+柿	THỊ	果柿 quả thị	
+捿	thia	揇捿攡 ném thia lia · 𩵜捿攡 cá thia lia	
+倜	THÍCH	倜儻 thích thảng	
+槭	thích	𣘃槭 cây thích	
+僉	THIÊM	僉事 thiêm sự	
+僉	thiêm	僉𢜡 thiêm thiếp [𠸨]	
+蟾	THIỀM	蟾蜍 thiềm thừ	
+擅	THIỆN	擅權 thiện quyền	
+舌	THIỆT	舌戰 thiệt chiến	
+韶	THIỀU	國韶 quốc thiều · 阮嘉韶 Nguyễn Gia Thiều	
+鮉	thiều	𩵜鮉 cá thiều	
+嬸	thím	注嬸 chú thím	
+忏	thin	忏𢗠 thin thít [𠸨]	
+𥺒	thính	𩻐𥺒 mắm thính · 抯𥺒 thả thính	
+晠	thình	晠昤 thình lình	
+𢗠	thít	忏𢗠 thin thít [𠸨] · 𠴫𢗠 thút thít · 𢗠 𢗠 thít thít	
+𰟞	thiu	𦞏𰟞 ôi thiu · 𬚸𰟞 thịt thiu	
+湫	tho	美湫 Mĩ (Mỹ) Tho	
+𢯂	thó	打𢯂 đánh thó	
+𡓠	thó	𡐙𡓠 đất thó · 𡮈𡓠 nhỏ thó	
+𢲬	thò	拾𢲬 thập thò	
+措	THỐ	失措 thất thố	
+𬁼	thớ	𬁼𬚸 thớ thịt · 𬁼楛 thớ gỗ	
+釵	THOA	金釵 kim thoa	
+踆	thoăn	踆𨁑 thoăn thoắt [𠸨]	
+𠶤	thoắng	吶𠶤 nói thoắng · 嗹𠶤 liến thoắng	
+𨁑	thoắt	踆𨁑 thoăn thoắt [𠸨] · 𨁑吶𨁑唭 thoắt nói thoắt cười	
+𢬳	thọc	𢬳脈 thọc mạch · 𢬳梞餅車 thọc gậy bánh xe	
+𬨩	thốc	𧼋𬨩 chạy thốc · 𠷀𬨩𠷀𢳥 nôn thốc nôn tháo	
+鋑	thỏi	鋑鐄 thỏi vàng · 鋑銅 thỏi đồng	
+嗺	thòi	折嗺 thiệt thòi · 嗺𦛌𠚢外 thòi ruột ra ngoài	
+㖭	thỏm	忑㖭 thắc thỏm · 隰㖭 thấp thỏm	
+啿	thòm	啿饞 thòm thèm	
+𠴘	thon	𠴘𠴘 thon thon · 𢬣𠴘 tay thon · 𠴘衮 thon gọn · 𠴘抯 thon thả	
+忖	thổn	忖𥅞 thổn thức	
+寸	THỐN	少寸 thiếu thốn	
+鱓	thờn	鱓𩺡 thờn bơn	
+𦄷	thòng	挵𦄷 lòng thòng · 絏𦄷挵 dây thòng lòng	
+埇	thõng	丐埇 cái thõng	
+捅	thõng	捹捅 buông thõng · 𡎦𨑗𣘃捅蹎 ngồi trên cây thõng chân	
+𡎭	thống	丐𡎭 cái thống	
+𡀾	thóp	梭𡀾 thoi thóp	
+𪷄	thót	𬉊𪷄 thánh thót	
+𣘄	thớt	丐𣘄 cái thớt · 𣘄採蔞 thớt thái rau · 疎 𣘄 thưa thớt [𠸨]	
+戍	THÚ	𪜯戍 lính thú	
+茱	THÙ	茱萸 thù du	
+茱	thù	茱瀘 thù lù	
+𤶠	thừ	𪽮𤶠 lừ thừ · 𤶠𠊛 thừ người	
+蜍	THỪ	蟾蜍 thiềm thừ	
+署	THỰ	公署 công thự · 營署 dinh thự	
+墅	THỰ	別墅 biệt thự	
+竣	THUÂN	阮文竣 Nguyễn Văn Thuân	
+叔	THÚC	英㛪叔伯 anh em thúc bá	
+淑	THỤC	阮氏賢淑 Nguyễn Thị Hiền Thục · 阮福淑姿 Nguyễn Phúc Thục Tư	
+蜀	THỤC	蜀泮 Thục Phán	
+塾	THỤC	私塾 tư thục · 東京義塾 Đông Kinh Nghĩa Thục	
+煺	thui	黰煺 đen thui · 煺炪 thui đốt · 煺𥈳 thui chột	
+蹆	thủi	𨇒蹆 lủi thủi · 蹆蹆 thui thủi	
+翠	THUÝ	翡翠 phỉ thuý · 翠翹 Thuý Kiều	
+邃	THUÝ	深邃 thâm thuý	
+陲	THUỲ	邊陲 biên thuỳ	
+詮	THUYÊN	詮解 thuyên giải · 詮釋 thuyên thích	
+銓	THUYÊN	銓選 thuyên tuyển · 銓轉 thuyên chuyển	
+鐫	THUYÊN	鐫罰 thuyên phạt · 鐫級 thuyên cấp · 鐫汰 thuyên thải · 鐫黜 thuyên truất	
+嬋	THUYỀN	𡛔嬋娟 gái thuyền quyên	
+𦀹	thun	絏𦀹 dây thun · 𦀹徠 thun lại	
+𦀹	chun		⇔ 𦀹 thun
+樁	THUNG	樁萱 thung huyên	
+𥴗	thúng	𥶄𥴗 nón thúng · 鑅𥴗 vành thúng · 𥴗 𥶃 thúng mủng	
+𬗝	thụng	襖𬗝 áo thụng · 弄𬗝 lụng thụng	
+鑠	THƯỚC	矍鑠 quắc thước	
+芍	THƯỢC	芍藥 thược dược	
+愖	thuộm	懢愖 luộm thuộm [𠸨]	
+悛	thuôn	悛黹 thuôn chỉ · 悛𨱽 thuôn dài · 悛突 thuôn đuột	
+𢠆	thuồng	饞𢠆 thèm thuồng	
+𧐺	thuồng	𧐺蠬 thuồng luồng	
+嘗	THƯỜNG	孟嘗君 mạnh thường quân	
+𤃧	thướt	𤃧他 thướt tha [𠸨]	
+𠴫	thút	𠴫𠓨 thút vào · 𠴫𨨷 thút nút · 𠴫𢗠 thút thít	
+浖	thụt	浖𨀤 thụt lùi	
+楂	TRA	山楂 sơn tra	
+𪁳	trả	𪀄𪁳 chim trả	
+卓	TRÁC	卓絕 trác tuyệt · 卓越 trác việt	
+斲	TRÁC	斲喪 trác táng	
+濯	trạc	濯度 trạc độ · 濯歲 trạc tuổi	
+𥭌	trạc	丐𥭌 cái trạc	
+仄	TRẮC	平仄 bằng trắc · 仄阻 trắc trở · 仄𢟗 trắc nết · 築仄 trúc trắc [𠸨]	
+惻	TRẮC	惻隱 trắc ẩn	
+𣖡	trắc	𣘃𣖡 cây trắc · 楛𣖡 gỗ trắc	
+垞	trách	丐垞 cái trách	
+擇	TRẠCH	選擇 tuyển trạch	
+澤	TRẠCH	潤澤 nhuận trạch	
+𪡊	trại	吶𪡊 nói trại	
+𫪦	trây	吶𫪦 nói trây · 𫪦𧴱 trây nợ	
+𢭺	trẩy	𢭺槔 trẩy cau · 𢭺茄 trẩy cà	
+𥙒	trẩy	𠫾𥙒會 đi trẩy hội	
+𠟴	trầy	𠟴秩 trầy trật · 𠟴䏧 trầy da	
+𠟴	sầy		⇔ 𠟴 trầy
+蘸	trám	蘸船 trám thuyền · 蘸𠬠丐𡓇 trám một cái lỗ	
+欖	trám	𣘃欖 cây trám · 果欖 quả trám	
+𩼤	trám	𩵜𩼤 cá trám	
+𣠩	tràm	𣘃𣠩 cây tràm · 菍𣠩 nấm tràm	
+𤓆	tràm	焒𤓆 lửa tràm	
+簪	TRÂM	掑簪 cài trâm	
+𣠱	trâm	𣘃𣠱 cây trâm · 𣠱匏 trâm bầu · 𣠱𡉿 trâm mốc	
+朕	TRẪM	朕羅𠊛勢芇、𦓡命𡗶𢭂朱職帝王？ Trẫm là người thế nào, mà mệnh trời trao cho chức Đế Vương?	
+螓	trăn	𡥵螓 con trăn	
+𢴟	trằn	𢴟𬴭 trằn trọc · 𤴬𢴟𣅶𠭤胣 đau trằn lúc trở dạ	
+瞋	TRÂN	瞋瞋 trân trân	
+撞	tràng	𡥵馭尼𧼋咍撞 con ngựa này chạy hay trang	
+𧛇	tràng	𧛇襖 tràng áo	
+崢（峥）	tranh	崢嶸 tranh vanh	
+𥋽	tráo	𥋽𥉲 tráo trợn · 𥗁𥋽 trơ tráo · 打𥋽 đánh tráo	
+匧	tráp	丐匧 cái tráp · 匧楛 tráp gỗ	
+縶	trập	縶𢂎 trập dù · 㹥縶𦖻 chó trập tai	
+札	TRÁT	札扒 trát bắt · 札𠾕 trát đòi	
+淖	trát	淖墻 trát tường	
+𢫵	trau	𢫵𢬗 trau dồi	
+𠶠	trẹ	住𠶠 trọ trẹ [𠸨]	
+𩵾	trê	𩵜𩵾 cá trê	
+𡂙	trề	𡂙腜 trề môi · 𣼼𡂙 tràn trề	
+滯	TRỆ	停滯 đình trệ · 遲滯 trì trệ	
+怗	trèm	憯怗 tròm trèm [𠸨]	
+𠹖	trẽn	𥗁𠹖 trơ trẽn	
+𠰪	trếnh	𥧪𠰪 trống trếnh	
+𠰪	chếnh		⇔ 𠰪 trếnh
+𤽀	trẻo	𤽸𤽀 trắng trẻo	
+𧾿	tréo	𨅸𧾿蹎 đứng tréo chân · 咮𧾿 tru tréo [𠸨]	
+𠿠	trep		𡨸尼主要得使用抵翻音、䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm, xem Phụ Lục.
+𬿮	trệt	𡎦𬿮 ngồi trệt	
+咷	trệu	秩咷 trật trệu	
+痔	TRĨ	病痔 bệnh trĩ	
+稚	TRĨ	幼稚 ấu trĩ	
+雉	TRĨ	𪀄雉 chim trĩ	
+鰿	trích	𩵜鰿 cá trích	
+𪄸	trích	𪀄𪄸𡚝 chim trích cồ	
+𥖾	trịch	𥘀𥖾 nặng trịch · 擒𥖾 cầm trịch	
+瀍	triền	瀍瀧 triền sông	
+纏	TRIỀN	纏綿 triền miên	
+篆	TRIỆN	𡨸篆 chữ triện · 𢪏體篆 viết thể triện	
+𡎞	triêng	𡎞挭 triêng gánh · 𠊛𪂰𡎞 người Giẻ Triêng	
+𠸩	trĩnh	圇𠸩 tròn trĩnh [𠸨]	
+𥉭	trít	𥉭徠 trít lại · 𥄮𥉭 nhắm trít	
+𦅄	trịt	𥾇𦅄 trĩu trịt · 𡎦𦅄𬺗𡑝 ngồi trịt xuống sân	
+𥾇	trĩu	𥾇𥘀 trĩu nặng · 𥾇𦅄 trĩu trịt	
+𤉕	tro	𤉕炭 tro than · 𤉕𤇮 tro bếp	
+𢸫	trỏ	指𢸫 chỉ trỏ · 𡥵𢸫 con trỏ · 𢭫𢸫 ngón trỏ	
+擼	trổ	𪮻擼 chạm trổ · 鋟擼 xăm trổ	
+𦭦	trổ	穭𦭦葻 lúa trổ bông	
+𥇻	trố	𥇻𥇻 trố trố · 𥇻眜 trố mắt	
+徂	trồ	沉徂 trầm trồ	
+𥗁	trơ	𥗁𥋽 trơ tráo · 𥗁𠹖 trơ trẽn	
+咋	trớ	咋嘹 trớ trêu [𠸨]	
+滁	trờ	滁滁 trờ trờ · 滁𬧐 trờ tới	
+捉	TRÓC	捉拿 tróc nã	
+捉	tróc	𢸚捉 bong tróc · 𣘃捉𤿭 cây tróc vỏ	
+𬴭	trọc	𠞟𬴭 cạo trọc · 𬴭頭 trọc đầu	
+鱩	trôi	𩵜鱩 cá trôi	
+讄	trối	trăng trối 咹𡗉讄過 · ăn nhiều trối quá	
+攂	trồi	攂泏 trồi sụt · 攂𬨠 trồi lên · 攂𨀎 trồi sụp	
+𥫌	trỗi	𥫌𧻭 trỗi dậy	
+𥫌	chỗi		⇔ 𥫌 trỗi
+憯	tròm	憯怗 tròm trèm [𠸨]	
+𬛘	trôn	𡓇𬛘 lỗ trôn · 𬛘鉢 trôn bát	
+磌	trớn	過磌 quá trớn	
+緟	tròng	𠓨緟 vào tròng · 緟蹎𠓨裙 tròng chân vào quần	
+緟	chòng		⇔ 緟 tròng
+𭿍	tròng	𭿍眜 tròng mắt · 𭿍黰 tròng đen · 𭿍𤽸 tròng trắng	
+喠	trọng	𠸂喠 nuốt trọng	
+喠	trửng		⇔ 喠 trọng
+倅	trót	𦀎倅 lượt trót · 倅𢯰 trót lọt · 倅𠻇 trót dại	
+𢫖	trọt	𠹾𢫖 chịu trọt	
+咮	tru	咮𧾿 tru tréo [𠸨] · 咮如㹥 tru như chó · 𣹗咮 trơn tru [𠸨]	
+誅	TRU	誅夷 tru di · 𡗶誅𡐙滅 trời tru đất diệt	
+晝	TRÚ	晝夜 trú dạ	
+冑	TRỤ	甲冑 giáp trụ	
+豬	TRƯ	豬八戒 Trư Bát Giới	
+躇	TRỪ	躊躇 trù trừ	
+黜	TRUẤT	廢黜 phế truất · 被黜 bị truất	
+竺	TRÚC	天竺 Thiên Trúc	
+𤑭	trui	𤓢𤑭 nướng trui · 格𤑭 cách trui · 𨨧𤑭 thép trui	
+𰘾	trụi	𥗁𰘾 trơ trụi · 陳𰘾 trần trụi	
+墜	TRUỴ	墜落 truỵ lạc · 墜循環 truỵ tuần hoàn	
+𣹞	trũng	𣹞漊 trũng sâu · 𡊲𣹞 chỗ trũng · 眜𣹞 mắt trũng	
+瞪	TRỪNG	瞪眜 trừng mắt	
+螴	trườn	㑲螴 nằm trườn · 螴𬧐 trườn tới	
+傽	trưỡng	秩傽 trật trưỡng	
+丈	TRƯỢNG	𠬠丈 một trượng · 丈夫 trượng phu	
+杖	TRƯỢNG	權杖 quyền trượng · 鐵杖 thiết trượng	
+䢖	trút	䢖𠬃 trút bỏ · 䢖𬺗 trút xuống	
+𧊐	trút	𩷳𧊐 vảy trút	
+𡠄	u	偨𡠄 thầy u	
+䫜	u	𠚐䫜 mọc u	
+𦠲	ú	脿𦠲 béo ú · 𦚖𦠲 mập ú · 餅𦠲 bánh ú · 𦠲啞 ú ớ [聲]	
+㗀	ù	㗀唎 ù lì · 㗀𦖻 ù tai · 𠺙㗀㗀 thổi ù ù · 㗀㗀𡁤𡁤 ù ù cạc cạc	
+淤	Ứ	淤𠘃 ứ đọng · 淤唏 ư hơi · 淤嘘 ứ hự [嘆] · 淤𠹾兜！ ứ chịu đâu! [嘆]	
+𢮁	ừ	𩆢𢮁 ầm ừ	
+唩	ủa	唩？ ủa? [嘆] · 叫唩 kȇ u ủa [嘆] · 唩𨓐 ủa lạ	
+𦼇	úa	𤉗𦼇 héo úa · 鐄𦼇 vàng úa · 蘿𦼇 lá úa	𡨸尼拱固体得使用𥪝詞𠸨、䀡附錄。 Chữ này cũng có thể được sử dụng trong từ láy, xem Phụ Lục.
+咼	ùa	咼𠓨 ùa vào · 𫜵咼 làm ùa	
+瘀	ứa	瘀𠚢 ứa ra · 瘀淚 ứa lệ · 瘀𧖱 ứa máu	
+蘊	UẨN	蘊藏 uẩn tàng · 幽蘊 u uẩn	
+澳	ÚC	盛旺終澳 Thịnh vượng chung Úc	
+䐿	úc	𦚖䐿𠴐 mập úc núc	
+𩼈	úc	𩵜𩼈 cá úc	
+𠳑	ực	𡄖𠳑 ừng ực · 𠸂丐𠳑 nuốt cái ực · 𠳑大𫇿𠫾！ ực đại thuốc đi!	
+濊	uể	濊痿 uể oải	
+穢	UẾ	污穢 ô uế · 渃穢 nước uế	
+𣉍	ui	𣌝𨆢𣉍 nắng lui ui · 𣉍𣉍 ui ui	
+鴛	UYÊN	鴛鴦 uyên ương	
+苑	UYỂN	御苑 ngự uyển	
+𠽛	um	𠽛𥳍 um tùm	
+𣸊	ùm	𬦮𣸊 nhảy ùm · 𨁟𣸊𬺗坳 ngã ùm xuống ao	
+𫫡	ừm	𫫡！ ừm!	
+熅	un	熅𤌋 un khói	
+𡅯（𪢖）	ủn	𡅯𠸯 ủn ỉn [聲]	
+搵	ùn	搵搵 ùn ùn	
+𩍓	ủng	隻𩍓 chiếc ủng	
+澭	úng	汲澭 ngập úng · 澭水 úng thủy · 果澭 quả úng · 𢳥𤃟 tháo úng · 𬪁澭 ấp úng ·蔞𣩂澭 rau chết úng	
+鷹	ƯNG	𪀄鷹 chim ưng	
+𡄖	ừng	𡄖𠳑 ừng ực	
+𤠆	ươi	𤠂𤠆 đười ươi	
+湆	ươm	湆絲 ươm tơ · 湆𥞖 ươm giống	
+懨	ướm	懨𠳨 ướm hỏi · 懨襖 ướm áo	
+胺	ườn	㑲胺 nằm ườn	
+汪	UÔNG	𣱆汪 họ Uông	
+枉	UỔNG	枉功 uổng công · 冤枉 oan uổng · 枉費 uổng phí · 枉錢 uổng tiền · 押枉 ép uổng	
+𫊬	ương	𡥵朠𫊬 con ễnh ương	
+鴦	ƯƠNG	鴛鴦 uyên ương	
+𦛞	ướp	𦛞𪉥 ướp muối · 𦛞冷 ướp lạnh	
+挹	úp	挹𬺗 úp xuống · 打挹 đánh úp	
+𡋉	ụp	𢭰𡋉 đổ ụp · 𡋉𠓬 ụp lặn	
+𠇕	va	𠇕兜耒？ Va đâu rồi?	
+橎	vả	𣘃橎 cây vả	
+鑊	vạc	鑊銅 vạc đồng · 鑊油 vạc dầu	
+𪂱	vạc	𪀄𪂱 chim vạc	
+𥇿	vắc	𥃨𥇿 vúc vắc	
+𤊨	vặc	爃𤊨 vằng vặc [𠸨]	
+梶	vải	𣘃梶 cây vải	
+娓	vãi	𠇈娓 sãi vãi	
+𫵞	vãi	𢶻𫵞 vung vãi	
+㙕	vại	㙕渃 vại nước · 䍄㙕 chum vại	
+𢠿	vay	𢠿𢚸 vay lòng	
+𩷳	vảy	𩷳𩵜 vảy cá · 𩷳𧊐 vảy trút	
+荱	váy	𣘃荱 cây váy	
+𢯮	váy	𢯮𦖻 váy tai	
+𧚟	váy	丐𧚟 cái váy · 𬡶𧚟 mặc váy	
+𣍁	vạy	𢏣𣍁 cong vạy · 𧼋𣍁 chạy vạy	
+𩻟	vây	𩻟𩵜 vây cá	
+湋	vẩy	湋𢬣 vẩy tay · 湋脽 vẩy đuôi  · 湋渃 vẩy nước	
+𮬄	vẩy	𮬄𩵜 vẩy cá	
+𦝩	vấy	𢭰𦝩 đổ vấy · 𦝩𣵲 vấy bẩn · 𦝩湓 vấy bùn	
+𢯷	vầy	𢝙𢯷 vui vầy	
+汎	vàm	汎瀝 vàm rạch	
+釩	vằm	𨥧釩 bãm vằm	
+𠢝	vâm	劸如𠢝 khoẻ như vâm	
+𢱨	vặn	𢱨𣍅 vặn vẹo [𠸨] · 𦀵𢱨 xoắn vặn · 𣃣 𢱨 vừa vặn [𠸨] · 𢱨針銅壺 vặn kim đồng hồ	
+𠗤	váng	𠗤油 váng dầu · 𠗤𣷱 váng sữa	
+往	VÃNG	往來 vãng lai · 已往 dĩ vãng	
+往	vảng	𨅉往 lảng vảng [𠸨]	
+𦕟	vẳng	𦕟𦕟 văng vẳng [𠸨] · 𦕟𦖑 vẳng nghe · 𦕟㗂 vẳng tiếng	
+爃（𫞡）	vằng	爃𤊨 vằng vặc [𠸨]	
+𭈒	vằng	摓𭈒 vùng vằng · 醝𨢇耒𭈒僥 say rượu rồi vằng nhau	
+嶸	vanh	崢嶸 tranh vanh · 嶸壁 vanh vách [聲]	
+𮛕	vánh	𫏢𮛕 chóng vánh	
+鑅	vành	鑅𦖻 vành tai · 鑅墆 vành đai · 鑅圇 vành tròn · 鑅𥴗 vành thúng · 鑅𤔻馭 vành móng ngựa	
+鑅	vạnh	鑅鑅 vành vạnh [𠸨]	
+𠾷	váo	𠶓𠾷 vếu váo [𠸨] · 儝𠾷 vênh váo [𠸨] · 噅𠾷 vơ váo [𠸨]	
+叭	váp	𰸣叭 vấp váp [𠸨]	
+𰸣	vấp	𰸣叭 vấp váp [𠸨]	
+仈	vát	𧼋仈 chạy vát · 𤯩仈 sống vát · 𢳥仈 tháo vát	
+𠟲	vạt	𠟲𡭻 vạt nhọn · 𠟲椰 vạt dừa	
+𧞄	vạt	𧞄襖 vạt áo · 𧞄𡹃 vạt rừng	
+𧉚	vắt	𧉚㹥 vắt chó	
+𤓺	vấu	𤘓𤓺 nanh vấu	
+徫	vè	徫僥 vè nhau · 𠫾徫徫 đi vè vè · 徫卬 𥆾𥌈 vè ngang nhìn trộm	
+椲	vè	𣘃椲 cây vè · 𢺹椲 chia vè · 㓠椲 chém vè · 椲車踏 vè xe đạp	
+譌	vè	喝譌 hát vè · 韻譌 vần vè · 歌譌 ca vè	
+辟	vếch	辟𨑗 vếch lên	
+䗊	vẹm	𡥵䗊 con vẹm	
+𢯝	vén	𢯝𬨠 vén lên · 𢯝𩯀 vén tóc · 𢯝𧚟 vén váy · 𢱔𢯝 vun vén	
+綄	vện	彣綄 vằn vện	
+儝（儝󠄁）	vênh	佂儝 chênh vênh  · 儝𠾷 vênh váo [𠸨]	
+𣷴	veo	沖𣷴 trong veo · 消𣷴𪥘󠄁錢 tiȇ u veo cả tiền	
+𩓳	vẻo	𥾸𩓳 vắt vẻo · 𩓳𡶀 vẻo núi · 𠬠𩓳 một vẻo	
+㧼	véo	㧨㧼 cấu véo	
+㧼	béo		⇔ 㧼 véo
+㧼	nhéo		⇔ 㧼 véo
+𨖿	vèo	蘿𢒎𨖿 lá bay vèo · 𠫾𨖿𬧐 đi vèo tới ·錢歇𨖿 tiền hết vèo	
+𣍅	vẹo	𣍅鶩 vẹo vọ [𠸨] · 𢱨𣍅 vặn vẹo [𠸨]	
+𫌐	vét	襖𫌐 áo vét [摱]	
+樾	vẹt	𡹃樾 rừng vẹt	
+𪇴	vẹt	𪀄𪇴 chim vẹt	
+𪽸	vệt	𪽸𤌋 vệt khói · 𪽸𧖱 vệt máu  · 𪽸𤏬 vệt sáng	
+𠶓	vếu	𠶓𠾷 vếu váo [𠸨] · 𤷖𠶓𬨠 sưng vếu lên · 𬌓板𢏣𠶓 tấm ván cong vếu	
+韋	VI	𣱆韋 họ Vi	
+喡	vi	叫喡𭇹 kêu vi vu [聲]	
+䇻	vỉ	䇻𧋆 vỉ ruồi	
+𮘕	vỉ	𠹚𮘕 van vỉ	
+幃	ví	丐幃 cái ví	
+胃	VỊ	液胃 dịch vị	
+渭	VỊ	渭清 Vị Thanh	
+㙔	vỉa	㙔𡏘 vỉa hè	
+𩼢	vích	𡥵𩼢 con vích	
+𧟁	viền	塘𧟁 đường viền · 𧟁襖 viền áo	
+曰	VIẾT	子曰 Tử viết · 搊曰 Xô-viết [摱]	
+𥁷	vịm	丐𥁷 cái vịm	
+𥿀	vít	𦁽𥿀 vướng vít · 𦄞𥿀 vấn vít · 𡥵𥿀 con vít [摱]	
+汙	vo	汙𥽌 vo gạo · 圇汙 tròn vo · 𤥑汙 vòng vo · 叫汙汙 kêu vo vo	
+𥿠	vó	拮𥿠 cất vó	
+𨀒	vó	𨀒駒 vó câu	
+扜	vò	𩌂扜 giày vò	
+鶩	vọ	𫚱鶩 cú vọ · 𣍅鶩 vẹo vọ [𠸨]	
+橅	vồ	橅㧺𡐙 vồ đập đất · 螠橅花 ếch vồ hoa	
+𦄾	vóc	𦄾𫄎 vóc lụa · 𡲫𦄾 vải vóc	
+卟	vốc	𠬠卟 một vốc · 卟𠄩卟𥽌 vốc hai vốc gạo	
+𪿙	vôi	𥒥𪿙 đá vôi · 瓶𪿙 bình vôi · 匙𪿙 chìa vôi	
+𠴖	vợi	𠴖抔 vợi bớt · 𠴖客 vợi khách	
+𪢵	vòm	𪢵𡗶 vòm trời · 茹𪢵 nhà vòm	
+𡻖	von	嶟𡻖 chon von [𠸨]	
+泍	vón	勃㐌泍𫪐徠 bột đã vón cục lại	
+㖹	vồn	㖹𠳿 vồn vã	
+㖹	vỏn	㖹捖 vỏn vẹn	
+湲	vởn	瀨湲 lởn vởn · 湲噅 vởn vơ	
+溳	vờn	溳僥 vờn nhau · 𥌬溳 chờn vờn · 貓溳 𤝞 mèo vờn chuột	
+網	VÕNG	網𫆥 võng cáng · 迻網 đưa võng	
+𣜳	vông	𣘃𣜳 cây vông · 尋𣜳 tầm vông · 花𣜳 hoa vông	
+虹	vồng	橋虹 cầu vồng · 高虹𬨠 cao vồng lên ·虹𧃷 vồng khoai	
+𧉈	vọp	𧉈𢯏 vọp bẻ	
+𢴩	vót	𢴩籤 vót tăm · 𣖛𢴩 chót vót	
+于	VU	于歸 vu quy	
+圩	VU	市鎮潯圩 thị trấn Tầm Vu	
+𭇹	vu	叫喡𭇹 kêu vi vu [聲]	
+呋	vù	呋呋 vù vù · 𩙍𠺙呋 gió thổi vù · 𧼋呋 𠫾 chạy vù đi	
+捊	vùa	捊𠓨 vùa vào · 捊歇 vùa hết · 𠓨捊貝僥 vào vùa với nhau	
+㳪	vữa	㳪糊 vữa hồ · 㳪𠚢 vữa ra	
+𢊑	vựa	𢊑穭 vựa lúa · 𢊑糧 vựa lương · 𢊑𥟉 vựa thóc	
+𥃨	vúc	𥃨𥇿 vúc vắc	
+𢷏	vục	𢷏𬺗 vục xuống · 𢷏渃 vục nước	
+抆	vũm	抆𢚸 vũm lòng	
+𢱔	vun	𢱔𣑺 vun trồng · 𢱔㙮 vun đắp · 𢱔𢯝 vun vén · 𢱔𢲳 vun xới · 𢱔孛 vun vút [𠸨]	
+逩	vùn	逩挬 vùn vụt	
+砵	vụn	𢯏砵 bẻ vụn · 鉄砵 sắt vụn	
+𡑵	vung	蒳𡑵 nắp vung	
+𢶻	vung	𢶻𢬣 vung tay · 𢶻𫵞 vung vãi	
+𥣐	vừng	𣘃𥣐 cây vừng · 油𥣐 dầu vừng	
+暈	VỰNG	日暈 nhật vựng	
+暈	vầng	暈𦝄 vầng trăng · 暈𩑰 vầng trán · 暈太陽 vầng thái dương	
+暈	vừng		⇔ 暈 vầng
+䱛	vược	𩵜䱛 cá vược	
+猿	vượn	𡥵猿 con vượn · 猿𤞺 vượn cáo	
+潷	vuột	潷𠺌 vuột khỏi · 潷𧼋 vuột chạy · 潷𠅒 vuột mất	
+孛	vút	𢒎孛 bay vút · 高孛 cao vút	
+麝	XẠ	麝香 xạ hương	
+𠳗	xạc	𡁞𠳗 xào xạc · 喍𠳗 xài xạc · 𠳗朱𠬠陣 xạc cho một trận	
+倬	xấc	倬咾 xấc láo	
+𢴘	xay	臼𢴘 cối xay · 𢴘穭 xay lúa · 𣛠𢴘 máy xay	
+鋟	xăm	形鋟 hình xăm	
+𭿄	xẩm	𭿄𦭷 xẩm màu · 襖𭿄 áo xẩm	
+燦	XÁN	燦爛 xán lạn	
+燦	sán	燦爛 sán lạn	
+𠳹	xằng	吶𠳹 nói xằng · 擬𠳹 nghĩ xằng · 𫜵𠳹 làm xằng · 𠳹𫌶 xằng bậy	
+𡁞	xào	嘮𡁞 lào xào [𠸨]	
+𤇤	xào	𤇤𤍇 xào nấu · 𬖾𤇤 phở xào	
+䛒	xạo	吶䛒 nói xạo · 䛒𤄬 xạo ke · 䛒事 xạo sự · 潦䛒 lạo xạo	
+挾	xáp	𣐝挾 xốp xáp	
+濈	xắp	駸濈 xăm xắp · 𫜵濈 làm xắp	
+𢵸	xấp	𢵸𠯽 xấp xỉ	
+𦀺	xe	𦀺黹 xe chỉ	
+𢲐	xê	𢲐易 xê dịch · 𢲐𠚢 xê ra · 𢲐𨁯 xê xích	
+𪜻	xếch	𪜻𠩕 xếch mé · 㒔𪜻 xốc xếch	
+迠	xém	𪸔迠 cháy xém · 迠徠 xém lại	
+扦	xen	扦悋 xen lẫn · 撣扦 đan xen · 扦𠴜 xen kẽ	
+剷	xẻng	丐剷 cái xẻng · 𨫵剷 cuốc xẻng	
+𫕸	xênh	𫕸唱 xênh xang [𠸨]	
+𫕸	xéo	仯仯 xéo xẹo [𠸨]	
+仯	xẹo	𭛜仯 xiên xẹo · 𢪏仯 viết xẹo · 𨅸仯 đứng xẹo	
+𬦪	xéo	𩌂𬦪 giày xéo	
+𠾸	xèo	𠾸𠾸 xèo xèo · 㕭𠾸 eo xèo · 餅𠾸 bánh xèo	
+㴙	xép	𬏇㴙 ruộng xép · 𠰏㴙 bép xép [𠸨] ·船𠫾𠓨㴙 thuyền đi vào xép	
+𠿂	xẹp	㑲𠿂 nằm xẹp · 𠿂𥼕 xẹp lép	
+𰜺	xệp	𡎦𰜺𬺗 ngồi xệp xuống	
+𰜺	sệp		⇔ 𰜺 xệp
+𨆾	xẹt	哷𨆾 lẹt xẹt · 浪𨆾 lãng xẹt	
+嗤	xi	則嗤 tắc-xi [摱] · 嗤笀 xi-măng [摱]	
+齒	XỈ	齒質 xỉ chất · 齒音 xỉ âm	
+𬽾	xị	𠿄𬽾 ngậu xị · 蠅𬽾 nhặng xị · 舍𬽾 xá-xị [摱]	
+尺	XÍCH	𠬠尺 một xích	單位𢵋 đơn vị đo
+斥	XÍCH	排斥 bài xích	
+斥	xệch	𠰭斥 méo xệch · 躅斥 xộc xệch	
+𦀗	xích	絏𦀗 dây xích · 𦀗蹎 xích chân	
+𨁯	xích	𨁯徠 xích lại · 𡎦𨁯 ngồi xích	
+𪨜	xiếc	𠻀𪨜 trò xiếc [摱] · 挭𪨜 gánh xiếc [摱]	
+暹	XIÊM	椰暹 dừa xiêm · 紅暹 hồng xiêm · 𩿠暹 vịt xiêm · 杧球暹 mãng cầu xiêm · 暹羅 Xiêm La	
+襜	xiêm	襖襜 áo xiêm · 襜衣 xiêm y	
+諂	xiểm	促諂 xúc xiểm	
+釺	xiên	丐釺𬚸 cái xiên thịt · 擒釺釺𩵜 cầm xiên xiên cá · 釺𬚸𤓢鮓 xiên thịt nướng chả	
+𭛜	xiên	𭛜仯 xiên xẹo · 搝𭛜 xỏ xiên · 吶𭛜 nói xiên · 𡨸印𭛜 chữ in xiên	
+䇸	xiểng	函䇸 hòm xiểng · 䇸冷 xiểng liểng	
+鋥	xiềng	鋥𦀗 xiềng xích · 杠鋥 gông xiềng	
+掣	xiết	沚掣 chảy xiết · 掣包 xiết bao	
+嘌	xiêu	嘌𣍅 xiêu vẹo · 嘌𢚸 xiêu lòng · 嘌嘌 xiêu xiêu · 遼嘌 liêu xiêu [𠸨]	
+𣴒	xim	渃𣴒淁 nước xim xíp	
+𫢗	xỉn	䏧𫢗 da xỉn · 𫢗𦭷 xỉn mầu · 㤓𫢗 bủn xỉn · 𠬠𫢗 một xỉn · 𪝳醝𫢗𠁸𣈜 hắn say xỉn suốt ngày	
+傎	xịn	行傎 hàng xịn	
+裎	xính	䘪裎 xúng xính	
+淁	xíp	渃𣴒淁 nước xim xíp	
+掇	xít	𦀵掇 xoắn xít [𠸨] · 𠎊掇 xúm xít [𠸨]	
+哳	xịt	𠰏哳 bom xịt · 繿哳 xám xịt	
+眇	xỉu	𤴥眇 ngất xỉu · 𪷉眇 té xỉu · 眇卬眇𨂔 xỉu ngang xỉu dọc	
+僄	xìu	夭僄 ỉu xìu	
+䌔	xo	瘖䌔 ốm xo · 𢞂䌔 buồn xo · 䌔𦠘 xo vai	
+搝	xỏ	搝𭛜 xỏ xiên · 搝蘿𠀧槻 xỏ lá ba que	
+𨻬	xó	𠬃𨻬 bỏ xó · 魔𨻬 ma xó · 𨻬省 xó xỉnh [𠸨] · 攝𨻬 xếp xó · 頭塘𨻬𢄂 đầu đường xó chợ	
+𢹧	xổ	𢹧𠓨 xổ vào · 𢹧𠚢 xổ ra	
+娕	xơ	婆娕 bà xơ [摱]	
+衩	xoa	𬌓𡲫衩 tấm vải xoa [摱]	
+捘	xoa	捘油 xoa dầu	
+捘	thoa	捘粉 thoa phấn	⇔ 捘 xoa
+汊	xoà	𩯀汊 tóc xoà · 𣵶汊 xuề xoà · 唭汊 cười xoà · 唚汊 xùm xoà · 𥉹汊 loà xoà	
+撦	xoã	撦𩯀 xoã tóc · 撦𬺗 xoã xuống	
+𪟒	xoạc	𪟒蹎 xoạc chân	
+伬	xoạch	𠇷伬 xoành xoạch	
+𣒱	xoài	果𣒱 quả xoài	
+槎	xoay	𣘃槎 cây xoay	
+鬠（𫘽）	xoáy	𪋖鬠 lốc xoáy · 鬠渃 xoáy nước	
+𩰃	xoàm	𩮕𩰃 xồm xoàm [𠸨]	
+萶	xoan	𡀳萶 còn xoan · 當萶 đương xoan · 𭿄萶 xẩm xoan · 𩈘𬃻萶 mặt trái xoan	
+𩭵	xoăn	𩯀𩭵 tóc xoăn · 𫜵𩭵𩯀 làm xoăn tóc	
+𦀵	xoắn	𦀵掇 xoắn xít [𠸨]	
+鏯	xoảng	𨰧鏯 xủng xoảng [聲] · 鏯鏯 xoang xoảng [聲]	
+鏯	soảng		⇔ 鏯 xoảng
+鏯	xoang		⇔ 鏯 xoảng
+侊	xoàng	侊省 xoàng xĩnh [𠸨] · 𩛷𩚵侊 bữa cơm xoàng	
+𠇷	xoành	𠇷伬 xoành xoạch	
+咄	xoạt	唰咄 loạt xoạt [聲]	
+潚	xóc	潚𥐨 xóc đĩa · 吶潚 nói xóc	
+㒔	xốc	㒔𪜻 xốc xếch · 㒔𠽢 xốc vác	
+躅	xộc	躅斥 xộc xệch · 躅𠓨 xộc vào · 𨅃躅 xồng xộc	
+𭇺	xoe	𠎄𭇺 xun xoe	
+撱	xoè	撱𦑃 xoè cánh · 撱𢄓 xoè ô	
+𢹮	xoi	𢹮𢪛 xoi mói · 鑟𢹮𠬠溪 đục xoi một khe	
+洷	xói	洷𤷱 xói mòn · 𢸡洷 xỉa xói	
+𥸷	xôi	𥸷棘 xôi gấc · 生𥸷 sinh xôi · 賒𥸷 xa xôi [𠸨]	
+㵊	xối	㵊捨 xối xả	
+𢲳	xới	𢲳𡐙 xới đất · 𢲳𩚵 xới cơm · 𢲳𬨠 xới lên · 钁𢲳 cuốc xới	
+𣔢	xới	沛𠬃𣔢𠚢𠫾 phải bỏ xới ra đi	
+𠽄	xòm	珥𠽄 nhẹ xòm · 嚏𠽄 xì xòm	
+踮	xổm	𡎦踮 ngồi xổm	
+𩮕	xồm	𩯁𩮕 râu xồm · 𩮕𩰃 xồm xoàm [𠸨] ·羝𩮕 dê xồm	
+𬇁	xờm	𩯀𬇁 tóc xơm · 𣭛𬇁 bờm xơm	
+吋	xốn	吋唱 xốn xang [𠸨] · 吋眜 xốn mắt	
+𭄚	xởn	𭄚𩯀𬛑 xởn tóc gáy	
+𨅃	xồng	𨅃躅 xồng xộc	
+𨰚	xoong	丐𨰚 cái xoong [摱]	
+𣐝	xốp	楛𣐝 gỗ xốp · 𡐙𣐝 đất xốp · 𣐝挾 xốp xáp	
+𨧣	xớt	遲𨧣 chầy xớt · 𤮾𨧣 ngọt xớt	
+鏂	xu	銅鏂 đồng xu [摱]	
+臭	XÚ	臭穢 xú uế · 狐臭 hồ xú · 除臭 trừ xú	
+𣭃	xù	瀘𣭃 lù xù · 𣭃𧴱 xù nợ · 𡚄𣭃 kếch xù · 𣭃嚏 xù xì	
+𣭃	sù	𣭃嚏 sù sì	⇔ 𣭃 xù
+椿	XUÂN	椿萱 xuân huyên	
+蠢	XUẨN	愚蠢 ngu xuẩn	
+𢴠	xức	𢴠油 xức dầu · 𢴠𫇿𧹻 xức thuốc đỏ	
+𫈀	xuê	窒𫈀 rất xuê · 𫈀捘 xuê xoa	
+𢭻	xúi	𢭻𠽖 xúi giục	
+串	XUYẾN	貫串 quán xuyến	
+紃	xuyến	紃鐄 xuyến vàng · 嗃紃 xao xuyến	
+啜	xuýt	啜捘 xuýt xoa · 啜𡛤 xuýt nữa · 啜脫 xuýt xoát [𠸨]	
+𠎊	xúm	𠎊𦤾 xúm đến · 𠎊𨒺 xúm quanh · 𠎊掇 xúm xít [𠸨]	
+唚	xùm	唚汊 xùm xoà · 𠽛唚 um xùm	
+𠎄	xun	𠎄𭇺 xun xoe	
+𠎄	xum	𠎄𭇺 xum xoe	⇔ 𠎄 xun
+𨰧	xủng	𨰧鏯 xủng xoảng [聲]	
+𨰧	sủng	𨰧鏯 sủng soảng [聲] · 𬂆鏯 loảng soảng [聲]	⇔ 𨰧 xủng
+䘪	xúng	䘪裎 xúng xính	
+䓬	xước	𦹯䓬 cỏ xước	
+鋽	xước	鋽䏧 xước da · 鋽𤿭𣖙 xước vỏ mía	
+啅	xược	溷啅 hỗn xược	
+昌	XƯƠNG	昌盛 xương thịnh	
+唱	XƯỚNG	喝唱 hát xướng	
+唱	xang	吋唱 xốn xang [𠸨] · 𫕸唱 xênh xang [𠸨]	
+䉅	xụp	㡴䉅 lụp xụp · 嚏䉅 xì xụp	
+㻠	xụt	嚏㻠 xì xụt	

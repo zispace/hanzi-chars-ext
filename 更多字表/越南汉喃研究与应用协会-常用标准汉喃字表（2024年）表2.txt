@@ -1,0 +1,3799 @@
+# 常用标准汉喃字表（2024年版）表2
+# 作者：汉喃研究与应用协会（原名：越南汉喃复兴委员会）
+# http://www.hannom-rcv.org/NS/bchnctd%20300623.pdf
+# 表2共3174字（表1分6级共3975字，两表合计7149字）
+#
+# 𡨸漢喃	音讀	譬喻	𥱬註
+
+𡨸漢喃	音讀	譬喻	𥱬註
+啞	Á	啞口 á khẩu	U+555E
+啞	á	啞𤴬 á đau	
+啞	ớ	𤋾啞 ấm ớ	
+噁	ạc	𠿮噁 ậm ạc	[翻] U+5641
+噁	éc	噁噁 éc éc [𠸨]	
+阨	ÁCH	阨塞 ách tắc	U+9628
+呃	ách	嚶呃 anh ách [聲]	U+5443
+呃	nhách	𦂄呃 dai nhách · 浪呃 lãng nhách	
+軛	ÁCH	軛𤛠 ách trâu · 軛奴隸 ách nô lệ	U+8EDB
+伌	ạch	𥑴伌 ì ạch · 𤃝伌 lạch ạch	U+4F0C
+隘	ẢI	隘關 ải quan · 苦隘 khổ ải · 隘支棱 Ải Chi Lăng	U+9698
+膉	ải	𥶁膉 lạt ải · 繩膉 thừng ải · 𤇨朱膉𡐙 phơi cho ải đất	U+8189
+縊	ẢI	縊殺 ải sát · 自縊 tự ải	U+7E0A
+嬡	ÁI	令嬡 lệnh ái	U+5B21
+庵	AM	丐庵 cái am	[翻] U+5EB5
+𩹎	ám	𥺊𩹎 cháo ám	U+29E4E
+撖	ẵm	撖嬖 ẵm bế · 撖捧 ẵm bồng	U+6496
+𤀔	ẩm	𤀔㲸 ẩm ướt · 曀𤀔 ế ẩm [𠸨] · 𤀔濕 ẩm thấp · 𤷴𤀔 ê ẩm	U+24014
+𠿮	ậm	𠿮噁 ậm ạc	U+20FEE
+坱	ang	丐坱 cái ang	U+5771
+𣺻	ăng	𣺻乙 ăng ắc · 𣺻𣺻 ăng ẳng [聲]	U+23EBB
+𣺻	ẳng	𣺻𣺻 ăng ẳng [聲]	
+𠹃	ắng	唵𠹃 im ắng	[翻] U+20E43
+罌	ANH	罌粟 anh túc	U+7F4C
+愥	ảnh		⇔ 英𧘇 anh ấy U+6125
+坳	ao	坳潭 ao đầm	[異] 泑 U+5773
+懊	ẢO	懊惱 ảo não	U+61CA
+奧	áo	共和奧 Cộng hoà Áo	U+5967
+𬪁	ấp	揞𬪁 ôm ấp · 㥋𬪁 e ấp	U+2CA81
+𨁲	ập	𨁲𦤾 ập đến	U+28072
+遏	át	𢭹遏 lấn át · 㲸遏 ướt át · 𡥵遏主 con át chủ [摱]	[翻] U+904F
+乙	ẤT	乙丑 Ất Sửu · 乙卯 Ất Mão	U+4E59
+乙	ắc	𣺻乙 ăng ắc · 𣹓乙 đầy ắc	
+乙	ốt	乙𣔻 ốt dột [𠸨]	
+毆	ẨU	毆打 ẩu đả	U+6BC6
+𬏠	ẩu	𬏠𪭥 ẩu tả	U+2C3E0
+把	bả	倴把 bươn bả · 把𦠘 bả vai · 𠬠把穭 một bả lúa	U+628A
+把	bá	把𦠘 bá vai	
+妑	bả		⇔ 婆𧘇 bà ấy U+5991
+𩚥	bả	𩚥𤝞 bả chuột · 打𩚥 đánh bả	U+296A5
+噃	bá	嗏噃 chà bá [嘆]	U+5643
+杷	BÀ	枇杷 tì bà	U+6777
+博	BÁC	博士 bác sĩ · 博學 bác học · 博愛 bác ái	[翻] U+535A
+博	bạc	打博 đánh bạc · 𡥵博 con bạc ·牌博 bài bạc · 𠴞博 bàn bạc	[翻]
+搏	BÁC	搏鬥 bác đấu	U+640F
+駁	BÁC	反駁 phản bác · 駁案 bác án ·駁𠬃 bác bỏ	U+99C1
+煿	bác	煿𱑛 bác trứng	U+717F
+鉑	bạc	錢鉑 tiền bạc · 鐄鉑 vàng bạc ·頭鉑 đầu bạc	U+9251
+苝	bấc	𣘃苝 cây bấc · 𥾘苝 sợi bấc · 珥如苝 nhẹ như bấc · 㗂苝㗂鈘 tiếng bấc tiếng chì	U+82DD
+𢴾	bai	吱𢴾 chê bai · 𢯏𢴾 bẻ bai	U+22D3E
+俳	BÀI	俳句 bài cú	U+4FF3
+𨭍	bay	丐𨭍 cái bay	U+28B4D
+㔥（㔥󠄁）	bảy	𣈖㔥 bóng bảy [𠸨]	U+3525 (U+3525 U+E0101)
+㔥（㔥󠄁）	bẩy	㔥𬨠 bẩy lên · 杶㔥 đòn bẩy · 𢭻㔥 xúi bẩy · 憞𪭼㔥 run lẩy bẩy	
+㔥（㔥󠄁）	bây	㔥㔥 bây bẩy [𠸨]	⇔ 㔥 bảy
+𣊾	bây	𣊾𣇞 bây giờ	U+232BE
+𨥧	băm	𨥧捕 băm bổ · 𨥧𬚸 băm thịt · 𨥧釩 băm vằm · 郎𨥧 lang băm	U+28967
+𠹰	bặm	𠹰腜 bặm môi · 𡏧𠹰 bụi bặm [𠸨] · 𠹰𥉲 bặm trợn	U+20E70
+𠹰	mém	𠻦𠹰 móm mém [𠸨]	
+𢶸	bấm	𢶸至 bấm chí · 𢶸䏾 bấm bụng	U+22DB8
+𦡣	bầm	𦻳𦡣 tím bầm · 𦡣𣎖 bầm giập	U+26863
+𦡣	vạm	𦡣𥒮 vạm vỡ	[翻]
+𫲃󠄁	bầm	𫲃󠄁𫥨𬏇𥝽𫲃󠄁憞 bầm ra ruộng cấy bầm run	U+2BC83 U+E0101
+偘	bẫm	脯偘 bụ bẫm · 朱𤛠咹偘 cho trâu ăn bẫm · 𫼻得𦁺偘 vớ được món bẫm	U+5058
+癍	BAN	焠發癍 sốt phát ban	U+764D
+蟠	BÀN	蟠桃 bàn đào · 蟠龍 bàn long	U+87E0
+𦁂	bấn	慫𦁂 túng bấn	[翻] U+26042
+貧	BẦN	貧農 bần nông · 貧窮 bần cùng	U+8CA7
+𢠈	bần	𢠈神 bần thần	U+22808
+鎊	BẢNG	鎊英 bảng Anh	U+938A
+䅭	báng	𣘃䅭 cây báng · 勃䅭 bột báng · 䅭銃 báng súng	U+416D
+𤹔	báng	𤹔渃 báng nước	U+24E54
+謗	BÁNG	誹謗 phỉ báng	U+8B17
+枋	bàng	𣘃枋 cây bàng	U+678B
+䄱	bàng	𦹯䄱 cỏ bàng · 𧄑䄱 cói bàng	U+4131
+蚌	BẠNG	蚌鷸 bạng duật	U+868C
+𠶉	bẵng	𠬃𠶉 bỏ bẵng · 悁𠶉𠫾 quên bẵng đi	U+20D89
+炳	bảnh	炳包 bảnh bao [𠸨]	U+70B3
+膨	BÀNH	膨脹 bành trướng · 膨膨 bành bành	U+81A8
+膨	phềnh	脹膨 chương phềnh	[翻]
+褒	BAO	褒貶 bao biếm	U+8912
+泡	BÀO	泡影 bào ảnh	U+6CE1
+胞	BÀO	胞胎 bào thai · 同胞 đồng bào · 細胞 tế bào	U+80DE
+鮑	BÀO	鮑魚 bào ngư	U+9B91
+飽	BÃO	飽和 bão hoà	U+98FD
+乏	bấp	乏𦛼 bấp bênh	U+4E4F
+潗	bập	潗𠹯 bập bẹ · 吶𤇥潗 nói lập bập	[翻] U+6F57
+𦪑	bát	𢭄𦪑 cạy bát	U+26A91
+紱	bạt	紱𩂏 bạt che [摱] · 茹紱 nhà bạt [摱] · 寮紱 lều bạt [摱] · 𡲫紱 vải bạt [摱]	U+7D31
+跋	BẠT	跋涉 bạt thiệp · 𠳒跋 lời bạt	U+8DCB
+鈸	bạt	鐃鈸 nạo bạt · 銅鈸 đồng bạt [摱]	U+9238
+匐	bặt	唵匐 im bặt	U+5310
+垉	bàu	垉蓮 bàu sen · 恅垉 làu bàu [𠸨]	U+5789
+裒	bâu	裒𠓨 bâu vào · 裒襖 bâu áo	U+88D2
+裒	bu		⇔ 裒 bâu
+㨐	bấu	㨐至 bấu chí · 㨐㧼 bấu véo ·㨐𬗠 bấu víu	U+3A10
+𨼚	be	𦩰𨼚近𤅶 xuồng be gần bến	U+28F1A
+𫮦	be	𫮦坡 be bờ	U+2BBA6
+𢯏	bẻ	𢯏對 bẻ đôi · 扒𢯏 bắt bẻ	U+22BCF
+𢜢	bẽ	𢜢㥬 bẽ bàng	U+22722
+梐	bẹ	梐荎 bẹ chuối · 梐椰 bẹ dừa	U+6890
+𠹯	bẹ	潗𠹯 bập bẹ	U+20E6F
+𤚆	bê	𡥵𤚆 con bê	U+24686
+𣷭	bể	底𣷭 đáy bể	U+23DED
+𥓳	bể	丐鉢被𥓳耒 cái bát bị bể rồi	U+254F3
+桮	bễ	𠺙桮 thổi bễ · 䈵桮 ống bễ · 浖桮 thụt bễ	U+686E
+薜	BỆ	薜荔 bệ lệ	U+859C
+咟	béc	咟噴 béc phun · 咟支 béc-giê [摱]	[翻] U+549F
+咟	bếch		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+胉	bệch	𤽸胉 trắng bệch	U+80C9
+𠷨	bẻm	𠷨𠵐 bẻm mép	[翻] U+20DE8
+𤶒󠄁	ben	𫉱𤶒󠄁 lang ben	U+24D92 U+E0101
+䡢	ben	車䡢 xe ben · 車載䡢 xe tải ben	U+4862
+𤓩（𤊰）	bén	焒𤓩𠓨稴 lửa bén vào rơm · 銫 𤓩 sắc bén	U+244E9 (U+242B0)
+惼	bẽn	惼𢤠 bẽn lẽn [𠸨]	U+60FC
+抃	bện	抃𥿣 bện chão	U+6283
+鋲	beng	杈鋲 xà beng	[翻] U+92F2
+鋲	bênh		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+泙	bềnh	泠泙 lềnh bềnh	U+6CD9
+𧴋	beo	𤜯𧴋 cọp beo · 𦝂𧴋 đít beo · 𧴋𦖻 beo tai	U+27D0B
+䕯	bèo	蘿䕯 lá bèo · 䕯蕘 bèo nhèo [𠸨] · 餅䕯 bánh bèo	[翻] U+456F
+殍	bẽo	薄殍 bạc bẽo [𠸨]	U+6B8D
+𠻅	bẹp	碮𠻅 đè bẹp · 㑲𠻅 nằm bẹp · 𠻅拰 bẹp dúm	U+20EC5
+𥇂	bét	𥇂眜 bét mắt · 項𥇂 hạng bét ·捏𥇂 nát bét · 𠾦𥇂 be bét [𠸨]	[翻] U+251C2
+𫊽	bét	蟡𫊽 ve bét	U+2B2BD
+𡌀	bết	𡌀潑 bết bát [𠸨] · 𨀺𡌀 lết bết · 𠶎𡌀 bê bết	U+21300
+𡋾	bệt	𱖗𡋾 ngồi bệt · 咧𡋾 lệt bệt · 咖啡𡋾 cà phê bệt	U+212FE
+彼	BỈ	彼岸 bỉ ngạn · 彼嗇斯豐 bỉ sắc tư phong	U+5F7C
+苾	bí	果苾 quả bí	U+82FE
+𠸠󠄁（𠸠）	bí	𠸠󠄁甫 bí bo [聲]	U+20E20 U+E0101 (U+20E20)
+否	BĨ	運否 vận bĩ · 否極泰來 bĩ cực thái lai	U+5426
+否	PHỦ	否認 phủ nhận · 否定 phủ định · 否決 phủ quyết	
+俖	bĩ	俖㥬 bĩ bàng	U+4FD6
+柀	bìa	柀冊 bìa sách · 柀𡹃 bìa rừng	U+67C0
+詖	bịa	詖撻 bịa đặt	U+8A56
+甓	bịch	甓𥟉 bịch thóc · 甓𥼱 bịch kẹo · 篰甓 bồ bịch · 𠏆甓 bồ bịch	U+7513
+砭	biếm	針砭 châm biếm	"讀差𧵑「砭 biêm 」。 Đọc sai của ""砭 biêm "". U+782D"
+砭	bìm	砭䒦 bìm bịp	[翻]
+貶	BIẾM	褒貶 bao biếm · 貶畫 biếm hoạ	U+8CB6
+騙	BIỂN	騙取 biển thủ	U+9A19
+洴	biền	𣵮洴 bưng biền	U+6D34
+駢	biền	駢別 biền biệt	U+99E2
+諘	biểu	𠲖𪀊徠低諘！ Ê cu lại đây biểu! · 僶其、𫥨低𠋺諘！ Thằng kia, ra đây tao biểu!	U+8AD8
+𠍥	bỉm	丐𠍥 cái bỉm · 𠍥𠫾 bỉm đi	U+20365
+汴	bin	汴𠲅 bin (pin) sạc [摱]	U+6C74
+𠯴	bịn	𠯴湅 bịn rịn [𠸨]	[翻] U+20BF4
+丙	BÍNH	丙子 Bính Tí · 丙寅 Bính Dần	U+4E19
+柄	BÍNH	權柄 quyền bính	U+67C4
+砰	bình	砰礔 bình bịch [聲]	U+7830
+胼	bĩnh	匏胼 bầu bĩnh · 破胼 phá bĩnh	U+80FC
+䒦	bịp	砭䒦 bìm bịp	[翻] U+44A6
+瓢	bìu	瓢𢬢 bìu díu · 瓢𬃻 bìu dái	[翻] U+74E2
+逋	bo	𭊫逋 ki bo · 𡨺逋逋 giữ bo bo	[翻] U+900B
+𥒰	bo	𥒰 bo [摱]	U+254B0
+虶	bò	虶𦘧 bò vẽ	U+8676
+虶	vò	𧔋虶 tò vò	
+鯆	bò	𩵜鯆 cá bò	U+9BC6
+𡀨	bõ	拯𡀨 chẳng bõ	U+21028
+㗘	bô	吶㗘㗘 nói bô bô [聲]	U+35D8
+佈	bố	佈媄 bố mẹ	[異] 布 U+4F48
+怖	BỐ	恐怖 khủng bố	U+6016
+葡	BỒ	葡萄牙 Bồ Đào Nha	U+8461
+蒲	BỒ	蒲柳 bồ liễu · 蒲公英 bồ công anh	U+84B2
+蒲	bồ	蒲搞 bồ cào · 蒲𤆺 bồ hóng ·蒲洃 bồ hôi · 蒲欲 bồ dục · 蒲結 bồ kết · 蒲君 bồ quân	𡨸𥱬㗂輔𠓀𥪝詞（外除𠸜𧵑各類𪀄） Chữ ghi tiếng phụ trước trong từ (ngoại trừ tên của các loài chim)
+蒲	bù	蒲𦫸 bù nhìn	⇔ 蒲 bồ
+蒲	mồ	蒲洃 mồ hôi · 蒲𠎺 mồ côi · 蒲 𤆺 mồ hóng	⇔ 蒲 bồ
+𠏆	bồ	笈𠏆 cặp bồ · 𠏆𡭺 bồ nhí · 𠏆甓 bồ bịch · 𠏆𦅃 bồ tèo	U+203C6
+篰	bồ	篰甓 bồ bịch · 𠬠篰刀鈐 một bồ dao găm	U+7BF0
+𡃓	bớ	扒𡃓 bắt bớ [𠸨]	U+210D3
+𠳝	bỡ	𠳝𢣸 bỡ ngỡ	U+20CDD
+卜	BỐC	占卜 chiêm bốc	[翻] U+535C
+曝	BỘC	曝露 bộc lộ · 曝𠻊 bộc tuệch	U+66DD
+呠	bỏm	呠𠷨 bỏm bẻm [𠸨]	U+5460
+渀	bõm	皮渀 bì bõm [聲] · 𡔑渀 lõm bõm [𠸨]	U+6E00
+泵	bơm	丐泵 cái bơm [摱] · 泵渃 bơm nước [摱]	U+6CF5
+𣭛	bờm	𣭛馭 bờm ngựa · 𣭛𬇁 bờm xờm [𠸨] · 僶𣭛 thằng bờm	U+23B5B
+𤵳	bón	燥𤵳 táo bón	U+24D73
+𪝕	bòn	𪝕捽 bòn rút · 𪝕㩢 bòn mót	U+2A755
+奔	BÔN	奔波 bôn ba	U+5954
+奔	bôn	奔墫 bôn chôn [𠸨]	
+坌	bộn	坌皮 bộn bề [𠸨]	U+574C
+𩺡	bơn	鱓𩺡 thờn bơn	U+29EA1
+𢸚	bong	𢸚筋 bong gân · 𢸚捉 bong tróc · 𤽸𢸚 trắng bong	U+22E1A
+琫	bóng	琫琫 bong bóng · 琫畑 bóng đèn · 琫跢 bóng đá	[異] 𩃳 𣈖 U+742B
+琫	bong	琫琫 bong bóng [𠸨]	⇔ 琫 bóng
+槰	bòng	𣘃槰 cây bòng · 果槰 quả bòng	U+69F0
+䙜	bòng	𭢌䙜 đèo bòng · 𫼳䙜𠫾塘 mang bòng đi đường · 摱丐包䙜勃 mượn cái bao bòng bột	U+465C
+𩸮	bống	𩵜𩸮 cá bống	U+29E2E
+捧	bồng	捧嬖 bồng bế	U+6367
+蓬	BỒNG	蓬萊 bồng lai	[翻] U+84EC
+𠷕	boong	𠷕𠷕 boong boong [聲] · 丐𠷕 cái boong [摱]	U+20DD5
+䑺	boong	䑺艚 boong tàu [摱]	U+447A
+抸	bốp	抸抸 bôm bốp [聲]	U+62B8
+抸	bôm	抸抸 bôm bốp [聲]	⇔ 抸 bốp
+𠶙	bộp	𠶙摯 bộp chộp	[翻] U+20D99
+𩋚	bốt	𩋚膏蒭 bốt cao-su [摱] · 蹎𠫾對 𩋚𤽸 chân đi đôi bốt trắng [摱]	U+292DA
+𤴭	bớt	𤴭青 bớt xanh	U+24D2D
+𡜵	bu	𡜵㗒 bu ơi	U+21735
+脯	bụ	脯偘 bụ bẫm · 𦙶𢬣㛪𡮣脯 cổ tay em bé bụ	U+812F
+𫫢	bự	𫫢哃 bự đùng · 𫰅𫫢 to bự · 翁 𫫢 ông bự · 𦙶𫫢𡑪 cổ bự ghét · 𩈘𫫢粉 mặt bự phấn · 𬃻𦹳𫫢 trái thơm bự	U+2BAE2
+䋠	bủa	䋠䋥 bủa lưới · 䋠圍 bủa vây	U+42E0
+𭎟	bựa	𭎟𩚵 bựa cơm · 𭎟𪘵 bựa răng	U+2D39F
+㯷	bục	㯷講 bục giảng · 磟㯷 lục bục	[翻] U+3BF7
+𠸟	bui	𠸟固𠬠𢚸忠悋孝 bui có một lòng trung lẫn hiếu	U+20E1F
+筫	búi	筫𦹯 búi cỏ · 筫𩯀徠 búi tóc lại	U+7B6B
+𣱭	bủm	丐𣱭 cái bủm	U+23C6D
+𡀫	bùm	𡀫 bùm [聲]	U+2102B
+𡀫	lẩm	𡀫唫 lẩm cẩm · 𡀫稟 lẩm bẩm [𠸨]	
+𡀫	rẩm	𫫣𡀫 rên rẩm [𠸨]	
+𠏟	bụm	𠬠𠏟𥽌 một bụm gạo · 𠏟𠰘唭 bụm miệng cười	[翻] U+203DF
+㤓	bủn	㤓𫢗 bủn xỉn · 㤓噋 bủn rủn	U+3913
+𥻸	bún	𥻸𦙣 bún mọc	U+25EF8
+𨮇	bung	𨮇衝 bung xung	[翻] U+28B87
+𣵮	bưng	𣵮洴 bưng biền	[翻] U+23D6E
+掤	bứng	掤𣘃 bứng cây · 掤𪥘󠄁家庭𠫾𬨠沔 𡶀 bứng cả gia đình đi lên miền núi	U+63A4
+𣞻（𣘓）	bưởi	𣘃𣞻 cây bưởi · 絁𤿭𣞻 the vỏ bưởi	U+237BB (U+23613)
+𬗄	bươm	襤𬗄 lươm bươm · 𧛊𬗄 rách bươm	U+2C5C4
+倴	bươn	倴把 bươn bả · 倴𦃀 bươn chải	U+5034
+𤶽	buốt	洌𤶽 rét buốt · 𤴬𤶽 đau buốt · 𤶽䏧 buốt da	U+24DBD
+蚫	bươu	蚫頭 bươu đầu · 𧎜蚫 ốc bươu	U+86AB
+𤷶	bướu	丐𤷶 cái bướu · 𤷶𦙶 bướu cổ	U+24DF6
+伓	bứt	伓𢲼 bứt rứt · 伓𩯀 bứt tóc · 伓 𦹯憑鐮 bứt cỏ bằng liềm	U+4F13
+𣘁	CA	𣘁茶 ca trà [摱]	U+23601
+咖	CÀ	咖啡 cà phê	U+5496
+咖	cà	咖筥 cà rá · 咖計 cà kê · 咖𩨼 cà kheo · 邏咖 la cà	
+蜞	cà	蜞𧋵 cà cuống	U+871E
+𡁤	cạc	𡁤𡁤 cạc cạc [聲] · 𡁤𦁸 cạc mạng [摱] · 𡁤幔形 cạc màn hình	U+21064
+䏱	cặc	檑䏱𤙭 roi cặc bò	U+43F1
+䏱	kẹc		⇔ 䏱 cặc
+㘌	cạch	㘌𩈘 cạch mặt · 㘌𦤾𫅷 cạch đến già · 梮㘌 cọc cạch · 𤃝㘌 lạch cạch [聲]	U+360C
+街	cai	老街 Lào Cai	𡨸尼得讀如格發音尼只𥪝名詞𥢆尼。 Chữ này được đọc như cách phát âm này chỉ trong danh từ riêng này. U+8857
+該	CAI	該管 cai quản · 該治 cai trị ·該總 cai tổng	[翻] U+8A72
+𣒵	cải	𧵑𣒵 của cải · 𣒵𡏢 cải mả	U+234B5
+掑	cài	掑𨷯 cài cửa · 掑擺 cài bẫy · 掑撻 cài đặt	U+6391
+𧉝	cáy	𡥵𧉝 con cáy · 𧍆𧉝 cua cáy · 𩻐𧉝 mắm cáy · 㦉如𧉝 nhát như cáy	U+2725D
+𧉝	cạy	𢭄𨷯 cạy cửa	U+22B44
+𢭄	cậy		⇔ 𢭄 cạy
+猉	cầy	𬚸猉 thịt cầy · 猉香 cầy hương · 假猉 giả cầy	U+7309
+𢚁	cậy	矓𢚁 trông cậy · 信𢚁 tin cậy	U+22681
+𪴗	cậy	𣘃𪴗 cây cậy	U+2AD17
+敢	CẢM	勇敢 dũng cảm	U+6562
+詌	càm	詌諃 càm ràm	U+8A4C
+𣔋	căm	𣔋車踏 căm xe đạp	U+2350B
+肣	cằm	丐肣 cái cằm · 歛肣 lẹm cằm ·肣𣃱 cằm vuông · 𩯁肣 râu cằm	U+80A3
+幹	CÁN	幹部 cán bộ · 骨幹 cốt cán · 敏幹 mẫn cán	U+5E79
+乾	CÀN	乾坤 càn khôn	U+4E7E
+乾	KIỀN	乾坤 kiền khôn	
+𣷯	cặn	𣷯粑 cặn bã · 𣷯𠴜 cặn kẽ	U+23DEF
+䌍	cẩn	𣘊物䌍硨磲 đồ vật cẩn xà cừ	U+430D
+艮	CẤN	卦艮 quái Cấn	U+826E
+泿	cấn	泿渃 cấn nước	U+6CFF
+硍	cấn	硍蹎 cấn chân · 垓硍 gay cấn	U+784D
+豤	cấn	𤞼豤 lợn cấn	U+8C64
+𫆥	cáng	𫆥當 cáng đáng	U+2B1A5
+𢫮	căng	𢫮𣦎 căng thẳng · 𢫮絏 căng dây · 𢫮𣷱 căng sữa	U+22AEE
+𨀿	cẳng	𨀿蹎 cẳng chân · 𨀿𧦕 cẳng ghế · 𢮩𨀿𧼋 co cẳng chạy	U+2803F
+庚	CANH	庚子 Canh Tí · 庚寅 Canh Dần	U+5E9A
+𥓷	canh	叫𥓷𥓷 kêu canh canh [聲]	U+254F7
+綆	canh	綆絲黹𡲫 canh tơ chỉ vải	U+7D86
+鐛	cảnh	鐎鐛 tiu cảnh	U+941B
+稿	CẢO	稿論 cảo luận · 稿葬 cảo táng ·遺稿 di cảo · 稿𦹳 cảo thơm	U+7A3F
+縞	CẢO	縞服 cảo phục	U+7E1E
+𠞟	cạo	刀𠞟 dao cạo	U+2079F
+𠳖	cạp	咜𠳖 xà cạp	U+20CD6
+𫊩	cạp	𧌂𫊩 bọ cạp	U+2B2A9
+𫊩	cáp	虎𫊩 Hổ Cáp	⇔ 𫊩 cạp
+芨	CẬP	白芨 bạch cập	U+82A8
+桔	CÁT	桔梗 cát cánh	U+6854
+桔	quýt	桔糖 quýt đường	
+𪁄	cắt	𪀄𪁄 chim cắt	U+2A044
+吃	CẬT	吃力 cật lực	U+5403
+吃	khật	吃啹 khật khừ · 吃𢓋 khật khưỡng	
+𦛋	cật	果𦛋 quả cật · 𦛋𥯌 cật tre	U+266CB
+皐	cau	皐𣮮 cau mày	U+7690
+垢	cáu	垢𡑪 cáu ghét	U+57A2
+㤧	cáu	㤧噶 cáu gắt	U+3927
+𧧷	càu	𧧷𦈂 càu nhàu	U+279F7
+駒	CÂU	𨀒駒 vó câu	U+99D2
+狗	CẨU	海狗 hải cẩu · 靈狗 linh cẩu	U+72D7
+枸	CẨU	枸杞 cẩu kỉ	U+67B8
+𫽚	cẩu	𫽚行 cẩu hàng · 竿𫽚 cần cẩu	U+2BF5A
+逅	CẤU	邂逅 giải cấu	U+9005
+𢮭	cọ	𠳚𢮭 cãi cọ · 𢮭嚓 cọ xát	U+22BAD
+椇	cọ	𣘃椇 cây cọ	U+6907
+賈	CỔ	賈害 cổ hại	U+8CC8
+臌	CỔ	臌脹 cổ trướng	U+81CC
+𡚝	cồ	大𡚝越 Đại Cồ Việt · 𪀄𪄸𡚝 chim trích cồ	U+2169D
+鈷	cỗ	鈷炮 cỗ pháo · 鈷排 cỗ bài	U+9237
+𩚩	cỗ	鎫𩚩 mâm cỗ · 𩚩𢚸 cỗ lòng · 𩚩盤 cỗ bàn	U+296A9
+𨍄	cộ	車𨍄 xe cộ	U+28344
+肌	CƠ	肌𣔟 cơ bắp · 𢮩肌 co cơ · 肌體 cơ thể	U+808C
+𧋉	cóc	𡥵𧋉 con cóc	U+272C9
+𫈅	cóc	果𫈅 quả cóc	U+2B205
+𣌶	cọc	𣌶𣌶 còng cọc [𠸨]	U+23336
+𣌶	còng	𣌶𨉞 còng lưng · 丐𣌶 cái còng · 𣌶𢬣 còng tay	
+梮	cọc	㨂梮 đóng cọc · 撻梮 đặt cọc · 𩲡梮 còi cọc	U+68AE
+梮	còng	梮梮 còng cọc [𠸨]	⇔ 梮 cọc
+𤭏	cốc	𤭏𠹾𤎏 cốc chịu nóng	U+24B4F
+鵒	cốc	𡥵鵒 con cốc	U+9D52
+侷	cộc	裙侷 quần cộc · 侷椂 cộc lốc ·侷𣝀 cộc cằn · 𭊛侷 lộc cộc [聲]	U+4FB7
+𢜽	cỏi	勁𢜽 cứng cỏi [𠸨] · 歉𢜽 kém cỏi [𠸨]	U+2273D
+𧄑	cói	𣘃𧄑 cây cói · 𥴜𧄑 chiếu cói	U+27111
+𠎺	côi	單𠎺 đơn côi · 𠎺𠬒 côi cút · 蒲 𠎺 mồ côi	[翻] U+203BA
+臼	cối	臼迆 cối giã	U+81FC
+𦓊（𦓊󠄁）	cỗi	𣝀𦓊 cằn cỗi	U+264CA (U+264CA U+E0101)
+𣛣	cơi	𣛣摕 cơi nới · 𣛣茹 cơi nhà · 𣛣撜𦺓 cơi đựng trầu	U+236E3
+膁	còm	膁𡎝 còm cõi [𠸨]	U+8181
+𥺻	cốm	餅𥺻 bánh cốm	[翻] U+25EBB
+𣋜	cợm	劇𣋜 kịch cợm	U+232DC
+䐊	cồn	𥻂憑䐊 dán bằng cồn [摱]	U+440A
+醌	cồn	𨢇醌 rượu cồn [摱] · 性醌 tính cồn [摱] · 空固醌 không có cồn [摱]	U+918C
+𡑱	cồn	𡑱𡋥 cồn cát · 𡑱𦛌 cồn ruột · 𡑱搞 cồn cào	U+21471
+𠲟	cớn	𢏣𠲟 cong cớn	U+20C9F
+𢏣	cong	𢏣𨙍 cong queo · 塘𢏣 đường cong · 𢏣𠲟 cong cớn	U+223E3
+𠗸	cóng	冷𠗸 lạnh cóng · 洌𠗸 rét cóng · 𠗸𢬣 cóng tay · 𠗸渃 cóng nước	U+205F8
+𧋄	còng	𡥵𧋄𧋄 con còng còng	U+272C4
+𮜲	cõng	𮜲僥 cõng nhau · 𮜲𧋻哏𪃿茹 cõng rắn cắn gà nhà	U+2E732
+𦮎	cọng	𦮎蔞 cọng rau · 𦮎稴 cọng rơm · 𦮎𦹯 cọng cỏ	U+26B8E
+攻	CÔNG	攻擊 công kích · 進攻 tiến công · 反攻 phản công	U+653B
+蚣	CÔNG	蜈蚣 ngô công	U+86A3
+貢	CỐNG	貢獻 cống hiến · 貢品 cống phẩm · 進貢 tiến cống · 納貢 nộp cống · 翁貢 ông cống · 貢濟𦀨 công(cống)-te-nơ [摱]	[翻] U+8CA2
+秴	cóp	𭊫秴 ki cóp [𠸨] · 秴抇 cóp nhặt · 秴排 cóp bài [摱]	[翻] U+79F4
+秴	cốp	秴車 cốp xe [摱]	[翻]
+𠺻	cộp	𡂏𠺻 lộp cộp · 𦖑𠬠㗂𠺻 nghe một tiếng cộp	U+20EBB
+嗗	cót	嗗咭 cót két [聲] · 絏嗗 dây cót [摱]	[翻] U+55D7
+嗗	khụt	嗗喫 khụt khịt	
+𥱪	cót	𥱪穭 cót lúa	U+25C6A
+噘	cọt	噘搩 cọt kẹt [聲]	U+5658
+撅	cột	撅馭 cột ngựa	U+6485
+榘	củ	榘𧃷 củ khoai	U+6998
+岣	cù	岣嶗 cù lao	U+5CA3
+樛	cù	畑樛 đèn cù	U+6A1B
+懼	CỤ	驚懼 kinh cụ	U+61FC
+据	CƯ	拮据 kiết cư	U+636E
+渠	CỪ	渠魁 cừ khôi · 爐渠 lò cừ · 窒渠 rất cừ · 開渠 khai cừ · 渠㨂艚 cừ đóng tàu	U+6E20
+磲	CỪ	硨磲 xà cừ	U+78F2
+𬄨	cừ	湧𬄨 dộng cừ · 𬄨坡坳 cừ bờ ao	U+2C128
+坖	cữ	𠼤坖 kiêng cữ	U+5756
+昛	cữ	於昛 ở cữ · 𥝽倲昛 cấy đúng cữ · 昛洌𡳳𢆥 cữ rét cuối năm	U+661B
+巨	CỰ	巨擘 cự phách · 巨富 cự phú	U+5DE8
+𧍆	cua	𡥵𧍆 con cua · 坧𧍆 gạch cua	U+27346
+鐻	cứa	割鐻 cắt cứa · 鐻𦙶 cứa cổ	U+943B
+鐻	khứa	鐻對 khứa đôi · 鐻𤿭柑 khứa vỏ cam	⇔ 鐻 cứa
+䗇	cúc	𡥵䗇 con cúc	U+45C7
+𨨠	cúc	𨨠襖 cúc áo	U+28A20
+鞠	CÚC	鞠躬 cúc cung	U+97A0
+𣔞	cui	錐𣔞 dùi cui · 𨆢𣔞 lui cui	[翻] U+2351E
+獪（狯）	cúi	𩵜獪 cá cúi	U+736A (U+72EF)
+㽿	cùi	病㽿 bệnh cùi	U+3F7F
+蒐	cùi	蒐椰 cùi dừa · 蒐𣔟 cùi bắp ·蒐𦙴 cùi chỏ	U+8490
+𪇋	cùi	𪀄𪂰𪇋 chim giẻ cùi	U+2A1CB
+圚	cũi	丐圚 cái cũi · 圚㹥 cũi chó	U+571A
+𦀻	cửi	縸𦀻 mắc cửi	U+2603B
+𪂳	cun	𪂳𪄥 cun cút	[翻] U+2A0B3
+𠽓	củn	侖𠽓 lủn củn [𠸨]	U+20F53
+𠽓	ngốn	𠽓𣿃 ngốn ngấu [𠸨]	
+𠽓	ngủn	𠽓𠰂 ngủn ngoẳn [𠸨]	
+猑	cún	𡥵猑 con cún	U+7311
+裩	cùn	丐裩 cái cùn	U+88E9
+𨮉	cùn	刀𨮉 dao cùn · 䇛𨮉 chổi cùn ·理事𨮉 lí sự cùn	U+28B89
+躬	CUNG	鞠躬 cúc cung	U+8EAC
+栱	củng	栱頭 củng đầu	U+6831
+鞏	CỦNG	鞏固 củng cố	U+978F
+硔	cụng	硔頭 cụng đầu · 𤙭硔 bò cụng	U+7854
+畺	cưng	畺𡥵 cưng con · 畺朝 cưng chiều	[翻] U+757A
+𪅦	cuốc	𪀄𪅦 chim cuốc	U+2A166
+钁	cuốc	丐钁 cái cuốc · 钁步 cuốc bộ	U+9481
+腳	CƯỚC	腳蹎 cước chân · 根腳 căn cước · 山腳 sơn cước · 腳費 cước phí	U+8173
+𦃁	cước	𡥵𦃁 con cước · 用𦃁𫜵絏竿鉤 dùng cước làm dây cần câu · 𢬣發𦃁 tay phát cước	U+260C1
+挶	cược	亇挶 cá cược · 撻挶 đặt cược ·挶錢 cược tiền · 挶貝僥 cược với nhau	U+6336
+𡳳（𡳃）	cuối	𡳳窮 cuối cùng	[異] 𡳜 U+21CF3 (U+21CC3)
+𥖩（𬒊）	cuội	𥒥𥖩 đá cuội · 𠲕𥖩 nhăng cuội · 吶嚉如𥖩 nói dối như cuội	U+255A9 (U+2C48A)
+玵	cườm	玵𢬣 cườm tay · 籺玵 hạt cườm	U+73B5
+㤮	cuống	隴㤮 luống cuống	U+392E
+𧋵	cuống	蜞𧋵 cà cuống	U+272F5
+𫈃	cuống	𫈃花 cuống hoa	U+2B203
+崗	CƯƠNG	崗位 cương vị	U+5D17
+𠚵	cúp	𠚵𩯀 cúp tóc [摱] · 𠚵電 cúp điện [摱] · 𠚵糧 cúp lương [摱]	U+206B5
+𠬒	cút	𠬒𠫾 cút đi · 𠎺𠬒 côi cút	U+20B12
+磆	cút	磆𨢇 cút rượu	U+78C6
+𪄥	cút	𪂳𪄥 cun cút	U+2A125
+𮇕	cứt	𮇕𤛠 cứt trâu · 𮇕𪃿 cứt gà · 𮇕瀻 cứt đái · 𮇕鉄 cứt sắt	U+2E1D5
+𤀞	chả	𠋺𤀞別 tau chả biết	U+2401E
+𪃲	chả	𪀄𪃲 chim chả	U+2A0F2
+炙	CHÁ	膾炙 khoái chá	U+7099
+炙	trá	膾炙 khoái trá	
+乍	chạ	終乍 chung chạ · 𨄂乍 lang chạ	U+4E4D
+𫃶	chạc	𫃶𣘃 chạc cây · 絏𫃶 dây chạc	U+2B0F6
+𫫊	chách	吶攊𫫊 nói lách chách	U+2BACA
+𦃀	chải	𦃀𩯀 chải tóc · 盤𦃀 bàn chải · 𦃀𱐟 chải chuốt · 倴𦃀 bươn chải · 𥳂𦃀頭 lược chải đầu	U+260C0
+厔	chái	厔茹 chái nhà · 𡏘厔 hè chái	U+5394
+櫅	chay	𣘃櫅 cây chay	U+6AC5
+𩶪	cháy	𩵜𩶪 cá cháy	U+29DAA
+𣖖	chày	琫𣖖 bóng chày · 𠳚𣖖𠳚臼 cãi chày cãi cối	U+23596
+𩹭	chày	𩵜𩹭 cá chày	U+29E6D
+𢥖	chây	𢥖𢜞 chây lười	U+22956
+𢥖	trây		⇔ 𢥖 chây
+𤈜	chấy	𤈜𩵽 chấy tôm	U+2421C
+𧋺	chấy	𧋺𧎠 chấy rận	U+272FA
+𧋺	chí	固𧋺時𢴖 có chí thì gãi	⇔ 𧋺 chấy
+痁	chàm	病痁 bệnh chàm · 𩈘浽痁 mặt nổi chàm	U+75C1
+灆	chàm	襖灆 áo chàm	U+7046
+枕	chắm	枕枕 chăm chắm [𠸨]	U+6795
+枕	chăm	枕枕 chăm chắm [𠸨]	⇔ 枕 chắm
+紞	chầm	揞紞 ôm chầm	U+7D1E
+𧿒	chẫm	𨈇𧿒 lẫm chẫm [𠸨]	U+27FD2
+𧿒	đẫm		⇔ 𧿒 chẫm
+診	CHẨN	診斷 chẩn đoán	U+8A3A
+賑	CHẨN	賑濟 chẩn tế · 發賑 phát chẩn	U+8CD1
+払	chàng	英払 anh chàng · 払𤳆 chàng trai	[異] 撞 U+6255
+鋹	chàng	丐鋹 cái chàng	U+92F9
+𧑆	chàng	𧊌𧑆 chão chàng	U+27446
+𣈚	chạng	𣈚暀 chạng vạng [𠸨]	U+2321A
+橙	chanh	橙些 chanh ta · 橙西 chanh tây · 茶橙 chè chanh · 茶橙 trà chanh · 伶橙 lanh chanh [𠸨]	U+6A59
+𦭒	chánh	𧤁固𦭒 sừng có chánh	U+26B52
+湩	chành	湩膨 chành bành · 湩湩 chành chạnh · 泈湩 chòng chành	U+6E69
+湩	chạnh		⇔ 湩 chành
+湩	nhành		⇔ 湩 chành
+湩	trành	泈湩 tròng trành	⇔ 湩 chành
+𢤜	chạnh	𢤜𢚸 chạnh lòng	U+2291C
+𧊌	chão	𧊌𧑆 chão chàng	U+2728C
+𥿣	chão	抃𥿣 bện chão	U+25FE3
+𤌀	chập	𤌀𤈛 chập choạng [𠸨]	U+24300
+𤌀	kíp	𤌀砮 kíp nổ · 銃𤌀 súng kíp	
+縶	chập	縶重 chập chùng [𠸨]	U+7E36
+縶	trập	縶𢂎 trập dù · 㹥縶𦖻 chó trập tai	[翻]
+𤁩	chắt	𤁩漉 chắt lọc · 𤁩招 chắt chiu	U+24069
+𡦫	chắt	𡥙𡦫 cháu chắt	U+219AB
+劕	chặt	劕𣘃 chặt cây	U+5295
+𬘋	chặt	𬘋䊼 chặt chẽ	[翻] U+2C60B
+㑳	châu	官㑳 quan châu	U+3473
+楱	chấu	蹎楱 chân chấu · 塊𠶎宗 4 楱 khối bê-tông 4 chấu	U+6971
+𨗛	chầu	𨗛徝 chầu chực · 𨗛紒 chầu rìa · 𨗛𡗶 chầu trời · 咹𠬠𨗛 ăn một chầu	U+285DB
+𡊱	chậu	𩩫𡊱 xương chậu · 𡊱渃 chậu nước	U+212B1
+𢯙	chẻ	𢯙檜 chẻ củi · 𢯙𥯌 chẻ tre	U+22BD9
+𢯙	ché	𡍘𩻐 ché mắm	U+21358
+𡍘	choé		⇔ 𡍘 ché
+痆	chề	𠲖痆 ê chề · 𥘀痆痆 nặng chề chề	U+75C6
+𬿈	chếch	佂𬿈 chênh chếch	[翻] U+2CFC8
+擲	chệch	𫜵擲 làm chệch	U+64F2
+擲	trệch		⇔ 擲 chệch
+鮎	chẽm	𩵜鮎 cá chẽm	U+9B8E
+拈	chêm	拈𠓨 chêm vào · 𩪞拈 sụn chêm	U+62C8
+沾	chễm	沾治 chễm chệ	U+6CBE
+𢸢	chẹn	𢸢𦙶 chẹn cổ · 𢸢卬 chẹn ngang	U+22E22
+𨠣	chếnh	𨠣𤶜 chếnh choáng	U+28823
+𠲜	chềnh	𫯳𠲜 chồng chềnh · 𠲜𪝼 chềnh ềnh	U+20C9C
+㹦	cheo	𡥵㹦㹦 con cheo cheo · 㹦蹽 cheo leo [𠸨]	U+3E66
+𧵓	cheo	𡠣𧵓 cưới cheo	U+27D53
+袑	chéo	袑巾 chéo khăn · 塘袑 đường chéo · 袑𧣳 chéo góc	[異] 𧝨 U+8891
+劄	chép	𥱬劄 ghi chép · 抄劄 sao chép	U+5284
+紥	chét	𧌂紥 bọ chét · 𠬠紥𢬣 một chét tay	U+7D25
+𬗗	chẹt	𬗗𦙥 chẹt họng · 扒𬗗 bắt chẹt	[翻] U+2C5D7
+枝	CHI	枝節 chi tiết · 枝儨 chi chít	U+679D
+𫩝	chi	叫𫩝𫩝 kêu chi chi (chí chí) [聲]	U+2BA5D
+址	CHỈ	地址 địa chỉ · 遺址 di chỉ	U+5740
+𡛰	chỉ		⇔ 姉𧘇 chị ấy U+216F0
+誌	CHÍ	報誌 báo chí · 標誌 tiêu chí ·輿地誌 dư địa chí	U+8A8C
+鈘	chì	筆鈘 bút chì · 鈘折 chì chiết [𠸨]	U+9218
+𢶾	chỉa	撍𢶾 chôm chỉa [𠸨]	U+22DBE
+䤠	chĩa	䤠𠀧 chĩa ba · 䤠銃 chĩa súng	U+4920
+䤠	chỉa		⇔ 䤠 chĩa
+隻	CHÍCH	隻身 chích thân · 單隻 đơn chích	[翻] U+96BB
+隻	chiếc	隻船 chiếc thuyền · 隻𩠴 chiếc gối · 單隻 đơn chiếc	
+𪮁	chịch	𪮁 chịch [俗]	U+2AB81
+煎	chiên	𩚵煎 cơm chiên · 𥸷煎 xôi chiên · 煎𤇤 chiên xào	U+714E
+邅	CHIÊN	迍邅 truân chiên	U+9085
+邅	CHUYÊN	迍邅 truân chuyên	
+廛	chiền	𫷨廛 chùa chiền	U+5EDB
+鉦	chiêng	鉦𤿰 chiêng trống	U+9266
+𠲷	chiếp	𠲷𠲷 chiêm chiếp [聲]	U+20CB7
+𠲷	chiêm		⇔ 𠲷 chiếp
+折	CHIẾT	折扣 chiết khấu · 折率 chiết suất · 折𣘃 chiết cây · 鈘折 chì chiết [𠸨]	U+6298
+折	thiệt	折害 thiệt hại · 折命 thiệt mạng	
+昭	chiêu	姑昭 cô chiêu · 冘昭 đăm chiêu · 蹎冘跢蹎昭 chân đăm đá chân chiêu	U+662D
+𣸬	chiêu	𣸬𠬠喁渃 chiêu một ngụm nước	U+23E2C
+沼	CHIỂU	沼臺 chiểu đài	U+6CBC
+炤	chiểu	阮廷炤 Nguyễn Đình Chiểu	⇔ 照 chiểu U+70A4
+𥴜	chiếu	𧜖𥴜 chăn chiếu	U+25D1C
+呫	chím	𠶍呫 chúm chím [𠸨]	U+546B
+呫	dụm	𧶄呫 dành dụm	[翻]
+㐱	chỉn	㐱周 chỉn chu	[翻] U+3431
+𠃩	chín	次𠃩 thứ chín	U+200E9
+儨	chít	儨巾 chít khăn · 儨𠴜汻 chít kẽ hở	U+5128
+𦙴	chỏ	蒐𦙴 cùi chỏ · 𪐬𦙴 ngòn chỏ ·指𦙴 chỉ chỏ	U+26674
+啫	chơ	啫噅 chơ vơ · 𢣻啫 lơ chơ	[翻] U+556B
+𥡈	choai	𥡈𥡈 choai choai · 馭𥡈 ngựa choai	U+25848
+鏯	choảng	𬂆鏯 loảng choảng [𠸨]	U+93EF
+鏯	xoảng	𨰧鏯 xủng xoảng [聲] · 鏯鏯 xoang xoảng [聲]	
+鏯	soảng		⇔ 鏯 xoảng
+鏯	xoang		⇔ 鏯 xoảng
+鏯	choạng	𨃹𫏈 loạng choạng [𠸨]	U+2B3C8
+𫏈	quàng	𫏈𠓨 quàng vào · 瓊𫏈 quềnh quàng	
+㑁	choắt	傈㑁 loắt choắt [𠸨]	U+3441
+㑁	chứt	𠊛㑁 người Chứt	
+𣘌	chóc	榘𣘌 củ chóc	U+2360C
+㫼	choé	至㫼 chí choé · 𧹻㫼 đỏ choé	U+3AFC
+𦴶	choè	𦴶𣾵 choè choẹt	U+26D36
+𪄦	choè	𬷩𪄦 chích choè	U+2A126
+𲇥	choẹ	𥬧𲇥 chũm choẹ [𠸨]	U+321E5
+𣾵	choẹt	𦴶𣾵 choè choẹt	U+23FB5
+椎	choi	𩁦椎 loi choi [𠸨]	U+690E
+椎	chòi	椎𫥨 chòi ra · 椎𪝅 chòi mòi	
+𢊛	chòi	𢊛更 chòi canh · 𢊛擱 chòi gác	U+2229B
+䒹	chồi	𠛌䒹䄧𦬩 đâm chồi nẩy lộc	[翻] U+44B9
+𠱤	chội	𡒻𠱤 chật chội [𠸨]	U+20C64
+𤈪	chới	𤈪貝 chới với · 執𤈪 chấp chới	U+2422A
+笘	chòm	笘𣇟 chòm sao · 笘𥯎 chòm xóm · 笘𩯁 chòm râu · 笘𣘃 chòm cây	U+7B18
+撍	chôm	撍𢶾 chôm chỉa [𠸨]	U+648D
+跕	chổm	主跕 chúa chổm · 跕𧻭 chổm dậy	[翻] U+8DD5
+𨇸	chồm	謖𧜖𨇸𧻭 tốc chăn chồm dậy	U+281F8
+𡹟	chởm	𡾭𡹟 lởm chởm	U+21E5F
+𡹟	chơm	𡹟𡹟 chơm chởm [𠸨]	⇔ 𡹟 chởm
+佔	chớm	佔𦬑 chớm nở · 佔病 chớm bệnh	U+4F54
+嶟	chon	嶟𡻖 chon von [𠸨]	U+5D9F
+炵	chong	炵畑 chong đèn · 炵炵 chong chong [𠸨]	U+70B5
+𥵾	chỏng	𥵾槓 chỏng gọng · 𥵾啫 chỏng chơ · 挵𥵾 lỏng chỏng	U+25D7E
+泈	chòng	泈湩 chòng chành · 泈嘺 chòng ghẹo	U+6CC8
+泈	tròng	泈湩 tròng trành	⇔ 泈 chòng
+蔠	chông	𢱛蔠 rải chông · 蔠佂 chông chênh [𠸨]	[翻] U+8520
+偅	chổng	偅倞 chổng kềnh · 偅整 chổng chểnh	U+5045
+摯	chộp	摯𥙩 chộp lấy · 𠶙摯 bộp chộp	U+646F
+𢬮	chọt	𧼋𢬮 chạy chọt	U+22B2E
+䱣	chốt	𩵜䱣 cá chốt	U+4C63
+𥈳	chột	𥈳眜 chột mắt · 𥈳䏾 chột bụng · 𥈳胣 chột dạ · 煺𥈳 thui chột · 𣘃𥈳 cây chột	U+25233
+𡂒	chớt	𡂒𠰹 chớt nhả	U+21092
+啁	chu	啁㖼 chu mỏ	U+5541
+註	CHÚ	註解 chú giải · 𥱬註 ghi chú ·註釋 chú thích	U+8A3B
+媎	chửa	固媎 có chửa	U+5A8E
+準	CHUẨN	準備 chuẩn bị · 標準 tiêu chuẩn · 準確 chuẩn xác · 準墨 chuẩn mực	U+6E96
+囑（嘱）	CHÚC	遺囑 di chúc	U+56D1 (U+5631)
+徝	chực	𨗛徝 chầu chực · 徝䟻 chực chờ	U+5F9D
+跮	chúi	跮𠓩 chúi nhủi · 跮𪖫 chúi mũi · 跮頭 chúi đầu	U+8DEE
+𢹉	chùi	撈𢹉 lau chùi · 𢹉蹎 chùi chân	U+22E49
+𪒽	chũi	𤝞𪒽 chuột chũi · 𧍝𪒽 dế chũi	U+2A4BD
+𪒽	trũi	𪒽𪒽 trùi trũi [𠸨]	
+𪒽	dũi	𧍝𪒽 dế dũi	⇔ 𪒽 trũi
+𪒽	trùi	𪒽𪒽 trùi trũi [𠸨]	⇔ 𪒽 trũi
+䍄	chum	丐䍄 cái chum · 䍄㙕 chum vại	U+4344
+𠶍	chúm	𠶍呫 chúm chím [𠸨]	U+20D8D
+𫇳	chùm	𫇳花 chùm hoa · 𫇳果 chùm quả	[翻] U+2B1F3
+𥬧	chũm	𥬧𲇥 chũm choẹ [𠸨]	U+25B27
+𥱱	chụm	𥱱徠 chụm lại · 𥱱蹎 chụm chân · 𥱱檜 chụm củi · 𥱱焒 chụm lửa	U+25C71
+𨀛	chùn	𨀛𨀈 chùn bước	[翻] U+2801B
+盅	CHUNG	盅𨢇 chung rượu	U+76C5
+蒸	CHƯNG	餅蒸 bánh chưng · 蒸拮 chưng cất	U+84B8
+汋	chuốc	汋𥙩 chuốc lấy · 汋禍 chuốc vạ · 汋𨢇 chuốc rượu	U+6C4B
+着	CHƯỚC	扒着 bắt chước	U+7740
+𣙯	chuôi	𣙯刀 chuôi dao · 𣙯鎌 chuôi gươm · 捻滕𣙯 nắm đằng chuôi	U+2366F
+𩸯	chuối	𩵜𩸯 cá chuối	U+29E2F
+漼	chuồi	朱漼𬺗 cho chuồi xuống	U+6F3C
+𨒸	chuồn	𨒸𠅒 chuồn mất	U+284B8
+彰	CHƯƠNG	表彰 biểu chương	U+5F70
+樟	CHƯƠNG	樟腦 chương não	U+6A1F
+掌	CHƯỞNG	𣆅掌 phim chưởng · 掌理 chưởng lí · 掌薄 chưởng bạ ·降龍十八掌 Giáng Long Thập Bát Chưởng	U+638C
+掌	trương	掌巡 trương tuần	
+瘴	CHƯỚNG	瘴氣 chướng khí · 嵐瘴 lam chướng	U+7634
+𠶯	chụt	𠶯𠶯 chùn chụt [𠸨]	U+20DAF
+𠶯	suỵt	𠶯㹥𫥨𨘗 suỵt chó ra đuổi · 𠶯！𡃊渚 suỵt! khẽ chứ	
+𠶯	chùn	𠶯𠶯 chùn chụt [𠸨]	⇔ 𠶯 chụt
+也	dả	餘也 dư dả [𠸨]	U+4E5F
+𧹟	dà	𤿭𧹟 vỏ dà · 𦭷𧹟 màu dà · 𢴍 𧹟 dần dà [𠸨]	U+27E5F
+吔	dã	吔𨢇 dã rượu	U+5414
+㖡	dạ	㖡𠳐 dạ vâng	U+35A1
+𫐟	dặc	𨱽𫐟 dài dặc · 𫐟𫐟 dằng dặc [𠸨]	U+2B41F
+𫐟	dằng	𫐟𫐟 dằng dặc [𠸨]	⇔ 𫐟 dặc
+𧜵	dải	𧜵𫄎 dải lụa · 𧜵掩 dải yếm · 𧜵銀河 dải ngân hà · 𧜵分隔 dải phân cách	U+27735
+𢘽	dái	坤朱𠊛些𢘽 khôn cho người ta dái	U+2263D
+𢘽	rái		⇔ 𢘽 dái
+𤋵	dãi	𤋵油 dãi dầu · 𤋵𣌝 dãi nắng	U+242F5
+洩	dáy	洳洩 dơ dáy	U+6D29
+洩	gỵa	𣾹洩 giặt gỵa [𠸨]	
+拽	dấy	拽軍 dấy quân · 拽兵 dấy binh · 焒拽𬨠 lửa dấy lên	U+62FD
+𢴗	dạm	𢴗𡉦 dạm ngõ	U+22D17
+𥭍	dăm	𥭍𥯌 dăm tre · 𥭍樻 dăm cối	U+25B4D
+𨂘	dẫm	𨂘踏 dẫm đạp · 𪭴𨂘 dò dẫm ·唑𨂘 doạ dẫm	U+28098
+𦂼	dậm	丐𦂼 cái dậm	U+260BC
+𦂼	giậm		⇔ 𦂼 dậm
+𢺤	dan	𢺤𢬢 dan díu · 𢺤𢬣 dan tay	U+22EA4
+𢴍	dần	𢴍𢴍 dần dần · 𢴍𬚸 dần thịt · 𢴍𧹟 dần dà [𠸨]	U+22D0D
+𥳄	dần	丐𥳄 cái dần	U+25CC4
+𧿯	dận	𧿯蹎 dận chân · 𧿯𬺗 dận xuống	U+27FEF
+𨀊	dằng	𨀍𨀊 dùng dằng	U+2800A
+𨀊	nhằng	𨀍𨀊 nhùng nhằng [𠸨]	⇔ 𨀊 dằng
+棦	dành	𣘃棦棦 cây dành dành	U+68E6
+棦	giành		⇔ 棦 dành
+𨄹	dạo	𠫾𨄹 đi dạo	U+28139
+𭧙	dạo	𭧙尼 dạo này	U+2D9D9
+唊	dap	唊鈐 dap găm [摱]	[翻] U+550A
+𰁡	dấp	𠍵𰁡 dáng dấp	U+30061
+迭	dặt	𠽮迭 dè dặt · 迭𫇿 dặt thuốc · 𢭼迭 dìu dặt	U+8FED
+迭	đít	迭尼 Đít-ni [摱]	𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+軼	DẬT	軼事 dật sự	U+8EFC
+溢	DẬT	餘溢 dư dật	U+6EA2
+酉	DẬU	𣇞酉 giờ Dậu · 乙酉 Ất Dậu	U+9149
+𣏌	dẻ	楛𣏌蜜 gỗ dẻ mật	U+233CC
+鵜	dẽ	鵜𧉙 dẽ giun	U+9D5C
+𠴭	dể	輕𠴭 khinh dể	U+20D2D
+𧍝	dế	𧍝𧓭 dế mèn · 𧍝𪒽 dế dũi	U+2735D
+湜	dề	淫湜 dầm dề · 吔湜 dã dề · 雜湜 tạp dề [摱]	U+6E5C
+啖	dèm	啖𢯠 dèm pha	[翻] U+5556
+喕	dên	喕𥉬・𰔫・喈𬰹 Dên-lét Dôn Dê-ro [摱]	𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+5595
+挰	dềnh	挰揚 dềnh dàng	U+6330
+溋	dềnh	𨀍溋 dùng dềnh	[翻] U+6E8B
+溋	dình		⇔ 溋 dềnh
+鞢	dép	𩌂鞢 giày dép · 對鞢 đôi dép	U+97A2
+挗	di	挗𡥵蜆朱𣩂 di con kiến cho chết	U+6317
+𧻑	dí	𧻑蹺𠸜𥌈 dí theo tên trộm · 𧻑蹺伮𣭻𬨠！ dí theo nó mau lên!	U+27ED1
+已	DĨ	已然 dĩ nhiên · 已往 dĩ vãng ·不得已 bất đắc dĩ	U+5DF2
+苡	DĨ	薏苡 ý dĩ	U+82E1
+杝	dĩa	丐杝 cái dĩa	U+675D
+奕	DỊCH	赫奕 hách dịch	U+5955
+𪁂	diệc	𪀄𪁂 chim diệc	U+2A042
+焰	diêm	焰生 diêm sinh · 包焰 bao diêm · 焰鐄 diêm vàng · 焰臾 diêm dúa [𠸨]	U+7130
+閻	DIÊM	閻王 Diêm vương	U+95BB
+鹽	DIÊM	政鹽 chính diêm · 鹽田 diêm điền	U+9E7D
+艷	DIỄM	嬌艷 kiều diễm · 艷麗 diễm lệ · 艷福 diễm phúc	U+8277
+延	DIÊN	外延 ngoại diên · 縣延慶 huyện Diên Khánh	U+5EF6
+涎	DIÊN	龍涎香 long diên hương	U+6D8E
+涎	rờn	摺涎 rập rờn [𠸨]	
+鳶	DIÊN	鳶尾 diên vĩ	U+9CF6
+葉	DIẾP	蔞葉 rau diếp · 葉𩵜 diếp cá	U+8449
+葉	DIỆP	葉綠 diệp lục · 傾葉 khuynh diệp · 柏葉 bách diệp · 竹葉 trúc diệp	
+鍱	DIỆP	鍱𦓿 diệp cày	U+9371
+𠺧	diều	丐𠺧 cái diều	U+20EA7
+遶	diễu	遶兵 diễu binh · 遶行 diễu hành · 遶庯 diễu phố	U+9076
+遶	nhảu	𮞊遶 nhanh nhảu [𠸨]	
+遶	nhau	遶遶 nhau nhảu [𠸨]	⇔ 遶 nhảu
+耀	DIỆU	黃耀 Hoàng Diệu · 陳光耀 Trần Quang Diệu	U+8000
+𥇌	dim	𥋲𥇌 lim dim [𠸨]	[翻] U+251CC
+𢸝	dìm	𢸝價行 dìm giá hàng · 𢸝𬺗渃 dìm xuống nước · 伮被姑𢸝 nó bị cô dìm	U+22E1D
+𰈏	din	𡥵𰈏 con din	[翻] U+3020F
+穎	DĨNH	穎悟 dĩnh ngộ	U+7A4E
+穎	nhảnh	𡭺穎 nhí nhảnh [𠸨]	
+穎	nhanh	穎穎 nhanh nhảnh [𠸨]	⇔ 穎 nhảnh
+鐷	díp	刀鐷 dao díp · 眜鐷徠 mắt díp lại	[翻] U+9437
+𢬢	díu	瓢𢬢 bìu díu	U+22B22
+𦾤	dó	𣘃𦾤 cây dó · 紙𦾤 giấy dó	U+26FA4
+喥	dọ	𠴞次呶徠喥次其 bàn thứ nọ lại dọ thứ kia	U+55A5
+𥳉	dô	𩑰𥳉 trán dô	U+25CC9
+𥳉	giô		⇔ 𥳉 dô
+唋	dớ	𥋶唋 dấm dớ	U+550B
+尹	DOÃN	府尹 phủ doãn · 𣱆尹 họ Doãn	U+5C39
+允	DOÃN	應允 ưng doãn	U+5141
+盈	DOANH	盈餘 doanh dư	U+76C8
+𡹐	doi	𡹐𡐙 doi đất	U+21E50
+𩜑	dôi	𩜑𫥨 dôi ra	U+29711
+𣼭	dồi	𣼭𤁠 dồi dào	U+23F2D
+𦟿	dồi	𠰳𦟿 miếng dồi	U+267FF
+𢢊	dỗi	𢚷𢢊 giận dỗi · 㘋𢢊 hờn dỗi	U+2288A
+𢢊	giỗi	𠇁𢢊 giằn giỗi [𠸨]	
+蛦	dơi	𡥵蛦 con dơi	U+86E6
+吮	dỏn	吮吮 don dỏn [𠸨]	U+542E
+吮	giỏn	吮吮 gion giỏn [𠸨]	
+吮	don	吮吮 don dỏn [𠸨]	⇔ 吮 dỏn
+吮	gion	吮吮 gion giỏn [𠸨]	⇔ 吮 giỏn
+𦛊	dòn	唭𦛊 cười dòn · 𦛊吔 dòn dã ·黰𦛊 đen dòn · 餅𥹠𦛊 bánh đa dòn	U+266CA
+槦	dong	𣘃槦 cây dong	U+69E6
+𦡦	dỏng	𦡦𦡦 dong dỏng [𠸨]	U+26866
+𦡦	dong	𦡦𦡦 dong dỏng [𠸨]	⇔ 𦡦 dỏng
+搈	dông	搈𨱽 dông dài	U+6408
+𩘪	dông	𩘪𩘣 dông tố · 𩘪𪥘󠄁𢆥 dông cả năm	[翻] U+2962A
+𩘪	giông	𩘪𩙍 giông gió	⇔ 𩘪 dông
+湧	dộng	湧𨷯 dộng cửa · 湧𬄨 dộng cừ	U+6E67
+𣔻	dột	茹𣔻 nhà dột · 𣔻捏 dột nát · 𠻇𣔻 dại dột · 膒𣔻 ủ dột	U+2353B
+萸	DU	茱萸 thù du	U+8438
+喻	DỤ	比喻 tỉ dụ · 譬喻 thí (ví) dụ ·隱喻 ẩn dụ	U+55BB
+輿	DƯ	輿論 dư luận · 輿地誌 dư địa chí	U+8F3F
+蕷	dự	𥽌蕷 gạo dự	U+8577
+諛	dua	阿諛 a dua · 諛佞 dua nịnh	U+8ADB
+臾	dúa	焰臾 diêm dúa [𠸨]	U+81FE
+𦼥	dứa	𣘃𦼥 cây dứa · 果𦼥 quả dứa	U+26F25
+椰	dừa	𣘃椰 cây dừa	U+6930
+筍	DUẨN	黎筍 Lê Duẩn	U+7B4D
+遹	DUẬT	范慎遹 Phạm Thận Duật	U+9079
+燏	DUẬT	陳日燏 Trần Nhật Duật	U+71CF
+鷸	DUẬT	蚌鷸 bạng duật	U+9DF8
+浴	DỤC	沐浴 mộc dục	U+6D74
+翼	DỰC	右翼 hữu dực	[翻] U+7FFC
+裔	DUỆ	後裔 hậu duệ · 裔夷 duệ di	U+88D4
+睿	DUỆ	睿哲 duệ triết · 陳睿宗 Trần Duệ Tông	U+777F
+拰	dúm	𠻅拰 bẹp dúm	U+62F0
+搎	dun	搎𢩽 dun đẩy · 搎車 dun xe ·搎𢤡 dun rủi	[翻] U+640E
+踴	DŨNG	踴躍 dũng dược	U+8E34
+𢘩	dửng	𢘩𦝺 dửng mỡ · 𢘩𠮨 dửng dưng [𠸨]	U+22629
+𢘩	rửng		⇔ 𢘩 dửng
+躍	DƯỢC	踴躍 dũng dược	U+8E8D
+𠏮	duối	𥋶𠏮 dấm duối	U+203EE
+𣝉	duối	𣘃𣝉 cây duối	U+23749
+𬧕	duỗi	𬧕𣦎 duỗi thẳng · 𬧕蹎 duỗi chân	U+2C9D5
+洟	dượi	沲洟 dã dượi [𠸨]	U+6D1F
+洟	rượi	𠖾洟 mát rượi · 癒洟 rũ rượi ·洟洟 rười rượi · 花鐄洟 hoa vàng rượi	
+洟	rười	洟洟 rười rượi [𠸨]	⇔ 洟 rượi
+佯	DƯƠNG	佯東擊西 dương đông kích tây	U+4F6F
+仗	dượng	仗𡒬 dượng ghẻ · 仛仗 cha dượng · 注仗 chú dượng	U+4ED7
+仗	giướng	𦀊仗 giây giướng [𠸨]	
+栘	đa	𣘃栘 cây đa	U+6818
+𪀓	đa	𪀄𪀓𪀓 chim đa đa	U+2A013
+跢	đá	抌跢 đấm đá · 琫跢 bóng đá ·跢𪃿 đá gà	U+8DE2
+鴕	ĐÀ	鴕鳥 đà điểu	U+9D15
+鐸	đác	洛鐸 lác đác	U+9438
+瀻	đái	𥺿瀻 ỉa đái	U+703B
+苔	ĐÀI	苔原 đài nguyên	U+82D4
+颱（台）	ĐÀI	颱風 đài phong	U+98B1 (U+53F0)
+𩂠	đậy	𩂏𩂠 che đậy · 動𩂠 động đậy	[翻] U+290A0
+耽	đam	耽迷 đam mê · 耽樂 đam lạc ·丐之拱耽 cái gì cũng đam	[翻] U+803D
+膽（胆）	ĐẢM	大膽 đại đảm · 肝膽 can đảm	U+81BD (U+80C6)
+痰	ĐÀM	痰𧖱 đàm máu	U+75F0
+痰	đờm	痰𣹘 đờm dãi	
+曇	ĐÀM	曇花 đàm hoa	U+66C7
+氮	ĐẠM	氮燐喀璃 đạm lân ca-li	U+6C2E
+𤁡	đằm	𤁡𧺀 đằm thắm · 㲸𤁡 ướt đằm	U+24061
+旦	ĐÁN	花旦 hoa đán · 節元旦 tết nguyên đán	U+65E6
+壇	ĐÀN	演壇 diễn đàn · 登壇 đăng đàn	U+58C7
+檀	ĐÀN	𣘃白檀 cây bạch đàn	U+6A80
+捵	đắn	𨅸捵 đứng đắn · 捵𢵋 đắn đo	U+6375
+𨧝	đẵn	𨧝𣘃 đẵn cây · 𨧝𣖙 đẵn mía · 𠬠𨧝楛 một đẵn gỗ	U+289DD
+憚	đặn	調憚 đều đặn [𠸨] · 𣹓憚 đầy đặn [𠸨]	U+619A
+𢠤󠄁	đần	𢠤󠄁鈍 đần độn · 愚𢠤󠄁 ngu đần ·扡𢠤󠄁 đỡ đần [𠸨]	U+22824 U+E0101
+癉	đẫn	咜癉 đờ đẫn [𠸨]	U+7649
+嘽	đận	柁嘽 đà đận · 吝嘽 lận đận	U+563D
+澢	đáng	塘澢 đường đáng	U+6FA2
+簦	đăng	㨂簦 đóng đăng	U+7C26
+藤	ĐẰNG	葛藤 cát đằng	U+85E4
+𠎬	đấng	𠎬英雄 đấng anh hùng · 𠎬救星 đấng cứu tinh · 𠎬造化 đấng tạo hoá	U+203AC
+芀	đao	苾芀 bí đao · 榘芀 củ đao	U+8280
+忉	đao	嘮忉 lao đao	U+5FC9
+萄	ĐÀO	果葡萄 quả bồ đào · 葡萄牙 Bồ Đào Nha	U+8404
+靼	ĐÁT	韃靼 Thát Đát	U+977C
+逗	ĐẬU	逗車 đậu xe	U+9017
+逗	đỗ	逗車 đỗ xe	⇔ 逗 đậu
+砥	đe	𨑗砥𨑜斧 trên đe dưới búa	U+7825
+悌	đẽ	惵悌 đẹp đẽ [𠸨]	U+608C
+底	ĐỂ	徹底 triệt để · 到底 đáo để	U+5E95
+底	đáy	鈉底 nồi đáy · 紩底 thắt đáy · 𩈘底 mặt đáy	
+底	tẩy	𮞶底 lật tẩy [摱] · 露底 lộ tẩy [摱]	
+啲	đếch	啲懃 đếch cần · 啲別 đếch biết	[翻] U+5572
+墊	đệm	𠸜墊 tên đệm · 墊彈 đệm đàn ·墊床 đệm giường	U+588A
+𦛉	đéo	𠋺𦛉懃別！ Tao đéo cần biết!	U+266C9
+岹	đèo	𡾬岹 dốc đèo · 𨅹岹洡𤂬 trèo đèo lội suối	U+5CB9
+𭢌	đèo	𭢌䙜 đèo bòng · 𭢌行 đèo hàng	U+2D88C
+𠞸	đẽo	𠞸𠞡 đẽo gọt · 鑟𠞸 đục đẽo · 𠖭𠞸 lẽo đẽo	U+207B8
+𪸽	đét	𤷍𪸽 gầy đét · 枯𪸽 khô đét ·黰𪸽 đen đét [聲]	[翻] U+2AE3D
+𮬩	đểu	𮬩𫆥 đểu cáng · 𮬩者 đểu giả ·㹥𮬩 chó đểu · 𨔈𮬩 chơi đểu	U+2EB29
+呧	đi	漫呧噅 Man-đi-vơ [摱]	[翻] U+5467
+𡚦	đĩ	𨔈𡚦 chơi đĩ	U+216A6
+笛	ĐỊCH	彈笛 đàn địch	U+7B1B
+𦖡	điếc	𦖡𦖻 điếc tai · 𦖡𭉪 điếc đặc	U+265A1
+䀨	điềm	䀨令 điềm lành	U+4028
+甸	ĐIỆN	緬甸 Miến Điện	U+7538
+牒	ĐIỆP	通牒 thông điệp	U+7252
+諜	ĐIỆP	間諜 gián điệp · 諜員 điệp viên	U+8ADC
+刁	điêu	吶刁 nói điêu	U+5201
+貂	ĐIÊU	貂蟬 điêu thuyền	U+8C82
+鳥	ĐIỂU	鴕鳥 đà điểu	U+9CE5
+鳥	đụ	鳥媽 đụ má [俗]	
+吊	ĐIẾU	吊文 điếu văn	U+540A
+𫁵	điếu	𫁵𦓿 điếu cày · 𫁵炶 điếu đóm	U+2B075
+叮	ĐINH	叮嚀 đinh ninh · 叮𠄼 đinh (đing) năm [摱]	U+53EE
+叮	điếng	𣩂叮 chết điếng · 𤴬叮 đau điếng	
+疔	ĐINH	疔𩯁 đinh râu	U+7594
+疔	đanh	𤷿頭疔 nhọt đầu đanh	
+掟	đính	掟𧜴 đính khuy · 𡲫𧹻掟𡨸鐄 vải đỏ đính chữ vàng	U+639F
+挺	đĩnh	挺度 đĩnh đạc	U+633A
+艇	ĐĨNH	潛水艇 tiềm thuỷ đĩnh	U+8247
+錠	ĐĨNH	金錠 kim đĩnh · 萬應錠 vạn ứng đĩnh	U+9320
+𦝂	đít	𦝂𧴋 đít beo	U+26742
+𬇓	địt	𬇓！ địt! [俗]	U+2C1D3
+𤂂	đìu	𤂂㳜 đìu hiu	U+24082
+裯	địu	裯𡥵 địu con	[翻] U+88EF
+艔	đò	轉艔 chuyến đò	U+8254
+㡯	đọ	㡯飭 đọ sức · 𬧺㡯 so đọ	U+386F
+賭	đố	句賭 câu đố · 打賭 đánh đố ·賭媄䀡 đố mẹ xem	U+8CED
+朵	ĐOÁ	朵花 đoá hoa · 𠄩朵牡丹 hai đoá mẫu đơn	U+6735
+兌	ĐOÀI	卦兌 quái Đoài	U+514C
+兌	đoái	兌懷 đoái hoài · 兌傷 đoái thương · 兌矓景𫇰𠊛𠸗 đoái trông cảnh cũ người xưa	
+短	ĐOẢN	短劍 đoản kiếm · 短脈 đoản mạch · 所短 sở đoản · 短語 đoản ngữ	U+77ED
+𠾕	đòi	𠾕𠳨 đòi hỏi · 𠾕𧴱 đòi nợ · 學 𠾕 học đòi	U+20F95
+𥖐	đọi	𥖐𩚵 đọi cơm · 咹空𢧚𥖐、吶拯 𢧚𠳒 ăn không nên đọi, nói chẳng nên lời	U+25590
+戴	đội	戴𢃱 đội mũ	U+6234
+玷	đốm	㹥玷 chó đốm · 𤒢玷 lốm đốm	[翻] U+73B7
+𢲠	đơm	𢲠撻 đơm đặt	U+22CA0
+惇	ĐÔN	惇篤 đôn đốc	U+60C7
+敦	ĐÔN	敦促 đôn thúc · 敦厚 đôn hậu ·倫敦 Luân Đôn	[翻] U+6566
+墩	ĐÔN	墩楛 đôn gỗ	U+58A9
+扽	đốn	扽𣘃 đốn cây	U+627D
+訰	đồn	信訰 tin đồn	U+8A30
+飩	ĐỒN	餛飩 hồn đồn	U+98E9
+飩	thánh	餛飩 hoành thánh [摱]	
+鈍	ĐỘN	𢠤󠄁鈍 đần độn	U+920D
+𣁲	đong	𣁲迻 đong đưa	U+23072
+秱	đòng	秱秱 đòng đòng	U+79F1
+冬	ĐÔNG	𬁒冬 mùa đông · 冬至 đông chí · 冬菇 đông cô	U+51AC
+董	ĐỔNG	扶董 Phù Đổng · 董理 đổng lí	U+8463
+董	đổng	吶董 nói đổng · 𠯽董 chửi đổng	
+棟	ĐỐNG	梁棟 lương đống	U+68DF
+沓	đốp	沓𠹗 đốp chát · 沓沓 đôm đốp	[翻] U+6C93
+沓	đôm	沓沓 đôm đốp [𠸨]	⇔ 沓 đốp
+㗳	đớp	㗳𥺒 đớp thính · 㹥㗳 chó đớp · 𩵜㗳𩝇 cá đớp mồi	U+35F3
+哆	đứ	哆𣴙 đứ đừ · 𱖗哆𫥨 ngồi đứ ra	U+54C6
+𣴙	đừ	𤻻𣴙 mệt đừ · 哆𣴙 đứ đừ · 𡃖 𣴙 lừ đừ	U+23D19
+鑟	đục	鑟圇 đục tròn	U+945F
+𥊖	đui	𥊖霧 đui mù	U+25296
+𦢶	đùi	𣔟𦢶 bắp đùi · 裙𦢶 quần đùi	[翻] U+268B6
+𦅭	đũi	𡲫𦅭 vải đũi · 裙襖𦅭 quần áo đũi	U+2616D
+𦅰	đùm	𦅰襆 đùm bọc	[翻] U+26170
+焞	đun	焞渃 đun nước · 焞𤍇 đun nấu	U+711E
+𡶁	đùn	𥺿𡶁 ỉa đùn · 蛽𡶁𡐙 mối đùn đất	U+21D81
+庉	đụn	庉𤌋 đụn khói · 庉𥟉 đụn thóc	[翻] U+5E89
+𨆟	đủng	𨆟䟓 đủng đỉnh [𠸨]	U+2819F
+襠	đũng	裙𦀪襠 quần vá đũng	[翻] U+8960
+燭	đuốc	抪燭 bó đuốc · 檜燭 củi đuốc ·畑燭 đèn đuốc	U+71ED
+𤠂	đười	𤠂𤠆 đười ươi	U+24802
+㷋	đượm	𧺀㷋 thắm đượm · 濃㷋 nồng đượm	U+3DCB
+𧛆	đụp	襖𦀪𦁢𦀪𧛆 áo vá chằng vá đụp	[翻] U+276C6
+曀	ế	曀𤀔 ế ẩm [𠸨] · 曀𫯳 ế chồng	U+66C0
+嗌	ếch	叫嗌嗌 kêu ếch ếch [聲]	U+55CC
+嚥	en	嚥嚥 en en	U+56A5
+𪝼	ềnh	㑲𪝼 nằm ềnh · 𠲜𪝼 chềnh ềnh	U+2A77C
+𪝼	ình	𪝼䏾 ình bụng · 𪝼益 ình ịch · 𪝼轟 ình oàng	
+朠	ễnh	朠䏾 ễnh bụng · 𡥵朠𫊬 con ễnh ương	[翻] U+6720
+㕭	eo	㕭𠾸 eo xèo · 㕭㗒 eo ơi	U+356D
+㕭	ẽo	㕭㕭 èo ẽo [𠸨]	
+㕭	èo	㕭㕭 èo ẽo [𠸨]	⇔ 㕭 ẽo
+腰	eo	腰狹 eo hẹp · 腰𡐙 eo đất · 腰 𨉞 eo lưng · 腰㴜 eo biển	U+8170
+殀	ẻo	擣殀 trù ẻo · 殀𪫦 ẻo lả	U+6B80
+𢰳	éo	𢰳𢰳 eo éo · 𢰳𠻗 éo le · 捥𢰳 uốn éo	U+22C33
+𢰳	eo	𢰳𢰳 eo éo	⇔ 𢰳 éo
+𠇺	ẹp	俋𠇺 ọp ẹp	U+201FA
+𠮙	ét	𠮙涳 ét-xăng [摱]	[翻] U+20B99
+𠮙	ẹt	喐𠮙 ọt ẹt [聲]	[翻]
+喓	êu	喓喂 êu ôi [嘆]	[翻] U+5593
+𪵤	ga	瓶𪵤 bình ga [摱]	U+2AD64
+𠶄	gạ	𠶄𡀯 gạ chuyện	U+20D84
+㓢	gạc	㓢𠸜𥪝名冊 gạc tên trong danh sách · 攑㓢 gỡ gạc [𠸨]	U+34E2
+觡	gạc	觡㹯 gạc hươu	U+89E1
+𦂦	gạc	𨬋𦂦㲸 miếng gạc ướt	U+260A6
+棘	gấc	𥸷棘 xôi gấc	[翻] U+68D8
+𢹆	gài	𢹆擺 gài bẫy · 𢹆𨷯 gài cửa	U+22E46
+𢴖	gãi	固𧋺時𢴖 có chí thì gãi	U+22D16
+㨟	gảy	㨟彈 gảy đàn · 㨟稴𠓨𤇮 gảy rơm vào bếp	U+3A1F
+㨟	khảy		⇔ 㨟 gảy
+𠰁	gáy	𪃿𠰁𡀴𡀴 gà gáy o o	U+20C01
+𩺺	gáy	𩵜𩺺 cá gáy	U+29EBA
+𬛑	gáy	𬛑冊 gáy sách	U+2C6D1
+㧡	gẩy	㧡彈 gẩy đàn · 㧡盤併 gẩy bàn tính	U+39E1
+𨭺	gam	其露𨭺 ki-lô-gam [摱]	[翻] U+28B7A
+㨔	găm	𬚸羝㨔蒜 thịt dê găm tỏi	U+3A14
+鈐	găm	針鈐 kim găm · 鈐行 găm hàng · 刀鈐 dao găm · 唊鈐 dap găm [摱]	U+9210
+𢤝	gằm	儈𢤝 cúi gằm	U+2291D
+齽	gặm	𤝞齽 chuột gặm · 齽𠰃 gặm nhấm	U+9F7D
+𢢈	gàn	𢢈𢢈 gàn gàn [𠸨]	U+22888
+𢭬	gạn	𢭬𡃕 gạn gùng [𠸨] · 𢭬漉 gạn lọc · 𢭬𠳨 gạn hỏi · 𢭬濁𢵱沖 gạn đục khơi trong	U+22B6C
+𡬼	gang	荼𡬼 dưa gang	U+21B3C
+鋼	gang	鍊鋼 luyện gang	U+92FC
+㮗	găng	𣘃㮗 cây găng	U+3B97
+𠡚	gắng	𠡚功 gắng công · 固𠡚 cố gắng	[翻] U+2085A
+𫧂	gáo	𫧂椰 gáo dừa · 彈𫧂 đàn gáo	U+2B9C2
+檤	gạo	𣘃檤 cây gạo	U+6AA4
+𢰽	gáp	急𢰽 gấp gáp [𠸨]	U+22C3D
+𢰽	gắp	𢰽籤 gắp thăm · 丐𢰽 cái gắp · 𢰽式咹 gắp thức ăn	
+𥄫	gấp	𥄫𥇚 gấp ghé	[翻] U+2512B
+𥄫	ngấp		⇔ 𥄫 gấp
+岋	gập	岋冊 gập sách · 岋𡹡 gập ghềnh	U+5C8B
+噑	gáu	噑噑 gau gáu [𠸨]	U+5651
+噑	ngáu	噑噑 ngau ngáu [𠸨]	
+噑	ngấu	噑噑 ngâu ngấu [𠸨]	
+噑	gau	噑噑 gau gáu [𠸨]	⇔ 噑 gáu
+噑	ngau	噑噑 ngau ngáu [𠸨]	⇔ 噑 ngáu
+噑	ngâu	噑噑 ngâu ngấu [𠸨]	⇔ 噑 ngấu
+浗	gàu	浗𣙩 gàu sòng	U+6D57
+浗	gầu		⇔ 浗 gàu
+脙	gàu	𬖾脙 phở gàu · 頭固𡗉脙 đầu có nhiều gàu	U+8119
+脙	gầu		⇔ 脙 gàu
+𠯜	gâu	𠯜𠯜 gâu gâu [聲]	U+20BDC
+㗕	gẫu	𠾎㗕 tán gẫu	U+35D5
+㗕	quạu	㗕㗕 quàu quạu [𠸨]	
+㗕	quàu	㗕㗕 quàu quạu [𠸨]	⇔ 㗕 quạu
+䑴	ghe	䑴船 ghe thuyền	U+4474
+𡃊	ghe	𡃊番 ghe phen	U+210CA
+𡃊	khẽ	捈高打𡃊 giơ cao đánh khẽ · 溪 𡃊 khe khẽ [𠸨]	
+𤴪	ghẻ	𤴪𤹙 ghẻ chốc · 𤴪𧋆 ghẻ ruồi ·丐𤴪 cái ghẻ · 𤴪渃 ghẻ nước	U+24D2A
+𡒬	ghẻ	姨𡒬 dì ghẻ · 𡒬冷 ghẻ lạnh	U+214AC
+𥇚	ghé	𥄫𥇚 gấp ghé	U+251DA
+𥇚	nghé		⇔ 𥇚 ghé
+㙋	ghè	㙋𩻐 ghè mắm · 㖗㙋 gầm ghè [𠸨]	U+364B
+𥗎	ghề	𥕥𥗎 gồ ghề [𠸨]	U+255CE
+𮞑	ghếch	𮞑蹎 ghếch chân	[翻] U+2E791
+𧁴	ghém	蔞𧁴 rau ghém · 襘𧁴 gói ghém	[翻] U+27074
+𡹡	ghềnh	𣴜𡹡 thác ghềnh · 岋𡹡 gập ghềnh	[翻] U+21E61
+嘺	ghẹo	嘹嘺 trêu ghẹo	[翻] U+563A
+嘺	kẽo	嘺𠹳 kẽo kẹt [𠸨]	
+𡑪	ghét	垢𡑪 cáu ghét	U+2146A
+剘	ghi	𢯏剘 bẻ ghi	U+5258
+𢙕	ghiếc	𡃍𢙕 gớm ghiếc	U+22655
+𠋵	ghiền	ghiền nặng 𠋵𨢇 · ghiền rượu 𠊛𠋵古喀印 · người ghiền cô-ca-in [摱]	U+202F5
+捦	ghim	捦𠓨 ghim vào	[翻] U+6366
+𩸱	ghím	𩵜𩸱 cá ghím	U+29E31
+拑	ghìm	拑𬘋 ghìm chặt	U+62D1
+𩸰	go	丐𩸰𩵜 cái go cá	U+29E30
+𦁿	gô	𦁿𦙶 gô cổ · 繓𦁿 trói gô · 𪃿𦁿 gà gô	U+2607F
+𥕥	gồ	𩑰𥕥 trán gồ · 𡐙𥕥 đất gồ · 𥕥 𥗎 gồ ghề [𠸨]	U+25565
+塸	gơ	塸絏𧃷榔 gơ dây khoai lang · 𠊛 𤄷塸萊 người Ra Gơ-lai (Glai)	[翻] U+5878
+𪡽󠄁（𪡽󠄂）	gở	吶𪡽󠄁 nói gở · 怪𪡽󠄁 quái gở	U+2A87D U+E0101 (U+2A87DU+E0102)
+埧	gờ	埧𤬪 gờ ngói · 埧盤 gờ bàn · 埧 𦑃𨷯 gờ cánh cửa	U+57E7
+梏	gộc	梞梏 gậy gộc	U+688F
+澮（浍）	gội	浸澮 tắm gội · 澮頭 gội đầu ·油澮 dầu gội	U+6FAE (U+6D4D)
+搛	gom	搛𢵰 gom góp · 收搛 thu gom	[翻] U+641B
+𡑲	gốm	𣘊𡑲 đồ gốm · 𠏲𡑲 thợ gốm	U+21472
+𡃍	gớm	𭌲𡃍 ghê gớm · 𡃍𢙕 gớm ghiếc · 𡃍！ gớm!	U+210CD
+𢢬	gờm	𢢬𢢬 gờm gờm [𠸨]	U+228AC
+袞	gọn	袞抗 gọn gàng [𠸨] · 袞技 gọn ghẽ [𠸨]	U+889E
+袞	gòn	袞袞 gòn gọn [𠸨]	⇔ 袞 gọn
+琨	gôn	琫琨 bóng gôn [摱] · 𡑝琨 sân gôn [摱] · 榾琨 cột gôn [摱]	U+7428
+𰜠	gợn	𰜠㳥 gợn sóng	U+30720
+𰜠	gờn	𰜠𰜠 gờn gợn [𠸨]	⇔ 𰜠 gợn
+嗊	gỏng	噶嗊 gắt gỏng	U+55CA
+嗊	ngỗng	藝嗊 nghề ngỗng [𠸨]	[翻]
+槓	gọng	槓鏡 gọng kính	U+69D3
+𭡅󠄁	gồng	挭𭡅󠄁 gánh gồng · 𭡅󠄁𨉟 gồng mình	U+2D845 U+E0101
+佮	gộp	賚佮 lãi gộp · 佮徠 gộp lại	U+4F6E
+𠞡	gọt	𠞸𠞡 đẽo gọt · 𠞡𡧲 gọt giũa	U+207A1
+淈	gột	淈𣳮 gột rửa · 淈仍意擬腐敗 gột những ý nghĩ hủ bại	U+6DC8
+㘗	gu	合㘗 hợp gu [摱] · 㘗審美 gu thẩm mĩ [摱]	U+3617
+佝	gù	佝𨉞 gù lưng	U+4F5D
+𨗥（𨗥󠄁）	gũi	近𨗥 gần gũi [𠸨]	[翻] U+285E5 (U+285E5 U+E0101)
+𨗥（𨗥󠄁）	gụi	近𨗥 gần gụi [𠸨]	[翻]
+𡃕	gùng	𢭬𡃕 gạn gùng [𠸨]	[翻] U+210D5
+薑	gừng	榘薑 củ gừng	[翻] U+8591
+槶	guốc	鞢槶 dép guốc · 槶楛 guốc gỗ	U+69F6
+𤶹	guộc	𤷍𤶹 gầy guộc [𠸨]	U+24DB9
+鎌	gươm	錆鎌 thanh gươm	U+938C
+睒	gườm	睒睒 gườm gườm [𠸨]	U+7752
+軖	guồng	軖𣛠 guồng máy · 軖捁𥾘 guồng kéo sợi	U+8ED6
+縎	gút	紩縎黹 thắt gút chỉ	[翻] U+7E0E
+縎	gùn	縎縎 gùn gút [𠸨]	⇔ 縎 gút
+咦	gi		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+54A6
+釲	gỉ	𨫪釲 han gỉ · 釲𡏥 gỉ sét · 釲眜 gỉ mắt · 釲𪖫 gỉ mũi	U+91F2
+釲	rỉ	釲𡏥 rỉ sét	⇔ 釲 gỉ
+侇	gí	㑲侇 nằm gí · 碮𠻅侇𬺗 đè bẹp gí xuống	U+4F87
+枷	gia	𣘃校枷 cây giâu gia	U+67B7
+枷	da		⇔ 枷 gia
+迆	giã	迆𥽌 giã gạo	U+8FC6
+捔	giác	捔𨉞 giác lưng	U+6354
+偕	GIAI	百年偕老 bách niên giai lão	U+5055
+邂	GIẢI	邂逅 giải cấu	U+9082
+𦄂	giải	𦄂賞 giải thưởng	[異] 繲 U+26102
+𤐃	giãi	𤐃排 giãi bày · 𤐃𤍊 giãi tỏ	U+24403
+㑘	giáy	𠊛㑘 người Giáy	U+3458
+䟢	giãy	䟢𣩂 giãy chết · 䟢䄧 giãy nảy	U+47E2
+䟢	rẫy		⇔ 䟢 giãy
+𦀊	giây	墨𦀊𠓨襖 mực giây vào áo	U+2600A
+𥹋	giầy	餅𥹋 bánh giầy	U+25E4B
+𥹋	dày		⇔ 𥹋 giầy
+𥹋	dầy		⇔ 𥹋 giầy
+𨡉	giấm	𨡉𤽸 giấm trắng · 䣷如𨡉 chua như giấm	U+28849
+𨡉	dấm		⇔ 𨡉 giấm
+𥋶	giấm	𥋶搥 giấm giúi	U+252F6
+𥋶	dấm	𥋶𠏮 dấm duối · 𥋶唋 dấm dớ	⇔ 𥋶 giấm
+𨃵	giẫm	𨃵踏 giẫm đạp	U+280F5
+𨁹	giậm	𨁹蹎 giậm chân	[翻] U+28079
+𨁹	dậm		⇔ 𨁹 giậm
+𧍴	gián	𡥵𧍴 con gián	U+27374
+橺	giàn	橺𦲾 giàn mướp	U+6A7A
+𢴟	giằn	𢴟𬴭 giằn giọc [𠸨]	U+22D1F
+𢴟	trằn	𢴟𬴭 trằn trọc · 𤴬𢴟𣅶𠭤胣 đau trằn lúc trở dạ	
+洚	giáng	洚朱𠬠梞 giáng cho một gậy	U+6D1A
+𢭩	giằng	𢭩扯 giằng xé · 𢭩𢮩 giằng co · 𢭩𢴘 giằng xay	U+22B69
+𥯰	giành	丐𥯰 cái giành	U+25BF0
+蛟	GIAO	蛟龍 giao long	U+86DF
+狡	GIẢO	奸狡 gian giảo · 狡猾 giảo hoạt · 狡詐 giảo trá	U+72E1
+絞	GIẢO	罪絞 tội giảo · 絞刑 giảo hình	U+7D5E
+𥋽	giáo	𥋽𠭤 giáo giở [𠸨]	U+252FD
+𥋽	tráo	𥋽𥉲 tráo trợn · 𥗁𥋽 trơ tráo ·打𥋽 đánh tráo	
+𥋽	trao	𥋽𥋽 trao tráo [𠸨]	⇔ 𥋽 tráo
+𣎖	giập	𣎖捏 giập nát · 𦡣𣎖 bầm giập	U+23396
+𣎖	chập		⇔ 𣎖 giập
+泆	giạt	㵢泆 trôi giạt · 泆𠓨坡 giạt vào bờ	U+6CC6
+𢳂	giắt	𢳂𢬣僥 giắt tay nhau · 𢳂錢𠓨紩 𠦻 giắt tiền vào thắt lưng	U+22CC2
+𥭛	giậu	樔𥭛 rào giậu · 𥭛楛𨒺茹 giậu gỗ quanh nhà	U+25B5B
+綵	giẻ	綵𧛊 giẻ rách	U+7DB5
+𪂰	giẻ	𪀄𪂰𪇋 chim giẻ cùi	U+2A0B0
+秷	gié	秷穭 gié lúa	U+79F7
+𦟘	gien	部𦟘 bộ gen · 相作𦟘 tương tác gen	U+267D8
+𦟘	gen		⇔ 𦟘 gien
+𧁶	giền	蔞𧁶 rau giền	[翻] U+27076
+𧁶	dền		⇔ 𧁶 giền
+𫣂	giềng	㫰𫣂 láng giềng	[翻] U+2B8C2
+𫣂	giênh		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+佋	giẹo	佋住 giẹo giọ [𠸨]	U+4F4B
+浙	giẹt	𪖫浙 mũi giẹt · 𤷿㐌浙𬺗 nhọt đã giẹt xuống	[翻] U+6D59
+嘋	giễu	𠶜嘋 chế giễu · 嘋𠹳 giễu cợt	U+560B
+𥱰	giò	𥱰𤙭 giò bò · 𥱰鮓 giò chả	U+25C70
+𨃝	giò	蹎𨃝 chân giò	U+280DD
+捛	giở	捛冊 giở sách · 捛襖𫥨𬡶 giở áo ra mặc	U+635B
+𬴭	giọc	𢴟𬴭 giằn giọc [𠸨]	U+2CD2D
+𬴭	trọc	𠞟𬴭 cạo trọc · 𬴭頭 trọc đầu	[翻]
+䇶	giốc	㗂䇶 tiếng giốc	[翻] U+41F6
+蜼	giòi	𡥵蜼 con giòi	U+873C
+蜼	dòi		⇔ 蜼 giòi
+介	GIỚI	介紹 giới thiệu · 介詞 giới từ	[翻] U+4ECB
+伅	giòn	伅偖 giòn giã · 黰伅 đen giòn	[翻] U+4F05
+笗	giong	抪檜笗 bó củi giong · 樔笗 rào giong	U+7B17
+𩢦	giong	𩢦燭 giong đuốc · 𩢦帆𫥨𣾺 giong buồm ra khơi · 𩢦𤛠𫥨𬏇 giong trâu ra ruộng	U+298A6
+𪢊	gióng	𪢊鐘 gióng chuông · 𪢊㨋 gióng giả [𠸨]	U+2A88A
+柊	giông	柊𪥘󠄁𢆥 giông cả năm	U+67CA
+𧊕	giông	麒𧊕 kì giông · 盲𧊕 manh giông · 沙𧊕 sa giông	U+27295
+㘁	gịt	㘁𪖫 gịt mũi	[翻] U+3601
+𱡃（𪮴）	giũ	𣾹𱡃 giặt giũ	[翻] U+31843 (U+2ABB4)
+銼	giũa	丐銼 cái giũa · 𥕄銼 mài giũa · 𠞡銼 gọt giũa	U+92BC
+㗎	giụa	𣼼㗎 giàn giụa [𠸨] · 䟢㗎 giãy giụa [𠸨]	U+35CE
+搥	giúi	𨁟搥 ngã giúi · 𥋶搥 giấm giúi · 搥𢵌 giúi giụi	U+6425
+搥	dúi	搥朱 dúi cho · 搥𢵌 dúi dụi · 𡥵搥 con dúi	⇔ 搥 giúi
+𢵌	giụi	𢵌眜 giụi mắt	U+22D4C
+𢵌	dụi	𢵌眜 dụi mắt · 搥𢵌 dúi dụi	⇔ 𢵌 giụi
+𡑓	giùm	𫜵𡑓 làm giùm	[翻] U+21453
+撴	giun	撴僥𨁟 giun nhau ngã	[翻] U+64B4
+掁	giương	掁弓 giương cung · 掁圍 giương vây · 掁眜 giương mắt	U+6381
+𧯶	há	𧘇𧯶沛𱺵惡咍哰？ Ấy há phải là ác hay sao?	U+27BF6
+霞	HÀ	雲霞 vân hà	[翻] U+971E
+郝	HÁC	𣱆郝 họ Hác · 嘝郝 hốc hác [𠸨]	U+90DD
+鶴	HẠC	𪀄鶴 chim hạc · 紅鶴 hồng hạc	U+9DB4
+黑	HẮC	黑素 hắc tố · 黑煙 hắc ín [摱] ·黑店 hắc điếm · 黑暗 hắc ám ·黑馬 hắc mã · 黑猩猩 hắc tinh tinh	U+9ED1
+黑	hắc	黑斧 hắc búa · 㤚黑 hăng hắc ·排算黑過 bài toán hắc quá	
+嘿	hặc	𡄆嘿 hục hặc [𠸨]	[翻] U+563F
+孩	HÀI	孩兒 hài nhi	U+5B69
+鞋	HÀI	對鞋 đôi hài	U+978B
+唉	hãy	唉朱別 hãy cho biết · 唉𡀳 hãy còn	U+5509
+㦑	hám	㦑名 hám danh · 㦑利 hám lợi · 洃㦑 hôi hám [𠸨]	U+3991
+噷	hăm	噷𠇍歲 hăm mấy tuổi	U+5677
+㤷	hằm	㤷㤷 hằm hằm · 㤷嗄 hằm hè	U+3937
+㤷	hầm	㤷嗄 hầm hè	⇔ 㤷 hằm
+𥼲	hẩm	𩚵𥼲 cơm hẩm · 𥼲㳜 hẩm hiu	U+25F32
+𤐚	hầm	𤐚𩩫 hầm xương	U+2441A
+爁	hậm	爁𤍋 hậm hực	U+7201
+𰗯	han	蘿𰗯 lá han	U+305EF
+𨫪	han	𨫪釲 han rỉ	U+28AEA
+𪡗	han	𠳨𪡗 hỏi han	U+2A857
+暵	HÁN	旱暵 hạn hán	U+66B5
+痕	hằn	䌰痕 nếp hằn · 痕餅車 hằn bánh xe	U+75D5
+痕	ngấn	𤵖痕 vết ngấn · 痕渃 ngấn nước	
+釁	HẤN	𨠳釁 gây hấn · 𢭁釁 hề hấn [𠸨]	U+91C1
+胻	háng	樣胻 dạng háng · 𠋥𤻭胻啊？ mày ngứa háng à?	U+80FB
+响	hắng	哅响 húng hắng · 响𠰩 hắng giọng	U+54CD
+𫰟	HẰNG	𫰟娥 Hằng Nga	U+2BC1F
+哘	hẵng	哘抵妬 hẵng để đó	U+54D8
+哼	hanh	𢝜哼 đành hanh · 𩙍哼 gió hanh	U+54FC
+衡	HÀNH	權衡 quyền hành · 玉衡 ngọc hành	U+8861
+毫	HÀO	錢毫 tiền hào	U+6BEB
+蠔	HÀO	𡥵蠔 con hào	U+8814
+蠔	hàu	𡥵蠔 con hàu	
+𠲡	hão	許𠲡 hứa hão · 𠲡玄 hão huyền	U+20CA1
+昊	HẠO		𡨸漢尼主要得使用朱𠸜男界。 Chữ Hán này chủ yếu được sử dụng cho tên nam giới. U+660A
+浩	HẠO	浩然 hạo nhiên · 浩氣 hạo khí	U+6D69
+顥	HẠO		𡨸漢尼主要得使用朱𠸜男界。 Chữ Hán này chủ yếu được sử dụng cho tên nam giới. U+9865
+灝	HẠO		𡨸漢尼主要得使用朱𠸜男界。 Chữ Hán này chủ yếu được sử dụng cho tên nam giới. U+705D
+盍	háp		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+76CD
+熻	hấp	熻𩚵 hấp cơm · 熻熻 hâm hấp [𠸨]	U+71BB
+熻	hâm	熻熻 hâm hấp [𠸨]	⇔ 熻 hấp
+𫤾	hắt	𫤾癐 hắt hủi · 𫤾㳜 hắt hiu	U+2B93E
+迄	hất	迄𨀿 hất cẳng · 迄𦛜 hất hàm	U+8FC4
+𬷎	hâu	鷂𬷎 diều hâu	U+2CDCE
+茩	hấu	荼茩 dưa hấu	U+8329
+𭌟	hê	嘑𭌟 hả hê [𠸨]	U+2D31F
+𠯋	hể	𠯋嘑 hể hả	U+20BCB
+𠯋	hi	唭𠯋𠯋 cười hi hi [聲]	
+嗘	hề	唭嗘嗘 cười hề hề	U+55D8
+侅	hếch	𪖫侅 mũi hếch · 侅蹎𬨠 hếch chân lên	[翻] U+4F85
+劾	hệch	斛劾 hộc hệch [𠸨]	U+52BE
+𡑯	hẻm	𡉦𡑯 ngõ hẻm · 塘𡑯 đường hẻm	[翻] U+2146F
+𠻃	hen	𠯖𠻃 ho hen	[翻] U+20EC3
+𭉑	hẹn	許𭉑 hứa hẹn · 𭉑㗅 hẹn hò [𠸨]	[異] 限 U+2D251
+䘆	hến	𡥵䘆 con hến · 䘆𤇤 hến xào	U+4606
+亨	hênh	𤾟亨 hớ hênh · 惺亨 tênh hênh	[翻] U+4EA8
+啈	hểnh	𠸣啈 hổng hểnh [𠸨]	U+5548
+㺧	heo	𡥵㺧 con heo	U+3EA7
+𤉗	héo	𤉗焝 héo hon · 枯𤉗 khô héo	U+24257
+鶡	hét	𪀄鶡 chim hét	U+9DA1
+𩊽	hia	對𩊽 đôi hia	U+292BD
+𢷓	hích	𢷓𣎣𢬣𠓨𦘹伴 hích khuỷu tay vào sườn bạn · 用把𦠘𢷓𠬠丐 dùng bả vai hích một cái	U+22DD3
+𢷓	huých	𢷓㹥𫥨哏 huých chó ra cắn	⇔ 𢷓 hích
+檄	HỊCH	檄文 hịch văn	[翻] U+6A84
+嫌	HIỀM	嫌隙 hiềm khích · 嫌疑 hiềm nghi	U+5ACC
+嫌	hem	潛嫌 tèm hem [𠸨]	
+軒	HIÊN	行軒 hàng hiên · 𠃅軒 mái hiên	U+8ED2
+憲	HIẾN	憲法 hiến pháp	U+61B2
+蠍	HIẾT	天蠍 Thiên Hiết	U+880D
+蠍	hạt	天蠍 Thiên Hạt	⇔ 蠍 hiết
+蠍	yết	天蠍 Thiên Yết	⇔ 蠍 hiết
+校	HIỆU	校冊 hiệu sách · 校長 hiệu trưởng · 監校 giám hiệu	U+6821
+校	giâu	𣘃校枷 cây giâu gia	
+𥋵	him	𥋵𥋵 him him	[翻] U+252F5
+嬐	hĩm	丐嬐 cái hĩm	U+5B10
+馨	HINH	馨香 hinh hương	U+99A8
+型	HÌNH	模型 mô hình · 典型 điển hình · 類型 loại hình	U+578B
+䀫	híp	䀫眜 híp mắt	[翻] U+402B
+𭊪	hít	㖧𭊪 hôn hít	[翻] U+2D2AA
+㳜	hiu	𤂂㳜 đìu hiu · 㳜𣔲 hiu quạnh	[翻] U+3CDC
+𢜜	hổ	醜𢜜 xấu hổ · 𢜜𢢆 hổ thẹn	U+2271C
+諕	hố	被諕 bị hố	U+8AD5
+壺	HỒ	銅壺 đồng hồ	U+58FA
+醐	HỒ	醍醐 đề hồ	U+9190
+怙	hỗ	怙價 hỗ giá	U+6019
+𤏤	hơ	𤏤過焒 hơ qua lửa	[翻] U+243E4
+𤾟	hớ	𤾟亨 hớ hênh	U+24F9F
+𤾟	hơ	𤾟𤾟 hơ hớ [𠸨]	⇔ 𤾟 hớ
+鏵	hoa	𠬠鏵 một hoa	單位𢵋 đơn vị đo U+93F5
+嚯	hoác	㢅嚯 rộng hoác · 𢲫嚯 mở hoác · 𥧪嚯 trống hoác · 𫫥嚯 toang hoác	U+56AF
+嚯	oác	嚯嚯 oác oác [𠸨]	[翻]
+霍	HOẮC	霍亂 hoắc loạn · 揮霍 huy hoắc	U+970D
+霍	hoắc	𨓐霍 lạ hoắc · 啐霍 thối hoắc ·醜霍 xấu hoắc	
+藿	HOẮC	藿香 hoắc hương	U+85FF
+藿	hoáy	咥渨 hí hoáy [𠸨]	U+6E28
+渨	ối	𩓜渨 màng ối · 渃渨 nước ối ·栓塞渨 thuyên tắc ối · 𡀳渨𫥨蒂 còn ối ra đấy	
+𥩇	hoắm	漊𥩇 sâu hoắm	U+25A47
+浣	hoán	糖浣 đường hoán	U+6D63
+換	HOÁN	換𢷮 hoán đổi · 換改 hoán cải ·交換 giao hoán	U+63DB
+喚	HOÁN	呼喚 hô hoán	U+559A
+桓	HOÀN	盤桓 bàn hoàn	U+6853
+宦	HOẠN	宦官 hoạn quan · 宦𤞼 hoạn lợn	U+5BA6
+唍	hoằn	和唍 hoạ hoằn [𠸨]	U+550D
+惶	HOÀNG	驚惶 kinh hoàng	U+60F6
+𣹔	hoảnh	𣋝𣹔 ráo hoảnh	U+23E54
+猾	HOẠT	狡猾 giảo hoạt	U+733E
+𨨅	hoắt	𨮐𨨅 nhọn hoắt	U+28A05
+𫘲	hóc	閧𫘲 hỏng hóc	U+2B632
+嘝	hốc	𠹛嘝 há hốc · 𡎟嘝 hang hốc · 𥧪嘝 trống hốc · 嘝郝 hốc hác [𠸨]	U+561D
+斛	HỘC	𠬠斛 một hộc	單位𢵋 đơn vị đo U+659B
+斛	hộc	斛速 hộc tốc [𠸨]	
+斛	hồng	斛斛 hồng hộc [𠸨]	⇔ 斛 hộc
+鵠	HỘC	鴻鵠 hồng hộc	U+9D60
+暉	hoe	𧹻暉 đỏ hoe · 咏暉 vắng hoe	U+6689
+槐	HOÈ	𣘃槐 cây hoè	U+69D0
+𠽡	hoẹ	橫𠽡 hoạnh hoẹ [𠸨]	U+20F61
+𤸫	hoen	𤸫釲 hoen gỉ · 𤸫癋 hoen ố	U+24E2B
+宛	hoẻn	宣宛 toen hoẻn [𠸨]	U+5B9B
+𠲣	hoét	𧹻𠲣 đỏ hoét · 花𠲣 hoa hoét [𠸨]	U+20CA3
+脄	hoi	苿脄 mùi hoi · 𠳾脄 hẳn hoi ·險脄 hiếm hoi	U+8104
+洄	hói	掏汒𢵼洄 đào mương vét hói · 𢵼洄引渃 vét hói dẫn nước	U+6D04
+䰎	hói	䰎頭 hói đầu · 瀝䰎 rạch hói	U+4C0E
+賄	HỐI	賄賂 hối lộ	U+8CC4
+鮰	hồi	𩵜鮰 cá hồi	U+9BB0
+咳	hỡi	咳喂 hỡi ôi [嘆]	U+54B3
+亥	HỢI	𣇞亥 giờ Hợi · 乙亥 Ất Hợi	U+4EA5
+𩩿	hom	𩩿嫌 hom hem [𠸨]	U+29A7F
+𠮬	hỏn	准𠮬 chỏn hỏn · 𧹻𠮬 đỏ hỏn	U+20BAC
+𠮬	hon	𠮬𠮬 hon hỏn [𠸨]	⇔ 𠮬 hỏn
+𧍎	hôn	𡥵𧍎 con hôn	U+2734E
+魂	HỒN	心魂 tâm hồn · 靈魂 linh hồn ·招魂 chiêu hồn · 魂魄 hồn phách	U+9B42
+餛	HỒN	餛飩 hồn đồn	U+991B
+餛	hoành	餛飩 hoành thánh [摱]	
+烘	hong	烘𣌝 hong nắng	U+70D8
+𤆺	hóng	蒲𤆺 bồ hóng	U+241BA
+𥈰	hóng	𥈰𩙍 hóng gió · 𥈰𡀯 hóng chuyện	U+25230
+𥈰	hong	𥈰𥈰 hong hóng [𠸨]	⇔ 𥈰 hóng
+𢞃	hòng	𢞃懞 hòng mong · 𢞃矓 hòng trông · 揨𢞃 đừng hòng	U+22783
+胷	hông	𫰅胷𪥘󠄁胻 to hông cả háng · 促 𠓨胷埃 thúc vào hông ai	U+80F7
+𡏠	hông	鈉𡏠 nồi hông · 𡏠𥸷 hông xôi	U+213E0
+吼	hống	吼赫 hống hách	U+543C
+洪	HỒNG	洪水 hồng thuỷ	U+6D2A
+𨸚	hóp	𨸚𦟐 hóp má	U+28E1A
+匣	hộp	匣茶 hộp trà	U+5323
+𪡄	hộp	徊𪡄 hồi hộp	[翻] U+2A844
+呷	hớp	呷魂 hớp hồn · 𩵜呷渤 cá hớp bọt · 呷𠬠喁茶 hớp một ngụm trà	U+5477
+㧾	hốt	㧾𧅫 hốt rác	U+39FE
+㧾	hót		⇔ 㧾 hốt
+胕	hủ	豆胕 tàu-hủ [摱]	U+80D5
+胕	phở	豆胕 tào-phở [摱]	
+胕	phớ	豆胕 tào-phớ [摱]	
+栩	HỦ	𠊛羅栩 người La Hủ	[翻] U+6829
+腐	HỦ	腐敗 hủ bại · 古腐 cổ hủ · 腐儒 hủ nho · 豆腐 đậu hủ	U+8150
+腐	PHỤ	豆腐 đậu phụ	
+腐	hũ	豆腐 đậu hũ	
+粿	hủ	粿條 hủ tiếu [摱]	U+7CBF
+吁	hú	吁咥 hú hí · 𪀄𭉫吁 chim tu hú	U+5401
+𪺛	hũ	丐𪺛 cái hũ · 𪺛荼 hũ dưa · 𪺛式咹 hũ thức ăn	U+2AE9B
+譃	hự	淤譃 ứ hự [嘆]	U+8B43
+𫊯	hua	醬固𫊯 tương có hua	U+2B2AF
+勖	húc	勖頭 húc đầu · 𤛠𤙭勖僥 trâu bò húc nhau	U+52D6
+𡄆（𡄆󠄁）	hục	熊𡄆 hùng hục	[翻] U+21106 (U+21106 U+E0101)
+携	HUỀ	提携 đề huề	U+643A
+蕙	HUỆ	花蕙 hoa huệ	U+8559
+𠇟	huênh	𠇟荒 huênh hoang [𠸨]	U+201DF
+𠇟	vãnh	伆𠇟 vặt vãnh [𠸨]	
+癐（𤶊）	hủi	病癐 bệnh hủi · 𫤾癐 hắt hủi	U+7650 (U+24D8A)
+𠜮	húi	𠜮𩯀 húi tóc	[翻] U+2072E
+諱	HUÝ	諱名 huý danh · 忌諱 kị huý	U+8AF1
+鬩	huỵch	螢鬩 huỳnh huỵch [聲]	U+9B29
+萱	HUYÊN	茹萱 nhà huyên	U+8431
+萱	hiên	花萱 hoa hiên	
+喧	HUYÊN	喧鬧 huyên náo · 喧天 huyên thuyên	U+55A7
+喧	luyên	喧天 luyên thuyên	
+暄	HUYÊN	寒暄 hàn huyên	U+6684
+弦	HUYỀN	六弦琴 lục huyền cầm	U+5F26
+懸	HUYỀN	懸案 huyền án	U+61F8
+炫	HUYỄN	炫耀 huyễn diệu	U+70AB
+眩	HUYỄN	眩惑 huyễn hoặc · 眩想 huyễn tưởng	U+7729
+穴	HUYỆT	穴道 huyệt đạo · 巢穴 sào huyệt	U+7A74
+𢬔	huýt	𢬔𧥇 huýt còi · 𢬔哨 huýt sáo	U+22B14
+𥵗	hum	𥳍𥵗 tùm hum	[翻] U+25D57
+𤞻	hùm	𩵽𤞻 tôm hùm	U+247BB
+𦭪	húng	蔞𦭪 rau húng · 𦭪桂 húng quế · 𦭪橙 húng chanh	U+26B6A
+哅	húng	哅响 húng hắng	U+54C5
+𤈍	hửng	熷𤈍 tưng hửng	U+2420D
+𢯘	huơ	𢯘𢬣 huơ tay · 𢯘鎌 huơ gươm	U+22BD8
+謔	HƯỚC	諧謔 hài hước	U+8B14
+㹯	hươu	𡥵㹯 con hươu · 㹯𣇟 hươu sao · 㹯高𦙶 hươu cao cổ	U+3E6F
+噏	húp	噏噏 hum húp [𠸨]	[翻] U+564F
+噏	hum	噏噏 hum húp [𠸨]	⇔ 噏 húp
+貅	HƯU	貔貅 tì hưu	U+8C85
+佑	HỰU	永佑 Vĩnh Hựu · 開佑 Khai Hựu	U+4F51
+祐	HỰU	天祐 Thiên Hựu · 𫷨延祐 Chùa Diên Hựu · 黎維祐 Lê Duy Hựu	U+7950
+𥑴	ì	𥑴伌 ì ạch	U+25474
+𥑴	ĩ	𩆢𥑴 ầm ĩ	
+𥺿	ỉa	𥺿沚 ỉa chảy	U+25EBF
+𠸯	ỉn	𡅯𠸯 ủn ỉn [聲]	U+20E2F
+煙	ín	黑煙 hắc ín [摱]	U+7159
+𠸄	inh	𠸄𱔎 inh ỏi	[翻] U+20E04
+倚	Ỷ	倚勢 ỷ thế · 倚權 ỷ quyền · 倚賴 ỷ lại	U+501A
+倚	ỉ	陰倚 âm ỉ	
+椅	Ỷ	丐椅 cái ỷ	U+6905
+𧱺	ỷ	𤞼𧱺 lợn ỷ	U+27C7A
+薏	Ý	薏苡 ý dĩ	U+858F
+𡏉	yến	𠬠𡏉 một yến	單位𢵋 đơn vị đo U+213C9
+夭	YỂU	𣩂夭 chết yểu	U+592D
+夭	ỉu	夭𱡁 ỉu xìu	[翻]
+窈	YỂU	窈窕 yểu điệu	U+7A88
+𤄬	ke	䛒𤄬 xạo ke · 𠰘沚𤄬 miệng chảy ke · 性伮𤄬𡗋 tính nó ke lắm	U+2412C
+仉	kẻ	仉𢲩 kẻ cắp · 仉讎 kẻ thù	U+4EC9
+𢩫	kẻ	𢩫𠬠塘𨱽 kẻ một đường dài	U+22A6B
+𦵗	ké	束𦵗 thúc ké	U+26D57
+䗁	kè	則䗁 tắc-kè [摱]	U+45C1
+𥰇	kè	坡𥰇 bờ kè · 笈𥰇 cặp kè [𠸨] ·瞿𥰇 cò kè [𠸨]	U+25C07
+笄	KÊ	及笄 cập kê	U+7B04
+嵇	kê	籺嵇 hạt kê	U+5D47
+稽	KÊ	檢稽 kiểm kê · 統稽 thống kê ·滑稽 hoạt kê · 稽單𫇿 kê đơn thuốc	U+7A3D
+雞	KÊ	𡥵雞 con kê	U+96DE
+𠽤	kếch	𠽤𣭃 kếch xù · 𫰅𠽤 to kếch	[翻] U+20F64
+𥗌	kệch	粗𥗌 thô kệch · 𥗌慬 kệch cỡm	U+255CC
+鐱	kẽm	𡎡鐱 mỏ kẽm · 錢鐱 tiền kẽm	U+9431
+摼	ken	摼𠓨 ken vào · 摼徠坡樔 ken lại bờ rào · 𣘃樻𠚐摼𪠗 cây cối mọc ken dày	U+647C
+挸	kén	挸譔 kén chọn	U+6338
+繭	kén	襖繭 áo kén · 蒐繭 cùi kén	U+7E6D
+𥱲	kèn	丐𥱲 cái kèn · 𥱲距 kèn cựa	U+25C72
+䌑	kên	䌑簦 kên đăng · 䌑𬌓䉒 kên tấm phên	U+4311
+𪅤	kên	𡥵𪅤𪅤 con kên kên	U+2A164
+𨪝	kền	𨬈𨪝 mạ kền [摱] · 尼𨪝 ni-ken(kền) [摱]	[翻] U+28A9D
+鏗	keng	鈴鏗 leng keng [聲]	U+93D7
+𢙼	kễnh	忣𢙼 cập kễnh	U+2267C
+𤠃	kễnh	𡥵𤠃 con kễnh · 𤠃䏾 kễnh bụng	U+24803
+傹	kệnh	傹傹 kềnh kệnh [𠸨]	U+50B9
+傹	kềnh	傹傹 kềnh kệnh [𠸨]	⇔ 傹 kệnh
+膠	keo	膠杣 keo sơn · 𣘃膠𦖻象 cây keo tai tượng	U+81A0
+𪢤	kẻo	𪢤𦓡 kẻo mà · 𪢤耒 kẻo rồi	U+2A8A4
+撟	kèo	杈撟 xà kèo	U+649F
+撟	kẹo	撟撟 kèo kẹo [𠸨]	
+撟	quéo	𨒺撟 quanh quéo [𠸨]	
+𡝔	kép	𡝔喝 kép hát	U+21754
+鋏	kẹp	鉗鋏 kìm kẹp · 𥼕鋏 lép kẹp	U+92CF
+咭	két	嗗咭 cót két [聲] · 咭鉑 két bạc [摱]	U+54AD
+𪆰	két	䴌𪆰 mòng két	U+2A1B0
+羯	kết	摩羯 Ma Kết	U+7FAF
+羯	oét		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+杞	KỈ	枸杞 cẩu kỉ	U+675E
+杞	khởi	榘杞 củ khởi	
+岐	KÌ	三岐 Tam Kì	U+5C90
+妓	KĨ	妓女 kĩ nữ	U+5993
+𣈒	kìa	𣈜𣈒 ngày kìa	U+23212
+𠼻	kìa	𠼻！ Kìa! [嘆]	U+20F3B
+𠼻	cơ		⇔ 𠼻 kìa
+戟	KÍCH	丐戟 cái kích · 巴戟 ba kích	U+621F
+戟	kích	戟𡱩 kích thước · 戟烏蘇 kích ô-tô · 襖𠠚戟 áo xẻ kích	
+劇	KỊCH	𡲈劇 vở kịch · 劇本 kịch bản ·劇烈 kịch liệt · 悲劇 bi kịch ·諧劇 hài kịch · 劇𣋜 kịch cợm	U+5287
+劇	kình	劇劇 kình kịch [𠸨]	⇔ 劇 kịch
+𪆺	kịch	𪀄𪆺 chim kịch	U+2A1BA
+臉	KIỂM	盎桃臉 áng đào kiểm	U+81C9
+鹼	KIỀM	質鹼 chất kiềm · 鹼土 kiềm thổ · 金類鹼 kim loại kiềm	U+9E7C
+犍	KIỀN	目犍連 Mục Kiền Liên	U+728D
+榩	kiền	楛榩 gỗ kiền · 榩榩 kiền kiền	U+69A9
+鍄	kiềng	蹎鍄 chân kiềng · 𤥑鍄 vòng kiềng · 凭如鍄𠀧蹎 vững như kiềng ba chân	U+9344
+𤵹	kiết	𤵹痢 kiết lị	U+24D79
+喬	KIỀU	𣱆喬 họ Kiều · 喬富 Kiều Phú	U+55AC
+蕎	KIỀU	蕎麥 kiều mạch	U+854E
+韭	kiệu	榘韭 củ kiệu	U+97ED
+轎	KIỆU	𢷰轎 khiêng kiệu · 轎蠬 kiệu rồng	U+8F4E
+虔	kìn	虔虔 kìn kìn [𠸨]	U+8654
+𠎠	kỉnh	㤧𠎠 cáu kỉnh · 𰈼𠎠 lỉnh kỉnh	U+203A0
+勍	KÌNH	勍𢶢 kình chống · 勍敵 kình địch · 勍僥 kình nhau	U+52CD
+鯨	KÌNH	鯨魚 kình ngư · 𣖖鯨 chày kình · 𩵜虎鯨 cá hổ kình	U+9BE8
+喼	kíp	喼𫜵𣎀 kíp làm đêm [摱]	U+55BC
+桀	kịt	礄桀 kĩu kịt	[翻] U+6840
+桀	kìn	桀桀 kìn kịt [𠸨]	⇔ 桀 kịt
+礄	kĩu	礄桀 kĩu kịt	[翻] U+7904
+柯	KHA	𣱆柯 họ Kha	U+67EF
+疴	KHA	沈疴 trầm kha	U+75B4
+軻	KHA	孟軻 Mạnh Kha · 荊軻 Kinh Kha	U+8EFB
+𠀪	khà	𠀫𠀪 khề khà	U+2002A
+楷	KHẢI	楷書 khải thư	U+6977
+𤡚	khái	𡥵𤡚 con khái	U+2485A
+慨	KHÁI	感慨 cảm khái · 慷慨 khảng khái	U+6168
+慨	ngấy	𢥇慨 chán ngấy	
+概	KHÁI	氣概 khí khái · 大概 đại khái ·概念 khái niệm · 概括 khái quát	U+6982
+𥳐	khay	𥳐茶 khay trà · 𥳐𦺓 khay trầu	U+25CD0
+𫫤	khảy	唭𫫤 cười khảy · 吶𫫤 nói khảy	U+2BAE4
+堪	KHAM	不堪 bất kham · 堪苦 kham khổ · 可堪 khả kham · 難堪 nan kham · 堪役𥘀 kham việc nặng	U+582A
+戡	KHAM	戡亂 kham loạn	U+6221
+𠥈	khám	𠓨囚𫥨𠥈 vào tù ra khám	U+20948
+龕	KHÁM	丐龕𰨂 cái khám thờ	U+9F95
+㘛	khắm	𫫭㘛 khai khắm	U+361B
+㘛	khăm	㘛㘛 khăm khắm [𠸨]	⇔ 㘛 khắm
+衾	KHÂM	衾殮 khâm liệm	U+887E
+撳	khấm	撳可 khấm khá	U+64B3
+侃	khản	侃㗂 khản tiếng · 侃𭉪 khản đặc · 𠰩侃 giọng khản	U+4F83
+𠰙	khàn	𠰙𦙶 khàn cổ · 𠰙𠰙 khàn khàn	U+20C19
+𡁵	khẳn	𡁵𡁵 khăn khẳn [𠸨]	U+21075
+𡁵	khăn	𡁵𡁵 khăn khẳn [𠸨]	⇔ 𡁵 khẳn
+緊	KHẨN	緊急 khẩn cấp · 緊張 khẩn trương	U+7DCA
+糠	KHANG	糟糠 tao khang	U+7CE0
+慷	KHẢNG	慷慨 khảng khái	U+6177
+𠀖	khạng	𠀖𣡤 khạng nạng [𠸨]	U+20016
+卿	KHANH	愛卿 ái khanh · 卿將 khanh tướng · 國務卿 quốc vụ khanh	U+537F
+𠾶	khảnh	𤗖𠾶 mảnh khảnh [𠸨]	U+20FB6
+𠾶	khỉnh	蔻𠾶 kháu khỉnh · 𠾶𠾶 khinh khỉnh [𠸨] · 𠺱𠾶 khủng khỉnh [𠸨]	
+𠾶	khinh	𠾶𠾶 khinh khỉnh [𠸨]	⇔ 𠾶 khỉnh
+𠾶	nghỉnh	𠺱𠾶 ngủng nghỉnh [𠸨]	⇔ 𠾶 khỉnh
+犒	KHAO	犒賞 khao thưởng · 𢝛犒 khít khao [𠸨]	U+7292
+拷	KHẢO	拷問 khảo vấn	U+62F7
+𥹬	khảo	餅𥹬 bánh khảo	U+25E6C
+𡂀	kháo	𡂀𡀯 kháo chuyện · 𡂀僥 kháo nhau	U+21080
+伋	khấp	伋俓 khấp khểnh	[翻] U+4F0B
+蔻	KHẤU	豆蔻 đậu khấu	[翻] U+853B
+蔻	kháu	蔻𠾶 kháu khỉnh	
+𤌳	khê	𩚵𤌳 cơm khê · 饒𤌳 nhiêu khê	U+24333
+栔	khế	𣘃栔 cây khế	U+6814
+𠀫	khề	𠀫𠀪 khề khà	U+2002B
+憩	khệ	憩泥 khệ nệ	U+61A9
+慊	khem	𠼤慊 kiêng khem	[翻] U+614A
+俓	khểnh	伋俓 khấp khểnh · 㑲俓 nằm khểnh	[翻] U+4FD3
+𠀗	khệnh	𠀗𠀖 khệnh khạng [𠸨]	U+20017
+𩨼	kheo	𩨼蹎 kheo chân	U+29A3C
+撬	khều	撬𢪮 khều móc	U+64AC
+崎	KHI	崎嶇 khi khu	U+5D0E
+棄	KHÍ	放棄 phóng khí	U+68C4
+𠿁	khì	𠿁𠿁 khì khì	U+20FC1
+𧪢	khị	誘𧪢 dụ khị	U+27AA2
+㓶	khía	㓶𧣲 khía cạnh	U+34F6
+欠	KHIẾM	欠缺 khiếm khuyết · 欠雅 khiếm nhã · 欠聽 khiếm thính	U+6B20
+牽	KHIÊN	牽強 khiên cưỡng	U+727D
+㯠	khiên	丐㯠 cái khiên	U+3BE0
+遣	KHIỂN	調遣 điều khiển · 消遣 tiêu khiển	U+9063
+遣	khiến	差遣 sai khiến · 吹遣 xui khiến	
+𢷰	khiêng	𢷰𱠲 khiêng vác · 𢷰𫆥 khiêng cáng	U+22DF0
+𢷰	khênh		⇔ 𢷰 khiêng
+竅	KHIẾU	能竅 năng khiếu	U+7AC5
+𢝛	khít	𢝛犒 khít khao [𠸨]	[翻] U+2275B
+𢝛	khin	𢝛𢝛 khin khít [𠸨]	⇔ 𢝛 khít
+喫	khịt	喫𪖫 khịt mũi · 嗗喫 khụt khịt · 列喫 lịt khịt	U+55AB
+喫	khìn	喫喫 khìn khịt [𠸨]	⇔ 喫 khịt
+𠰋	khiu	肯𠰋 khẳng khiu [𠸨]	[翻] U+20C0B
+𠰋	nghiu	肯𠰋 ngẳng nghiu [𠸨]	
+𤇌	kho	𬚸𤇌 thịt kho	[異] 𤋹 U+241CC
+𠺟	khò	𠺟𠺟 khò khò [𠸨]	U+20E9F
+袴	KHỐ	丐袴 cái khố	U+88B4
+𠍲	khơ	𠍲楣 Khơ-me (Khmer) [摱] · 𠍲 𩹮 Khơ Mú	[翻] U+20372
+𤵕	khờ	𤵕叩 khờ khạo [𠸨] · 傴𤵕 khù khờ · 𠻇𤵕 dại khờ	U+24D55
+挎	khoa	挎𢬣𢱖蹎 khoa tay múa chân	U+630E
+𬈎	khoả	𬈎蹎朱滌 khoả chân cho sạch · 𢚹𬈎 khuây khoả [𠸨]	U+2C20E
+挂	khoải	刻挂 khắc khoải [𠸨]	U+6302
+𬜴	khoáy	債𬜴 trái khoáy · 頭伮固𠄩𬜴 đầu nó có hai khoáy	U+2C734
+鑧	khoan	𣛠鑧 máy khoan	U+9467
+𦨻	khoang	𦨻船 khoang thuyền	[異] 𦪻 U+26A3B
+儣	khoắng	拞儣 khua khoắng	U+5123
+𭡭	khoát	𭡭𢬣 khoát tay	U+2D86D
+𥉯	khoé	𬔽𥉯 mánh khoé · 𧣲𥉯 cạnh khoé · 𥉯眜 khoé mắt	[異] 𠺺 U+2526F
+儌	khoẻo	𣱾儌 lẻo khoẻo	U+510C
+鈌	khoét	鈌𡓇 khoét lỗ · 鑟鈌 đục khoét	U+920C
+恢	KHÔI	恢復 khôi phục	U+6062
+盔	KHÔI	盔甲 khôi giáp	U+76D4
+傀	KHÔI	奇傀 kì khôi	U+5080
+𢐎	khom	𢐎𨉞 khom lưng · 𦡶𢐎 lom khom	U+2240E
+𢐎	khum	𦡶𢐎 lum khum [𠸨]	⇔ 𢐎 khom
+莰	khóm	莰𣘃 khóm cây	[翻] U+83B0
+閫	KHỔN	閨閫 khuê khổn	U+95AB
+𢪬	khỏng	挵𢪬 lỏng khỏng [𠸨]	U+22AAC
+𢪬	khòng	挵𢪬 lòng khòng [𠸨]	
+嶇	KHU	崎嶇 khi khu	U+5D87
+𦟏	khu	丐𦟏 cái khu	U+267CF
+𤹪	khú	荼𤹪 dưa khú · 𫅷𤹪 già khú	U+24E6A
+傴	khù	傴𤵕 khù khờ · 瀘傴 lù khù	U+50B4
+傴	khụ	傴傴 khù khụ [𠸨]	⇔ 傴 khù
+啹	khừ	吃啹 khật khừ · 𡃖啹 lừ khừ ·許𢡠啹 hứa chắc khừ · 學勁啹 học cứng khừ	U+5579
+拞	khua	拞儣 khua khoắng · 拞𠃅棹 khua mái chèo	U+62DE
+𪲀	khua	𪲀𥶄 khua nón	U+2AC80
+佉	khứa	佉老 khứa lão · 客佉 khách khứa · 懇佉 khấn khứa [𠸨]	U+4F49
+㹤	khựa	艚㹤 tàu khựa	U+3E64
+𢚹	khuây	解𢚹 giải khuây · 𢚹𬈎 khuây khoả [𠸨]	U+226B9
+捃	khuân	捃𱠲 khuân vác	U+6343
+𪲇	khúc	蔞𪲇 rau khúc · 餅𪲇 bánh khúc	U+2AC87
+𪲇	cúc		⇔ 𪲇 khúc
+㖆	khục	㖆咯 khục khặc	U+3586
+閨	KHUÊ	閨閣 khuê các · 閨房 khuê phòng	U+95A8
+擴	KHUẾCH	擴大 khuếch đại · 擴散 khuếch tán · 擴張 khuếch trương	U+64F4
+擴	huếch	擴嚯 huếch hoác [𠸨]	
+啟	khui	啟𫥨 khui ra · 啟𥑂𨢇 khui chai rượu	[翻] U+555F
+𧜴	khuy	𧜴襖 khuy áo · 𧜴裙 khuy quần	U+27734
+圈	KHUYÊN	圈𦖻 khuyên tai	U+5708
+圈	QUYỂN	氣圈 khí quyển	
+𣎣	khuỷu	𣎣𢬣 khuỷu tay	U+233A3
+穹	khum	穹穹 khum khum	U+7A79
+𨆃	khúm	𨆃埝 khúm núm	[翻] U+28183
+𠺱	khủng	𠺱𠾶 khủng khỉnh [𠸨]	U+20EB1
+𠺱	ngủng	𠺱𠾶 ngủng nghỉnh [𠸨]	⇔ 𠺱 khủng
+𰜀	khừng	淩𰜀 lừng khừng [𠸨]	U+30700
+掯	khựng	𤗆役調掯徠 mọi việc đều khựng lại · 當𠫾唪掯徠 đang đi bỗng khựng lại	U+63AF
+羌	KHƯƠNG	𠊛羌 người Khương	U+7F8C
+姜	KHƯƠNG	𣱆姜 họ Khương	U+59DC
+𢓋	khưỡng	吃𢓋 khật khưỡng	U+224CB
+肐	khướt	醝肐 say khướt	U+8090
+嗅	KHỨU	嗅覺 khứu giác · 嗅官 khứu quan	U+55C5
+騾	la	𡥵騾 con la	U+9A3E
+囉	LA	嘍囉 lâu la	U+56C9
+囉	la	囉𡓃 la lối · 囉𠻵 la mắng · 囉鵶 la ó	
+鑼	LA	鐋鑼 thanh la	U+947C
+𪫦	lả	殀𪫦 ẻo lả · 𪫦𪭥 lả tả	U+2AAE6
+𪡉	lã	渃𪡉 nước lã	U+2A849
+𥋷	lác	𥋷眜 lác mắt	U+252F7
+櫟	lác	𦹯櫟 cỏ lác	U+6ADF
+鴼	lạc	𪀄鴼 chim lạc	U+9D3C
+釛	lắc	𬌓釛 tấm lắc	U+91DB
+肋	LẶC	雞肋 kê lặc	U+808B
+肋	lặc	肋嚟 lặc lè	
+勒	LẶC	彌勒 Di Lặc · 縣玉勒 Huyện Ngọc Lặc	U+52D2
+勒	lắc	得勒 Đắk Lắk (Đắc Lắc)	𡨸尼得讀如格發音尼只𥪝名詞𥢆尼。 Chữ này được đọc như cách phát âm này chỉ trong danh từ riêng này.
+𥷒	lách	𦰤𥷒 lau lách	U+25DD2
+𫇀	lách	蘿𫇀 lá lách	U+2B1C0
+𤃝	lạch	𤃝瀧 lạch sông	U+240DD
+𤃝	rịch	濁𤃝 rục rịch [𠸨]	
+棶（梾）	lai	𣘃棶 cây lai	U+68F6 (U+68BE)
+賚	lãi	利賚 lời lãi · 賚率 lãi suất	U+8CDA
+𧕬（𧕬󠄁）	lãi	𡥵𧕬 con lãi	U+2756C (U+2756C U+E0101)
+攭	lảy	𠊝攭 thay lảy [𠸨]	U+652D
+𠸨	láy	𠸨眜 láy mắt · 詞𠸨 từ láy	U+20E28
+𠸨	lay	𠸨𠸨 lay láy [𠸨]	⇔ 𠸨 láy
+𪭼	lẩy	𪭼𤔻𢬣 lẩy móng tay · 憞𪭼㔥 run lẩy bẩy	U+2AB7C
+浰	lầy	湓浰 bùn lầy · 蹉浰 sa lầy · 浰洡 lầy lội	U+6D70
+𢹿（𢬦）	lẫy	𠀧𣎃別𢹿 ba tháng biết lẫy · 𢯒 𢹿 bóp lẫy	U+22E7F (U+22B26)
+婪	LAM	貪婪 tham lam	U+5A6A
+嵐	LAM	嵐瘴 lam chướng	U+5D50
+糮	lam	𩚵糮 cơm lam	U+7CEE
+淋	LÂM	淋漓 lâm li	U+6DCB
+霖	lâm	霖𩂐 lâm dâm	U+9716
+壈	lấm	壈湓 lấm bùn · 壈濂 lấm lem	U+58C8
+凜	lẫm	凜冽 lẫm liệt	U+51DC
+廩	lẫm	廩𥟉 lẫm thóc	U+5EE9
+𨈇	lẫm	𨓐𨈇 lạ lẫm · 𨈇𧿒 lẫm chẫm [𠸨]	U+28207
+爛	LẠN	燦爛 xán lạn	U+721B
+𤶾	lằn	浽𤶾 nổi lằn · 𤶾檑 lằn roi	U+24DBE
+䗲	lằn	蜄䗲 thằn lằn	U+45F2
+僯	lân	𦤾僯 đến lân · 割僯僥擱 cắt lân nhau gác	U+50EF
+撛	lân	消撛𠓨𲂪 tiêu lân vào vốn · 合撛 𨖅𣇜𣊿 họp lân sang buổi chiều	U+649B
+麟	LÂN	麒麟 kì lân	[翻] U+9E9F
+𫉱	lang	𫉱𤶒󠄁 lang ben · 𡥵𤙭𫉱 con bò lang	U+2B271
+踉	lảng	踉踉 lang lảng [𠸨]	U+8E09
+踉	lang	踉踉 lang lảng [𠸨]	⇔ 踉 lảng
+啢	lạng	啢楛 lạng gỗ	U+5562
+鯪	lăng	𩵜鯪 cá lăng	U+9BEA
+㖫	lằng	㖫嚷 lằng nhằng [𠸨]	U+35AB
+㖫	rưng	𢜠㖫渃眜 mừng rưng nước mắt · 㖫㖫渃眜 rưng rưng nước mắt	
+䗀	lằng	𧋆䗀 ruồi lằng	U+45C0
+𬕨	lẵng	𬕨花 lẵng hoa	U+2C568
+欞	lanh	𣘃欞 cây lanh [摱]	U+6B1E
+𪽏	lảnh	𪽏𪽏 lanh lảnh [𠸨]	U+2AF4F
+𪽏	lanh	𪽏𪽏 lanh lảnh [𠸨]	⇔ 𪽏 lảnh
+𪸝	lánh	𬊊𪸝 lóng lánh [𠸨]	U+2AE1D
+𪸝	nhánh	𬊊𪸝 nhóng nhánh [𠸨]	
+嶗	lao	岣嶗 cù lao	U+5D97
+癆（痨）	LAO	病癆 bệnh lao	U+7646 (U+75E8)
+㧯	lảo	㧯倒 lảo đảo · 傠㧯 thảo lảo	U+39EF
+澇	LẠO	水澇 thuỷ lạo	U+6F87
+澇	lạo	澇䛒 lạo xạo [𠸨] · 磟澇 lục lạo · 𪵅澇 lộn lạo	
+啦	láp	𦧷啦 liếm láp · 吶噃啦 nói bá láp	U+5566
+粒	LẠP	粒體 lạp thể	U+7C92
+蠟	LẠP	白蠟 bạch lạp	U+881F
+蠟	sáp	粉蠟 phấn sáp · 蠟螉 sáp ong	
+𬅀	lát	楛𬅀 gỗ lát	U+2C140
+𥶁	lạt	𧵑𠊛菩薩、𧵑𨉟𥶁𫃚 của người Bồ tát, của mình lạt buộc	U+25D81
+搮	lắt	搮嘹 lắt léo · 搮𣱾 lắt lẻo · 搮摛 lắt lay · 㨋搮𧴱 trả lắt nợ	U+642E
+㗚	lất	秩㗚 trật lất	[翻] U+35DA
+㗚	rật	𠻤㗚 rần rật [𠸨]	
+嗍	láu	嗍𰈼 láu lỉnh · 嗹嗍 liến láu	U+55CD
+嗍	lau	嗍嗍 lau láu [𠸨]	⇔ 嗍 láu
+恅	làu	恅恅 làu làu · 恅垉 làu bàu [𠸨]	U+6045
+瘺	lậu	病瘺 bệnh lậu	U+763A
+𠻗	le	雙𠻗 song le · 惏𠻗 lăm le [𠸨]	U+20ED7
+𠻗	nhe	惏𠻗 nhăm nhe [𠸨]	
+𪅆	le	𪀄𪅆𪅆 chim le le	U+2A146
+嚟	lè	嚟𦧜 lè lưỡi · 嚟𪷗 lè tè · 青嚟 xanh lè	U+569F
+藜	LÊ	藿藜 hoắc lê	U+85DC
+𣠲（𣑶）	lể	計𣠲 kể lể · 𣠲荄 lể gai	U+23832 (U+23476)
+荔	LỆ	荔枝 lệ chi · 薜荔 bệ lệ	U+8354
+勵（励）	LỆ	激勵 khích lệ	U+52F5 (U+52B1)
+隸	LỆ	隸屬 lệ thuộc · 奴隸 nô lệ	U+96B8
+𨘸	lếch	𨘸逖 lếch thếch	U+28638
+𩽏	lệch	𩵜𩽏 cá lệch	U+29F4F
+𩽏	lịch		⇔ 𩽏 lệch
+𩽏	nhệch		⇔ 𩽏 lệch
+濂	lem	濂溽 lem luốc · 濂濂 lem nhem [𠸨]	U+6FC2
+濂	nhem	𤆹濂 nhá nhem · 濂溽 nhem nhuốc · 濂濂 lem nhem [𠸨] · 𤷳濂 nhom nhem [𠸨]	⇔ 濂 lem
+𡄥	lẻm	𡄥𡄥 lem lẻm [𠸨]	U+21125
+𡄥	lem		⇔ 𡄥 lẻm
+蘝	lém	蘝𰈼 lém lỉnh [𠸨]	U+861D
+蘝	lem	蘝蘝 lem lém [𠸨]	⇔ 蘝 lém
+歛	lẹm	歛肣 lẹm cằm · 銫歛 sắc lẹm	U+6B5B
+縺	len	襖縺 áo len [摱]	[翻] U+7E3A
+𨇍	lẻn	拮𨇍 cất lẻn · 𨇍圇 lẻn tròn	U+281CD
+𨇍	lén	𨇍𨇍 len lén [𠸨]	
+𨇍	len	𨇍𨇍 len lén [𠸨]	⇔ 𨇍 lén
+𢤠	lẽn	惼𢤠 bẽn lẽn [𠸨]	U+22920
+鈴	leng	鈴鏗 leng keng [聲] · 鈴鋲 leng beng	U+9234
+𩻻	leo	𩵜𩻻 cá leo	U+29EFB
+𣱾	lẻo	挵𣱾 lỏng lẻo · 𣱾𣱾 leo lẻo [𠸨] · 𠼽𣱾 mách lẻo · 搮𣱾 lắt lẻo · 㓭𣱾 hớt lẻo · 𣱾𠵐 lẻo mép	U+23C7E
+𣱾	leo	𣱾𣱾 leo lẻo [𠸨]	⇔ 𣱾 lẻo
+膫	lèo	渃膫 nước lèo	U+81AB
+瞭	lẹo	瞭眜 lẹo mắt · 荎瞭 chuối lẹo · 𧐖瞭 lươn lẹo [𠸨] · 瞭俏 lẹo tẹo [𠸨]	U+77AD
+𥼕	lép	𥼕鋏 lép kẹp	[翻] U+25F15
+𥉬	lét	蹽𥉬 leo lét	[翻] U+2526C
+𥉬	len	𥉬𥉬 len lét [𠸨]	⇔ 𥉬 lét
+哷	lẹt	𤋸哷 khét lẹt	U+54F7
+𨀺	lết	𠠍𨀺 lê lết	U+2803A
+咧	lệt	咧𡋾 lệt bệt · 咧𣻂 lệt sệt [𠸨]	U+54A7
+𡃔	lêu	𡃔！ lêu! [嘆] · 𡃔𭍌 lêu lổng ·被各伴𡃔爲𥄬洏 bị các bạn lêu vì ngủ nhè	U+210D4
+漓	LI	淋漓 lâm li	U+6F13
+罹	LI	罹難 li nạn	U+7F79
+唎	lì	唎呾 lì lợm · 𡍚唎 lầm lì · 𥗁唎 trơ lì · 塝唎 phẳng lì	U+550E
+痢	LỊ	病痢 bệnh lị · 𤵹痢 kiết lị	U+75E2
+攡	lia	捿攡 thia lia · 攡攡 lia lịa · 攡 𤗖𡊳𬺗坳 lia mảnh sành xuống ao	U+6521
+攡	lịa	攡攡 lia lịa	
+𥆁	liếc	𥆁䀡 liếc xem · 𥆁眜 liếc mắt · 𥆁刀 liếc dao	U+25181
+鐮	LIÊM	鉤鐮 câu liêm	U+942E
+鐮	liềm	𦧜鐮 lưỡi liềm · 伓𦹯憑鐮 bứt cỏ bằng liềm	
+𦧷	liếm	𦧷啦 liếm láp · 𦧷𠵐 liếm mép	U+269F7
+殮	LIỆM	衾殮 khâm liệm · 殮𠊛 liệm người · 入殮 nhập liệm	U+6BAE
+殮	lịm	𡴯殮 ngất lịm	
+嗹	liến	嗹𠶤 liến thoắng · 嗹嗍 liến láu · 嗹𤠲 liến khỉ · 僶𡮣嗹 thằng bé liến	U+55F9
+璉	LIỄN	璉𩚵 liễn cơm · 璉𡊳 liễn sành	U+7489
+𩙳	liệng	𢒎𩙳 bay liệng · 𩙳𥒥 liệng đá · 𦑃燕𩙳𤥑 cánh én liệng vòng	U+29673
+䉭	liếp	䉭攝 liếp nhiếp [𠸨]	U+426D
+𩷈	liệt	𩵜𩷈 cá liệt	U+29DC8
+𬏩	liệt	痺𬏩 tê liệt · 敗𬏩 bại liệt	U+2C3E9
+寥	LIÊU	寂寥 tịch liêu	U+5BE5
+了	LIỄU	結了 kết liễu	U+4E86
+蛉	LINH	螟蛉 minh linh	U+86C9
+𰈼	lỉnh	嗍𰈼 láu lỉnh · 蘝𰈼 lém lỉnh · 𰈼𠎠 lỉnh kỉnh	U+3023C
+𥘃	lình	𥓉𥘃 thình lình [𠸨]	U+25603
+𡊻	lít	𡊻𱎰 lít nhít [𠸨] · 𠬠𡊻 một lít [摱] · 眉璃𡊻 mi-li-lít [摱]	[翻] U+212BB
+𥌧	ló	垃𥌧 lấp ló · 𥌧樣 ló dạng · 𥌧眜𫥨 ló mắt ra	U+25327
+𡀔	lọ	𡀔𱺵 lọ là	U+21014
+倮	lô	𠊛倮倮 người Lô Lô	U+502E
+瀂	lổ	𰺽瀂 loang lổ · 𥘷𡥵於瀂 trẻ con ở lổ	U+7002
+魯	LỖ	粗魯 thô lỗ	U+9B6F
+賂	LỘ	賄賂 hối lộ	U+8CC2
+路	LỘ	國路 quốc lộ · 路程 lộ trình ·路面 lộ diện	U+8DEF
+路	lồ	孔路 khổng lồ	
+路	trộ	瞪路 trừng trộ [𠸨]	
+𡋿	lở	𥒮𡋿 vỡ lở · 𡐙𡋿 đất lở	U+212FF
+籚（𰩲）	lờ	抯籚 thả lờ	U+7C5A (U+30A72)
+𠐳（𠐳󠄁）	lợ	𠐳𠐳 lờ lợ [𠸨] · 榘茄𡳝尼𠐳 củ cà-rốt này lợ	U+20433 (U+20433 U+E0101)
+𠐳（𠐳󠄁）	lờ	𠐳𠐳 lờ lợ [𠸨]	⇔ 𠐳 lợ
+螺	LOA	噲螺 gọi loa · 丐螺 cái loa	U+87BA
+𤆷	loá	𤆷眜 loá mắt · 熶𤆷 chói loá	U+241B7
+夥	loã	同夥 đồng loã	U+5925
+𤁖	loã	𤁖𧖱 loã máu · 𤁖渃 loã nước	U+24056
+𠯿	loạc	𠯿𠺷 loạc choạc [𠸨]	U+20BFF
+𠯿	lóc	𠯿唂 lóc cóc [聲] · 哭𠯿 khóc lóc [𠸨]	
+欒（栾）	LOAN	團欒 đoàn loan	U+6B12 (U+683E)
+灣（湾）	LOAN	臺灣 Đài Loan	U+7063 (U+6E7E)
+彎	loăn	彎𩭵 loăn xoăn [𠸨]	U+5F4E
+𰺽	loang	𰺽𫥨 loang ra · 𤵖油𰺽 vết dầu loang · 𡲫染被𰺽 vải nhuộm bị loang	U+30EBD
+𬂆	loảng	𬂆鏯 loảng soảng [聲]	U+2C086
+灤	loáng	灤𤶜 loáng choáng [𠸨]	U+7064
+𠌇	loàng	𠌇侊 loàng xoàng [𠸨]	U+20307
+𣿅	loãng	𢯠𣿅 pha loãng · 𥺊𣿅 cháo loãng · 𣿅𩩫 loãng xương	U+23FC5
+𣿅	lỏng	𣿅𣿅 long lỏng [𠸨]	
+𣿅	long	𣿅𣿅 long lỏng [𠸨]	⇔ 𣿅 lỏng
+𨃹	loạng	𨃹𫏈 loạng choạng [𠸨]	U+280F9
+啷	loằng	啷弘 loằng ngoằng [𠸨]	U+5577
+𨗺	loanh	𨗺𨒺 loanh quanh [𠸨]	U+285FA
+唰	loạt	唰咄 loạt xoạt [聲]	U+5530
+傈	loắt	傈㑁 loắt choắt [𠸨]	U+5088
+䱚	lóc	𩵜䱚 cá lóc	U+4C5A
+𫼚	lóc	𫼚𬚸 lóc thịt · 蹸𫼚 lăn lóc	U+2BF1A
+椂	lốc	穭椂 lúa lốc · 椂谷 lốc cốc · 𠬠椂𣷱 một lốc sữa [摱] · 𠬠椂曆 một lốc lịch [摱]	U+6902
+𪋖	lốc	𩂀𪋖 cơn lốc	U+2A2D6
+𦬩	lộc	𦬩碧 lộc biếc · 𠛌䒹䄧𦬩 đâm chồi nẩy lộc	U+26B29
+𭊛	lộc	𭊛侷 lộc cộc [聲]	U+2D29B
+傫	loe	傫𤷯 loe loét [𠸨]	U+50AB
+𤑬	loé	垃𤑬 lấp loé · 𣈢𩅀𤑬𬨠 tia chớp loé lên	U+2446C
+𤍶	loè	𤇥𤍶 lập loè · 伮咹面炳包抵𤍶天下 nó ăn diện bảnh bao để lòe thiên hạ	U+24376
+𤍶	nhoè	㲸𤍶 ướt nhoè · 被𤍶𫥨 bị nhoè ra	⇔ 𤍶 loè
+𤷯	loét	𡋿𤷯 lở loét · 被𤷯𫥨 bị loét ra · 𤺯𡋿𤷯𫰅 mụn lở loét to	U+24DEF
+𩁦	loi	𥛭𩁦 lẻ loi [𠸨]	U+29066
+𣢹	lỏi	𠬃𣢹 bỏ lỏi · 卒𣢹 tốt lỏi	U+238B9
+𤑭	lói	𠻗𤑭 le lói [𠸨]	U+2446D
+𤑭	trui	𤓢𤑭 nướng trui · 格𤑭 cách trui · 𨨧𤑭 thép trui	
+𤞖	lòi	𤞼𤞖 lợn lòi	U+24796
+䋘	lòi	䋘𫥨 lòi ra · 䋘綷 lòi tói	U+42D8
+𣑳	lõi	骨𣑳 cốt lõi	U+23473
+𥑶	lọi	熶𥑶 chói lọi · 磟𥑶 lục lọi · 𥑶蹎 lọi chân	U+25476
+𪆼	lôi	𪃿𪆼 gà lôi	U+2A1BC
+𡋃	lồi	𡋃𡔑 lồi lõm · 𡋃眜 lồi mắt	U+212C3
+蕾	LỘI	花蕾 hoa lội	[翻] U+857E
+𩭷（𩭷󠄁）	lơi	𪫦𩭷 lả lơi · 捹𩭷紀律 buông lơi kỉ luật	U+29B77 (U+29B77 U+E0101)
+𭇶	lới	𬔽𭇶 mánh lới	U+2D1F6
+𪘌	lợi	𪘵𪘌 răng lợi	U+2A60C
+𦡶	lom	𦡶𢐎 lom khom	U+26876
+𦡶	lum	𦡶𢐎 lum khum [𠸨]	⇔ 𦡶 lom
+𦗝	lỏm	𦖑𦗝 nghe lỏm · 學𦗝 học lỏm	U+265DD
+𦗝	lóm		⇔ 𦗝 lỏm
+㘕	lòm	𧹻㘕 đỏ lòm · 𣞻䣷㘕 bưởi chua lòm	U+3615
+㘕	lờm	㘕𬇁 lờm xờm [𠸨]	
+𡔑	lõm	𡋃𡔑 lồi lõm · 𡔑渀 lõm bõm [𠸨] · 𡔑𠓨 lõm vào	U+21511
+𤒢	lốm	𤒢玷 lốm đốm	[翻] U+244A2
+礷	lộm	礷𥖜 lộm cộm [𠸨]	U+7937
+𡾭	lởm	𡾭𡹟 lởm chởm	U+21FAD
+呾	lợm	呾𠰩 lợm giọng · 唎呾 lì lợm	U+547E
+錀	lon	錀錫 lon thiếc	U+9300
+𫐮	lỏn	𫐮𠓨 lỏn vào · 𫐮𫥨 lỏn ra	U+2B42E
+崙	lôn	崑崙 Côn Lôn	U+5D19
+侖	lổn	侖𫣑 lổn nhổn [𠸨]	U+4F96
+侖	lủn	侖𫃐 lủn mủn [𠸨]	
+腀	lồn	丐腀之勢？ cái lồn gì thế? [俗]	U+8140
+瀨	lởn	瀨湲 lởn vởn	U+7028
+㑝	lóng	㗂㑝 tiếng lóng	U+345D
+𬊊	lóng	𬊊𪸝 lóng lánh [𠸨]	U+2C28A
+𬊊	nhóng	𬊊𪸝 nhóng nhánh [𠸨]	
+𢃈	lọng	傘𢃈 tàn lọng · 𢂎𢃈 dù lọng	U+220C8
+𭍌	lổng	𭍌偅 lổng chổng · 𡃔𭍌 lêu lổng	U+2D34C
+弄	LỘNG	弄權 lộng quyền	[翻] U+5F04
+弄	lụng	𫜵弄 làm lụng [𠸨]	
+弄	róng	𦄃弄 riết róng [𠸨]	
+苙	lóp	苙𥼕 lóp lép	[翻] U+82D9
+𡂏	lộp	𡂏𠶙 lộp bộp · 𡂏𠺻 lộp cộp	U+2108F
+菈	lợp	菈茹 lợp nhà · 菈𢃱 lợp mũ	U+83C8
+葎	lốt	蘿葎 lá lốt · 𧋻𠊝葎 rắn thay lốt · 𤢿戴葎裘 sói đội lốt cừu	U+844E
+𣼷	lớt	𣼷咈 lớt phớt [𠸨]	U+23F37
+罏（𬙎）	lu	罏渃 lu nước · 丐罏 cái lu	U+7F4F (U+2C64E)
+婁	lủ	婁苦瀘傴 lủ khủ lù khù [𠸨]	U+5A41
+瀘（泸）	lù	瀘瀘 lù lù · 瀘𣭃 lù xù [𠸨]	[翻] U+7018 (U+6CF8)
+攎（𢫘）	lư	扐攎 lắc lư [𠸨]	U+650E (U+22AD8)
+㾔	lử	㾔此㾔𤶠 lử thử lử thừ [𠸨]	U+3F94
+𡃖	lừ	𡃖啹 lừ khừ · 𡃖𣴙 lừ đừ · 𡃖眜 lừ mắt · 𤻻𡃖 mệt lừ · 𤮾𡃖 ngọt lừ	U+210D6
+泐	lự	𠊛泐 người Lự	U+6CD0
+摟	lùa	摟𠓨 lùa vào · 摟畜物散𠖾徠 lùa súc vật tản mát lại	U+645F
+𫄎（𫄄）	lụa	𫄎紋 lụa vân	U+2B10E (U+2B104)
+𬐸（𬐸󠄁）	lừa	𬐸倒 lừa đảo · 打𬐸 đánh lừa · 𬐸漉 lừa lọc · 𬐸嚉 lừa dối	U+2C438 (U+2C438 U+E0101)
+呂	lữa	吝呂 lần lữa	U+5442
+呂	rứa	呂呂 rưa rứa [𠸨]	
+呂	rưa	呂呂 rưa rứa [𠸨]	⇔ 呂 rứa
+綸	LUÂN	經綸 kinh luân	U+7DB8
+綸	luấn	綸𦄄 luấn quấn [𠸨]	
+𩺮	lục	𩵜𩺮 cá lục	U+29EAE
+𫦨	lức	𥽌𫦨 gạo lức · 𦹳𫦨 thơm lức	U+2B9A8
+𤈞	lùi	𤈞𧃷 lùi khoai	U+2421E
+𤈞	nhùi	裴𤈞 bùi nhùi [𠸨]	
+𥟹	lụi	殘𥟹 tàn lụi · 𥟹敗 lụi bại · 𥟹 𢷴 lụi cụi [𠸨] · 𥟹𩵜 lụi cá	U+257F9
+𮎫	lụi	𣘃𮎫 cây lụi	U+2E3AB
+壘	LUỸ	戰壘 chiến luỹ · 障壘 chướng luỹ · 營壘 dinh luỹ · 屯壘 đồn luỹ · 壕壘 hào luỹ · 城壘 thành luỹ	U+58D8
+𡄁	lúm	𡄁銅錢 lúm đồng tiền	[翻] U+21101
+菻	lùm	菻𣘃 lùm cây · 𣹓菻 đầy lùm ·菻菻 lùm lùm	U+83FB
+菻	răm	蔞菻 rau răm	
+𣼍	lún	𣼍𬺗 lún xuống · 泏𣼍 sụt lún · 𣼍濆 lún phún	[翻] U+23F0D
+𠍓	lùn	𠍓隰 lùn thấp	U+20353
+竉（竉󠄁）	lủng	竉㥄 lủng lẳng · 竉栱 lủng củng · 竉𠬠𡊲 lủng một chỗ	U+7AC9 (U+7AC9 U+E0101)
+蘢（蘢󠄁）	lùng	𦹯蘢 cỏ lùng	U+8622 (U+8622 U+E0101)
+朗	lững	朗賞 lững thững [𠸨]	U+6717
+朗	rảng	朗朗 rang rảng [𠸨]	
+朗	rang	朗朗 rang rảng [𠸨]	⇔ 朗 rảng
+𤊒	luộc	𤊒𤇪 luộc chín · 𤊒蔞 luộc rau	U+24292
+懢	luộm	懢愖 luộm thuộm [𠸨]	U+61E2
+㫻	luôn	㫻㫻 luôn luôn	[異] 連 掄 輪 嗹 U+3AFB
+掄	luồn	掄攊 luồn lách	U+6384
+掄	lòn		⇔ 掄 luồn
+𧐖	lươn	𡥵𧐖 con lươn · 𧐖瞭 lươn lẹo [𠸨]	U+27416
+𫅤	lượn	𢒎𫅤 bay lượn · 𢂎𫅤 dù lượn ·捥𫅤 uốn lượn · 𫅤矑 lượn lờ [𠸨]	U+2B164
+隴（𨻫）	luống	隴蔞 luống rau · 隴㤮 luống cuống [𠸨]	U+96B4 (U+28EEB)
+嚨（𠺠）	luồng	嚨渃 luồng nước · 嚨𩙍 luồng gió	U+56A8 (U+20EA0)
+梁	LƯƠNG	梁棟 lương đống	U+6881
+魎	LƯỢNG	魑魅魍魎 si mị võng lượng	U+9B4E
+𦂻	luốt	剟𦂻 tuốt luốt	U+260BB
+𧙀	lúp	鏡𧙀 kính lúp [摱]	[翻] U+27640
+㡴	lụp	㡴䉅 lụp xụp · 㡴𠌷 lụp chụp ·㡴芣 lụp bụp	U+3874
+茟	lút	茟頭 lút đầu	U+831F
+硫	LƯU	硫黃 lưu hoàng	U+786B
+𡏢	mả	𣒵𡏢 cải mả · 墓𡏢 mồ mả · 改 𡏢 cải mả	U+213E2
+罵	MẠ	辱罵 nhục mạ · 凌罵 lăng mạ	U+7F75
+𥢂	mạ	穭𥢂 lúa mạ	U+25882
+𨬈	mạ	𨬈鐄 mạ vàng	U+28B08
+𬡶	mặc	𬡶襖 mặc áo · 咹𬡶 ăn mặc	U+2C876
+𠼽	mách	𠼽𣱾 mách lẻo	U+20F3D
+𠼽	méc		⇔ 𠼽 mách
+𬏽	mải	𬏽篾 mải miết · 𬏽迷 mải mê	U+2C3FD
+𫡠	mãi	𫡠𫡠 mãi mãi	[異] 買 U+2B860
+䁲	mại	眜固䁲 mắt có mại	U+4072
+𫙽（𱆤）	mại	𩵜𫙽 cá mại	U+2B67D (U+311A4)
+𡮳	mảy	𡮳𠶣 mảy may [𠸨] · 𠬠𡮳 một mảy	U+21BB3
+𢵯	máy	𢵯眜 máy mắt · 𢵯𢬣 máy tay	U+22D6F
+𩄲	mây	𩙍𩄲 gió mây · 𩄲黰 mây đen	[翻] U+29132
+𫂗	mây	行𫂗𥯌撣 hàng mây tre đan	U+2B097
+𣎊	mẩy	籺𣎊 hạt mẩy · 𣎊䏧𣎊𬚸 mẩy da mẩy thịt	U+2338A
+𨊋	mẩy	𨉟𨊋 mình mẩy	U+2828B
+𡕩	măm	𠴊𡕩 Rơ Măm	[翻] U+21569
+鎫	mâm	鎫𩚵 mâm cơm · 鎫𥸷 mâm xôi · 鎫鍮 mâm thau	U+93AB
+𢠧	mẩm	𢡠𢠧 chắc mẩm [𠸨]	U+22827
+𢠧	mèm	醝𢠧 say mèm · 𫇰𢠧 cũ mèm	
+蔓	mạn	茶蔓 chè mạn	U+8513
+蔓	mởn	蔓蔓 mơn mởn [𠸨] · 𬏇蔞青蔓 ruộng rau xanh mởn	
+蔓	mơn	蔓蔓 mơn mởn [𠸨]	⇔ 蔓 mởn
+𫇞	mạn	𫇞船 mạn thuyền	U+2B1DE
+抿	mân	抿𢺀 mân mó · 抿迷 mân mê	U+62BF
+𢠨	mẩn	迷𢠨 mê mẩn	U+22828
+緍	mấn	𢃱緍 mũ mấn	U+7DCD
+緍	mân		⇔ 緍 mấn
+㨉	mần	㨉役 mần việc · 頻㨉 tần mần	U+3A09
+槾	mận	𣘃槾 cây mận · 槾桃 mận đào	U+69FE
+忙	MANG	慌忙 hoang mang	U+5FD9
+𤞽	mang	𡥵𤞽𡥵狔 con mang con nai	U+247BD
+莽	mảng	莽䏧 mảng da · 莽𦖑 mảng nghe · 莽悁 mảng quên	U+83BD
+𠴏	máng	𠴏𠴏 mang máng [𠸨]	U+20D0F
+𠴏	mang	𠴏𠴏 mang máng [𠸨]	⇔ 𠴏 máng
+𣙷	máng	𣙷渃 máng nước · 𣙷㵊 máng xối	U+23677
+杧	mãng	𣘃杧球 cây mãng cầu	U+6767
+蟒	MÃNG	蟒蛇 mãng xà · 襖蟒 áo mãng	U+87D2
+笀	măng	笀西 măng tây · 𢫚笀 xáo măng · 嗤笀 xi-măng [摱]	[翻] U+7B00
+𩷶	măng	𩵜𩷶 cá măng	U+29DF6
+𠻵	mắng	𠯦𠻵 thét mắng · 𠻵𠲔 mắng nhiếc · 𠯽𠻵 chửi mắng · 𠻵𠯽 mắng chửi · 聒𠻵 quát mắng	U+20EF5
+𬔽	mánh	𬔽𥉯 mánh khoé · 𬔽𭇶 mánh lới	U+2C53D
+𢅆	mành	𢅆𢅆 mành mành · 船𢅆 thuyền mành	U+22146
+𫙍	mãnh	翁𫙍 ông mãnh	U+2B64D
+旄	MAO	旗旄 cờ mao	U+65C4
+𦙤	mào	𢵱𦙤 khơi mào	U+26664
+卯	MÃO	𣇞卯 giờ Mão · 辛卯 Tân Mão	U+536F
+卯	mẻo	𤘁卯 mỏng mẻo [𠸨]	
+䏜	mạp	𦚖䏜 mập mạp [𠸨]	U+43DC
+䏜	mọp	跪䏜𬺗 quỳ mọp xuống	
+𠸾	mấp	𠸾塻 mấp mô	U+20E3E
+𬟼	mát	𡥵𬟼 con mát (mạt)	U+2C7FC
+𬟼	mạt	𬟼𪃿 mạt gà	
+末	MẠT	末劫 mạt kiếp · 末項 mạt hạng · 𱞁末 rẻ mạt	[翻] U+672B
+抹	MẠT	抹殺 mạt sát	U+62B9
+牟	MÂU	釋迦牟尼 Thích Ca Mâu Ni	[翻] U+725F
+牟	MƯU	牟利 mưu lợi	[翻]
+𠇩	mẩu	𠇩餅麪 mẩu bánh mì · 𠄩𠇩信 hai mẩu tin	U+201E9
+𥭏	mấu	𥭏𢱝 mấu chốt	U+25B4F
+母	MẪU	父母 phụ mẫu · 母親 mẫu thân · 韻母 vận mẫu · 保母 bảo mẫu · 道母 Đạo Mẫu · 母后 mẫu hậu	U+6BCD
+茂	MẬU	茂才 mậu tài	U+8302
+楣	me	𣘃楣 cây me	U+6963
+𠝫	mẻ	𠿰𠝫 sứt mẻ · 鉢𠝫 bát mẻ	U+2076B
+渼	mẻ	𠬠渼㧾袞 một mẻ hốt gọn · 𠖾渼 mát mẻ [𠸨] · 㵋渼 mới mẻ [𠸨]	[異] 𡎤 U+6E3C
+𥻙	mẻ	𩚵𥻙 cơm mẻ	U+25ED9
+𠩕	mé	𪜻𠩕 xếch mé · 邊𠩕債 bên mé trái	U+20A55
+𩹪	mè	𩵜𩹪 cá mè	U+29E6A
+𫃎	mè	油𫃎 dầu mè · 𪉥𫃎 muối mè	U+2B0CE
+𭩽	mè	榱𭩽 rui mè	U+2DA7D
+米	MỄ	米西基 Mễ Tây Cơ	U+7C73
+米	mễ	禮米 lễ mễ	
+𥊋	mếch	𥊋𢚸 mếch lòng	[翻] U+2528B
+䟨	men	䟨蹺 men theo	U+47E8
+𥾃（𥾃󠄁）	men	𥾃𨢇 men rượu	U+25F83 (U+25F83 U+E0101)
+鏝	mèn	鐘鏝 chuông mèn · 咖鏝 cà-mèn [摱]	U+93DD
+𧓭	mèn	𧍝𧓭 dế mèn	U+274ED
+渵	meo	霂渵 mốc meo · 𬨠渵 lên meo ·渵渵 meo meo [聲]	U+6E35
+𮘃	mẹo	謀𮘃 mưu mẹo	U+2E603
+𥬎	mẹt	丐𥬎 cái mẹt · 𩈘𥬎 mặt mẹt	U+25B0E
+瀎	met	其露瀎 kí(ki)-lô-mét [摱]	[翻] U+700E
+𠴕	mếu	𠴕𠴕 mếu mếu · 𠴕𠰭 mếu máo	U+20D15
+魅	MỊ	魑魅魍魎 si mị võng lượng	U+9B45
+𠸍	mỉa	𠸍枚 mỉa mai [𠸨]	U+20E0D
+𣖙	mía	𣘃𣖙 cây mía · 梇𣖙 gióng mía	U+23599
+寞	MỊCH	寂寞 tịch mịch · 靜寞 tĩnh mịch · 寞寞 mịch mịch	[翻] U+5BDE
+謐	MỊCH	靜謐 tĩnh mịch	U+8B10
+緬	MIẾN	緬甸 Miến Điện	U+7DEC
+冕	MIỆN	𢃱冕 mũ miện	U+5195
+𠰳	miếng	𠰳咹 miếng ăn	U+20C33
+𨬋	miếng	鐄𨬋 vàng miếng	U+28B0B
+篾	miết	𬏽篾 mải miết	U+7BFE
+廟	MIẾU	文廟 văn miếu · 殿廟 đền miếu · 宗廟 tông miếu · 廟貌 miếu mạo	U+5EDF
+廟	miễu	𡾵廟 ngôi miễu · 丐廟 cái miễu	
+廟	míu	縸廟 mắc míu [𠸨]	
+媌	miều	美媌 mĩ miều	U+5A8C
+𠻦	mím	𠻦腜 mím môi	U+20EE6
+𠻦	móm	𠻦𠹰 móm mém [𠸨]	
+俛	mĩm	俛腜 mĩm môi	U+4FDB
+㒙	min	劫𤯩𫯳㒙𠫾耒 cướp sống chồng min đi rồi	U+3499
+姄	mìn	媄姄 mẹ mìn · 姄絻 mìn mịn	U+59C4
+䂥	mìn	𢱛䂥 rải mìn [摱] · 𢭯䂥 quét mìn [摱]	U+40A5
+絻	mịn	絻芒 mịn màng [𠸨]	[翻] U+7D7B
+螟	MINH	螟蛉 minh linh	U+879F
+㕨	míp	䏎㕨 múp míp [𠸨]	[翻] U+3568
+櫗	mít	𣘃櫗 cây mít · 𠻨櫗 kín mít ·櫗𭉪 mít đặc · 𠾼櫗 tịt mít	U+6AD7
+喵	miu		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+55B5
+𧄲	mo	𧄲榔 mo nang · 𩈘𧄲 mặt mo · 𧄲槹 mo cau · 偨𧄲 thầy mo	U+27132
+㖼	mỏ	獸㖼𩿠 thú mỏ vịt	U+35BC
+𡮘	mỏ	𥘷𡮘 trẻ mỏ	U+21B98
+𧉦	mò	塢𪃿固𧉦 ổ gà có mò	U+27266
+𤑮	mò	𤑮𤆺 mò hóng	U+2446E
+𫂋	mõ	打𫂋 đánh mõ · 丐𫂋 cái mõ · 𫂋𥯌 mõ tre	U+2B08B
+麽	mô	𠫾麽 đi mô	U+9EBD
+𧜗	mớ	縸𧜗 mắc mớ · 𠬠𧜗役 một mớ việc · 𤾓𠦳萬𧜗抵𠓨兜 trăm nghìn vạn mớ để vào đâu	U+27717
+𧪨	mớ	𥄬𧪨 ngủ mớ · 吶𧪨 nói mớ	U+27AA8
+𫲎	mợ	舅𫲎 cậu mợ	U+2BC8E
+莯	móc	𣘃莯 cây móc	U+83AF
+𦙣	mọc	𥻸𦙣 bún mọc	U+26663
+𡉿	mốc	榾𡉿 cột mốc · 𡉿界 mốc giới ·㩒𡉿 cắm mốc	U+2127F
+霂	mốc	𤀔霂 ẩm mốc · 霂渵 mốc meo · 𬨠霂 lên mốc	U+9702
+霂	mông	霂霂 mông mốc [𠸨]	⇔ 霂 mốc
+沐	MỘC	沐浴 mộc dục	U+6C90
+挴	moi	挴𢪮 moi móc	U+6334
+痗	mỏi	𤻻痗 mệt mỏi · 痗𤷱 mỏi mòn	U+75D7
+𢪛	mói	𤐝𢪛 soi mói · 𫼳𢪛𠫾𥝽 mang mói đi cấy	U+22A9B
+𩸳	mòi	𩵜𩸳 cá mòi	U+29E33
+𪝅	mòi	䁛𪝅 coi mòi · 𪉽𪝅 mặn mòi ·椎𪝅 chòi mòi	U+2A745
+莓	môi	烏莓 ô môi	U+8393
+楳	môi	丐楳 cái môi	U+6973
+䗋	mối	𩵜䗋 cá mối · 𧋻䗋 rắn mối	U+45CB
+烸	mồi	烸焒 mồi lửa	U+70F8
+𡼇	mỏm	𡼇𡶀 mỏm núi · 𡼇𡐙 mỏm đất · 𡼇𡾫 mỏm đồi	U+21F07
+𡂅	mõm	𡂅㹥 mõm chó · 𡂅馭 mõm ngựa · 𤇪𡂅 chín mõm	U+21085
+𣼺	mớm	咘𣼺 bú mớm · 𣼺𣷱 mớm sữa	U+23F3A
+𬦢󠄁	mon	𬦢󠄁䟨 mon men	U+2C9A2 U+E0101
+菛	môn	𧃷菛 khoai môn	U+83DB
+𢺳（𪮳）	mơn	𢺳𡥵 mơn con · 𢺳磌 mơn trớn	U+22EB3 (U+2ABB3)
+蠓	mòng	𧋟蠓 muỗi mòng	U+8813
+䴌	mòng	𪀄䴌 chim mòng · 䴌𪆰 mòng két	U+4D0C
+𭲿	mọng	𢫮𭲿 căng mọng · 𭲿渃 mọng nước · 𤇪𭲿 chín mọng	U+2DCBF
+𭲿	mòng	𭲿𭲿 mòng mọng [𠸨]	⇔ 𭲿 mọng
+蒙	MÔNG	蒙古 mông cổ	[翻] U+8499
+濛	mông	溟濛 mênh mông	U+6FDB
+䑅	mông	䑅𦝂 mông đít	U+4445
+冡	mồng	冡𪃿 mồng gà	U+51A1
+冡	mùng		⇔ 冡 mồng
+𤛔	mộng	𤛠𤛔 trâu mộng	U+246D4
+漞	móp	漞𠵐 móp mép · 漞𠓨 móp vào	[翻] U+6F1E
+㩢	mót	𢹦㩢 lượm mót · 㩢抇 mót nhặt · 㩢穭 mót lúa · 㩢瀻 mót đái	U+3A62
+蠛	mọt	𡥵蠛 con mọt · 螻蠛 sâu mọt	U+881B
+𤪶	mu	𤪶𧒍 mu rùa · 𩩫𤪶 xương mu	U+24AB6
+湈	mủ	𧖱湈 máu mủ · 剛湈 cương mủ	U+6E48
+𩹮	mú	𩵜𩹮 cá mú	U+29E6E
+嗎	mửa	𠷀嗎 nôn mửa · 𣾿嗎 ói mửa	U+55CE
+傌	mứa	𠬃傌 bỏ mứa · 剩傌 thừa mứa	U+508C
+𢪷	múc	𢪷渃 múc nước · 𢪷𥺊 múc cháo	U+22AB7
+睦	MỤC	和睦 hoà mục	[翻] U+7766
+𥯍	mui	𥯍船 mui thuyền · 𩂏𥯍𬨠 che mui lên	U+25BCD
+𢙽	mủi	𢙽𢚸 mủi lòng	U+2267D
+脢	múi	脢𣞻 múi bưởi · 脢柑 múi cam	U+8122
+椚	mun	楛椚 gỗ mun	[翻] U+691A
+𫃐	mủn	𫃐𫥨 mủn ra · 繜𫃐 tủn mủn	U+2B0D0
+𡍜	mùn	𡍜鋸 mùn cưa · 𡍜𪷦 mùn vẩn · 𡍜𧅫 mùn rác	U+2135C
+𤺯	mụn	𤺯𤷿 mụn nhọt	U+24EAF
+𥶃	mủng	𥴗𥶃 thúng mủng	U+25D83
+幪	mùng	幪幔 mùng màn	[翻] U+5E6A
+𤶼	mưng	𤶼湈 mưng mủ · 𤷿𤶼 nhọt mưng	U+24DBC
+𬄪	muôi	𠬠𬄪羹 một muôi canh	U+2C12A
+𤇿	muồi	𤇪𤇿 chín muồi · 𥄬𤇿 ngủ muồi	U+241FF
+妹	MUỘI	師妹 sư muội · 賢妹 hiền muội	U+59B9
+梚	muỗm	𣘃梚 cây muỗm	U+689A
+𮔔	muỗm	𡥵𮔔 con muỗm	U+2E514
+獴	muông	𪀄獴 chim muông · 獴獸 muông thú	U+7374
+𦬺	muống	蔞𦬺 rau muống	U+26B3A
+𨮵	muỗng	丐𨮵 cái muỗng	U+28BB5
+𨮵	muỗm		⇔ 𨮵 muỗng
+汒	mương	汒渃 mương nước · 汒汫 mương rãnh · 汒𣙷 mương máng	U+6C52
+𠉋	mường	𠊛𠉋 người Mường	U+2024B
+𦲾	mướp	橺𦲾 giàn mướp	U+26CBE
+𠇱	muốt	𤽸𠇱 trắng muốt	U+201F1
+滵	mướt	滵𠖾 mướt mát · 滵𧺕 mướt rượt · 滵蒲洃 mướt mồ hôi	U+6EF5
+䏎	múp	䏎㕨 múp míp [𠸨]	[翻] U+43CE
+䏎	mum	䏎䏎 mum múp [𠸨]	⇔ 䏎 múp
+𡃙	mút	𡃙𥼱 mút kẹo · 𡃙𬁒 mút mùa	[翻] U+210D9
+莈	mụt	莈𤷿 mụt nhọt · 莈𧋆 mụt ruồi · 莈笀 mụt măng	U+8388
+𦰡	na	果𦰡 quả na	U+26C21
+𥭵	nả	𧵑𥭵 của nả	U+25B75
+嗱	nả	包嗱 bao nả · 擃嗱 nong nả ·沛空嗱？ phải không nả?	U+55F1
+哪	ná	赧哪 nấn ná	U+54EA
+𫸶	ná	丐𫸶 cái ná · 𢏑𫸶 bắn ná	U+2BE36
+㑚	nà	𧀒㑚 nõn nà	U+345A
+拿	NÃ	追拿 truy nã · 公安拿仉奸 công an nã kẻ gian	U+62FF
+拿	nã	拿炮𠓨屯敵 nã pháo vào đồn địch	
+𫱗	nạ	𫱗𣳔 nạ dòng	U+2BC57
+䑈	nạc	𰈒䑈 nục nạc [𠸨]	U+4448
+匿	NẶC	匿名 nặc danh	U+533F
+匿	nắc	匿𦕗 nắc nẻ [𠸨]	
+喏	nặc	濃喏 nồng nặc	[翻] U+558F
+㘃	nấc	㘃𡭕 nấc cụt	U+3603
+𮥛	nấc	𮥛簜 nấc thang · 㨢𬨠𠬠𮥛 nâng lên một nấc	U+2E95B
+腋	nách	氍𠓨腋 cù vào nách	U+814B
+抳	nai	抳𦄇 nai nịt	[翻] U+62B3
+埿	nai	埿𨢇 nai rượu	U+57FF
+㭁	nải	𢬣㭁 tay nải · 㭁荎 nải chuối · 𬓐㭁 trễ nải	U+3B41
+𤜠	nái	𤞼𤜠 lợn nái	U+24720
+𧈣	nái	螻𧈣 sâu nái	U+27223
+𥾋	nái	𫄎𥾋 lụa nái · 裙𥾋 quần nái	U+25F8B
+𭝎	nại	拯𭝎艱勞 chẳng nại gian lao	U+2D74E
+腩	nạm	𬖾腩 phở nạm [摱]	U+8169
+錜	nạm	錜鐄 nạm vàng	U+931C
+𥸁	nan	𥸁𥯌 nan tre	U+25E01
+儺	nán	儺徠 nán lại · 𱖗儺添 ngồi nán thêm	U+513A
+攤	nặn	攤像 nặn tượng	U+6524
+赧	nấn	赧哪 nấn ná	U+8D67
+嫨	nần	𧴱嫨 nợ nần	[翻] U+5AE8
+𣡤	nạng	𢶢𣡤 chống nạng · 𣡤𢬣𣡤蹎 nạng tay nạng chân	U+23864
+㑷	nằng	㑷喏 nằng nặc [𠸨]	U+3477
+㶞	nẵng	沱㶞 Đà Nẵng	U+3D9E
+饢	nấng	𩝺饢 nuôi nấng [𠸨]	U+9962
+𧰗	nành	豆𧰗 đậu nành	U+27C17
+鐃	nạo	鐃鈸 nạo bạt · 𣘃鐃擒窒𢡠𢬣 cây nạo cầm rất chắc tay · 鐃𣛭 𣛭 nạo đu đủ	U+9403
+汭	nập	漝汭 tấp nập	[翻] U+6C6D
+汭	nầm	汭汭 nầm nập [𠸨]	⇔ 汭 nập
+𢟹	nẩu		⇔ 耨𧘇 nậu ấy U+227F9
+𢟹	nẫu		⇔ 𢟹 nẩu
+𤊲	nẫu	𤇪𤊲 chín nẫu · 𤊲𠽋 nẫu nực · 𤊲㑚 nẫu nà	U+242B2
+耨	nậu	頭耨 đầu nậu · 襖耨 áo nậu	U+8028
+𦕗	nẻ	㘿𦕗 nứt nẻ	U+26557
+迡	né	𦵗迡 ké né [𠸨]	U+8FE1
+柅	nê	𣘃柅 cây nê	U+67C5
+𪿗	nề	𠏲𪿗 thợ nề · 𪿗墻 nề tường · 𥘀𪿗 nặng nề [𠸨]	U+2AFD7
+泥	NỆ	拘泥 câu nệ	U+6CE5
+泥	nệ	憩泥 khệ nệ	
+逽	nếch		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+903D
+𣑻	nêm	㨂𣑻 đóng nêm · 𣑻𢱝 nêm chốt · 𬘋如𣑻 chặt như nêm	U+2347B
+𨡯	nêm	𨡯羹 nêm canh · 𩻐𨡯 mắm nêm	U+2886F
+𫫞	nếm	𫫞𱱇 nếm trải · 㑲荄𫫞𦟽 nằm gai nếm mật	U+2BADE
+𧛋	nệm	㑲𧛋 nằm nệm · 𧛋唏 nệm hơi	U+276CB
+𦮴	nén	榘𦮴 củ nén · 𦮴鐄 nén vàng · 𦮴香 nén hương	[翻] U+26BB4
+搌	nén	拵搌 dồn nén	U+640C
+𨫀	nén	𠬠𨫀 một nén	單位𢵋 đơn vị đo U+28AC0
+𪰟	nến	𣘃𪰟 cây nến · 畑𪰟 đèn nến ·紙𪰟 giấy nến	U+2AC1F
+𢬧	nện	𢬧𡐙 nện đất · 𢬧𡲫 nện vải · 𢬧劕 nện chặt · 𢬧朱𠬠丐 nện cho một cái	U+22B27
+儜	nênh		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+511C
+釖	neo	㖼釖 mỏ neo · 釖逗 neo đậu ·抯釖 thả neo	U+91D6
+𡑩	nẻo	𨷯𡑩 cửa nẻo · 𡑩塘 nẻo đường · 𡑩賒 nẻo xa · 每𠊛𠬠𡑩 mỗi người một nẻo	U+21469
+𱒡	nèo	撟𱒡 kèo nèo [𠸨]	U+314A1
+㨥	nép	𢬱㨥 khép nép · 㨥𬺗 nép xuống	U+3A25
+㨥	nem	㨥㨥 nem nép [𠸨]	⇔ 㨥 nép
+𬗂	nếp	咹𬗂 ăn nếp · 𥽌𬗂 gạo nếp · 𬗂丐 nếp cái · 𨢇𬗂 rượu nếp · 𬗂粃 nếp tẻ · 穭𬗂 lúa nếp	U+2C5C2
+𠹑	nẹt	𠴓𠹑 đe nẹt	U+20E51
+𢟗	nết	𢟗那 nết na · 仄𢟗 trắc nết · 性 𢟗 tính nết	U+227D7
+𪡇	nỉ	𪡇嫩 nỉ non · 奈𪡇 nài nỉ [𠸨] · 𡅧𪡇 năn nỉ [𠸨] · 襖𪡇 áo nỉ [摱] · 𥶄𪡇 nón nỉ [摱]	U+2A847
+𪡇	nì	𡅧𪡇 nằn nì [𠸨]	⇔ 𪡇 nỉ
+鈮	nĩa	用鈮劅𪿙 dùng nĩa xúc vôi	U+922E
+𡀡	ních	𠴐𡀡 núc ních · 𬘋𡀡 chặt ních	[翻] U+21021
+𡀡	ninh	𡀡𡀡 ninh ních [𠸨]	⇔ 𡀡 ních
+𠺁	nịch	𠺁𠺁 nình nịch [𠸨]	U+20E81
+𠺁	nình	𠺁𠺁 nình nịch [𠸨]	⇔ 𠺁 nịch
+薴	niễng	榘薴 củ niễng	U+85B4
+䗿	niễng	䗿䗿 niềng niễng [𠸨]	U+45FF
+䗿	niềng	䗿䗿 niềng niễng [𠸨]	⇔ 䗿 niễng
+𦉗	niêu	鈉𦉗 nồi niêu · 𩚵𦉗 cơm niêu	U+26257
+尿	NIỆU	尿道 niệu đạo	U+5C3F
+𦡲	nính	𨆞𦡲 núng nính [𠸨]	U+26872
+𥷨	níp	𣗿𥷨 tủ níp	[翻] U+25DE8
+𦄇	nịt	絏𦄇 dây nịt · 抳𦄇 nai nịt	[翻] U+26107
+𫼩	níu	𫼩捁 níu kéo	[翻] U+2BF29
+溺	nịu	㕴溺 nũng nịu	U+6EBA
+弩	nỏ	𢹿弩 lẫy nỏ · 弩別 nỏ biết · 弩得 nỏ được	U+5F29
+𬊨	nỏ	𤇨𬊨 phơi nỏ · 𬊨𠵘 nỏ mồm	U+2C2A8
+伮	nó	衆伮 chúng nó	[異] 奴 U+4F2E
+奴	NÔ	奴隸 nô lệ · 家奴 gia nô · 奴婢 nô tì	U+5974
+𦀨	nơ	丐𦀨 cái nơ · 𦀨𧊉 nơ bướm	[翻] U+26028
+㣽	nỡ	㣽𱜢 nỡ nào	[異] 女 𡝖 𦬑 U+38FD
+卵	NOÃN	卵黃 noãn hoàng · 卵巢 noãn sào	U+5375
+𧂭	nóc	𧂭茹 nóc nhà · 𣔻自𧂭𣔻𬺗 dột từ nóc dột xuống	U+270AD
+𩽖	nóc	𩵜𩽖 cá nóc	U+29F56
+𣕬	nọc	㨂𣕬 đóng nọc	[翻] U+2356C
+蝳	nọc	蝳毒 nọc độc · 蝳𧋻 nọc rắn ·蝳蝳 nòng nọc [𠸨]	U+8773
+蝳	nòng	蝳蝳 nòng nọc [𠸨]	⇔ 蝳 nọc
+𡄍	nốc	𡄍𨡕 nốc bia · 𡄍𨢇 nốc rượu ·隻𡄍 chiếc nốc	U+2110D
+𨁡	noi	𨁡蹺 noi theo · 𨁡𦎛 noi gương	U+28061
+𣊌	nôi	𣌝𣊌 nắng nôi [𠸨]	U+2328C
+𥱮	nôi	丐𥱮 cái nôi · 催𥱮 thôi nôi	U+25C6E
+摕	nới	摕挵 nới lỏng	U+6455
+摕	nơi	摕摕 nơi nới [𠸨]	⇔ 摕 nới
+唸	nỏm	匿唸 nắc nỏm [𠸨]	U+5538
+喃	nôm	𡨸喃 chữ Nôm · 喃那 nôm na	[翻] U+5583
+𩄑	nồm	𩙍𩄑 gió nồm · 𡗶𩄑 trời nồm	U+29111
+䭃	nộm	䭃𧍇 nộm sứa · 䭃花荎 nộm hoa chuối	U+4B43
+䈒	nơm	䈒扒𩵜 nơm bắt cá	U+4212
+𧀒	nõn	𧀒荎 nõn chuối · 𧀒㑚 nõn nà	U+27012
+𧀒	nõ	𧀒娘 nõ nường [𠸨]	⇔ 𧀒 nõn
+擃	nong	擃𩌂 nong giày · 擃飭 nong sức · 擃嗱 nong nả · 椌固擃鏡 khung có nong kính	U+64C3
+𥵛	nong	𥵛蠶 nong tằm · 丐𥵛 cái nong	U+25D5B
+𪇌	nông	𪁭𪇌 bồ nông	U+2A1CC
+襛	nỗng	襛襛 nồng nỗng [𠸨]	U+895B
+襛	nồng	襛襛 nồng nỗng [𠸨]	⇔ 襛 nỗng
+𢟕	nớp	𢟕𢟕 nơm nớp [𠸨]	U+227D5
+𢟕	nơm	𢟕𢟕 nơm nớp [𠸨]	⇔ 𢟕 nớp
+𠯆	nự	拒𠯆 cự nự	U+20BC6
+𦶦	nưa	勃𦶦 bột nưa · 嗏𦶦 Chà Nưa	U+26DA6
+𥫭	nứa	𣘃𥫭 cây nứa	U+25AED
+𠴐	núc	𠴐𡀡 núc ních	[翻] U+20D10
+𰈒	nục	𰈒䑈 nục nạc [𠸨]	U+30212
+𤎐	nực	𤎐內 nực nội [𠸨]	U+24390
+埝	núm	埝𡑵 núm vung · 埝斤 núm cân · 𨆃埝 khúm núm	[翻] U+57DD
+埝	num	埝埝 num núm [𠸨]	⇔ 埝 núm [翻]
+蕽	nùn	蕽稴 nùn rơm	[翻] U+857D
+儂	nùng	𠊛儂 người Nùng	[翻] U+5102
+憹	nùng	惱憹 não nùng	U+61B9
+㕴	nũng	𫜵㕴 làm nũng · 㕴溺 nũng nịu · 𡥵㕴媄 con nũng mẹ	U+3574
+㕴	nhủng	㕴𦅯 nhủng nhẳng [𠸨]	
+湳	nườm	湳𣻀 nườm nượp [𠸨]	U+6E73
+䁸	nuông	䁸朝 nuông chiều	U+4078
+𢭗	nương	𢭗𨉟𠓨𧦕 nương mình vào ghế	U+22B57
+娘	NƯƠNG	姑娘 cô nương · 娘娘 nương nương	U+5A18
+娘	nàng	娘仙 nàng tiên · 娘妯 nàng dâu	
+娘	nường	𧀒娘 nõn nường [𠸨]	
+𣻀	nượp	湳𣻀 nườm nượp [𠸨]	U+23EC0
+𱟄	nuột	𱟄㑚 nuột nà · 惱𱟄 não nuột [𠸨]	U+317C4
+𥧩	núp	𥧩𨉟 núp mình · 𥧩𣈖 núp bóng	[翻] U+259E9
+莪	nga	𦹯莪 cỏ nga	U+83AA
+鱳	ngác	𩵜鱳 cá ngác	U+9C73
+㗁	ngạc	㗁𦙥 ngạc họng	U+35C1
+腭	NGẠC	腭化 ngạc hoá	U+816D
+鱷	NGẠC	鯨鱷 kình ngạc	U+9C77
+𥔲	ngắc	𥔲迯 ngắc ngoải · 𥔲語 ngắc ngứ · 㑋𥔲 ngúc ngắc	U+25532
+𠊎	ngái	𠊛𠊎 người Ngái	U+2028E
+𠵨	ngáy	𠵨𠵨 ngay ngáy [𠸨] · 𠵨哺哺 ngáy pho pho	U+20D68
+𠵨	ngay	𠵨𠵨 ngay ngáy [𠸨]	⇔ 𠵨 ngáy
+𰟅	ngấy	𰟅焠 ngấy sốt · 𰟅𰟅 ngây ngấy [𠸨]	U+307C5
+𰟅	gây		⇔ 𰟅 gấy
+𰟅	gấy		⇔ 𰟅 ngấy
+𰟅	ngây		⇔ 𰟅 ngấy
+蔇	ngấy	𣘃蔇 cây ngấy · 𠹗蔇 chát ngấy · 蔇香 ngấy hương	U+8507
+𠵌	ngầy	𠵌玡 ngầy ngà [𠸨]	U+20D4C
+𠵌	nghí	𠵌𨀑 nghí ngoáy [𠸨]	
+𦡡	ngậy	脿𦡡 béo ngậy	U+26861
+儑	ngám	儑儑 ngam ngám [𠸨]	U+5111
+儑	ngam	儑儑 ngam ngám [𠸨]	⇔ 儑 ngám
+黔	ngăm	黔黔黰 ngăm ngăm đen	U+9ED4
+吟	ngâm	吟哦 ngâm nga · 吟詩 ngâm thơ · 吟詠 ngâm vịnh	[翻] U+541F
+汵	ngâm	茄汵𩻐 cà ngâm mắm · 汵𩵽 ngâm tôm	U+6C75
+𪃛	ngan	𪃛𪄌 ngan ngỗng	U+2A0DB
+岸	NGẠN	右岸 hữu ngạn · 左岸 tả ngạn	U+5CB8
+諺	NGẠN	諺語 ngạn ngữ	U+8AFA
+𠵫	ngàng	𢣸𠵫 ngỡ ngàng	U+20D6B
+硬	NGẠNH	剛硬 cương ngạnh	U+786C
+樈	ngạnh	怏樈 ương ngạnh · 箭固樈 tên có ngạnh · 樈𩵜𩵾 ngạnh cá trê	U+6A08
+𩺿	ngạnh	𩵜𩺿 cá ngạnh	U+29EBF
+遨	NGAO	遨遊 ngao du	U+9068
+獒	NGAO	㹥獒 chó ngao	U+7352
+螯	ngao	𡥵螯 con ngao	U+87AF
+獓	ngáo	𡥵獓 con ngáo · 獓𧋾 ngáo ộp ·忤獓 ngổ ngáo · 獓𥒥 ngáo đá	U+7353
+𬳜	ngát	八𬳜 bát ngát · 𦹳𬳜 thơm ngát · 𬳜香 ngát hương · 𩂁𬳜 ngút ngát	U+2CCDC
+𠖯	ngắt	𦻳𠖯 tím ngắt · 冷𠖯 lạnh ngắt	U+205AF
+𢪰	ngắt	𢪰𠳒 ngắt lời · 𢪰葻花 ngắt bông hoa	U+22AB0
+𢪰	lắt	𢪰花 lắt hoa	⇔ 𢪰 ngắt
+𣿃	ngấu	𩻐𣿃 mắm ngấu · 𣿃哯 ngấu nghiến	U+23FC3
+湡	ngầu	濁湡 đục ngầu · 矓窒湡 trông rất ngầu	[翻] U+6E61
+湡	ngụa	汲湡 ngập ngụa [𠸨]	
+𠿄	ngậu	𠿄𬽾 ngậu xị	U+20FC4
+犠（𤚇）	nghé	𡥵犠 con nghé	U+72A0 (U+24687)
+𠊙	nghè	翁𠊙 ông nghè · 𠊙𥾘 nghè sợi	[翻] U+20299
+𤈝	nghẹ	𤮗𤈝 lọ nghẹ	U+2421D
+倪	NGHÊ	𣱆倪 họ Nghê · 悞倪 ngô nghê [𠸨] · 𥄬倪 ngủ nghê [𠸨]	U+502A
+猊	NGHÊ	狻猊 toan nghê · 𡥵猊 con nghê	U+730A
+鯢	NGHÊ	鯨鯢 kình nghê	U+9BE2
+乂	NGHỆ	乂安 Nghệ An	U+4E42
+𪭄	nghệch	𩈘𪭄 mặt nghệch · 㘈𪭄 ngờ nghệch · 𪭄愕 nghệch ngạc [𠸨]	U+2AB44
+噖	nghêm		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+5656
+垷	nghẽn	塞垷 tắc nghẽn	U+57B7
+撓	nghẽo	扢撓 ngặt nghẽo [𠸨]	U+6493
+撓	nghẹo	扢撓 ngặt nghẹo [𠸨]	
+嘵	nghêu	嘵嗷 nghêu ngao	U+5635
+嘵	nhéo	叫嘵嘵 kêu nheo nhéo	[翻]
+嘵	nheo	嘵嘵 nheo nhéo [𠸨]	⇔ 嘵 nhéo [翻]
+嶢	nghểu	𡴯嶢 ngất nghểu [𠸨]	U+5DA2
+𥪯	nghễu	𥪯喭 nghễu nghện [𠸨]	U+25AAF
+宜	NGHI	便宜 tiện nghi · 適宜 thích nghi	U+5B9C
+儼	NGHIỄM	儼然 nghiễm nhiên	U+513C
+儼	ngẩm	心儼 tâm ngẩm · 𩜽儼 ngán ngẩm [𠸨]	
+哯	nghiến	哯𪘵 nghiến răng · 𣿃哯 ngấu nghiến · 𠸂哯 nuốt nghiến	U+54EF
+㘙	nghỉm	沈㘙 chìm nghỉm · 𤎕㘙 tắt nghỉm	U+3619
+㘙	ngoém	㘙㘙 ngoem ngoém [𠸨]	
+㘙	ngoem	㘙㘙 ngoem ngoém [𠸨]	⇔ 㘙 ngoém
+頸	nghĩnh	唔頸 ngộ nghĩnh [𠸨]	U+9838
+𠑦	nghịt	𠑦𪖫 nghịt mũi · 黰𠑦 đen nghịt · 佟𠑦 đông nghịt · 𠑦𠑦 nghìn nghịt [𠸨]	U+20466
+𠑦	nghìn	𠑦𠑦 nghìn nghịt [𠸨]	⇔ 𠑦 nghịt
+憢	nghỉu	鐎憢 tiu nghỉu	U+61A2
+憢	nghịu	𢗾憢 ngượng nghịu [𠸨] · 𡅑憢 ngọng nghịu [𠸨]	
+𢫸	ngo	𢫸㧪 ngo ngoe	U+22AF8
+藕	ngó	藕蓮 ngó sen · 藕𧃷 ngó khoai	U+85D5
+茣	ngò	蔞茣 rau ngò	U+8323
+蜈	NGÔ	蜈蚣 ngô công	U+8708
+𦬶	ngổ	蔞𦬶 rau ngổ	U+26B36
+忤	NGỖ	忤逆 ngỗ nghịch · 忤逆 ngỗ ngược	U+5FE4
+忤	ngổ	忤獓 ngổ ngáo	
+悟	NGỘ	覺悟 giác ngộ · 醒悟 tỉnh ngộ	U+609F
+𢣸	ngỡ	𠳝𢣸 bỡ ngỡ · 𢣸𠵫 ngỡ ngàng	U+228F8
+訛	ngoa	吶訛 nói ngoa · 刁訛 điêu ngoa	U+8A1B
+鈺	ngoắc	鈺𢬣 ngoắc tay	U+923A
+𢫛	ngoặc	𨁪𢫛夾 dấu ngoặc kép	U+22ADB
+𠱓	ngoai	𢢯𠱓 nguôi ngoai [𠸨]	U+20C53
+迯	ngoải	𥔲迯 ngắc ngoải	U+8FEF
+𨀑	ngoáy	𨀑脽 ngoáy đuôi · 𥄭𨀑 ngó ngoáy [𠸨]	U+28011
+𠶃	ngoạm	𠶃𥙩 ngoạm lấy · 㹥𠶃𩩫 chó ngoạm xương	U+20D83
+𠰂	ngoẳn	𠽓𠰂 ngủn ngoẳn [𠸨]	U+20C02
+𠰂	ngoẻn	𠰂𠰂 ngoen ngoẻn [𠸨]	
+𠰂	ngoen	𠰂𠰂 ngoen ngoẻn [𠸨]	⇔ 𠰂 ngoẻn
+𱒌	ngoảng	𱒌𱒌 ngoang ngoảng [𠸨]	U+3148C
+𱒌	ngoang	𱒌𱒌 ngoang ngoảng [𠸨]	⇔ 𱒌 ngoảng
+弘	ngoằng	啷弘 loằng ngoằng [𠸨]	U+5F18
+𥋓	ngoảnh	𥋓徠 ngoảnh lại · 𥋓𩈘 ngoảnh mặt	U+252D3
+𠲺	ngoáp	𠲺𠲺 ngoam ngoáp [𠸨]	U+20CBA
+𠲺	ngóp	𢶼𠲺 ngoi ngóp	
+𠲺	ngoam	𠲺𠲺 ngoam ngoáp [𠸨]	⇔ 𠲺 ngoáp
+𭨦	ngoắt	𭨦僥 ngoắt ngoéo [𠸨]	U+2DA26
+逧	ngóc	逧𡿃 ngóc ngách · 逧頭 ngóc đầu	U+9027
+𣔣	ngộc	𣔣𪭄 ngộc nghệch [𠸨]	U+23523
+㧪	ngoe	㧪𭡏 ngoe nguẩy · 𢫸㧪 ngo ngoe · 㧪脽 ngoe đuôi	U+39EA
+蛫	ngoé	蛫蛫 ngoe ngoé [𠸨]	U+86EB
+蛫	ngoe	蛫蛫 ngoe ngoé [𠸨]	⇔ 蛫 ngoé
+㳉	ngoét	㐳㳉 ngót ngoét	U+3CC9
+𢶼	ngoi	𢶼𠲺 ngoi ngóp · 𢶼𧻭 ngoi dậy	U+22DBC
+𤬪	ngói	坧𤬪 gạch ngói	[翻] U+24B2A
+𩿺	ngói	𪀄𩿺 chim ngói	U+29FFA
+𦛽	ngỏm	𥿂𦛽 tom ngỏm [𠸨]	U+266FD
+𤼔	ngợm	𠊛𤼔 người ngợm · 逆𤼔 nghịch ngợm	U+24F14
+𪐬	ngòn	黰𪐬 đen ngòn · 𧹻𪐬 đỏ ngòn · 𪐬𦙴 ngòn chỏ	U+2A42C
+𦰟	ngọn	𦰟畑 ngọn đèn · 𦰟𣘃 ngọn cây · 𦰟源 ngọn nguồn	U+26C1F
+𬢞	ngộn	𬢞𬢞 ngồn ngộn [𠸨]	U+2C89E
+𬢞	ngồn	𬢞𬢞 ngồn ngộn [𠸨]	⇔ 𬢞 ngộn
+𥍎	ngóng	𥍎矓 ngóng trông	U+2534E
+𥍎	ngong	𥍎𥍎 ngong ngóng [𠸨]	⇔ 𥍎 ngóng
+隅	ngòng	隅蟯 ngòng ngoèo [𠸨]	U+9685
+𡅑	ngọng	吶𡅑 nói ngọng · 𡅑憢 ngọng nghịu [𠸨]	U+21151
+顒	ngông	顒狂 ngông cuồng	U+9852
+茙	ngồng	茙茙 ngồng ngồng [𠸨]	U+8319
+𪄌	ngỗng	𪃛𪄌 ngan ngỗng	U+2A10C
+𥆹	ngớp	𥆹𥆹 ngơm ngớp [𠸨]	U+251B9
+𥆹	ngơm	𥆹𥆹 ngơm ngớp [𠸨]	⇔ 𥆹 ngớp
+㐳	ngót	㐳㳉 ngót ngoét · 𱑛㐳 trứng ngót · 㐳𠬠世紀 ngót một thế kỉ	U+3433
+㐳	ngon	㐳㐳 ngon ngót [𠸨]	⇔ 㐳 ngót
+𦬂	ngót	𫈨𦬂 ráy ngót · 蔞𦬂 rau ngót	U+26B02
+兀	NGỘT	突兀 đột ngột	[翻] U+5140
+𠯪	ngớt	𠯪𢚷 ngớt giận · 𠯪𩄎 ngớt mưa	U+20BEA
+𠯪	ngơn	𠯪𠯪 ngơn ngớt [𠸨]	⇔ 𠯪 ngớt
+𬗙	ngù	𬗙㘈 ngù ngờ [𠸨]	U+2C5D9
+魚	NGƯ	鮑魚 bào ngư	U+9B5A
+𣊘	ngừ	垠𣊘 ngần ngừ	U+23298
+俉	ngữ	俉𧘇𫜵咹之得 ngữ ấy làm ăn gì được	U+4FC9
+敔	ngữ	咹消固敔 ăn tiêu có ngữ	U+6554
+𤻭	ngứa	𤻭𠵨 ngứa ngáy [𠸨] · 𤻭蹎 ngứa chân · 𤻭藝 ngứa nghề	U+24EED
+𭡏	nguây	𭡏𭡏 nguây nguẩy	U+2D84F
+𭡏	nguẩy	𭡏𭡏 nguây nguẩy · 𭡏頭辭挃 nguẩy đầu từ chối	
+𭡏	ngoay	𭡏𭡏 ngoay ngoảy [𠸨]	⇔ 𭡏 ngoảy
+𭡏	ngoảy	澿𭡏 ngấm ngoảy [𠸨]	⇔ 𭡏 nguẩy
+𠰻	nguậy	午𠰻 ngọ nguậy [𠸨]	U+20C3B
+𠰻	ngoạy	午𠰻 ngọ ngoạy [𠸨]	⇔ 𠰻 nguậy
+㑋	ngúc	㑋𥔲 ngúc ngắc	U+344B
+哎	ngủi	𠦯哎 ngắn ngủi [𠸨]	[翻] U+54CE
+𬹯	ngửi	𬹯𧡊 ngửi thấy · 𭊪𬹯 hít ngửi · 𬹯苿 ngửi mùi	U+2CE6F
+魏	NGUỴ	阿魏 a nguỵ · 𣱆魏 họ Nguỵ	U+9B4F
+𥊜	nguýt	澿𥊜 ngấm nguýt [𠸨]	U+2529C
+喁	ngụm	𠬠喁渃 một ngụm nước	[翻] U+5581
+𤉘	ngún	𤉘焒 ngún lửa	[翻] U+24258
+𤸒	ngúng	𤸒𭡏 ngúng nguẩy [𠸨]	U+24E12
+𥈴	ngước	𥈴眜 ngước mắt · 𥈴𬨠 ngước lên	U+25234
+𢢯	nguôi	𢢯𠱓 nguôi ngoai [𠸨] · 𢢯𢚷 nguôi giận	U+228AF
+𱐂	nguội	𱐂冷 nguội lạnh · 𩚵𱐂 cơm nguội · 𠏲𱐂 thợ nguội	U+31402
+𱐂	nguồi	𱐂𱐂 nguồi nguội [𠸨]	⇔ 𱐂 nguội
+崞	ngưởng	𡴯崞 ngất ngưởng [𠸨]	U+5D1E
+𩓛	ngụp	𩓛𬺗 ngụp xuống	[翻] U+294DB
+𩂁	ngút	𡶀高𩂁 núi cao ngút · 霓𩂁 nghi ngút	[翻] U+29081
+𤈡	ngụt	𤈡𤈡 ngùn ngụt [𠸨]	U+24221
+𤈡	ngùn	𤈡𤈡 ngùn ngụt [𠸨]	⇔ 𤈡 ngụt
+牛	NGƯU	牛郎 ngưu lang · 金牛 kim ngưu · 𣇟牛 sao ngưu	U+725B
+丫	NHA	丫鬟 nha hoàn	U+4E2B
+丫	a	丫鬟 a hoàn	
+芽	NHA	芽莊 Nha Trang	U+82BD
+𠰹	nhả	𠰹𫥨 nhả ra · 𠰹𩝇 nhả mồi · 𡂒𠰹 chớt nhả	U+20C39
+𤆹	nhá	𤆹濂 nhá nhem	U+241B9
+㦡	nhác	𭞣㦡 nhếch nhác · 𬇣㦡 nháo nhác · 𢙫㦡 nhớn nhác	U+39A1
+㦡	dác		⇔ 㦡 nhác
+䁻	nhác	䁻𧡊 nhác thấy · 䁻矓 nhác trông	U+407B
+𠯅	nhắc	𠯅𢬨 nhắc nhở [𠸨] · 𠯅徠 nhắc lại · 𠯅𡀯𫇰𫜵之朱𢞂 nhắc chuyện cũ làm gì cho buồn	U+20BC5
+啀	nhai	啀𩚵 nhai cơm	U+5540
+啀	nhài	𢯦啀 lài nhài [𠸨]	⇔ 啀 nhai
+涯	NHAI	天涯 thiên nhai · 生涯 sinh nhai	[翻] U+6DAF
+涯	nhải	涯涯 nhai nhải [𠸨]	[翻]
+𦲒	nhài	花𦲒 hoa nhài	U+26C92
+𦲒	lài		⇔ 𦲒 nhài
+爾	nhãi	爾囁 nhãi nhép [𠸨]	U+723E
+𠽬	nhại	𠽬徠 nhại lại · 𪀄𠽬 chim nhại · 濔𠽬 nhễ nhại · 𠽬𠳒𠊛恪 nhại lời người khác	U+20F6C
+捱	nhay	捱捱 nhay nhay [𠸨]	U+6371
+𥅘	nháy	𥅘眜 nháy mắt · 扖𥅘 nhấp nháy	U+25158
+𥅘	nhay	𥅘𥅘 nhay nháy [𠸨]	⇔ 𥅘 nháy
+𮛢	nhạy	𮛢𤓩 nhạy bén · 𮛢感 nhạy cảm · 𮞊𮛢 nhanh nhạy	U+2E6E2
+徍	nhầy	徍濡 nhầy nhụa · 𠍣徍 bầy nhầy	[翻] U+5F8D
+岩	NHAM	岩石 nham thạch · 岩險 nham hiểm	U+5CA9
+岩	ngồm	岩含 ngồm ngoàm [𠸨]	
+𩜠	nham	咹𩜠 ăn nham · 糮𩜠 lam nham	U+29720
+𰪯	nhám	紙𰪯 giấy nhám · 𰪯𰪯 nham nhám [𠸨] · 𰪯謲 nhám xàm	U+30AAF
+𰪯	nham	𰪯𰪯 nham nhám [𠸨]	⇔ 𰪯 nhám
+𩸶	nhám	𩵜𩸶 cá nhám	U+29E36
+𥄮	nhắm	𥄮眜 nhắm mắt	[翻] U+2512E
+𠲏	nhắm	𠲏𨢇 nhắm rượu	U+20C8F
+壬	NHÂM	壬申 Nhâm Thân · 壬辰 Nhâm Thìn	U+58EC
+𠿹	nhẩm	𡀫𠿹 lẩm nhẩm · 併𠿹 tính nhẩm	U+20FF9
+𠰃	nhấm	齽𠰃 gặm nhấm	U+20C03
+𠰃	nhồm	𠰃啱 nhồm nhàm [𠸨]	
+𠰃	nhuôm	𠰃𠰃 nhuôm nhuôm [𠸨]	
+雁	NHẠN	𪀄雁 chim nhạn	U+96C1
+雁	nhàn		⇔ 雁 nhạn
+仞	nhẳn	仞仞 nhăn nhẳn [𠸨]	U+4EDE
+仞	nhẩn	仞芽 nhẩn nha	
+仞	nhăn	仞仞 nhăn nhẳn [𠸨]	⇔ 仞 nhẳn
+仞	nhân	仞仞 nhân nhẩn [𠸨]	⇔ 仞 nhẩn
+𣼴	nhẵn	歇𣼴 hết nhẵn · 𣼴𣾶 nhẵn nhụi [𠸨] · 𣼴𩈘 nhẵn mặt · 𠫾 𣼴塘 đi nhẵn đường	U+23F34
+𠽗	nhặn	雅𠽗 nhã nhặn [𠸨]	U+20F57
+姻	NHÂN	婚姻 hôn nhân · 姻緣 nhân duyên	U+59FB
+𠯄	nhẫn	自𧘇𠯄𫢩 từ ấy nhẫn nay	U+20BC4
+爙	nhang	爙畑 nhang đèn	U+7219
+瓖	nhàng	珥瓖 nhẹ nhàng [𠸨] · 廊瓖 làng nhàng	[翻] U+74D6
+芿	nhăng	榘芿 củ nhăng	U+82BF
+𠲕	nhăng	掕𠲕 lăng nhăng [𠸨] · 𠐔𠲕 nhố nhăng [𠸨]	U+20C95
+𦅯	nhẳng	𦅯𦅯 nhăng nhẳng [𠸨]	U+2616F
+𦅯	nhăng	𦅯𦅯 nhăng nhẳng [𠸨]	⇔ 𦅯 nhẳng
+囔	nhắng	囔𱎰 nhắng nhít [𠸨]	U+56D4
+嚷	nhằng	㖫嚷 lằng nhằng [𠸨] · 入嚷 nhập nhằng [𠸨] · 二嚷 nhì nhằng [𠸨]	U+56B7
+𠯹	nhẵng	冗𠯹 nhũng nhẵng	U+20BF9
+𠯹	nhằng	𠯹𠯹 nhằng nhẵng [𠸨]	⇔ 𠯹 nhẵng
+蠅	nhặng	𧋆蠅 ruồi nhặng · 蠅𬽾 nhặng xị · 𫜵蠅𬨠 làm nhặng lên	U+8805
+椩	nhành	椩𣘃 nhành cây · 㨢𱠴椩花 nâng niu nhành hoa	U+6929
+拎	nhạnh	抇拎 nhặt nhạnh [𠸨]	U+62CE
+堯	nhao	吶堯堯 nói nhao nhao	U+582F
+𬇣	nháo	八𬇣 bát nháo · 𬇣𤄮 nháo nhào · 𥇈𬇣 nhốn nháo	[翻] U+2C1E3
+𬇣	dáo		⇔ 𬇣 nháo
+𤄮	nhào	𤄮𪵅 nhào lộn · 𨁟𤄮 ngã nhào	U+2412E
+𤃤	nhão	𡐙𤃤 đất nhão · 繌𤃤 mềm nhão · 𤃤𥹽 nhão nhoét [𠸨]	U+240E4
+𠿱	nhạo	𠿱謗 nhạo báng · 𠶜𠿱 chế nhạo	U+20FF1
+𡊠	nháp	紙𡊠 giấy nháp · 𣱿𡊠 nhớp nháp	[翻] U+212A0
+𡊠	nham	𡊠𡊠 nham nháp [𠸨]	⇔ 𡊠 nháp
+扖	nhấp	扖𠰘 nhấp miệng · 扖𥅘 nhấp nháy · 扖䠨 nhấp nhổm	U+6256
+𡥌	nhắt	𡥌𡥌 lắt nhắt · 𤝞𡥌 chuột nhắt	[翻] U+2194C
+𡥌	lắt	𤝞𡥌 chuột lắt	⇔ 𡥌 nhắt
+抇	nhặt	𠹌抇𬘋𣖾 năng nhặt chặt bị	U+6287
+橈	nhàu	𣘃橈 cây nhàu · 𬃻橈 trái nhàu	U+6A48
+𦈂	nhàu	𡲫𦈂 vải nhàu · 𦈂捏 nhàu nát · 𧧷𦈂 càu nhàu · 𦈂𦈂 nhàu nhàu	U+26202
+洏	nhè	哭洏 khóc nhè · 洏𪥘󠄁𣈜 nhè cả ngày · 洏頭𦓡打 nhè đầu mà đánh	U+6D0F
+濔	nhễ	濔𠽬 nhễ nhại	U+6FD4
+𭞣	nhếch	𭞣㦡 nhếch nhác	[翻] U+2D7A3
+呥	nhẻm	呥𣲹濂 nhẻm nhèm nhem [𠸨]	U+5465
+呥	nhem	呥呥 nhem nhẻm [𠸨]	⇔ 呥 nhẻm
+𣲹	nhèm	𠿳𣲹 lèm nhèm · 入𣲹 nhập nhèm	[翻] U+23CB9
+𠇦	nhẹm	𡨺𠇦 giữ nhẹm · 掩𠇦 ém nhẹm	U+201E6
+𠇦	dẹm	掩𠇦 ém dẹm [𠸨]	⇔ 𠇦 nhẹm
+蝒	nhện	𦁸蝒 mạng nhện · 𡥵蝒 con nhện	U+8752
+蝒	dện		⇔ 蝒 nhện
+𤾱	nhênh	𤽸𤾱 trắng nhênh	[翻] U+24FB1
+䁱	nheo	䁱眜 nheo mắt	U+4071
+鱙	nheo	𩵜鱙 cá nheo	U+9C59
+𡅍	nhẻo	𡅍𡅍 nheo nhẻo [𠸨]	U+2114D
+𡅍	nheo	𡅍𡅍 nheo nhẻo [𠸨]	⇔ 𡅍 nhẻo
+蕘	nhèo	䕯蕘 bèo nhèo [𠸨]	U+8558
+繞	nhẽo	冗繞 nhõng nhẽo [𠸨]	U+7E5E
+繞	nhếu	繞𬇣 nhếu nháo [𠸨]	
+繞	nhiễu	巾繞 khăn nhiễu	
+𠰉	nhẹo	𠰉𠰉 nhèo nhẹo [𠸨]	U+20C09
+𠰉	réo	𠰉𬨠 réo lên · 叫𠰉 kêu réo · 𠰉噲 réo gọi	
+𠰉	giéo	𠰉㗭 giéo giắt [𠸨]	⇔ 𠰉 réo
+𠰉	nhèo	𠰉𠰉 nhèo nhẹo [𠸨]	⇔ 𠰉 nhẹo
+囁	nhép	𥼕囁 lép nhép	[翻] U+56C1
+囁	nhem	囁囁 nhem nhép [𠸨]	⇔ 囁 nhép
+叺	nhẹp	捷叺 tẹp nhẹp · 碮叺 đè nhẹp	U+53FA
+叺	nhóp	叺囁 nhóp nhép [𠸨]	
+𪷴	nhẹt	𠻼𪷴 nhậu nhẹt [𠸨]	[翻] U+2ADF4
+𡃺	nhệu	𡃺𠿱 nhệu nhạo [𠸨]	U+210FA
+膩	NHỊ	細膩 tế nhị	U+81A9
+𠲔	nhiếc	𠻵𠲔 mắng nhiếc	U+20C94
+𦫸	nhìn	蒲𦫸 bù nhìn	U+26AF8
+𦫸	dìn		⇔ 𦫸 nhìn
+𠽒	nhỉnh	𠽒欣 nhỉnh hơn · 𠽒𠽒 nhinh nhỉnh [𠸨]	U+20F52
+𠽒	nhinh		⇔ 𠽒 nhỉnh
+𱎰	nhít	𡊻𱎰 lít nhít [𠸨]	[翻] U+313B0
+皺	nhíu	皺𣮮 nhíu mày	[翻] U+76BA
+皺	nhịu	𰮐皺 nhụng nhịu [𠸨]	[翻]
+檽	nho	𣘃檽 cây nho	U+6ABD
+𢘾	nhờ	𢘾𡲤 nhờ vả · 𤍶𢘾 nhoè nhờ	U+2263E
+𠾒	nhỡ	𠾒𠾒 nhờ nhỡ [𠸨]	U+20F92
+𠾒	nhờ	𠾒𠾒 nhờ nhỡ [𠸨]	⇔ 𠾒 nhỡ
+𱒥	nhợ	𱒥𱒥 nhờ nhợ [𠸨]	U+314A5
+𱒥	nhờ		⇔ 𱒥 nhợ
+𦀌	nhợ	絏𦀌 dây nhợ	U+2600C
+哸	nhoá	吶哸 nhuế nhoá [𠸨]	U+54F8
+𬿕	nhoai	類𬿕 loai nhoai [𠸨]	U+2CFD5
+𬿕	nhoài	𤻻𬿕 mệt nhoài · 捕𬿕 bổ nhoài	
+迩	nhoáy	迩迩 nhoay nhoáy [𠸨]	U+8FE9
+迩	nhoay	迩迩 nhoay nhoáy [𠸨]	⇔ 迩 nhoáy
+晄	nhoáng	豪晄 hào nhoáng	U+6644
+晄	nhoang	晄晄 nhoang nhoáng [𠸨]	⇔ 晄 nhoáng
+𣋆	nhoạng	入𣋆 nhập nhoạng	U+232C6
+傉	nhóc	傉𡥵 nhóc con · 僶傉 thằng nhóc · 𠲔傉 nhiếc nhóc	[翻] U+5089
+傉	nhoé	嚅嚅 nhoe nhoé [𠸨]	U+5685
+嚅	nhoe	嚅嚅 nhoe nhoé [𠸨]	⇔ 嚅 nhoé
+嘫	nhoẻn	嘫唭 nhoẻn cười	U+562B
+嘫	nhoen	嘫嘫 nhoen nhoẻn [𠸨]	⇔ 嘫 nhoẻn
+𥹽	nhoét	𤃤𥹽 nhão nhoét [𠸨]	U+25E7D
+𥹽	nhoẹt		⇔ 𥹽 nhoét
+焳	nhói	𤴬焳 đau nhói	U+7133
+焳	nhoi	焳焳 nhoi nhói [𠸨]	⇔ 焳 nhói
+𤻫	nhối	𤴵𤻫 nhức nhối [𠸨]	U+24EEB
+𧐻	nhồi	𧎜𧐻 ốc nhồi	U+2743B
+𤷳	nhom	瘖𤷳 ốm nhom	U+24DF3
+𠽦	nhỏm	𠯅𠽦 nhắc nhỏm [𠸨]	U+20F66
+鈓	nhôm	鈉鈓 nồi nhôm [摱]	U+9213
+䠨	nhổm	扖䠨 nhấp nhổm	U+4828
+𣷰	nhơm	𣷰𢬨 nhơm nhở [𠸨]	U+23DF0
+偄	nhỏn	偄偄 nhon nhỏn [𠸨]	U+5044
+偄	nhon	偄偄 nhon nhỏn [𠸨]	⇔ 偄 nhỏn
+𨅄	nhón	𨅄𨃴 nhón gót · 𨅄蹎 nhón chân	U+28144
+𫣑	nhổn	侖𫣑 lổn nhổn [𠸨]	U+2B8D1
+𥇈	nhốn	𪵅𥇈 lốn nhốn · 𥇈𬇣 nhốn nháo	U+251C8
+𢚴	nhơn	𢚴𢚴 nhơn nhơn	U+226B4
+𣼹	nhởn	𣼹洳 nhởn nhơ [𠸨]	U+23F39
+𢙫	nhớn	𢙫㦡 nhớn nhác	U+2266B
+𢙫	dớn		⇔ 𢙫 nhớn
+𦠥	nhờn	脿𦠥 béo nhờn · 𢬣𦠥 tay nhờn · 輕𦠥 khinh nhờn · 𦠥𫇿 nhờn thuốc	U+26825
+銊	nhong	儱銊 long nhong [𠸨]	U+928A
+𬫍	nhong	𬫍𬫍 nhong nhong [𠸨]	U+2CACD
+𢟞	nhóng	𢟞𢟞 nhong nhóng [𠸨]	U+227DE
+𢟞	nhong	𢟞𢟞 nhong nhóng [𠸨]	⇔ 𢟞 nhóng
+𧻪	nhông	𧻪𧻪 nhông nhông [𠸨]	U+27EEA
+蛹	nhộng	蛹蠶 nhộng tằm	[翻] U+86F9
+蛹	dộng		⇔ 蛹 nhộng
+𣱿	nhớp	𣱿𡊠 nhớp nháp	U+23C7F
+𣱿	nhơm	𣱿𣱿 nhơm nhớp [𠸨]	⇔ 𣱿 nhớp
+𣑵	nhót	𣘃𣑵 cây nhót · 果𣑵 quả nhót	U+23475
+𤷿	nhọt	癰𤷿 ung nhọt · 𤺯𤷿 mụn nhọt	U+24DFF
+噎	nhốt	噎噎 nhôn nhốt [𠸨]	U+564E
+噎	rốt	噎噎 rôn rốt [𠸨]	
+噎	nhôn	噎噎 nhôn nhốt [𠸨]	⇔ 噎 nhốt
+噎	rôn	噎噎 rôn rốt [𠸨]	⇔ 噎 rốt
+𦝬	nhột	𦝬溂 nhột nhạt [𠸨]	U+2676C
+𣼸	nhớt	𣼸㦉 nhớt nhát [𠸨]	U+23F38
+𣼸	nhơn	𣼸𣼸 nhơn nhớt [𠸨]	⇔ 𣼸 nhớt
+𣼸	rơn	𣼸𣼸 rơn rớt [𠸨]	⇔ 𣼸 rớt
+𣼸	rớt	𣼸𣼸 rơn rớt [𠸨]	⇔ 𣼸 nhớt
+需	NHU	需要 nhu yếu · 需求 nhu cầu ·軍需 quân nhu	U+9700
+薷	NHU	香薷 hương nhu	U+85B7
+葇	nhú	葇𬨠 nhú lên · 𦹰𣘃㐌葇 mầm cây đã nhú	U+8447
+葇	nhu	葇葇 nhu nhú [𠸨]	⇔ 葇 nhú
+乳	NHŨ	乳母 nhũ mẫu · 石乳 thạch nhũ · 金乳 kim nhũ · 乳漿 nhũ tương	U+4E73
+乳	nhõ	𥆾乳 nhìn nhõ [𠸨]	
+餌	nhử	𩝇餌 mồi nhử · 餌𩵜 nhử cá	U+990C
+𤈟	nhừ	𤈟子 nhừ tử [𠸨]	U+2421F
+濡	nhúa	𣱿濡 nhớp nhúa [𠸨]	U+6FE1
+濡	nhụa	徍濡 nhầy nhụa	
+閏	NHUẬN	𢆥閏 năm nhuận	U+958F
+銳	NHUỆ	銳兵 nhuệ binh · 銳氣 nhuệ khí · 英銳 anh nhuệ	U+92B3
+𠓩	nhủi	𠓩𠓨 nhủi vào · 𠓩𩵜 nhủi cá	U+204E9
+𢪭	nhúm	𢪭徠 nhúm lại · 𠬠𢪭 một nhúm	[翻] U+22AAD
+戎	NHUNG	兵戎 binh nhung · 戎𠲕 nhung nhăng [𠸨] · 𢖵戎 nhớ nhung [𠸨]	U+620E
+戎	nhỏng	戎牙戎穎 nhỏng nha nhỏng nhảnh [𠸨]	
+茸	NHUNG	茸㹯 nhung hươu	[翻] U+8338
+𣴛	nhúng	𣴛𢬣 nhúng tay · 𣴛渃 nhúng nước	U+23D1B
+𰮐	nhụng	𰮐皺 nhụng nhịu [𠸨]	U+30B90
+溽	nhuốc	洳溽 nhơ nhuốc · 濂溽 nhem nhuốc	U+6EBD
+溽	luốc		⇔ 溽 nhuốc
+攘	NHƯƠNG	擾攘 nhiễu nhương	U+6518
+葖	nhút	𩻐葖 mắm nhút	[翻] U+8456
+𢝀	nhút	𢝀㦉 nhút nhát	U+22740
+𢝀	dút		⇔ 𢝀 nhút
+鈤	nhụt	𫜵鈤 làm nhụt · 𨮉鈤 cùn nhụt · 鈤志 nhụt chí	U+9224
+𡡅	o	婆𡡅 bà o	U+21845
+鵶	ó	囉鵶 la ó	U+9D76
+𦶀	ô	秦𦶀 tần ô	U+26D80
+癋	ố	𤸫癋 hoen ố · 𡲫被癋 vải bị ố	U+764B
+㐵	ơ	悇㐵 thờ ơ · 吶幽㐵 nói u ơ	[翻] U+3435
+𰂔	ợ	𰂔䣷 ợ chua · 𰂔唏 ợ hơi	U+30094
+喎	oa	哭喎喎 khóc oa oa	[翻] U+558E
+哇	oà	哭哇 khóc oà	U+54C7
+蒦	oách	矓窒蒦 trông rất oách · 𬡶部尼朱蒦 mặc bộ này cho oách	[翻] U+84A6
+矮	OẢI	矮香 oải hương	U+77EE
+痿	oải	濊痿 uể oải	U+75FF
+噾	oăm	𠶔噾 oái oăm	[翻] U+567E
+𥺹	oản	𥺹荎 oản chuối · 𥺹𥸷 oản xôi	U+25EB9
+倇	oằn	倇偎 oằn oại [𠸨] · 倇𬺗 oằn xuống · 莄𣘃倇 cành cây oằn	[翻] U+5007
+𠻄	oang	𠻄𠻄 oang oang [聲]	[翻] U+20EC4
+瑩（莹）	OÁNH	阮春瑩 Nguyễn Xuân Oánh · 高玉瑩 Cao Ngọc Oánh	[翻] U+7469 (U+83B9)
+唈	oạp	𥑴唈 ì oạp [聲] · 唈唈 oàm oạp [聲]	[翻] U+5508
+唈	oàm	唈唈 oàm oạp [聲]	⇔ 唈 oạp
+喐	oắt	𡮣喐 bé oắt	[翻] U+5590
+喐	ọt	喐𠮙 ọt ẹt [聲]	
+喔	óc	𪃿㕭喔 gà eo óc	[翻] U+5594
+𣹙	ọc	𣹙𣹙 ọc ọc [𠸨]	U+23E59
+喴	oe	喴喴 oe oe	[翻] U+55B4
+唩	ỏe	唩𠽡 ỏe hoẹ [𠸨]	U+5529
+唩	ủa	唩？ ủa? [嘆] · 叫唩 kêu ủa [嘆] · 唩𨓐 ủa lạ	
+噦	oé	噦噦 oe oé [𠸨]	U+5666
+噦	oe	噦噦 oe oé [𠸨]	⇔ 噦 oé
+俺	oem		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+4FFA
+煨	oi	煨妸 oi ả · 煨煏 oi bức · 煨𤎏 oi nóng	U+7168
+𥯜	oi	丐𥯜 cái oi	U+25BDC
+𱔎	ỏi	𠃣𱔎 ít ỏi · 𠸄𱔎 inh ỏi	U+3150E
+𣾿	ói	𠷀𣾿 nôn ói	U+23FBF
+偎	ÔI	倚翠偎紅 ỷ thuý ôi hồng	[翻] U+504E
+偎	oại	倇偎 oằn oại [𠸨]	
+𦞏	ôi	𬚸𦞏 thịt ôi	U+2678F
+猥	ỔI	猥陋 ổi lậu · 鄙猥 bỉ ổi	U+7325
+椳	ổi	果椳 quả ổi · 𣘃椳 cây ổi	U+6933
+噫	ới	囉㗒噫 la ơi ới · 噫婆𡥵㗒 ới bà con ơi · 固之噫朱別貝 có gì ới cho biết với	U+566B
+喑	om	喑嚵 om sòm [𠸨]	[翻] U+5591
+喑	ồm	喑𧋾 ồm ộp [聲]	[翻]
+喑	um	喑嚵 um sùm [𠸨]	⇔ 喑 om
+嚈	ỡm	嚈唹 ỡm ờ	U+5688
+𢞴	ớn	𢞴冷 ớn lạnh · 𢞴洌 ớn rét · 𢞴 𪥘󠄁𠊛 ớn cả người	U+227B4
+𢞴	ơn	𢞴𢞴 ơn ớn [𠸨]	⇔ 𢞴 ớn
+滃	óng	絲滃 tơ óng · 滃映 óng ánh ·囉滃滃 la óng óng	U+6EC3
+滃	ông	嗡嗡 ông ổng [聲]	U+55E1
+嗡	ổng	嗡嗡 ông ổng [聲]	
+慃	ổng		⇔ 翁𧘇 ông ấy U+6143
+俋	ọp	俋𠇺 ọp ẹp	[翻] U+4FCB
+偮	ốp	偮僥 ốp nhau · 偮役 ốp việc ·抪偮徠 bó ốp lại	U+506E
+䱒	ốp	𩵜䱒 cá ốp	U+4C52
+𧋾	ộp	𧋾𧋾 ộp ộp [聲] · 喑𧋾 ồm ộp [聲]	U+272FE
+顇	ót	𩯀顇𨱽過 tóc ót dài quá	[翻] U+9847
+𣎷	ớt	𣎷鐘 ớt chuông	[翻] U+233B7
+𫮒	phá	潭𫮒 đầm phá	U+2BB92
+𠶊	phà	淝𠶊 phì phà [𠸨]	U+20D8A
+卟	phạc	𠱀卟 phờ phạc [𠸨]	U+535F
+卟	vốc	𠬠卟 một vốc · 卟𠄩卟𥽌 vốc hai vốc gạo	
+噗	phắc	噗噗 phăng phắc [𠸨]	U+5657
+噗	phăng	噗噗 phăng phắc [𠸨]	⇔ 噗 phắc
+珀	PHÁCH	琥珀 hổ phách · 血珀 huyết phách · 明珀 minh phách	U+73C0
+魄	PHÁCH	魂魄 hồn phách	U+9B44
+𩗀	phạch	𩗀𩗀 phạch phạch · 帆𢒎𩗀 buồm bay phạch · 橛𩗀𩗀 quạt phành phạch [𠸨]	U+295C0
+𩗀	phành	橛𩗀𩗀 quạt phành phạch [𠸨]	⇔ 𩗀 phạch
+㗑	phai	溂㗑 nhạt phai · 㗑𥊚 phai mờ · 㗑𦭷 phai màu	U+35D1
+㧊	phẩy	派㧊 phe phẩy	U+39CA
+幡	PHAN	莄幡 cành phan	U+5E61
+坢	phắn	塝坢 phẳng phắn [𠸨]	U+5762
+𡃎	phàn	𡃎難 phàn nàn	U+210CE
+枌	phần	𣘃枌 cây phần	U+678C
+㧍	phang	𪢜㧍 phô phang · 㧍卬 phang ngang	U+39CD
+㕫	phăng	吶㕫 nói phăng · 𫜵㕫朱歱 làm phăng cho xong	U+356B
+枰	phanh	枰𢬣 phanh tay [摱]	U+67B0
+𢴒	phành	𢴒𫥨 phành ra	U+22D12
+𣿖	phao	𣿖救生 phao cứu sinh · 𣿖信䚾 phao tin nhảm	U+23FD6
+𠵽	phắp	𠵽𠵽 phăm phắp [𠸨]	U+20D7D
+𠵽	vếp		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+𠵽	phăm	𠵽𠵽 phăm phắp [𠸨]	⇔ 𠵽 phắp
+𭡚	phấp	𭡚𢭿 phấp phới · 𭡚倣 phấp phỏng	U+2D85A
+怫	phập	怫𤂧 phập phồng · 怫怫 phầm phập [𠸨]	[翻] U+602B
+怫	phầm	怫怫 phầm phập [𠸨]	⇔ 怫 phập
+罰	PHẠT	懲罰 trừng phạt · 刑罰 hình phạt	U+7F70
+𧿳	phắt	𨅸𧿳𧻭 đứng phắt dậy	U+27FF3
+𧿳	phăn	𧿳𧿳 phăn phắt [𠸨]	⇔ 𧿳 phắt
+𤽵	phau	𤽵𤽵 phau phau · 𤽸𤽵 trắng phau	U+24F75
+腓	phè	𣹓腓 đầy phè · 腓𦙀 phè phỡn [𠸨] · 腓腓 phè phè · 𢥇腓 chán phè	U+8153
+啡	PHÊ	咖啡 cà phê · 撫啡 phủ phê [摱] · 啡如𡥵犀犀 phê như con tê tê [摱]	[翻] U+5561
+肺	PHẾ	肺管 phế quản	U+80BA
+肺	phổi	炎肺 viêm phổi	[異] 𦟊
+㭀	phệ	㭀泥 phệ nệ [𠸨]	U+3B40
+㭀	phề	㭀㭀 phề phệ [𠸨]	⇔ 㭀 phệ
+𤾷	phếch	薄𤾷 bạc phếch	[翻] U+24FB7
+礬	phèn	𡐙礬 đất phèn · 糖礬 đường phèn · 渃礬 nước phèn · 礬䣷 phèn chua	U+792C
+䉒	phên	䉒壁 phên vách · 糖䉒 đường phên	U+4252
+咆	phèo	淝咆 phì phèo [𠸨]	[翻] U+5486
+珐	phếp		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+73D0
+𦠱	phét	𦠱洛 phét lác · 𠄩𠀲𦠱僥 hai đứa phét nhau [俗]	U+26831
+㗶	phẹt	㗶㗶 phèn phẹt [𠸨]	[翻] U+35F6
+㗶	phết	𫥨㗶 ra phết	[翻]
+㗶	phèn	㗶㗶 phèn phẹt [𠸨]	⇔ 㗶 phẹt
+蚾	phi	𡥵蚾 con phi	U+86BE
+匪	PHỈ	土匪 thổ phỉ	U+532A
+悱	phỉ	悱願 phỉ nguyền · 悱志 phỉ chí · 悱飭 phỉ sức	U+60B1
+翡	PHỈ	翡翠 phỉ thuý	U+7FE1
+誹	PHỈ	誹謗 phỉ báng · 誹𢮫 phỉ nhổ	U+8AB9
+肥	PHÌ	肥饒 phì nhiêu · 肥嫩 phì nộn · 發肥 phát phì	U+80A5
+𦜀	phị	𦜀𦜀 phì phị [𠸨]	U+26700
+𦜀	phì	𦜀𦜀 phì phị [𠸨]	⇔ 𦜀 phị
+澼	phích	壓澼 áp-phích [摱] · 澼撜渃 phích đựng nước	[翻] U+6FBC
+噼	phịch	噼噼 phình phịch [𠸨]	U+567C
+噼	phình	噼噼 phình phịch [𠸨]	⇔ 噼 phịch
+𦢟	phịch	服𦢟 phục phịch [𠸨]	U+2689F
+泛	PHIẾM	浮泛 phù phiếm · 𡀯泛 chuyện phiếm · 泛指 phiếm chỉ · 泛函 phiếm hàm · 泛遊 phiếm du ·泛定 phiếm định	U+6CDB
+泛	phêm		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+翻	PHIÊN	翻譯 phiên dịch · 翻版 phiên bản · 翻音 phiên âm · 翻覆 phiên phúc	U+7FFB
+飄	PHIÊU	飄搖 phiêu diêu	U+98C4
+𠶏	phỉnh	𠶏𠱀 phỉnh phờ [𠸨] · 𠶏佞 phỉnh nịnh	[翻] U+20D8F
+𠶏	phĩnh	𠶏𠶏 phình phĩnh [𠸨]	[翻]
+𠶏	phình	𠶏𠶏 phình phĩnh [𠸨]	⇔ 𠶏 phĩnh [翻]
+𣍪	phính	𰇷𣍪 phúng phính [𠸨]	U+2336A
+𣍪	phinh	𣍪𣍪 phinh phính [𠸨]	⇔ 𣍪 phính
+胓	phình	脹胓 trương phình · 胓𫥨 phình ra	U+80D3
+墂	phiu	塝墂 phẳng phiu [𠸨]	U+5882
+慓	phịu	奉慓 phụng phịu	[翻] U+6153
+赴	PHÓ	赴會 phó hội	U+8D74
+駙	PHÒ	駙馬 phò mã	U+99D9
+𪢜	phô	𪢜𠎩 phô bay · 𪢜㧍 phô phang	U+2A89C
+披	phơ	拂披 phất phơ	U+62AB
+苤	phơ	鉑苤 bạc phơ	U+82E4
+𡂄	phở	𡂄𡋿 phở lở · 𠯘𡂄 phớn phở	U+21084
+𬖾	phở	𩚵𬖾 cơm phở	U+2C5BE
+𠱀	phờ	𠶏𠱀 phỉnh phờ [𠸨] · 𠱀卟 phờ phạc [𠸨]	[翻] U+20C40
+𤷵	phờ	巴𤷵 bơ phờ [𠸨]	U+24DF5
+䟔	phóc	𬦮䟔 nhảy phóc	[翻] U+47D4
+坯	PHÔI	坯𨨧 phôi thép	U+576F
+𢭿	phới	𭡚𢭿 phấp phới · 𢭿𢭿 phơi phới [𠸨]	U+22B7F
+𢭿	phơi	𢭿𢭿 phơi phới [𠸨]	⇔ 𢭿 phới
+𠆩	phom	𠆩𠊛 phom người [摱] · 𠆩𩌂惵 phom giày đẹp [摱]	[翻] U+201A9
+𠱍	phớm	𠱍𠶏 phớm phỉnh	U+20C4D
+𠯘	phớn	𠯘𡂄 phớn phở	U+20BD8
+𦙀	phỡn	腓𦙀 phè phỡn [𠸨]	U+26640
+丰	PHONG	丰采 phong thái	U+4E30
+峰	PHONG	峰衙 Phong Nha	U+5CF0
+葑	PHONG	菲葑 phỉ phong	U+8451
+楓	PHONG	𣘃楓 cây phong	U+6953
+鋒	PHONG	先鋒 tiên phong · 前鋒 tiền phong · 衝鋒 xung phong	U+92D2
+豐（豊）	PHONG	豐富 phong phú · 𦼔豐 rêu phong	U+8C50 (U+8C4A)
+堸	phông	堸𡋂 phông nền [摱]	U+5838
+仿	phỗng	僶仿 thằng phỗng · 仿𢬣𨑗 phỗng tay trên	U+4EFF
+𪾁	phốp	𤽸𪾁 trắng phốp · 𪾁法 phốp pháp [𠸨]	[翻] U+2AF81
+𪾁	phôm	𪾁𪾁 phôm phốp [𠸨]	⇔ 𪾁 phốp
+咈	phớt	咈過 phớt qua · 𣼷咈 lớt phớt [𠸨] · 咈矑 phớt lờ	U+5488
+咈	phơn	咈咈 phơn phớt [𠸨]	⇔ 咈 phớt
+甫	PHỦ	臺甫 đài phủ	U+752B
+負	PHỤ	負𢚸 phụ lòng · 負責 phụ trách · 自負 tự phụ · 負薄 phụ bạc	U+8CA0
+埠	PHỤ	商埠 thương phụ	U+57E0
+茯	PHỤC	茯苓 phục linh	U+832F
+複	PHỨC	煩複 phiền phức · 複雜 phức tạp · 數複 số phức · 複本 phức bản	U+8907
+𢲭	phủi	𢲭𢬣 phủi tay · 𢲭𡏧 phủi bụi	U+22CAD
+噴	phun	噴渃 phun nước	U+5674
+濆	phún	𣼍濆 lún phún	[翻] U+6FC6
+𤂫	phùn	𤂫𩄎 phùn mưa · 𩄎𤂫 mưa phùn	U+240AB
+𢱚	phung	𢱚費 phung phí	U+22C5A
+𰇷	phúng	𰇷𣍪 phúng phính [𠸨]	U+301F7
+𰇷	phung	𰇷𰇷 phung phúng [𠸨]	⇔ 𰇷 phúng
+賵	PHÚNG	賵怺 phúng viếng	U+8CF5
+諷	PHÚNG	嘲諷 trào phúng	U+8AF7
+逢	PHÙNG	重逢 trùng phùng · 相逢 tương phùng	U+9022
+馮	PHÙNG	𣱆馮 họ Phùng · 馮克寬 Phùng Khắc Khoan	U+99AE
+炐	phừng	炐炐 phừng phừng	[翻] U+7090
+炥	phụt	𠺙炥 thổi phụt · 畑炥𤎕 đèn phụt tắt	U+70A5
+炥	phọt		⇔ 炥 phụt
+𠵩	quã	𫏓𠵩 quày quã [𠸨]	U+20D69
+𠵩	quở	𠵩𠻵 quở mắng · 𠵩光 quở quang · 𠵩責 quở trách	
+𩿙	quạ	𡥵𩿙 con quạ · 𩿙黰 quạ đen	[異] 𪇍 U+29FD9
+嘓	quác	嘓嘓 quác quác [聲] · 叫光嘓 kêu quang quác [聲]	U+5613
+嘓	quạc	嘓嘓 quạc quạc [𠸨]	
+嘓	quàng	嘓嘓 quàng quạc [𠸨]	⇔ 嘓 quạc
+擭	quạc	㨯擭 quệch quạc [𠸨]	U+64ED
+擭	ngoác	㨯擭 nguếch ngoác [𠸨]	⇔ 擭 quạc
+擭	ngoạc	㨯擭 nguệch ngoạc [𠸨]	⇔ 擭 quạc
+矍	QUẮC	矍鑠 quắc thước	U+77CD
+郭	QUÁCH	城郭 thành quách · 𣱆郭 họ Quách	U+90ED
+郭	quách	炪郭仍傳挑淫 đốt quách những truyện khiêu dâm	
+槨	QUÁCH	𥪝棺外槨 trong quan ngoài quách	U+69E8
+𬗜	quai	𥶄𬗜絛 nón quai thao	[翻] U+2C5DC
+卦	QUÁI	八卦 bát quái	U+5366
+拐	quảy	拐捇 quảy xách · 拐挭 quảy gánh	U+62D0
+拐	quây	拐拐 quây quẩy [𠸨]	⇔ 拐 quẩy
+拐	quẩy		⇔ 拐 quảy
+𫏓	quày	𫏓𠵩 quày quã [𠸨]	U+2B3D3
+𡇸	quây	𡇸群 quây quần	[翻] U+211F8
+柜	quầy	柜冊 quầy sách · 柜報 quầy báo	U+67DC
+𠏺	quẫy	𠏺踏 quẫy đạp · 亇𠏺 cá quẫy · 𠏺距 quẫy cựa · 𠏺𬨠𱜢！ Quẫy lên nào!	U+203FA
+揆	quậy	距揆 cựa quậy	U+63C6
+揆	quẽ	夐揆 quạnh quẽ [𠸨]	
+𣰙	quặm	𪖫𣰙 mũi quặm	[翻] U+23C19
+𣰙	quằm	𣰙𣰙 quằm quặm [𠸨]	⇔ 𣰙 quặm [翻]
+鰥	QUAN	鰥寡 quan quả	U+9C25
+𩮔	quăn	𩯀𩮔 tóc quăn · 𩮔𨙍 quăn queo [𠸨]	U+29B94
+𦄻	quắn	𤴬𦄻 đau quắn	U+2613B
+㴫	quặn	丐㴫 cái quặn	U+3D2B
+𤹓	quặn	𤴬𤹓 đau quặn · 𤹓𤴬𥪝𢚸 quặn đau trong lòng	U+24E53
+𤹓	quằn	𤹓𤹓 quằn quặn [𠸨]	⇔ 𤹓 quặn
+群	QUẦN	群衆 quần chúng · 群體 quần thể · 群島 quần đảo · 合群 hợp quần · 𡇸群 quây quần ·群聚 quần tụ	U+7FA4
+窘	QUẪN	窘迫 quẫn bách · 窮窘 cùng quẫn · 困窘 khốn quẫn	U+7A98
+癀	quảng	漊癀 sâu quảng	U+7640
+挄	quạng	捰挄 quờ quạng [𠸨]	U+6304
+挄	quăng	挄揇 quăng ném · 挄䋥 quăng lưới · 浪挄 loăng quăng [𠸨]	
+𧈽	quăng	𧌂𧈽 bọ quăng	U+2723D
+𪠢	quẳng	𪠢𠫾 quẳng đi · 𪠢𫥨外𨷯 quẳng ra ngoài cửa	U+2A822
+礦	quặng	礦鉄 quặng sắt · 丐礦 cái quặng · 礦派挒 quặng phe-rít	U+7926
+𡃅	quánh	𡃅𡃅 quanh quánh [𠸨]	U+210C5
+𡃅	quanh	𡃅𡃅 quanh quánh [𠸨]	⇔ 𡃅 quánh
+𣔲	quạnh	㳜𣔲 hiu quạnh · 孤𣔲 cô quạnh	U+23532
+夐	quạnh	夐揆 quạnh quẽ [𠸨]	U+5910
+𫽿	quào	𫽿㧨 quào cấu	[翻] U+2BF7F
+𣌵	quắp	𣌵𥙩 quắp lấy · 𢮩𣌵 co quắp	[翻] U+23335
+彶	quặp	𩯁彶 râu quặp · 彶𠓨 quặp vào · 蹎𢬣彶𥙩莄𣘃 chân tay quặp lấy cành cây	U+5F76
+橛	quạt	丐橛 cái quạt · 橛電 quạt điện · 𣛠橛𩙍 máy quạt gió	[異] 撅 𢅅 𦑗 U+6A5B
+𢯔	quắt	𢯔𨙍 quắt queo [𠸨] · 𢯔徠 quắt lại · 𤉗𢯔 héo quắt · 𩈘𢯔 mặt quắt	U+22BD4
+䠇	quặt	䠇𢳙 quặt quẹo · 𢯏䠇 bẻ quặt	U+4807
+繘	quất	繘檑 quất roi · 𨒺繘 quanh quất [𠸨]	U+7E58
+槻	que	槻檜 que củi · 搝蘿𠀧槻 xỏ lá ba que	U+69FB
+𩱻	quẻ	𩱻𧴤 quẻ bói · 𠭤𩱻 giở quẻ	U+29C7B
+㹟	qué	𪃿㹟 gà qué	U+3E5F
+𨆠	què	𨆠蹎 què chân · 𨆠䠇 què quặt · 𨆠𡭕 què cụt	U+281A0
+㨯	quệch	㨯擭 quệch quạc [𠸨]	U+3A2F
+㨯	ngoạch	㨯擭 ngoạch ngoạc [𠸨]	⇔ 㨯 quệch
+㨯	nguếch	㨯擭 nguếch ngoác [𠸨]	⇔ 㨯 quệch
+㨯	nguệch	㨯擭 nguệch ngoạc [𠸨]	⇔ 㨯 quệch
+𤷄	quèn	𤷄𤷄 quèn quèn [𠸨]	U+24DC4
+𨙍	queo	𢏣𨙍 cong queo · 𩮔𨙍 quăn queo [𠸨]	[翻] U+2864D
+𢳙	quẹo	𢳙𦙶 quẹo cổ · 𢳙𢬣債 quẹo tay trái	U+22CD9
+抉	quẹt	焰抉 diêm quẹt · 撝抉 va quẹt ·抉過抉徠 quẹt qua quẹt lại	U+6289
+鴃	quẹt	𪀄鴃 chim quẹt	U+9D03
+𢯵	quệt	𢯵渃眜 quệt nước mắt · 𫇿膏𢯵 𠓨紙 thuốc cao quệt vào giấy	U+22BF5
+龜	QUY	金龜 kim quy	U+9F9C
+詭	QUỶ	詭譎 quỷ quyệt	U+8A6D
+癸	QUÝ	癸未 Quý Mùi · 癸亥 Quý Hợi	U+7678
+葵	QUỲ	紙葵 giấy quỳ · 花葵 hoa quỳ	U+8475
+跪	QUỴ	突跪 đột quỵ · 跪累 quỵ luỵ · 𨁟跪 ngã quỵ	U+8DEA
+跪	quỳ	跪𬺗 quỳ xuống · 跪𨆝 quỳ gối	
+娟	QUYÊN	嬋娟 thuyền quyên	U+5A1F
+倦	QUYỆN	困倦 khốn quyện · 歲𫅷飭倦 tuổi già sức quyện	U+5026
+䊎	quyện	和䊎 hoà quyện · 𦄄䊎 quấn quyện · 䊎𠓨僥 quyện vào nhau · 蜜䊎𠓨箸 mật quyện vào đũa	U+428E
+訣	QUYẾT	口訣 khẩu quyết · 秘訣 bí quyết	U+8A23
+𢷳	quýnh	𪜯𢷳 lính quýnh [𠸨]	U+22DF3
+𢵮	quýt	𦄄𢵮 quấn quýt	[翻] U+22D6E
+𧷾	quỵt	咹𧷾 ăn quỵt	U+27DFE
+撾	quơ	撾梞 quơ gậy · 撾揆 quơ quậy ·撾檜 quơ củi · 氷撾 bâng quơ	U+64BE
+捰	quờ	捰挄 quờ quạng [𠸨]	U+6370
+𤄷	ra	𠊛𤄷塸萊 người Ra Gơ-lai (Glai)	𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+24137
+𤄷	rả	𤄷嚦 rả rích	[翻]
+筥	rá	咖筥 cà rá	U+7B65
+𦚐	rà	誺𦚐 rầy rà [𠸨]	U+26690
+𬓰	rạ	稴𬓰 rơm rạ · 𣩂如㧴𬓰 chết như ngả rạ · 𡥵𬓰 con rạ	U+2C4F0
+𡃄	rai	𢯦𡃄 lai rai	[翻] U+210C4
+𤀕	ráy	𤀕𦖻 ráy tai · 𮇕𤀕 cứt ráy · 𣳮 𤀕 rửa ráy	U+24015
+𫈨	ráy	𧃷𫈨 khoai ráy · 榘𫈨 củ ráy · 𫈨𦬂 ráy ngót	U+2B228
+𣈙	rày	自𣈙𧗱𢖖󠄁 từ rày về sau	U+23219
+𣈙	rầy		⇔ 𣈙 rày
+逨（逨󠄁）	rầy	塘逨 đường rầy [摱]	[翻] U+9028 (U+9028 U+E0101)
+𧍍（𧍍󠄁）	rầy	𡥵𧍍 con rầy	U+2734D (U+2734D U+E0101)
+諃	ràm	詌諃 càm ràm	U+8AC3
+𧓦	rạm	𡥵𧓦 con rạm · 𧓦垌 rạm đồng	U+274E6
+𦝃	rằm	𣈜𦝃 ngày rằm · 𦝄𦝃 trăng rằm	U+26743
+稔	rấm	稔𦰡 rấm na · 稔荎 rấm chuối ·稔𤇮 rấm bếp · 稔𢲼 rấm rứt ·稔𥟉𥞖 rấm thóc giống	U+7A14
+梣	rầm	𨑗梣茹 trên rầm nhà	U+68A3
+𢬶	rẫm	攞𢬶 rà rẫm	U+22B36
+灡	ran	𩂐灡 râm ran · 𩆐灡 sấm ran	[翻] U+7061
+灡	rân	㖡灡 dạ rân	⇔ 灡 ran
+炟	rán	餅炟 bánh rán · 𪃿炟 gà rán	U+709F
+𢒞	rằn	𢒞𠶋 rằn ri [𠸨]	U+2249E
+𠻤	rần	𠻤𠻤 rần rần [𠸨] · 𠻤㗚 rần rật [𠸨]	U+20EE4
+𧎠	rận	𡥵𧎠 con rận · 𧋺𧎠 chấy rận	U+273A0
+𧎠	dận		⇔ 𧎠 rận
+烊	rang	烊𤍇 rang nấu · 烊𪉥 rang muối	U+70CA
+𠡧	ráng	𠡧飭 ráng sức	U+20867
+蓢	ráng	蔞蓢 rau ráng	U+84E2
+𩅜	ráng	𩅜𣊿 ráng chiều	U+2915C
+𫭧	rặng	𫭧𣘃 rặng cây · 𫭧𡶀 rặng núi	U+2BB67
+𭩹	ranh	𭩹界 ranh giới	U+2DA79
+汫	rãnh	汫渃 rãnh nước · 𤀖汫 ngòi rãnh	U+6C6B
+𨀼	rảo	𨀼𨀈 rảo bước	U+2803C
+滛	rào	洡過滛 lội qua rào · 𩄎滛 mưa rào · 滛滛 rào rào	U+6EDB
+𰛴	rạo	𰛴熤 rạo rực · 洮𰛴 rệu rạo	U+306F4
+梍	rạo	㨂梍 đóng rạo · 㩒梍𡧲𤀖 cắm rạo giữa ngòi	U+688D
+梍	rào	梍梍 rào rạo [𠸨]	⇔ 梍 rạo
+𢺎	rạp	𢺎𬺗 rạp xuống	U+22E8E
+𢺎	ráp	𢺎𢺎 ráp rạp [𠸨]	⇔ 𢺎 rạp
+𫁞	rắp	𫁞𭩹 rắp ranh [𠸨]	U+2B05E
+𫁞	rấp	𫁞𡉦 rấp ngõ · 𫁞塘 rấp đường · 丐𫁞𤝞 cái rấp chuột ·㵋頭𢆥㐌𫁞 mới đầu năm đã rấp	
+𫁞	răm	𫁞𫁞 răm rắp [𠸨]	⇔ 𫁞 rắp
+𤌣	rát	𤊡𤌣 bỏng rát	[翻] U+24323
+𤌣	ran	𤌣𤌣 ran rát [𠸨]	⇔ 𤌣 rát
+㗭	rắt	瀻㗭 đái rắt · 𠰉㗭 réo rắt	U+35ED
+㗭	giắt	𠰉㗭 giéo giắt [𠸨]	⇔ 㗭 rắt
+𮞿	rặt	𢄂𮞿仍柑 chợ rặt những cam ·吶𮞿㗂沔中 nói rặt tiếng miền Trung	U+2E7BF
+𠸫	ráu	𠸫𠸫 rau ráu [𠸨]	U+20E2B
+𠸫	rau	𠸫𠸫 rau ráu [𠸨]	⇔ 𠸫 ráu
+𱟓	rầu	𢞂𱟓 buồn rầu	U+317D3
+𥗍	rè	揬𥗍 rụt rè	[翻] U+255CD
+𥘶	rẽ	𢺹𥘶 chia rẽ · 𥘶𩯀 rẽ tóc · 塘 𥘶 đường rẽ	U+25636
+𣾸	rề	𣾸攞 rề rà · 𣾸𣾸 rề rề	U+23FB8
+藶	rếch	藶𧅫 rếch rác · 疎藶 thưa rếch	[翻] U+85F6
+簾	rèm	簾𨷯 rèm cửa	[翻] U+7C3E
+𨅍	rén	蹾𨅍 rón rén [𠸨]	U+2814D
+𨅍	nhén	蹾𨅍 nhón nhén [𠸨]	⇔ 𨅍 rén
+𨅍	ren	𨅍𨅍 ren rén [𠸨]	⇔ 𨅍 rén
+𫫣	rên	𫫣𠯇 rên rỉ [𠸨] · 𫫣切 rên siết	U+2BAE3
+𡃚	rền	𠸨𡃚 láy rền · 𡃚㘇 rền vang · 𡃚㐶 rền rĩ [𠸨] · 𩆐𡃚 sấm rền	U+210DA
+𠴔	rênh		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+20D14
+躐	rẹp	躐𬺗 rẹp xuống	[翻] U+8E90
+𧉼	rệp	𡥵𧉼 con rệp	U+2727C
+𠺅	rẹt	𠺅𠺅 rèn rẹt [聲]	[翻] U+20E85
+𠺅	rèn	𠺅𠺅 rèn rẹt [聲]	⇔ 𠺅 rẹt
+𧏲	rết	𡥵𧏲 con rết · 𧋻𧏲 rắn rết	[異] 𧎴 U+273F2
+𧏲	rít		⇔ 𧏲 rết
+𧏲	tít		⇔ 𧏲 rết
+𦼔	rêu	苳𦼔 rong rêu	U+26F14
+洮	rệu	𭬙洮 mục rệu · 洮𰛴 rệu rạo · 𬃻𣘃洮 trái cây rệu	U+6D2E
+鴺	ri	𪃿鴺 gà ri	U+9D3A
+荑	rì	踸荑 chậm rì · 青荑 xanh rì ·荑荑 rì rì	U+8351
+㐶	rĩ	𱟓㐶 rầu rĩ [𠸨] · 𡃚㐶 rền rĩ [𠸨] · 㐶攞荑𠽍 rĩ rà rì rầm [𠸨]	U+3436
+𩮭	ria	𩯁𩮭 râu ria	U+29BAD
+𠹼	rỉa	𠹼𩽊 rỉa rói [𠸨] · 𠹼𣯡 rỉa lông	U+20E7C
+紒	rìa	邊紒 bên rìa · 𨗛紒 chầu rìa ·外紒 ngoài rìa	U+7D12
+哋	rịa	鉢哋 bát rịa	U+54CB
+𦵄	riềng	榘𦵄 củ riềng	U+26D44
+燫	rim	燫𬚸 rim thịt	[翻] U+71EB
+湅	rịn	湅蒲洃 rịn mồ hôi · 𠯴湅 bịn rịn [𠸨]	[翻] U+6E45
+揁	rinh	𢫝揁 rung rinh [𠸨]	U+63C1
+珵	rỉnh	𬫉珵 rủng rỉnh	U+73F5
+簝	riu	簝簝 riu riu · 𢩽簝扒𩹫 đẩy riu bắt tép	U+7C1D
+𠲢	ríu	𠮩𠲢 líu ríu · 𠲢挒 ríu rít	[翻] U+20CA2
+𠠙	rìu	斧𠠙 búa rìu	U+20819
+𧀓	ró	𧀓𧀓 ro ró [𠸨]	U+27013
+𧀓	rú	𡹃𧀓 rừng rú · 𬨠𧀓劕檜 lên rú chặt củi	
+𧀓	ro	𧀓𧀓 ro ró [𠸨]	⇔ 𧀓 ró
+𧀓	ru	𧀓𧀓 ru rú [𠸨]	⇔ 𧀓 rú
+𥱨	rọ	𥱨𡂅 rọ mõm · 𥱨𤞼 rọ lợn	U+25C68
+鱸（𫙔）	rô	𩵜鱸 cá rô	U+9C78 (U+2B654)
+𦢞	rỗ	𩈘𦢞 mặt rỗ	U+2689E
+𭍆	rộ	𭍆𬨠 rộ lên · 𦬑𭍆 nở rộ · 𠽍𭍆 rầm (rần) rộ	U+2D346
+𠴊	rơ	𠴊𡕩 Rơ Măm	[翻] U+20D0A
+𢵽	rớ	拮𢵽 cất rớ · 𢵽𦤾 rớ đến	U+22D7D
+𢮑	róc	𢮑𤿭 róc vỏ · 𢮑𧛊 róc rách [聲]	[翻] U+22B91
+轆	rọc	轆轆 ròng rọc [𠸨]	U+8F46
+轆	ròng	轆轆 ròng rọc [𠸨]	⇔ 轆 rọc
+𪟆	rọc	𪟆紙 rọc giấy	U+2A7C6
+逳	rốc	打逳 đánh rốc · 捁逳𠫾 kéo rốc đi	U+9033
+蜟	rốc	羹𧍆蜟 canh cua rốc	U+871F
+淯	rộc	𬏇淯 ruộng rộc	U+6DEF
+𩽊	rói	鮮𩽊 tươi rói · 花菊鐄𩽊 hoa cúc vàng rói · 𠃅𤬪𧹻𩽊 mái ngói đỏ rói	U+29F4A
+燴（烩）	rọi	燴畑 rọi đèn · 照燴 chiếu rọi ·燴𤏬 rọi sáng · 𤐝燴 soi rọi	U+71F4 (U+70E9)
+𧐽	róm	螻𧐽 sâu róm	U+2743D
+𧖐	rọm	螻𧖐 sâu rọm	U+27590
+𩫦	rôm	𩫦𤄷 rôm rả · 吶𩫦 nói rôm	[翻] U+29AE6
+𤼓	rôm	𤼓𤵴 rôm sảy · 粉𤼓 phấn rôm	U+24F13
+滲	rớm	滲滲 rơm rớm [𠸨]	U+6EF2
+滲	rơm	滲滲 rơm rớm [𠸨]	⇔ 滲 rớm
+滲	rươm	滲滲 rươm rướm [𠸨]	⇔ 滲 rướm
+滲	rướm	滲𧖱 rướm máu · 滲滲 rươm rướm [𠸨]	⇔ 滲 rớm
+蹾	rón	蹾𨅍 rón rén [𠸨]	[異] 䠣 U+8E7E
+蹾	nhón	蹾𨅍 nhón nhén [𠸨]	⇔ 蹾 rón
+𦠆	rốn	丐𦠆 cái rốn · 墫膮割𦠆 chôn rau cắt rốn · 𱖗𦠆徠 ngồi rốn lại	U+26806
+𦠆	đún		⇔ 𦠆 rốn
+𦠆	rún		⇔ 𦠆 rốn
+𦠆	tún		⇔ 𦠆 rốn
+苳	rong	苳𦼔 rong rêu	U+82F3
+𨀐	rong	喝𨀐 hát rong · 𨀐𨔈 rong chơi · 柜行𨀐 quầy hàng rong	U+28010
+𠹍	rổng	𠹍𠹍 rông rổng [𠸨]	U+20E4D
+𠹍	rông	𠹍𠹍 rông rổng [𠸨]	⇔ 𠹍 rổng
+㗢	rống	𤙭㗢 bò rống	U+35E2
+爉	rốp	爉𤊡 rốp bỏng	[翻] U+7209
+㷝	rộp	䏧𤂧㷝 da phồng rộp	U+3DDD
+㷝	dộp		⇔ 㷝 rộp [翻]
+㷝	giộp		⇔ 㷝 rộp
+𩄓	rợp	𩄓𣈖 rợp bóng · 旗𧹻𩄓𡗶 cờ đỏ rợp trời	U+29113
+𣹕	rót	𣹕渃 rót nước	[翻] U+23E55
+𤈠	rọt	炩𤈠 rành rọt [𠸨]	U+24220
+𡀿	rú	𢜠𡀿 mừng rú · 𤢿𡀿 sói rú	U+2103F
+㾄	rù	氍㾄 cù rù	U+3F84
+揄	rũ	眷揄 quyến rũ	U+63C4
+揄	dũ	眷揄 quyến dũ · 𣘃拂揄 cây phất dũ	⇔ 揄 rũ
+俞	rua	鬚俞 tua rua [𠸨]	U+4FDE
+𦛗	rữa	𭬙𦛗 mục rữa · 𦛗捏 rữa nát ·啐𦛗 thối rữa	U+266D7
+𨮌	rựa	刀𨮌 dao rựa · 特𨮌 đực rựa	U+28B8C
+唷	rúc	唷嚦 rúc rích	[翻] U+5537
+唷	rung	唷唷 rung rúc [𠸨]	⇔ 唷 rúc
+𪵫	rức	𪵫𪵫 rưng rức [𠸨]	U+2AD6B
+𪵫	rưng	𪵫𪵫 rưng rức [𠸨]	⇔ 𪵫 rức
+榱	rui	榱𭩽 rui mè	U+69B1
+藞	rụi	殘藞 tàn rụi · 𣘃藞 cây rụi · 𪸔藞 cháy rụi	U+85DE
+揕	rúm	𢮩揕 co rúm	U+63D5
+𠾣	rùm	𠾣鋲 rùm beng	[翻] U+20FA3
+噋	rủn	㤓噋 bủn rủn · 噋志 rủn chí	U+564B
+𬫉	rủng	𬫉珵 rủng rỉnh	U+2CAC9
+佣	rúng	被佣精神 bị rúng tinh thần · 𱞁佣 rẻ rúng [𠸨]	U+4F63
+苚	rụng	蘿苚 lá rụng · 淶苚 rơi rụng ·苚𨖨 rụng rời	[翻] U+82DA
+𧌸	ruốc	𧌸𬚸 ruốc thịt · 𩻐𧌸 mắm ruốc	U+27338
+𩧍	ruổi	𩧍馭 ruổi ngựa	U+299CD
+𧋆	ruồi	脺𧋆 nốt ruồi · 𧋆青 ruồi xanh · 螉𧋆 ong ruồi	U+272C6
+𢱓	rưới	𧛊𢱓 rách rưới	U+22C53
+𪡍	rướn	𪡍𬨠 rướn lên · 𪡍𦙶 rướn cổ	U+2A84D
+𢗆	rượn	𢗆𨔈 rượn chơi	U+225C6
+拥	ruồng	拥𠬃 ruồng bỏ	U+62E5
+𠳀	ruỗng	𭬙𠳀 mục ruỗng · 𠳀捏 ruỗng nát	U+20CC0
+樑	rường	𢶢樑 chống rường · 茹樑 nhà rường · 樑榾 rường cột	U+6A11
+𧺕	rượt	𧺕蹺 rượt theo · 𧺕仉𥌈 rượt kẻ trộm	U+27E95
+淖	rượt	淖淖 rườn rượt [𠸨]	U+6DD6
+淖	trát	淖墻 trát tường	[翻]
+淖	rườn	淖淖 rườn rượt [𠸨]	⇔ 淖 rượt
+揬	rụt	揬𥗍 rụt rè	U+63EC
+砂	SA	朱砂 chu sa · 丹砂 đan sa	U+7802
+裟	SA	袈裟 cà sa	U+88DF
+𦲺	sả	蘿𦲺 lá sả · 𦹯𦲺 cỏ sả	U+26CBA
+𪀎	sả	𪀄𪀎 chim sả	U+2A00E
+𪮈	sả	𪮈𬚸 sả thịt · 𪮈荇 sả hành · 蹉 𪮈 sa sả	U+2AB88
+咤	sã	咤𠼾 sã suồng [𠸨]	U+54A4
+拃	sạ	拃穭 sạ lúa	U+62C3
+𠲅	sạc	汴𠲅 bin (pin) sạc [摱]	U+20C85
+嗇	SẮC	彼嗇斯豐 bỉ sắc tư phong	U+55C7
+𪁅	sắc	𪀄𪁅 chim sắc	U+2A045
+𡗂	sai	𡗂果 sai quả	[翻] [異] 差 U+215C2
+庹	sải	庹𢬣 sải tay · 庹𦑃 sải cánh	U+5EB9
+灑	SÁI	蕭灑 tiêu sái	U+7051
+灑	rợi	灑灑 rời rợi [𠸨]	
+灑	rời	灑灑 rời rợi [𠸨]	⇔ 灑 rợi
+𫪱	sái	𫪱𢬣 sái tay · 𫜵𫪱 làm sái · 𫪱渃 sái nước	U+2BAB1
+𠇈	sãi	𠇈娓 sãi vãi	U+201C8
+𢫟	sảy	𬕌𢫟 sàng sảy · 𢫟𥽌 sảy gạo	U+22ADF
+𤵴	sảy	𤼓𤵴 rôm sảy	U+24D74
+傞	sây	傞擦 sây sát [𠸨]	U+509E
+𫽎	sẩy	𫽎蹎 sẩy chân · 疏𫽎 sơ sẩy · 𫽎胎 sẩy thai	U+2BF4E
+𤈇	sấy	𤈇枯 sấy khô · 𤈇𬚸 sấy thịt	U+24207
+𣐴	sậy	𣘃𣐴 cây sậy · 𡓁𣐴 bãi sậy · 蹎如䈵𣐴 chân như ống sậy	U+23434
+杉	SAM	雲杉 vân sam	U+6749
+蔘	sam	蔞蔘 rau sam	U+8518
+𧑁	sam	𡥵𧑁 con sam · 脽𧑁 đuôi sam	U+27441
+懺	SÁM	懺悔 sám hối	U+61FA
+讒	SÀM	讒言 sàm ngôn	U+8B92
+讒	gièm	讒𢯠 gièm pha	
+謲	sàm	謲𬾟 sàm sỡ [𠸨]	U+8B32
+謲	sờm	謲𬾟 sờm sỡ [𠸨]	⇔ 謲 sàm
+謲	xàm	謲𬾟 xàm xỡ [𠸨]	⇔ 謲 sàm
+墋	săm	茹墋 nhà săm [摱]	U+588B
+𥊀	săm	𥊀𤐝 săm soi · 𥊀𫑺 săm sưa	U+25280
+森	SÂM	鄭森 Trịnh Sâm · 森捠 sâm-banh (panh) [摱]	U+68EE
+森	xum	森𢯷 xum vầy	
+𩅙	sẩm	𩅙𦭷 sẩm màu · 𩅙𣋁 sẩm tối · 𣞶𩅙 sến sẩm	U+29159
+𩅙	sâm	𩅙𩅙 sâm sẩm [𠸨]	⇔ 𩅙 sẩm
+𩆐	sấm	𩆐𩅀 sấm chớp	U+29190
+讖	SẤM	讖傳 sấm truyền	U+8B96
+岑	SẦM	岑鬱 sầm uất	[翻] U+5C91
+岑	sầm	𣋁岑 tối sầm	[翻]
+岑	xầm	𣋁岑 tối xầm	⇔ 岑 sầm
+湛	sẫm	青湛 xanh sẫm	U+6E5B
+湛	sậm	湛𦭷 sậm màu · 𧹻湛 đỏ sậm	
+汕	sán	汕齋 Sán Chay · 汕𢭼 Sán Dìu	U+6C55
+汕	sớn	汕槊 sớn sác [𠸨]	
+疝	sán	病疝 bệnh sán · 𧉙疝 giun sán	U+759D
+赸	sán	赸徠 sán lại	U+8D78
+棧	SẠN	客棧 khách sạn	U+68E7
+𦼛	sắn	勃𦼛 bột sắn · 榘𦼛 củ sắn	U+26F1B
+趁	sấn	趁擻 sấn sổ [𠸨]	U+8D81
+莘	sần	莘䏧 sần da · 莘𥹯 sần sùi [𠸨] · 𧃷莘 khoai sần · 𡲫醜莘 vải xấu sần	U+8398
+搶	SANG	搶奪 sang đoạt	U+6436
+爽	SẢNG	爽快 sảng khoái · 豪爽 hào sảng	U+723D
+愴	sảng	迷愴 mê sảng · 吶愴 nói sảng	U+6134
+牀	SÀNG	臨牀 lâm sàng · 龍牀 long sàng	U+7240
+𠳹	sàng	𡂡𠳹 sỗ sàng [𠸨] · 𠻿𠳹 sẵn sàng [𠸨]	U+20CF9
+𠳹	xằng	吶𠳹 nói xằng · 擬𠳹 nghĩ xằng · 𫜵𠳹 làm xằng · 𠳹𫌶 xằng bậy	
+𦼃	sắng	蔞𦼃 rau sắng	U+26F03
+栍	sanh	𣘃栍 cây sanh	U+680D
+䲼	sảnh	𡥵䲼 con sảnh	U+4CBC
+廳	SẢNH	廳堂 sảnh đường · 大廳 đại sảnh	U+5EF3
+炒	SAO	炒𫇿 sao thuốc	U+7092
+𣒲	sao	𣘃𣒲 cây sao	[翻] U+234B2
+套	SÁO	客套 khách sáo · 套語 sáo ngữ · 句文套 câu văn sáo	U+5957
+哨	SÁO	哨𨱽 sáo dài · 䈵哨 ống sáo	U+54E8
+𥱫	sáo	𬌓𥱫 tấm sáo · 幅𥱫 bức sáo	U+25C6B
+𪄤	sáo	𪀄𪄤 chim sáo	U+2A124
+巢	SÀO	巢穴 sào huyệt · 燕巢 yến sào ·卵巢 noãn sào	U+5DE2
+塙	sào	𠬠塙 một sào	單位𢵋 đơn vị đo U+5859
+謅	sạo	吶謅 nói sạo · 搐謅 sục sạo [𠸨]	U+8B05
+鮹	sạo	𩵜鮹 cá sạo	U+9BB9
+㯿	sạp	丐㯿 cái sạp · 㯿蔞 sạp rau	U+3BFF
+䏠	sấp	㑲䏠 nằm sấp · 挹䏠 úp sấp ·䏠紙 sấp giấy · 䏠鉑 sấp bạc ·䏠咍𡂂？ sấp hay ngửa?	U+43E0
+砬	sập	砬𥹯 sập sùi [𠸨]	U+782C
+剎	SÁT	剎那 sát na	[翻] U+524E
+呹	sạt	呹𡋿 sạt lở · 呹業 sạt nghiệp	U+5479
+瑟	SẮT	琴瑟 cầm sắt	U+745F
+瑟	săn	瑟瑟 săn sắt [𠸨]	⇔ 瑟 sắt
+栗	sật	栗栗 sần sật [𠸨]	U+6817
+栗	sần	栗栗 sần sật [𠸨]	⇔ 栗 sật
+栗	sừn	栗栗 sừn sựt [𠸨]	⇔ 栗 sựt
+栗	sựt	栗栗 sừn sựt [𠸨]	⇔ 栗 sật
+㮴	sấu	𣘃㮴 cây sấu	[翻] U+3BB4
+茌	sè	茌茌 sè sè · 𨐮茌 cay sè · 𭰪茌 sập sè [𠸨]	U+830C
+茌	sê	侺茌 sum sê [𠸨]	
+茌	xè	𭰪茌 xập xè [𠸨]	
+茌	xuê	侺茌 xum xuê [𠸨]	⇔ 茌 sê
+䐭	sệ	䏶䐭 bệ sệ	U+442D
+䐭	xệ		⇔ 䐭 sệ
+呎	séc	𬌓呎 tấm séc · 共和呎 Cộng hoà Séc	[翻] U+544E
+呎	sếch		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻]
+𤑯	sém	𪸔𤑯 cháy sém	[翻] U+2446F
+㦃	sẻn	𠽮㦃 dè sẻn · 㦃𬧺 sẻn so	U+3983
+﨡	sên	𧎜﨡 ốc sên	U+FA21
+𣞶	sến	𣘃𣞶 cây sến · 楛𣞶 gỗ sến · 𣞶 𩅙 sến sẩm · 𣞶咵 sến súa [𠸨]	U+237B6
+浧	sềnh	泠浧 lềnh sềnh	[翻] U+6D67
+𡁼	sèo	㕭𡁼 eo sèo [𠸨]	U+2107C
+𤵪	sẹo	𤵖𤵪 vết sẹo	U+24D6A
+𠊔	sếp	𠊔據𢴉懷！ sếp cứ đùa hoài! [摱]	[翻] U+20294
+𩂶	sét	𩆐𩂶 sấm sét	U+290B6
+䳂	sếu	𪀄䳂 chim sếu	[翻] U+4CC2
+魑	SI	魑魅魍魎 si mị võng lượng	U+9B51
+𬃗	si	𣘃𬃗 cây si	[翻] U+2C0D7
+𢱟	sỉ	𬥓𢱟 bán sỉ	U+22C5F
+𪐢	sì	黰𪐢 đen sì	U+2A422
+𨇗	sịch	脭𨇗 sình sịch	[翻] U+281D7
+槮	sim	𣘃槮 cây sim	[翻] U+69EE
+逞	SÍNH	逞外 sính ngoại · 逞矯法 sính kiểu Pháp	U+901E
+聘	SÍNH	聘禮 sính lễ	U+8058
+脭	sình	脭䏾 sình bụng · 脭𨇗 sình sịch	U+812D
+𰈤	síp		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+30224
+𬿺	sít	𣃣𬿺 vừa sít · 吀𬿺 sin sít	[翻] U+2CFFA
+哳	sịt	泏哳 sụt sịt [𠸨]	U+54F3
+哳	xịt	𠰏哳 bom xịt · 繿哳 xám xịt	[翻]
+𡦅	so	𡥵𡦅 con so	U+21985
+𨯃	sỏ	頭𨯃 đầu sỏ · 𨯃箭 sỏ tên	[異] 𥐈 𩖅 U+28BC3
+𧎷	sò	𧎷蝶 sò điệp	U+273B7
+𩪵（𲌔）	sọ	𩪵𠊛 sọ người · 匣𩪵 hộp sọ	U+29AB5 (U+32314)
+擻（擞）	sổ	𨷯擻 cửa sổ · 擻𠸜 sổ tên · 𪀄擻籠 chim sổ lồng · 句文被擻 câu văn bị sổ	U+64FB (U+64DE)
+𢮀	sờ	𢮀𢺀 sờ mó	U+22B80
+𢮀	rờ		⇔ 𢮀 sờ
+膗	soài	㳥膗 sóng soài [𠸨]	U+8197
+篡	SOÁN	篡𡾵 soán ngôi · 篡奪 soán đoạt · 篡逆 soán nghịch	U+7BE1
+篡	thoán		⇔ 篡 soán
+𪮡	soạng	𢮀𪮡 sờ soạng [𠸨]	U+2ABA1
+𥉮	sóc	𢕸𥉮 săn sóc · 𢟙𥉮 chăm sóc	U+2526E
+𪟄	sọc	𪟄𡲫 sọc vải	U+2A7C4
+𪟄	sòng	𪟄𪟄 sòng sọc [𠸨]	⇔ 𪟄 sọc
+傗	sốc	𨠳傗 gây sốc [摱] · 傗反衛 sốc phản vệ [摱]	U+5097
+𩺯	sốc	𩵜𩺯 cá sốc	U+29EAF
+𤐝	soi	𤐝𦎛 soi gương · 𤐝燴 soi rọi	[翻] U+2441D
+𪤠	soi	𪤠𣘛 soi dâu	U+2A920
+㰁	sói	花㰁 hoa sói	U+3C01
+𩯹	sói	𩯹頭 sói đầu	U+29BF9
+誄	sõi	吶誄 nói sõi	U+8A84
+𩟬	sổi	咹𩟬 ăn sổi	U+297EC
+𩟬	sồi		⇔ 𩟬 sổi
+𦆙	sồi	襖𦆙 áo sồi · 𡲫𦆙 vải sồi · 𨷯楛 𦆙 cửa gỗ sồi	U+26199
+𤴶	sởi	病𤴶 bệnh sởi	U+24D36
+攙	sóm	攙𤑯 sóm sém [𠸨]	U+6519
+攙	sọm	攙攙 sòm sọm [𠸨]	
+攙	sòm	攙攙 sòm sọm [𠸨]	⇔ 攙 sọm
+嚵	sòm	喑嚵 om sòm [𠸨]	[翻] U+56B5
+嚵	sùm	喑嚵 um sùm [𠸨]	⇔ 嚵 sòm
+侟	sòn	侟侟 sòn sòn [𠸨]	U+4F9F
+摌	sởn	摌疏 sởn sơ · 摌𩯀𬛑 sởn tóc gáy	U+644C
+𦠳	sờn	𦠳𧛊 sờn rách · 𦠳𢚸 sờn lòng · 𦠳志 sờn chí	U+26833
+笙	song	笙鸞 song lang	U+7B19
+𧄐（𧄐󠄁）	song	𧦕𧄐 ghế song	U+27110 (U+27110 U+E0101)
+𩽧（𩽧󠄁）	song	𩵜𩽧 cá song	U+29F67 (U+29F67 U+E0101)
+𦪃	sõng	隻𦪃 chiếc sõng	U+26A83
+椶	sồng	𣘃椶 cây sồng · 𣘽椶 nâu sồng	U+6936
+𣙫	sộp	𣘃𣙫 cây sộp	[翻] U+2366B
+𩻒	sộp	𩵜𩻒 cá sộp	U+29ED2
+箻	sọt	丐箻 cái sọt · 撣箻𥯌 đan sọt tre	U+7BBB
+叱	sớt	叱𢺹 sớt chia	U+53F1
+𰈸	sụ	𫰅𰈸 to sụ · 𢀭𰈸 giàu sụ · 𰈸𰈸 sù sụ	U+30238
+𰈸	sù		⇔ 𰈸 sụ
+獅	SƯ	獅子 sư tử · 海獅 hải sư	U+7345
+樗	SƯ	樗樹 sư thụ	U+6A17
+樗	xư		⇔ 樗 sư
+𣐳	sứ	花𣐳 hoa sứ	U+23433
+咵	súa	𣞶咵 sến súa [𠸨]	U+54B5
+咵	sụa	嗾咵 sặc sụa [𠸨]	
+𬄁	sưa	楛𬄁 gỗ sưa · 花𬄁 hoa sưa	U+2C101
+𧍇	sứa	𡥵𧍇 con sứa · 䭃𧍇 nộm sứa	U+27347
+蓄	SÚC	蓄積 súc tích	U+84C4
+㗜	súc	㗜𠰘 súc miệng	U+35DC
+槒	súc	槒紙 súc giấy · 槒楛 súc gỗ	[翻] U+69D2
+𠶗	sực	𠶗𢖵 sực nhớ · 𠶗擬𫥨 sực nghĩ ra	U+20D97
+𠶗	sừng	𠶗𠶗 sừng sực [𠸨]	⇔ 𠶗 sực
+𫗾	sực	𫗾𱕔 sực nức · 𦹳𫗾 thơm sực	U+2B5FE
+𡢽	sui	𡢽家 sui gia	U+218BD
+櫑	sui	𣘃櫑 cây sui	U+6AD1
+㵽	sủi	圓㵽 viên sủi · 㵽渤 sủi bọt	U+3D7D
+𥹯	sùi	泏𥹯 sụt sùi	[翻] U+25E6F
+喘	suyển	衰喘 suy suyển [𠸨]	U+5598
+舛	suyễn	差舛 sai suyễn [𠸨]	U+821B
+侺	sum	侺茌 sum sê [𠸨] · 侺合 sum họp	[翻] U+4FBA
+侺	sùm	侺叉 sùm sòa [𠸨]	[翻]
+侺	xum	侺茌 xum xuê [𠸨]	⇔ 侺 sum
+噀	sún	噀𪘵 sún răng	[翻] U+5640
+𩪞	sụn	𩩫𩪞 xương sụn · 𩪞𠦻 sụn lưng	U+29A9E
+充	SUNG	充暢 sung sướng · 補充 bổ sung · 充滿 sung mãn · 充飭 sung sức	[翻] U+5145
+𣑁	sung	𣘃𣑁 cây sung	U+23441
+寵	SỦNG	寵愛 sủng ái	U+5BF5
+寵	sổng	寵井 sổng sểnh [𠸨]	
+茺	súng	花茺 hoa súng	U+833A
+𣻢	sũng	㲸𣻢 ướt sũng · 𣻢渃 sũng nước	U+23EE2
+𤷖	sưng	𤷖𤶈 sưng tấy	U+24DD6
+𦘹	sườn	𩩫𦘹 xương sườn	U+26639
+㤝	suông	羹㤝 canh suông · 許㤝 hứa suông	U+391D
+𠼾	suồng	𠼾咤 suồng sã [𠸨]	U+20F3E
+孀	SƯƠNG	孀婦 sương phụ	U+5B40
+𡒮	sướng	𡒮𥢂 sướng mạ	U+214AE
+𪽄	sượng	𪽄崇 sượng sùng [𠸨]	U+2AF44
+𪽄	sường	𪽄𪽄 sường sượng [𠸨]	⇔ 𪽄 sượng
+𣻑	sướt	𣻑過 sướt qua	U+23ED1
+𣻑	sượt	𣻑𣻑 sườn sượt [𠸨]	
+𣻑	soài	㳥𣻑 sõng soài [𠸨]	⇔ 𣻑 sượt
+𣻑	sườn	𣻑𣻑 sườn sượt [𠸨]	⇔ 𣻑 sượt
+𣼳	súp	𣼳𭉪 súp đặc [摱] · 𣼳𩵜圓 súp cá viên [摱]	U+23F33
+𣼳	xúp	𧙀𣼳 lúp xúp · 𣼳笀𧍆 xúp măng cua [摱]	[翻]
+𠿰	sứt	𠿰𠝫 sứt mẻ	[翻] U+20FF0
+叻	sựt	湛叻 sậm sựt [𠸨]	U+53FB
+丑	SỬU	𣇞丑 giờ Sửu · 辛丑 Tân Sửu	U+4E11
+衺	tà	襖衺 áo tà	U+887A
+袏	tã	袏紙 tã giấy · 袏䘹 tã lót	U+888F
+榭	TẠ	水榭 thuỷ tạ	U+69AD
+藉	TẠ	狼藉 lang tạ	U+85C9
+酢	TẠC	酬酢 thù tạc	U+9162
+鑿	TẠC	𥱬鑿 ghi tạc · 鑿像 tạc tượng	U+947F
+鑿	táo	穿鑿 xuyên táo	
+稷	TẮC	社稷 xã tắc	U+7A37
+𠷌	tặc	𠷌𦧜 tặc lưỡi	U+20DCC
+𡬷	tấc	𠬠𡬷 một tấc	單位𢵋 đơn vị đo U+21B37
+碏	tách	碏茶 tách trà [摱]	U+788F
+哉	TAI	善哉 thiện tai	[翻] U+54C9
+栽	TÀI	栽培 tài bồi	U+683D
+舵	tài	舵車 tài-xế [摱]	U+8235
+𭠣	táy	𭠣𢵯 táy máy	U+2D823
+𤶈	tấy	𤷖𤶈 sưng tấy	U+24D88
+糝	tám	𥽌糝 gạo tám	U+7CDD
+蠶（蚕）	tằm	𣘛蠶 dâu tằm	U+8836 (U+8695)
+寢	TẨM	陵寢 lăng tẩm · 寢室 tẩm thất	U+5BE2
+𬌓	tấm	𬌓𢚸 tấm lòng · 𬌓𦎛 tấm gương · 𬌓板 tấm ván · 𬌓則 tấm tắc · 𬌓𠺒 tấm tức [𠸨]	U+2C313
+傘	TẢN	𡶀傘圓 núi Tản Viên	U+5098
+傘	TÁN	傘𣘃 tán cây	
+傘	tàn	傘𢃈 tàn lọng	
+拶	tán	拶頭釘 tán đầu đinh	U+62F6
+㳯	tăn	蹸㳯 lăn tăn	U+3CEF
+辛	TÂN	辛苦 tân khổ	U+8F9B
+檳	TÂN	檳榔 tân lang	U+6AB3
+燖	tần	𪃿燖 gà tần	U+71D6
+𡡑	tằng	𡡑娋 tằng tịu [𠸨]	U+21851
+啨	tành	散啨 tan tành [𠸨] · 習啨 tập tành [𠸨]	U+5568
+𩄳	tạnh	𩄳𣋝 tạnh ráo	U+29133
+𠋺	tao	𠋥𠋺 mày tao	U+202FA
+𠋺	tau		⇔ 𠋺 tao
+臊	TAO	腥臊 tanh tao	U+81CA
+糟	TAO	糟糠 tao khang	U+7CDF
+早	TẢO	早婚 tảo hôn	U+65E9
+掃	TẢO	掃墓 tảo mộ	U+6383
+藻	TẢO	蘋藻 tần tảo · 藻𦀵 tảo xoắn ·藻𧹻 tảo đỏ	U+85FB
+棗	TÁO	棗西 táo tây	U+68D7
+咂	táp	雹咂 bão táp	[翻] U+5482
+雜	TẠP	複雜 phức tạp · 雜誌 tạp chí ·混雜 hỗn tạp · 雜技 tạp kĩ	U+96DC
+雜	tượp	雜雜 tườm tượp [𠸨]	
+雜	tườm	雜雜 tườm tượp [𠸨]	⇔ 雜 tượp
+𠍱	tắp	賒𠍱 xa tắp · 𣦎𠍱 thẳng tắp · 𫜵𠍱 làm tắp · 𠍱𠓨茹 tắp vào nhà	U+20371
+𠍱	tăm	𠍱𠍱 tăm tắp [𠸨]	⇔ 𠍱 tắp
+撒	tát	撒渃 tát nước	U+6492
+𢹵	tạt	𢹵𠓨 tạt vào · 𢹵𨖅邊債 tạt sang bên trái · 𢹵𧗱探茹 tạt về thăm nhà	U+22E75
+必	TẤT	必然 tất nhiên · 必要 tất yếu ·不必 bất tất · 何必 hà tất	U+5FC5
+畢	TẤT	完畢 hoàn tất · 畢力 tất lực	U+7562
+膝	tất	蔽膝 bít tất	"裊得使用如𠬠詞獨立、得𢪏 𱺵「韠 tất」；裊得使用如詞𢯖、得𢪏𱺵「蔽膝 bít tất」。 Nếu được sử dụng như một từ độc lập, được viết là ""韠 tất""; nếu được sử dụng như từ ghép, được viết là ""蔽膝 bít tất"". U+819D"
+蒺	TẬT	蒺藜 tật lê	U+84BA
+嫉	TẬT	嫉妒 tật đố	U+5AC9
+走	TẨU	走馬 tẩu mã · 奔走 bôn tẩu ·行走 hành tẩu · 逃走 đào tẩu	U+8D70
+𧷹	tậu	𧷹茹 tậu nhà · 𧷹車 tậu xe	U+27DF9
+呞	te	𧼋呞 chạy te · 呞鬚 te tua · 𠻗呞 le te · 襖㐌呞於𦠘 áo đã te ở vai	U+545E
+𢗽	tẻ	𢗽𠖯 tẻ ngắt · 𢞂𢗽 buồn tẻ · 𢗽溂 tẻ nhạt	U+225FD
+𪷗	tè	瀻𪷗 đái tè	U+2ADD7
+樨	TÊ	木樨 mộc tê	U+6A28
+宰	TỂ	宰相 tể tướng · 屠宰 đồ tể	U+5BB0
+細	TẾ	仔細 tử tế · 細膩 tế nhị · 細胞 tế bào · 精細 tinh tế	U+7D30
+細	tỉ	細美 tỉ mỉ · 細犀 tỉ tê [𠸨]	
+齊	TỀ	一齊 nhất tề · 整齊 chỉnh tề	U+9F4A
+齊	tày	齊𡗶 tày trời · 齊霆 tày đình · 𠊛齊 người Tày	
+齊	tề	破齊 phá tề · 儕齊 tê tề	
+劑	TỄ	𫇿劑 thuốc tễ · 㕵𠬠劑𫇿 uống một tễ thuốc	U+5291
+幣	TỆ	外幣 ngoại tệ · 錢幣 tiền tệ	U+5E63
+唶	tếch	𣘃唶 cây tếch [摱] · 唶𠫾𠅒 tếch đi mất	[翻] U+5536
+𣑷	tem	噚𣑷 tòm tem · 𣑷票 tem phiếu [摱] · 𣑷保行 tem bảo hành [摱]	[翻] U+23477
+𢬅	têm	𢬅𦺓 têm trầu	U+22B05
+鎆	ten	鎆銅 ten đồng · 存鎆 tòn ten [𠸨]	U+9386
+𢤣	tẽn	𢤣𭇓 tẽn tò [𠸨]	U+22923
+惺	tênh	惺亨 tênh hênh	[翻] U+60FA
+𢜫	tểnh	漝𢜫 tấp tểnh	U+2272B
+悄	teo	咏悄 vắng teo · 悄𡮈 teo nhỏ	[翻] U+6084
+𦅃	tèo	繚𦅃 lèo tèo	U+26143
+俏	tẹo	子俏 tí tẹo · 咹俏 ăn tẹo · 瞭俏 lẹo tẹo [𠸨]	U+4FCF
+浹	tép	𠬠浹蒜 một tép tỏi · 𦚗浹 tóp tép [𠸨]	U+6D79
+浹	tem	浹浹 tem tép [𠸨]	⇔ 浹 tép
+𩹫	tép	𩵽𩹫 tôm tép	[翻] U+29E6B
+𣜿	tệp	𣜿信 tệp tin	U+2373F
+緤	tết	緤𩯀 tết tóc	[翻] U+7DE4
+妣	TỈ	先妣 tiên tỉ	U+59A3
+璽	TỈ	玉璽 ngọc tỉ	U+74BD
+枇	TÌ	枇杷 tì bà	U+6787
+婢	TÌ	婢女 tì nữ	U+5A62
+琵	TÌ	琵琶 tì bà	U+7435
+貔	TÌ	貔貅 tì hưu	U+8C94
+巳	TỊ	𣇞巳 giờ Tị · 乙巳 Ất Tị	U+5DF3
+避	TỊ	避難 tị nạn	U+907F
+𢲟	tỉa	𢲟䢕 tỉa tót · 𢏑𢲟 bắn tỉa · 𣑺 𢲟 trồng tỉa	U+22C9F
+爹	tía	爹媽 tía má	U+7239
+辟	TỊCH	辟穀 tịch cốc	U+8F9F
+辟	vếch	辟𬨠 vếch lên	[翻]
+僭	TIẾM	僭𡾵 tiếm ngôi · 僭權 tiếm quyền	U+50ED
+𤍖	tiềm	𤍖𩿠 tiềm vịt	U+24356
+箋	TIÊN	紙花箋 giấy hoa tiên	U+7B8B
+踐	TIỄN	寔踐 thực tiễn	U+8E10
+踐	TIẾP	士燮 Sĩ Tiếp	U+71EE
+燮	NHIẾP	士燮 Sĩ Nhiếp · 申文燮 Thân Văn Nhiếp	⇔ 燮 tiếp
+蕉	TIÊU	荎蕉 chuối tiêu	U+8549
+簫	TIÊU	𠺙簫 thổi tiêu	U+7C2B
+笑	TIẾU	笑林 tiếu lâm · 含笑 hàm tiếu ·談笑 đàm tiếu	U+7B11
+憔	TIỀU	憔悴 tiều tuỵ	U+6194
+樵	TIỀU	樵夫 tiều phu	U+6A35
+剿	TIỄU	剿除 tiễu trừ	U+527F
+剿	tĩu	俗剿 tục tĩu [𠸨]	
+噆	tỉm	𠸬噆 tủm tỉm	U+5646
+旌	TINH	旌旗 tinh kì	U+65CC
+𠐉	típ	模𠐉 mô-típ [摱]	[翻] U+20409
+𠾼	tịt	霧𠾼 mù tịt · 𠾼𣰏 tịt ngòi	U+20FBC
+鐎	tiu	鐎鐛 tiu cảnh · 鐎憢 tiu nghỉu	U+940E
+嘬	tíu	嘬㘉 tíu tít	[翻] U+562C
+娋	tịu	𡡑娋 tằng tịu [𠸨]	U+5A0B
+𧔋	tò	𧔋虶 tò vò	U+2750B
+𭇓	tò	𭇓摸 tò mò	U+2D1D3
+租	TÔ	地租 địa tô	U+79DF
+𩘣	tố	𩘪𩘣 dông tố	U+29623
+徂	tồ	徂徂 tồ tồ [𠸨]	U+5F82
+徂	trồ	沈徂 trầm trồ	[翻]
+媤	tơ	𤳆媤 trai tơ · 𡛔媤 gái tơ · 媤想 tơ tưởng · 媤𢠩 tơ mơ	U+5AA4
+汓	tở	汓𢲫 tở mở · 汓𥾘 tở sợi · 嗏汓 Chà Tở	U+6C53
+唆	toa	唆𫇿 toa thuốc	U+5506
+嚄	toác	嚄嚯 toác hoác · 嚄𫥨 toác ra ·扯嚄 xé toác · 𢯙嚄 chẻ toác · 𧛊嚄 rách toác · 𫫥嚄 toang toác	U+5684
+劐	toạc	扯劐 xé toạc · 吶劐 nói toạc ·劐𫥨 toạc ra	U+5290
+狻	TOAN	狻猊 toan nghê	U+72FB
+𦀷	toan	𡲫𦀷 vải toan [摱]	U+26037
+酸	TOAN	渃強酸 nước cường toan · 胃酸 vị toan	U+9178
+瓚	TOẢN	蔡文瓚 Thái Văn Toản	U+74DA
+纘	TOẢN	阮光纘 Nguyễn Quang Toản ·武長纘 Võ Trường Toản	U+7E98
+𡁧	toáng	吶𡁧 nói toáng · 囉𡁧 la toáng · 𠯽𡁧𪥘󠄁𬨠 chửi toáng cả lên	U+21067
+䢨	toàng	𫟧䢨 tuềnh toàng · 荒䢨 hoang toàng · 𰺽䢨 loang toàng	U+48A8
+臧	toạng	三臧 tam toạng [𠸨]	U+81E7
+撮	toát	𠬠撮 một toát	單位𢵋 đơn vị đo U+64AE
+撮	tòi	尋撮 tìm tòi	
+謖	tốc	謖𧜖𨇸𧻭 tốc chăn chồm dậy	U+8B16
+䏴	toe	䏴𠽌 toe toét · 䏴𠰘唭 toe miệng cười	U+43F4
+𤂭	toé	縱𤂭 tung toé	U+240AD
+𠽌	toét	𠽌𠰘 toét miệng · 咾𠽌 láo toét · 𠽌𠲣 toét hoét · 䏴𠽌 toe toét	U+20F4C
+𥊴	toét	𥊴眜 toét mắt · 𥊴𣲹 toét nhèm	U+252B4
+𤻒	toi	𠅒𤻒 mất toi · 𣩂𤻒 chết toi · 𤻒命 toi mạng	U+24ED2
+蒜	tỏi	蒜西 tỏi tây · 莖蒜 hành tỏi	U+849C
+綷	tói	䋘綷 lòi tói	[翻] U+7DB7
+噚	tòm	噚𣑷 tòm tem	U+565A
+𠺸	tõm	淶𠺸𬺗坳 rơi tõm xuống ao	U+20EB8
+𠺸	tũm	𠺸𠺸 tùm tũm	
+𠺸	tùm		⇔ 𠺸 tũm
+噂	ton	㖮噂 lon ton · 噂𧩓 ton hót	U+5642
+巽	TỐN	卦巽 quái Tốn	U+5DFD
+遜	TỐN	謙遜 khiêm tốn · 慈遜 từ tốn	U+905C
+𢣺	tợn	躁𢣺 táo tợn · 㺞𢣺 dữ tợn · 咹 𢣺 ăn tợn	U+228FA
+淙	tong	𤷍淙 gầy tong · 瘖淙 ốm tong ·淙𪭥 tong tả · 儱淙 long tong [聲]	U+6DD9
+淙	tỏng	淙淙 tong tỏng [𠸨]	
+𢮱	tông	被車𢮱 bị xe tông	U+22BB1
+綜	TỔNG	綜合 tổng hợp	U+7D9C
+宋	TỐNG	𣱆宋 họ Tống	U+5B8B
+𦚗	tóp	𦚗𦝺 tóp mỡ · 𦚗浹 tóp tép [𠸨] · 悄𦚗 teo tóp [𠸨] · 𢺹𫥨層 𦚗 chia ra từng tóp	U+26697
+𠇽	tốp	層𠇽 từng tốp · 𠬠𠇽 một tốp	[翻] U+201FD
+㗱	tợp	㗱𨢇 tợp rượu	U+35F1
+䢕	tót	𬦮䢕 nhảy tót · 𤙭䢕 bò tót · 𧼋䢕𧗱茹 chạy tót về nhà	U+4895
+𨃍	tọt	𧼋𨃍 chạy tọt · 𠬃𨃍𠓨𠰘 bỏ tọt vào miệng	U+280CD
+饈	TU	珍饈 trân tu	U+9948
+鬚	TU	觸鬚 xúc tu	U+9B1A
+鬚	tua	鬚墨 tua mực · 鬚畑籠 tua đèn lồng	
+𭉫	tu	𭉫𠳑𠳑 tu ừng ực · 𪀄𭉫吁 chim tu hú	U+2D26B
+袖	TỤ	領袖 lãnh tụ	U+8896
+諮	TƯ	通諮 thông tư · 諮問 tư vấn	U+8AEE
+仔	TỬ	仔細 tử tế	U+4ED4
+須	tua	須𠡚飭 tua gắng sức · 須𡨺𢷹 tua giữ gìn · 須遊歷 tua du lịch · 須𠯴 tua-bin [摱]	U+9808
+溑	tủa	溑𫥨 tủa ra · 蜆𥒮坥溑𬨢𡑝 kiến vỡ tổ tủa khắp sân	U+6E91
+溑	tua	溑溑 tua tủa [𠸨]	⇔ 溑 tủa
+戌	TUẤT	𣇞戌 giờ Tuất · 戊戌 Mậu Tuất	U+620C
+恤	TUẤT	死恤 tử tuất	U+6064
+粟	TÚC	罌粟 anh túc	U+7C9F
+肅	TÚC	嚴肅 nghiêm túc	U+8085
+𠸘	tục	𪃿叫𠸘𠸘 gà kêu tục tục [聲]	U+20E18
+息	TỨC	信息 tin tức · 利息 lợi tức	[翻] U+606F
+慧	TUỆ	慧眼 tuệ nhãn · 智慧 trí tuệ	U+6167
+𠻊	tuệch	𠻊劐 tuệch toạc [𠸨]	U+20ECA
+𫟧	tuềnh	𫟧䢨 tuềnh toàng	U+2B7E7
+髓	TUỶ	髓𩩖 tuỷ sống · 腛髓 óc tuỷ	U+9AD3
+悴	TUỴ	憔悴 tiều tuỵ	U+60B4
+雋	TUYỂN	雋永 tuyển vĩnh	U+96CB
+腺	TUYẾN	腺淚 tuyến lệ	U+817A
+泉	TUYỀN	九泉 cửu tuyền · 黃泉 hoàng tuyền	U+6CC9
+𠸬	tủm	𠸬噆 tủm tỉm	U+20E2C
+𥳍	tùm	𥳍𥵗 tùm hum · 𠽛𥳍 um tùm	[翻] U+25CCD
+𥯓	tụm	𥯓𠄼𥯓𠀧 túm năm tụm ba · 𱖗𥯓徠𠬠𡊲 ngồi tụm lại một chỗ	U+25BD3
+𥯓	túm		⇔ 𥯓 tụm
+澊	tun	澊唿 tun hút	[翻] U+6F8A
+繜	tủn	繜𫃐 tủn mủn	U+7E5C
+噌	tung	叫噌噌 kêu tung tung [聲]	U+564C
+𡾼	TỦNG	阮福寶𡾼 Nguyễn Phúc Bửu Tủng	U+21FBC
+雀	TƯỚC	孔雀 khổng tước · 朱雀 Chu Tước	U+96C0
+雀	chược	麻雀 mạt chược [摱]	
+葃	tược	園葃 vườn tược · 𠛌䒹䄧葃 đâm chồi nảy tược	U+8443
+𣻆	tuôn	𣻆淶 tuôn rơi · 𣻆潮 tuôn trào	U+23EC6
+踆	tuồn	踆𠫾 tuồn đi · 踆器械 tuồn khí giới	U+8E06
+𡀢	tuông	𡀢𠓨 tuông vào · 慳𡀢 ghen tuông	U+21022
+薔	TƯỜNG	花薔薇 hoa tường vi	U+8594
+匠	TƯỢNG	匠手 tượng thủ	U+5320
+剟	tuốt	剟穭 tuốt lúa · 剟𦂻 tuốt luốt ·別剟 biết tuốt	U+525F
+剟	tuột	剟剟 tuốt tuột [𠸨]	
+𨀞	tuột	橋𨀞 cầu tuột · 𣹗𨀞 trơn tuột · 𨀞𬺗 tuột xuống · 𨀞𨀞 tuồn tuột [𠸨]	U+2801E
+𨀞	tuồn	𨀞𨀞 tuồn tuột [𠸨]	⇔ 𨀞 tuột
+𦭧	túp	𦭧寮 túp lều	[翻] U+26B67
+酒	TỬU	酒色 tửu sắc · 酒館 tửu quán ·藥酒 dược tửu · 酌酒 chước tửu	U+9152
+𦚈	thạch	𦚈蔞俱 thạch rau câu	U+26688
+蔡	THÁI	蔡文瓚 Thái Văn Toản	U+8521
+䓱	thài	䓱𦲒 thài lài [𠸨]	U+44F1
+㕧	thây	…低㕧 ...đây thây	[翻] U+3567
+嗿	thàm	嗿𫜵 thàm làm [𠸨]	U+55FF
+瀋	thẳm	漊瀋 sâu thẳm · 淢瀋 vực thẳm · 瀋瀋 thăm thẳm [𠸨]	[翻] U+700B
+瀋	thăm	瀋瀋 thăm thẳm [𠸨]	⇔ 瀋 thẳm [翻]
+𰃀	thẫm	𧹻𰃀 đỏ thẫm · 青𰃀 xanh thẫm · 襖𰃀仍蒲洃 áo thẫm những mồ hôi	U+300C0
+甚	THẬM	甚弊 thậm tệ · 甚稱 thậm xưng · 甚至 thậm chí · 甚無理 thậm vô lí	U+751A
+坍	than	𠬠坍 một than	單位𢵋 đơn vị đo U+574D
+𡁟	thắn	𣦎𡁟 thẳng thắn [𠸨]	U+2105F
+蜄	thằn	蜄䗲 thằn lằn	U+8704
+訠	thẩn	詩訠 thơ thẩn	U+8A20
+矧	thẫn	矧悇 thẫn thờ	U+77E7
+慎	THẬN	謹慎 cẩn thận · 慎重 thận trọng	U+614E
+湯	THANG	𠬠湯𫇿 một thang thuốc	U+6E6F
+湯	thang	𨄂湯 lang thang [𠸨] · 𢉑湯 thênh thang [𠸨] · 㘉空湯 tít cung thang	
+倉	THẢNG	倉猝 thảng thốt	U+5009
+儻	THẢNG	倜儻 thích thảng	U+513B
+溗	thắng	溗渃行 thắng nước hàng	U+6E97
+騬	thắng	騬鞍朱馭 thắng yên cho ngựa	U+9A2C
+錆	thanh	錆鎌 thanh gươm	U+9306
+鐋	THANH	鐋鑼 thanh la	U+940B
+絛	THAO	𥶄𬗜絛 nón quai thao	U+7D5B
+傠	thảo	孝傠 hiếu thảo · 傠賢 thảo hiền · 傠敬仛媄 thảo kính cha mẹ	U+50A0
+繰	thạo	成繰 thành thạo · 通繰 thông thạo · 繰藝 thạo nghề	U+7E70
+𤏧	thắp	𤏧畑 thắp đèn · 𤏧香 thắp hương · 𤏧𤏬約𢠩 thắp sáng ước mơ	U+243E7
+拾	THẬP	收拾 thu thập	U+62FE
+拾	thập	拾𢲬 thập thò	
+拾	thụp	拾拾 thùm thụp [𠸨]	
+拾	thùm	拾拾 thùm thụp [𠸨]	⇔ 拾 thụp
+獺	THÁT	水獺 thuỷ thát	U+737A
+獺	rái	𡥵獺 con rái · 獺𩵜 rái cá	[異] 𤠹
+獺	tấy		⇔ 獺 rái
+闥	THÁT	乾闥婆 Càn Thát Bà	U+95E5
+韃	THÁT	韃靼 Thát Đát	U+97C3
+鍮	thau	鎫鍮 mâm thau	U+936E
+艸	tháu	𢪏艸 viết tháu	U+8278
+艸	thau	艸艸 thau tháu [𠸨]	⇔ 艸 tháu
+𫫟	thâu	𫫟𣎀 thâu đêm · 𫫟縿 thâu tóm	[異] 輸 偷 U+2BADF
+絁	the	𡲫絁 vải the · 房絁 phòng the ·焊絁 hàn the · 絁𤿭𣞻 the vỏ bưởi	[異] 𦂛 U+7D41
+𥮋	thẻ	𥮋生員 thẻ sinh viên	U+25B8B
+呭	thé	呭呭 the thé [𠸨]	U+546D
+呭	the	呭呭 the thé [𠸨]	⇔ 呭 thé
+𪮛	thè	𪮛嚟 thè lè · 𪮛𦧜 thè lưỡi	U+2AB9B
+妻	THÊ	婚妻 hôn thê · 夫妻 phu thê ·妻子 thê tử · 妻妾 thê thiếp ·未婚妻 vị hôn thê	U+59BB
+妻	xê	餅夫妻 bánh xu xê [摱]	
+淒	THÊ	淒涼 thê lương · 淒慘 thê thảm · 𠠍淒 lê thê [𠸨]	U+6DD2
+𩻔	thệ	𩵜𩻔 cá thệ	U+29ED4
+逖	thếch	𨘸逖 lếch thếch	[翻] U+9016
+㙴	thềm	㙴陸地 thềm lục địa	U+3674
+杄	then	杄𢱝 then chốt	[翻] U+6744
+杄	thẻn	𠊛琶杄 người Bà (Pà) Thẻn	𡨸尼得讀如格發音尼只𥪝名詞𥢆尼。 Chữ này được đọc như cách phát âm này chỉ trong danh từ riêng này. [翻]
+膳	thện	𦛻膳 thỗn thện [𠸨]	U+81B3
+膳	thễn	𦛻膳 thỗn thễn [𠸨]	⇔ 膳 thện
+𢉑	thênh	𢉑湯 thênh thang	[翻] U+22251
+𠻥	thẹo	捅𠻥 thõng thẹo [𠸨]	U+20EE5
+𨥔	thếp	𨥔鐄 thếp vàng	U+28954
+絩	thêu	絩𦂾 thêu dệt · 椖絩 buồng thêu	[翻] U+7D69
+吵	thểu	失吵 thất thểu	U+5435
+吵	thỉu	𣵲吵 bẩn thỉu	[翻]
+𠻩	thều	𠻩㗖 thều thào	U+20EE9
+蒔	THÌ	蒔蘿 thì là	U+8494
+柿	THỊ	果柿 quả thị	U+67FF
+嗜	THỊ	嗜欲 thị dục · 嗜好 thị hiếu	U+55DC
+捿	thia	揇捿攡 ném thia lia · 𩵜捿攡 cá thia lia	U+637F
+刺	THÍCH	刺客 thích khách · 激刺 kích thích	U+523A
+刺	THỨ	刺史 thứ sử	
+刺	chích	刺針 chích kim · 刺𫇿 chích thuốc · 𠝻刺 châm chích	
+倜	THÍCH	倜儻 thích thảng	U+501C
+槭	thích	𣘃槭 cây thích	U+69ED
+磩	thịch	磩磩 thình thịch [𠸨]	U+78E9
+磩	thình	磩磩 thình thịch [𠸨]	⇔ 磩 thịch
+僉	THIÊM	僉事 thiêm sự	U+50C9
+蟾	THIỀM	蟾蜍 thiềm thừ	U+87FE
+擅	THIỆN	擅權 thiện quyền	U+64C5
+舌	THIỆT	舌戰 thiệt chiến	U+820C
+韶	THIỀU	國韶 quốc thiều · 阮嘉韶 Nguyễn Gia Thiều	U+97F6
+韶	thèo	韶表 thèo bẻo [𠸨]	
+鮉	thiều	𩵜鮉 cá thiều	U+9B89
+嬸	thím	注嬸 chú thím	[翻] U+5B38
+𥺒	thính	𩻐𥺒 mắm thính · 抯𥺒 thả thính	U+25E92
+𥓉	thình	𥓉𥘃 thình lình [𠸨]	U+254C9
+𢗠	thít	𢗠𢗠 thin thít [𠸨] · 𠴫𢗠 thút thít · 𢗠𢗠 thít thít	U+225E0
+𢗠	thin	𢗠𢗠 thin thít [𠸨]	⇔ 𢗠 thít
+𰟞	thiu	𦞏𰟞 ôi thiu · 𬚸𰟞 thịt thiu	U+307DE
+湫	tho	美湫 Mĩ (Mỹ) Tho	[翻] U+6E6B
+𢯂	thó	打𢯂 đánh thó	U+22BC2
+𡓠	thó	𡐙𡓠 đất thó · 𡮈𡓠 nhỏ thó	U+214E0
+𢲬	thò	拾𢲬 thập thò	U+22CAC
+措	THỐ	失措 thất thố	U+63AA
+𬁼	thớ	𬁼𬚸 thớ thịt · 𬁼楛 thớ gỗ	U+2C07C
+釵	THOA	金釵 kim thoa	U+91F5
+𠶤	thoắng	吶𠶤 nói thoắng · 嗹𠶤 liến thoắng	U+20DA4
+𨁑	thoắt	𨁑𨁑 thoăn thoắt [𠸨] · 沁𨁑 thấm thoắt · 𨁑吶𨁑唭 thoắt nói thoắt cười	U+28051
+𨁑	thoăn	𨁑𨁑 thoăn thoắt [𠸨]	⇔ 𨁑 thoắt
+𢬳	thọc	𢬳脈 thọc mạch · 𢬳梞餅車 thọc gậy bánh xe	U+22B33
+𬨩	thốc	𧼋𬨩 chạy thốc · 𠷀𬨩𠷀𢳥 nôn thốc nôn tháo	U+2CA29
+鋑	thỏi	鋑鐄 thỏi vàng · 鋑銅 thỏi đồng	U+92D1
+嗺	thòi	折嗺 thiệt thòi · 嗺𦛌𫥨外 thòi ruột ra ngoài	U+55FA
+㖭	thỏm	忑㖭 thắc thỏm · 隰㖭 thấp thỏm	U+35AD
+㖭	thom	㖭㖭 thom thỏm [𠸨]	⇔ 㖭 thỏm
+啿	thòm	啿饞 thòm thèm	[翻] U+557F
+偡	thồm	偡藍 thồm lồm [𠸨]	U+5061
+𠴘	thon	𠴘𠴘 thon thon · 𢬣𠴘 tay thon · 𠴘袞 thon gọn · 𠴘抯 thon thả	U+20D18
+忖	thổn	忖𥅞 thổn thức	U+5FD6
+寸	THỐN	少寸 thiếu thốn	[翻] U+5BF8
+𦛻	thỗn	𦛻膳 thỗn thện [𠸨]	U+266FB
+鱓	thờn	鱓𩺡 thờn bơn	U+9C53
+𦄷	thòng	挵𦄷 lòng thòng [𠸨] · 絏𦄷挵 dây thòng lòng	U+26137
+埇	thõng	丐埇 cái thõng	U+57C7
+捅	thõng	捹捅 buông thõng · 𱖗𨑗𣘃捅蹎 ngồi trên cây thõng chân	U+6345
+𡎭	thống	丐𡎭 cái thống	U+213AD
+𡀾	thóp	梭𡀾 thoi thóp	[翻] U+2103E
+𡀾	thom	𡀾𡀾 thom thóp [𠸨]	⇔ 𡀾 thóp
+𪷄	thót	𬉊𪷄 thánh thót	U+2ADC4
+𪷄	thon	𪷄𪷄 thon thót [𠸨]	⇔ 𪷄 thót
+𡁾	thọt	時𡁾 thì thọt [𠸨]	U+2107E
+𣘄	thớt	丐𣘄 cái thớt · 𣘄採蔞 thớt thái rau · 疎𣘄 thưa thớt [𠸨]	U+23604
+𣘄	thơn	𣘄𣘄 thơn thớt [𠸨]	⇔ 𣘄 thớt
+𩷊	thu	𩵜𩷊 cá thu	U+29DCA
+戍	THÚ	𪜯戍 lính thú	U+620D
+茱	THÙ	茱萸 thù du	U+8331
+茱	thù	茱瀘 thù lù	
+售	THỤ	銷售 tiêu thụ	U+552E
+疽	THƯ	癰疽 ung thư	U+75BD
+恕	THỨ	赦恕 tha thứ · 寬恕 khoan thứ	U+6055
+𤶠	thừ	𡃖𤶠 lừ thừ · 𤶠𠊛 thừ người	U+24DA0
+蜍	THỪ	蟾蜍 thiềm thừ	U+870D
+署	THỰ	公署 công thự · 營署 dinh thự	U+7F72
+墅	THỰ	別墅 biệt thự	U+5885
+竣	THUÂN	阮文竣 Nguyễn Văn Thuân	U+7AE3
+叔	THÚC	英㛪叔伯 anh em thúc bá	U+53D4
+淑	THỤC	阮氏賢淑 Nguyễn Thị Hiền Thục · 阮福淑姿 Nguyễn Phúc Thục Tư	U+6DD1
+蜀	THỤC	蜀泮 Thục Phán	U+8700
+植	THỰC	植物 thực vật	U+690D
+煺	thui	黰煺 đen thui · 煺炪 thui đốt ·煺𥈳 thui chột	U+717A
+蹆	thủi	𨇒蹆 lủi thủi · 蹆蹆 thui thủi	[翻] U+8E46
+蹆	thui	蹆蹆 thui thủi [𠸨]	⇔ 蹆 thủi [翻]
+翠	THUÝ	翡翠 phỉ thuý · 翠翹 Thuý Kiều	U+7FE0
+邃	THUÝ	深邃 thâm thuý	U+9083
+陲	THUỲ	邊陲 biên thuỳ	U+9672
+謚	THUỴ	𠸜謚 tên thuỵ · 謚號 thuỵ hiệu	U+8B1A
+栓	THUYÊN	栓塞 thuyên tắc	U+6813
+詮	THUYÊN	詮解 thuyên giải · 詮釋 thuyên thích	U+8A6E
+銓	THUYÊN	銓選 thuyên tuyển · 銓轉 thuyên chuyển	U+9293
+鐫	THUYÊN	鐫罰 thuyên phạt · 鐫級 thuyên cấp · 鐫汰 thuyên thải ·鐫黜 thuyên truất	U+942B
+嬋	THUYỀN	𡛔嬋娟 gái thuyền quyên	U+5B0B
+𡂹	thủm	𡂹𡂹 thum thủm [𠸨]	U+210B9
+𡂹	thum	𡂹𡂹 thum thủm [𠸨]	⇔ 𡂹 thủm
+𦀹	thun	絏𦀹 dây thun · 𦀹徠 thun lại	U+26039
+𦀹	chun		⇔ 𦀹 thun
+舂	thung	舂壟 thung lũng	U+8202
+樁	THUNG	樁萱 thung huyên	[翻] U+6A01
+𥴗	thúng	𥶄𥴗 nón thúng · 鑅𥴗 vành thúng · 𥴗𥶃 thúng mủng	U+25D17
+腫	THŨNG	腫𦟽 thũng mật · 腫紹 thũng thịu [𠸨]	U+816B
+腫	sũng	臃腫 ủng sũng	
+𬗝	thụng	襖𬗝 áo thụng · 弄𬗝 lụng thụng	U+2C5DD
+鑠	THƯỚC	矍鑠 quắc thước	U+9460
+芍	THƯỢC	芍藥 thược dược	U+828D
+愖	thuộm	懢愖 luộm thuộm [𠸨]	U+6116
+悛	thuôn	悛黹 thuôn chỉ · 悛𨱽 thuôn dài · 悛突 thuôn đuột	U+609B
+𢠆	thuồng	饞𢠆 thèm thuồng	U+22806
+𧐺	thuồng	𧐺蠬 thuồng luồng	U+2743A
+嘗	THƯỜNG	孟嘗君 mạnh thường quân	U+5617
+償	THƯỜNG	賠償 bồi thường	U+511F
+𤃧	thướt	𤃧他 thướt tha [𠸨]	U+240E7
+絬	thượt	絬絬 thườn thượt [𠸨]	U+7D6C
+絬	thườn	絬絬 thườn thượt [𠸨]	⇔ 絬 thượt
+𠴫	thút	𠴫𠓨 thút vào · 𠴫𨨷 thút nút · 𠴫𢗠 thút thít	U+20D2B
+楂	TRA	山楂 sơn tra	U+6942
+𪁳	trả	𪀄𪁳 chim trả	U+2A073
+卓	TRÁC	卓絕 trác tuyệt · 卓越 trác việt	[翻] U+5353
+斲	TRÁC	斲喪 trác táng	U+65B2
+𥭌	trạc	丐𥭌 cái trạc	U+25B4C
+濯	trạc	濯度 trạc độ · 濯歲 trạc tuổi	U+6FEF
+仄	TRẮC	平仄 bằng trắc · 仄阻 trắc trở ·仄𢟗 trắc nết · 築仄 trúc trắc [𠸨]	U+4EC4
+惻	TRẮC	惻隱 trắc ẩn	U+60FB
+𣖡	trắc	𣘃𣖡 cây trắc · 楛𣖡 gỗ trắc	U+235A1
+垞	trách	丐垞 cái trách	U+579E
+宅	TRẠCH	鎮宅 trấn trạch	U+5B85
+擇	TRẠCH	選擇 tuyển trạch	U+64C7
+𬃻	trái	𬃻𡐙 Trái Đất · 𬃻𣘃 trái cây · 𬃻心 trái tim	U+2C0FB
+𬃻	dái	𬃻𦖻 dái tai	⇔ 𬃻 trái
+𬃻	lái		⇔ 𬃻 trái
+𪡊	trại	吶𪡊 nói trại	U+2A84A
+𫪦	trây	吶𫪦 nói trây · 𫪦𧴱 trây nợ	U+2BAA6
+𢭺	trẩy	𢭺槹 trẩy cau · 𢭺茄 trẩy cà	U+22B7A
+𥙒	trẩy	𠫾𥙒會 đi trẩy hội	U+25652
+摨	trầy	摨秩 trầy trật [𠸨] · 摨䏧 trầy da	U+6468
+摨	sầy		⇔ 摨 trầy
+蘸	trám	蘸船 trám thuyền · 蘸𠬠丐𡓇 trám một cái lỗ	U+8638
+蘸	trém	簪蘸 tróm trém [𠸨]	
+𩼤	trám	𩵜𩼤 cá trám	U+29F24
+欖	trám	𣘃欖 cây trám · 果欖 quả trám	U+6B16
+𣠩	tràm	𣘃𣠩 cây tràm · 菍𣠩 nấm tràm	U+23829
+𤓆	tràm	焒𤓆 lửa tràm	U+244C6
+簪	TRÂM	掑簪 cài trâm	U+7C2A
+簪	tróm	簪蘸 tróm trém [𠸨]	
+𣠱	trâm	𣘃𣠱 cây trâm · 𣠱匏 trâm bầu · 𣠱𡉿 trâm mốc	U+23831
+朕	TRẪM	朕𱺵𠊛勢𱜢、𦓡命𡗶𢭂朱職帝王？ Trẫm là người thế nào, mà mệnh trời trao cho chức Đế Vương?	U+6715
+螓	trăn	𡥵螓 con trăn	U+8793
+瞋	TRÂN	瞋瞋 trân trân	U+778B
+瞋	trâng	瞋𥋽 trâng tráo [𠸨]	
+𧛇	tràng	𧛇襖 tràng áo	U+276C7
+撞	tràng	𡥵馭尼𧼋咍撞 con ngựa này chạy hay trang	U+649E
+箏	TRANH	彈箏 đàn tranh	U+7B8F
+啅	tráo	咷啅 trếu tráo [𠸨]	U+5545
+啅	trạo	咷啅 trệu trạo [𠸨]	
+啅	xược	溷啅 hỗn xược	
+匧	tráp	丐匧 cái tráp · 匧楛 tráp gỗ	[翻] U+5327
+札	TRÁT	札扒 trát bắt · 札𠾕 trát đòi	U+672D
+秩	TRẬT	秩序 trật tự · 秩加三級 trật gia tam cấp	[翻] U+79E9
+秩	trật	秩餅 trật bánh · 秩㗚 trật lất ·秩傽 trật trưỡng · 秩咷 trật trệu · 秩茶秩傽 trật trà trật trưỡng	[翻]
+𠶠	trẹ	住𠶠 trọ trẹ [𠸨]	U+20DA0
+𩵾	trê	𩵜𩵾 cá trê	[異] 𩸴 U+29D7E
+滯	TRỆ	停滯 đình trệ · 遲滯 trì trệ	U+6EEF
+怗	trèm	憯怗 tròm trèm [𠸨]	[翻] U+6017
+𠰪	trếnh	𥧪𠰪 trống trếnh	U+20C2A
+𠰪	chếnh		⇔ 𠰪 trếnh
+𧾿	tréo	𨅸𧾿蹎 đứng tréo chân · 咮𧾿 tru tréo [𠸨]	U+27FBF
+𨀽	trẹo	𨀽住 trẹo trọ [𠸨]	U+2803D
+𨀽	trèo	𨀽𨀽 trèo trẹo [𠸨]	⇔ 𨀽 trẹo
+𠿠	trếp		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+20FE0
+澈	trẹt	澈𥉬 trẹt lét [𠸨]	U+6F88
+𬿮	trệt	𱖗𬿮 ngồi trệt	[翻] U+2CFEE
+咷	trếu	咷啅 trếu tráo [𠸨]	U+54B7
+咷	trệu	秩咷 trật trệu	
+痔	TRĨ	病痔 bệnh trĩ	U+75D4
+雉	TRĨ	𪀄雉 chim trĩ	U+96C9
+𪄸	trích	𪀄𪄸𡚝 chim trích cồ	U+2A138
+鰿	trích	𩵜鰿 cá trích	U+9C3F
+𥖾	trịch	𥘀𥖾 nặng trịch · 擒𥖾 cầm trịch	U+255BE
+瀍	triền	瀍瀧 triền sông	U+700D
+纏	TRIỀN	纏綿 triền miên	U+7E8F
+篆	TRIỆN	𡨸篆 chữ triện · 𢪏體篆 viết thể triện	U+7BC6
+𡎞	triêng	𡎞挭 triêng gánh · 𠊛𪂰𡎞 người Giẻ Triêng	U+2139E
+𠸩	trĩnh	圇𠸩 tròn trĩnh [𠸨]	U+20E29
+𥉭	trít	𥉭徠 trít lại · 𥄮𥉭 nhắm trít	[翻] U+2526D
+𦅄	trịt	𥾇𦅄 trĩu trịt · 𱖗𦅄𬺗𡑝 ngồi trịt xuống sân	U+26144
+𱪳	tro	𱪳炭 tro than · 𱪳𤇮 tro bếp	U+31AB3
+𢸫	trỏ	指𢸫 chỉ trỏ · 𡥵𢸫 con trỏ · 𢭫 𢸫 ngón trỏ	U+22E2B
+𦭦	trổ	穭𦭦葻 lúa trổ bông	U+26B66
+𥇻	trố	𥇻𥇻 trố trố · 𥇻眜 trố mắt	U+251FB
+𥇻	trô	𥇻𥇻 trô trố [𠸨]	⇔ 𥇻 trố
+咋	trớ	咋嘹 trớ trêu [𠸨]	U+548B
+滁	trờ	滁滁 trờ trờ · 滁𬧐 trờ tới	U+6EC1
+捉	TRÓC	捉拿 tróc nã	U+6349
+捉	tróc	𢸚捉 bong tróc · 𣘃捉𤿭 cây tróc vỏ	
+鱩	trôi	𩵜鱩 cá trôi	U+9C69
+讄	trối	trăng trối 咹𡗉讄過 · ăn nhiều trối quá	U+8B84
+讄	giối	讄𫅷 giối già [𠸨]	⇔ 讄 trối
+攂	trồi	攂泏 trồi sụt · 攂𬨠 trồi lên ·攂𨀎 trồi sụp	U+6502
+𥫌	trỗi	𥫌𧻭 trỗi dậy	U+25ACC
+𥫌	chỗi		⇔ 𥫌 trỗi
+憯	tròm	憯怗 tròm trèm [𠸨]	U+61AF
+𬛘	trôn	𡓇𬛘 lỗ trôn · 𬛘鉢 trôn bát	U+2C6D8
+磌	trớn	過磌 quá trớn	U+78CC
+緟	tròng	𠓨緟 vào tròng · 緟蹎𠓨裙 tròng chân vào quần	U+7DDF
+緟	chòng		⇔ 緟 tròng
+𭿍	tròng	𭿍眜 tròng mắt · 𭿍黰 tròng đen · 𭿍𤽸 tròng trắng	U+2DFCD
+喠	trọng	𠸂喠 nuốt trọng	U+55A0
+喠	trửng		⇔ 喠 trọng
+倅	trót	𦀎倅 lượt trót · 倅𢯰 trót lọt ·倅𠻇 trót dại	U+5005
+𢫖	trọt	𠹾𢫖 chịu trọt	[翻] U+22AD6
+誅	TRU	誅夷 tru di · 𡗶誅𡐙滅 trời tru đất diệt	U+8A85
+晝	TRÚ	晝夜 trú dạ	U+665D
+稠	TRÙ	稠富 trù phú	U+7A20
+躊（踌）	TRÙ	躊躇 trù trừ	U+8E8A (U+8E0C)
+冑	TRỤ	甲冑 giáp trụ	U+5191
+豬	TRƯ	豬八戒 Trư Bát Giới	U+8C6C
+躇	TRỪ	躊躇 trù trừ	U+8E87
+黜	TRUẤT	廢黜 phế truất · 被黜 bị truất	U+9EDC
+竺	TRÚC	天竺 Thiên Trúc	[翻] U+7AFA
+𣹞	trũng	𣹞漊 trũng sâu · 𡊲𣹞 chỗ trũng · 眜𣹞 mắt trũng	U+23E5E
+瞪	TRỪNG	瞪眜 trừng mắt	U+77AA
+螴	trườn	㑲螴 nằm trườn · 螴𬧐 trườn tới	U+87B4
+脹	TRƯỚNG	膨脹 bành trướng · 臌脹 cổ trướng	U+8139
+脹	chương	脹𬨠 chương lên · 脹膨 chương phềnh	
+脹	chướng	脹䏾 chướng bụng	⇔ 脹 trướng
+脹	trương	脹䏾 trương bụng · 脹膨 trương phềnh	⇔ 脹 chương
+傽	trưỡng	秩傽 trật trưỡng	U+50BD
+丈	TRƯỢNG	𠬠丈 một trượng · 丈夫 trượng phu	U+4E08
+杖	TRƯỢNG	權杖 quyền trượng · 鐵杖 thiết trượng	U+6756
+䢖	trút	䢖𠬃 trút bỏ · 䢖𬺗 trút xuống	[翻] U+4896
+𧊐	trút	𩷳𧊐 vảy trút	U+27290
+𡠄	u	偨𡠄 thầy u	U+21804
+䫜	u	𠚐䫜 mọc u	U+4ADC
+𦠲	ú	脿𦠲 béo ú · 𦚖𦠲 mập ú · 餅𦠲 bánh ú · 𦠲啞 ú ớ [聲]	U+26832
+㗀	ù	㗀唎 ù lì · 㗀𦖻 ù tai · 𠺙㗀㗀 thổi ù ù · 㗀㗀𡁤𡁤 ù ù cạc cạc	U+35C0
+圬	ụ	𦠲圬 ú ụ [𠸨]	U+572C
+淤	Ứ	淤𠘃 ứ đọng · 淤唏 ứ hơi · 淤譃 ứ hự [嘆] · 淤𠹾兜！ ứ chịu đâu! [嘆]	U+6DE4
+𢮁	ừ	𩆢𢮁 ầm ừ	U+22B81
+𦼇	úa	𤉗𦼇 héo úa · 鐄𦼇 vàng úa ·蘿𦼇 lá úa	U+26F07
+咼	ùa	咼𠓨 ùa vào · 𫜵咼 làm ùa	U+54BC
+瘀	ứa	瘀𫥨 ứa ra · 瘀淚 ứa lệ · 瘀𧖱 ứa máu	U+7600
+蘊	UẨN	蘊藏 uẩn tàng · 幽蘊 u uẩn	[翻] U+860A
+鬱	UẤT	岑鬱 sầm uất · 鬱抑 uất ức · 憤鬱 phẫn uất · 鬱恨 uất hận	[翻] U+9B31
+澳	ÚC	盛旺終澳 Thịnh vượng chung Úc	[翻] U+6FB3
+䐿	úc	𦚖䐿𠴐 mập úc núc	U+443F
+𩼈	úc	𩵜𩼈 cá úc	U+29F08
+𠳑	ực	𠳑𠳑 ừng ực [𠸨] · 𠸂丐𠳑 nuốt cái ực · 𠳑大𫇿𠫾！ ực đại thuốc đi!	U+20CD1
+𠳑	ừng	𠳑𠳑 ừng ực [𠸨]	⇔ 𠳑 ực
+濊	uể	濊痿 uể oải	U+6FCA
+穢	UẾ	污穢 ô uế · 渃穢 nước uế	U+7A62
+𣉍	ui	𣌝𨆢𣉍 nắng lui ui · 𣉍𣉍 ui ui	[翻] U+2324D
+慰	UÝ	慰勞 uý lạo	U+6170
+慰	ủi	安慰 an ủi	
+鴛	UYÊN	鴛鴦 uyên ương	U+9D1B
+苑	UYỂN	御苑 ngự uyển	U+82D1
+啘	uyn		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+5558
+瀅（滢）	UYNH		𡨸尼主要得使用抵翻音。䀡附錄。 Chữ này chủ yếu được sử dụng để phiên âm. Xem Phụ lục. [翻] U+7005 (U+6EE2)
+𠽛	um	𠽛𥳍 um tùm	[翻] U+20F5B
+𣸊	ùm	𬦮𣸊 nhảy ùm · 𨁟𣸊𬺗坳 ngã ùm xuống ao	U+23E0A
+𫫡	ừm	𫫡！ ừm!	U+2BAE1
+熅	un	熅𤌋 un khói	U+7185
+𡅯（𪢖）	ủn	𡅯𠸯 ủn ỉn [聲]	U+2116F (U+2A896)
+搵	ùn	搵搵 ùn ùn	[翻] U+6435
+癰	UNG	癰疽 ung thư · 癰𤷿 ung nhọt · 𱑛𪃿癰 trứng gà ung	U+7670
+𩍓	ủng	隻𩍓 chiếc ủng	U+29353
+鷹	ƯNG	𪀄鷹 chim ưng	U+9DF9
+𤠆	ươi	𤠂𤠆 đười ươi	U+24806
+湆	ươm	湆絲 ươm tơ · 湆𥞖 ươm giống	[翻] U+6E46
+懨	ướm	懨𠳨 ướm hỏi · 懨襖 ướm áo	U+61E8
+胺	ườn	㑲胺 nằm ườn	U+80FA
+汪	UÔNG	𣱆汪 họ Uông	[翻] U+6C6A
+鴦	ƯƠNG	鴛鴦 uyên ương	U+9D26
+𫊬	ương	𡥵朠𫊬 con ễnh ương	U+2B2AC
+𦛞	ướp	𦛞𪉥 ướp muối · 𦛞冷 ướp lạnh	[翻] U+266DE
+𡋉	ụp	𢭰𡋉 đổ ụp · 𡋉𣵰 ụp lặn	U+212C9
+𠇕	va	𠇕兜耒？ Va đâu rồi?	[翻] U+201D5
+撝	va	撝𪮻 va chạm	U+649D
+撝	vê	紋撝 vân vê [𠸨]	
+橎	vả	𣘃橎 cây vả	U+6A4E
+𬏓	và	𠬠𬏓 một và	U+2C3D3
+𪂱	vạc	𪀄𪂱 chim vạc	U+2A0B1
+鑊	vạc	鑊銅 vạc đồng · 鑊油 vạc dầu	U+944A
+𥇿	vắc	𥃨𥇿 vúc vắc	U+251FF
+𤊨	vặc	爃𤊨 vằng vặc [𠸨]	U+242A8
+梶	vải	𣘃梶 cây vải	U+68B6
+娓	vãi	𠇈娓 sãi vãi	U+5A13
+𫵞	vãi	𢶻𫵞 vung vãi	U+2BD5E
+㙕	vại	㙕渃 vại nước · 䍄㙕 chum vại	U+3655
+𢠿	vay	𢠿𢚸 vay lòng	U+2283F
+𩷳	vảy	𩷳𩵜 vảy cá · 𩷳𧊐 vảy trút	U+29DF3
+荱	váy	𣘃荱 cây váy	U+8371
+𢯮	váy	𢯮𦖻 váy tai	U+22BEE
+𧚟	váy	丐𧚟 cái váy · 𬡶𧚟 mặc váy	U+2769F
+𣍁	vạy	𢏣𣍁 cong vạy · 𧼋𣍁 chạy vạy	U+23341
+𩻟	vây	𩻟𩵜 vây cá	U+29EDF
+湋	vẩy	湋𢬣 vẩy tay · 湋脽 vẩy đuôi ·湋渃 vẩy nước	U+6E4B
+𮬄	vẩy	𮬄𩵜 vẩy cá	U+2EB04
+𦝩	vấy	𢭰𦝩 đổ vấy · 𦝩𣵲 vấy bẩn · 𦝩湓 vấy bùn	U+26769
+𢯷	vầy	𢝙𢯷 vui vầy	U+22BF7
+汎	vàm	汎瀝 vàm rạch	U+6C4E
+釩	vằm	𨥧釩 băm vằm	U+91E9
+𠢝	vâm	劸如𠢝 khoẻ như vâm	[翻] U+2089D
+𢱨	vặn	𢱨𣍅 vặn vẹo [𠸨] · 𦀵𢱨 xoắn vặn · 𣃣𢱨 vừa vặn [𠸨] · 𠳨𢱨 hỏi vặn · 根𢱨 căn vặn · 𢱨針銅壺 vặn kim đồng hồ	U+22C68
+云	VÂN	云云 vân vân	U+4E91
+𪷦	vẩn	𪷦濁 vẩn đục · 𪷦噅 vẩn vơ	U+2ADE6
+刎	VẪN	自刎 tự vẫn	U+520E
+𣞁（㮠）	vang	𣘃𣞁 cây vang	U+23781 (U+3BA0)
+𠗤	váng	𠗤油 váng dầu · 𠗤𣷱 váng sữa	U+205E4
+傍	vàng	𫏚傍 vội vàng [𠸨] · 凭傍 vững vàng [𠸨] · 㽳傍 võ vàng [𠸨]	U+508D
+往	VÃNG	往來 vãng lai · 已往 dĩ vãng	U+5F80
+往	vảng	𨅉往 lảng vảng [𠸨]	
+暀	vạng	𣈚暀 chạng vạng [𠸨]	U+6680
+爃（𫞡）	vằng	爃𤊨 vằng vặc [𠸨]	U+7203 (U+2B7A1)
+𭈒	vằng	摓𭈒 vùng vằng · 醝𨢇耒𭈒僥 say rượu rồi vằng nhau	U+2D212
+儝（儝󠄁）	vanh	佂儝 tranh vanh [𠸨] · 儝壁 vanh vách [聲]	[翻] U+511D (U+511D U+E0101)
+儝（儝󠄁）	vênh	佂儝 chênh vênh [𠸨] · 儝𠾷 vênh váo [𠸨]	[翻]
+𮛕	vánh	𫏢𮛕 chóng vánh	U+2E6D5
+𠾷	váo	𠶓𠾷 vếu váo [𠸨] · 儝𠾷 vênh váo [𠸨] · 噅𠾷 vơ váo [𠸨]	U+20FB7
+叭	váp	𰸣叭 vấp váp [𠸨]	[翻] U+53ED
+𰸣	vấp	𰸣叭 vấp váp [𠸨]	[翻] U+30E23
+仈	vát	𧼋仈 chạy vát · 𤯩仈 sống vát · 𢳥仈 tháo vát	[翻] U+4EC8
+𠟲	vạt	𠟲𨮐 vạt nhọn · 𠟲椰 vạt dừa	U+207F2
+𧞄	vạt	𧞄襖 vạt áo · 𧞄𡹃 vạt rừng	U+27784
+𧉚	vắt	𧉚㹥 vắt chó	U+2725A
+𥾸	vắt	𥾸擻 vắt sổ · 𥾸𣷱 vắt sữa · 沖 𥾸 trong vắt · 𥾸𢬣𬨠𩑰 vắt tay lên trán	U+25FB8
+𤓺	vấu	𤘓𤓺 nanh vấu	[翻] U+244FA
+蟡	ve	蟡𣜷 ve sầu · 𡥵蟡 con ve · 𨉟 𤷍殼蟡 mình gầy xác ve · 蟡襖 ve áo	U+87E1
+𬋱	ve	𤢇𬋱 vuốt ve [𠸨] · 青𬋱 xanh ve [摱]	U+2C2F1
+徫	vè	徫僥 vè nhau · 𠫾徫徫 đi vè vè · 徫卬𥆾𥌈 vè ngang nhìn trộm	U+5FAB
+椲	vè	𣘃椲 cây vè · 𢺹椲 chia vè · 㓠椲 chém vè · 椲車踏 vè xe đạp	U+6932
+譌	vè	喝譌 hát vè · 韻譌 vần vè · 歌譌 ca vè	U+8B4C
+䗊	vẹm	𡥵䗊 con vẹm	[翻] U+45CA
+𢯝	vén	𢯝𬨠 vén lên · 𢯝𩯀 vén tóc · 𢯝𧚟 vén váy · 𢱔𢯝 vun vén	U+22BDD
+綄	vện	彣綄 vằn vện	[翻] U+7D84
+𩓳	vẻo	𥾸𩓳 vắt vẻo · 𩓳𡶀 vẻo núi · 𠬠 𩓳 một vẻo	U+294F3
+㧼	véo	㧨㧼 cấu véo	U+39FC
+㧼	béo		⇔ 㧼 véo
+㧼	nhéo		⇔ 㧼 véo
+𨖿	vèo	蘿𢒎𨖿 lá bay vèo · 𠫾𨖿𬧐 đi vèo tới · 錢歇𨖿 tiền hết vèo	U+285BF
+𣍅	vẹo	𣍅鶩 vẹo vọ [𠸨] · 𢱨𣍅 vặn vẹo [𠸨]	[翻] U+23345
+𫌐	vét	襖𫌐 áo vét [摱]	U+2B310
+樾	vẹt	𡹃樾 rừng vẹt	[翻] U+6A3E
+𪇴	vẹt	𪀄𪇴 chim vẹt	U+2A1F4
+𪽸	vệt	𪽸𤌋 vệt khói · 𪽸𧖱 vệt máu · 𪽸𤏬 vệt sáng	U+2AF78
+𠶓	vếu	𠶓𠾷 vếu váo [𠸨] · 𤷖𠶓𬨠 sưng vếu lên · 𬌓板𢏣𠶓 tấm ván cong vếu	U+20D93
+韋	VI	𣱆韋 họ Vi · 韋𫉡 vi-rút [摱]	[翻] U+97CB
+喡	vi	叫喡𭇹 kêu vi vu [聲]	U+55A1
+薇	VI	紫薇 tử vi · 薔薇 tường vi	U+8587
+䇻	vỉ	䇻𧋆 vỉ ruồi	U+41FB
+𮘕	vỉ	𠹚𮘕 van vỉ	U+2E615
+幃	ví	丐幃 cái ví	U+5E43
+胃	VỊ	液胃 dịch vị	U+80C3
+渭	VỊ	渭清 Vị Thanh	U+6E2D
+㙔	vỉa	㙔𡏘 vỉa hè	U+3654
+𩼢	vích	𡥵𩼢 con vích	[翻] U+29F22
+𧟁	viền	塘𧟁 đường viền · 𧟁襖 viền áo	U+277C1
+𥁷	vịm	丐𥁷 cái vịm	[翻] U+25077
+𥿀	vít	𦁽𥿀 vướng vít · 𦄞𥿀 vấn vít · 𡥵𥿀 con vít [摱]	[翻] U+25FC0
+汙	vo	汙𥽌 vo gạo · 圇汙 tròn vo · 𤥑汙 vòng vo · 叫汙汙 kêu vo vo	U+6C59
+𥿠	vó	拮𥿠 cất vó	[翻] U+25FE0
+𨀒	vó	𨀒駒 vó câu	U+28012
+扜	vò	𩌂扜 giày vò	U+625C
+盂	vò	盂𡊳 vò sành · 丐盂 cái vò	U+76C2
+鶩	vọ	𫚱鶩 cú vọ · 𣍅鶩 vẹo vọ [𠸨]	U+9DA9
+橅	vồ	橅㧺𡐙 vồ đập đất · 螠橅花 ếch vồ hoa	U+6A45
+𫿒	vờ	假𫿒 giả vờ · 𫿒𩿠 vờ vịt [𠸨]	U+2BFD2
+𦄾	vóc	𦄾𫄎 vóc lụa · 𡲫𦄾 vải vóc	[翻] U+2613E
+𡸏	vọi	𡸏𡸏 vòi vọi [𠸨]	U+21E0F
+𡸏	vời	賒𡸏 xa vời · 𡸏𡸏 vời vợi [𠸨] ·絕𡸏 tuyệt vời	
+𡸏	vợi	𡸏𡸏 vời vợi [𠸨]	
+𡸏	vòi		⇔ 𡸏 vọi
+𪿙	vôi	𥒥𪿙 đá vôi · 瓶𪿙 bình vôi · 匙 𪿙 chìa vôi	U+2AFD9
+𠴖	vợi	𠴖抔 vợi bớt · 𠴖客 vợi khách	U+20D16
+𪢵	vòm	𪢵𡗶 vòm trời · 茹𪢵 nhà vòm	[翻] U+2A8B5
+𡻖	von	嶟𡻖 chon von [𠸨]	[翻] U+21ED6
+㖹	vỏn	㖹捖 vỏn vẹn	U+35B9
+㖹	vồn	㖹𠳿 vồn vã	
+泍	vón	勃㐌泍𫪐徠 bột đã vón cục lại	U+6CCD
+湲	vởn	瀨湲 lởn vởn · 湲噅 vởn vơ	U+6E72
+溳	vờn	溳僥 vờn nhau · 𥌬溳 chờn vờn · 貓溳𤝞 mèo vờn chuột	U+6EB3
+網	VÕNG	網𫆥 võng cáng · 迻網 đưa võng	U+7DB2
+魍	VÕNG	魑魅魍魎 si mị võng lượng	U+9B4D
+𣜳	vông	𣘃𣜳 cây vông · 尋𣜳 tầm vông · 花𣜳 hoa vông	U+23733
+虹	vồng	橋虹 cầu vồng · 高虹𬨠 cao vồng lên · 虹𧃷 vồng khoai	U+8679
+𧉈	vọp	𧉈𢯏 vọp bẻ	[翻] U+27248
+𡻋	vót	𡻋籤 vót tăm · 㟮𡻋 chót vót [𠸨]	U+21ECB
+于	VU	于歸 vu quy	[翻] U+4E8E
+圩	VU	市鎮潯圩 thị trấn Tầm Vu	U+5729
+𭇹	vu	叫喡𭇹 kêu vi vu [聲]	U+2D1F9
+呋	vù	呋呋 vù vù · 𩙍𠺙呋 gió thổi vù · 𧼋呋𠫾 chạy vù đi	U+544B
+捊	vùa	捊𠓨 vùa vào · 捊歇 vùa hết · 𠓨捊貝僥 vào vùa với nhau	U+634A
+㳪	vữa	㳪糊 vữa hồ · 㳪𫥨 vữa ra	U+3CEA
+𢊑	vựa	𢊑穭 vựa lúa · 𢊑糧 vựa lương · 𢊑𥟉 vựa thóc	U+22291
+𥃨	vúc	𥃨𥇿 vúc vắc	U+250E8
+𢷏	vục	𢷏𬺗 vục xuống · 𢷏渃 vục nước	[翻] U+22DCF
+抆	vũm	抆𢚸 vũm lòng	[翻] U+6286
+逩	vùn	逩挬 vùn vụt	U+9029
+砵	vụn	𢯏砵 bẻ vụn · 鉄砵 sắt vụn	[翻] U+7835
+𡑵	vung	蒳𡑵 nắp vung	U+21475
+𢶻	vung	𢶻𢬣 vung tay · 𢶻𫵞 vung vãi	U+22DBB
+𥣐	vừng	𣘃𥣐 cây vừng · 油𥣐 dầu vừng	U+258D0
+暈	VỰNG	日暈 nhật vựng	U+6688
+暈	vầng	暈𦝄 vầng trăng · 暈𩑰 vầng trán · 暈太陽 vầng thái dương	
+暈	vừng		⇔ 暈 vầng
+䱛	vược	𩵜䱛 cá vược	U+4C5B
+猿	vượn	𡥵猿 con vượn · 猿𤞺 vượn cáo	U+733F
+潷	vuột	潷𠺌 vuột khỏi · 潷𧼋 vuột chạy · 潷𠅒 vuột mất	U+6F77
+麝	XẠ	麝香 xạ hương	U+9E9D
+𠳗	xạc	𡁞𠳗 xào xạc · 喍𠳗 xài xạc · 𠳗朱𠬠陣 xạc cho một trận	U+20CD7
+倬	xấc	倬咾 xấc láo	U+502C
+𢴘	xay	臼𢴘 cối xay · 𢴘穭 xay lúa · 𣛠 𢴘 máy xay	U+22D18
+鋟	xăm	形鋟 hình xăm · 鋟擼 xăm trổ	U+92DF
+𭿄	xẩm	𭿄𦭷 xẩm màu · 襖𭿄 áo xẩm	U+2DFC4
+燦	XÁN	燦爛 xán lạn	U+71E6
+燦	sán	燦爛 sán lạn	
+𤇤	xào	𤇤𤍇 xào nấu · 𬖾𤇤 phở xào	U+241E4
+𡁞	xào	嘮𡁞 lào xào [𠸨]	U+2105E
+䛒	xạo	吶䛒 nói xạo · 䛒𤄬 xạo ke · 䛒事 xạo sự · 澇䛒 lạo xạo [𠸨]	U+46D2
+挾	xáp	𣐝挾 xốp xáp	U+633E
+濈	xắp	駸濈 xăm xắp · 𫜵濈 làm xắp	[翻] U+6FC8
+𢵸	xấp	𢵸齒 xấp xỉ [𠸨]	[翻] U+22D78
+𢲐	xê	𢲐易 xê dịch · 𢲐𫥨 xê ra · 𢲐𨁯 xê xích	U+22C90
+𪜻	xếch	𪜻𠩕 xếch mé · 㒔𪜻 xốc xếch	[翻] U+2A73B
+迠	xém	𪸔迠 cháy xém · 迠徠 xém lại	U+8FE0
+剷	xẻng	丐剷 cái xẻng · 钁剷 cuốc xẻng	U+5277
+𫕸	xênh	𫕸唱 xênh xang [𠸨]	U+2B578
+𬦪	xéo	𩌂𬦪 giày xéo · 𬦪仯 xéo xẹo [𠸨]	U+2C9AA
+𠾸	xèo	𠾸𠾸 xèo xèo · 㕭𠾸 eo xèo · 餅 𠾸 bánh xèo	[翻] U+20FB8
+仯	xẹo	𭛜仯 xiên xẹo · 𢪏仯 viết xẹo · 𨅸仯 đứng xẹo · 𬦪仯 xéo xẹo [𠸨]	U+4EEF
+㴙	xép	𬏇㴙 ruộng xép · 𠰏㴙 bép xép [𠸨] · 船𠫾𠓨㴙 thuyền đi vào xép	U+3D19
+𠿂	xẹp	㑲𠿂 nằm xẹp · 𠿂𥼕 xẹp lép	U+20FC2
+𰜺	xệp	𱖗𰜺𬺗 ngồi xệp xuống	U+3073A
+𰜺	sệp		⇔ 𰜺 xệp
+𨆾	xẹt	哷𨆾 lẹt xẹt · 浪𨆾 lãng xẹt	U+281BE
+嗤	xi	則嗤 tắc-xi [摱] · 嗤笀 xi-măng [摱]	[翻] U+55E4
+侈	XỈ	奢侈 xa xỉ	U+4F88
+侈	xảy	侈𫥨 xảy ra · 侈𦖑 xảy nghe	
+侈	xẩy		⇔ 侈 xảy
+企	XÍ	企業 xí nghiệp	U+4F01
+豉	xì	豉油 xì dầu [摱]	U+8C49
+𬽾	xị	𠿄𬽾 ngậu xị · 蠅𬽾 nhặng xị ·舍𬽾 xá-xị [摱]	U+2CF7E
+尺	XÍCH	𠬠尺 một xích	單位𢵋 đơn vị đo U+5C3A
+𦀗	xích	絏𦀗 dây xích · 𦀗蹎 xích chân	U+26017
+𨁯	xích	𨁯徠 xích lại · 𱖗𨁯 ngồi xích	U+2806F
+迟	xiếc	𠻀迟 trò xiếc [摱] · 挭迟 gánh xiếc [摱]	U+8FDF
+暹	XIÊM	椰暹 dừa xiêm · 紅暹 hồng xiêm · 𩿠暹 vịt xiêm · 杧球暹 mãng cầu xiêm · 暹羅 Xiêm La	U+66B9
+襜	xiêm	襖襜 áo xiêm · 襜衣 xiêm y	U+895C
+諂	xiểm	促諂 xúc xiểm	U+8AC2
+釺	xiên	丐釺𬚸 cái xiên thịt · 擒釺釺𩵜 cầm xiên xiên cá · 釺𬚸𤓢鮓 xiên thịt nướng chả	U+91FA
+𭛜	xiên	𭛜仯 xiên xẹo · 搝𭛜 xỏ xiên ·吶𭛜 nói xiên · 𡨸印𭛜 chữ in xiên	U+2D6DC
+䇸	xiểng	函䇸 hòm xiểng · 䇸冷 xiểng liểng	U+41F8
+鋥	xiềng	鋥𦀗 xiềng xích · 杠鋥 gông xiềng	U+92E5
+掣	xiết	沚掣 chảy xiết · 掣包 xiết bao	U+63A3
+嘌	xiêu	嘌𣍅 xiêu vẹo · 嘌𢚸 xiêu lòng · 嘌嘌 xiêu xiêu · 遼嘌 liêu xiêu [𠸨]	U+560C
+𣴒	xim	渃𣴒淁 nước xim xíp	[翻] U+23D12
+𫢗	xỉn	䏧𫢗 da xỉn · 𫢗𦭷 xỉn mầu ·㤓𫢗 bủn xỉn · 𠬠𫢗 một xỉn · 𪝳醝𫢗𠁸𣈜 hắn say xỉn suốt ngày	U+2B897
+傎	xịn	行傎 hàng xịn	U+508E
+裎	xính	䘪裎 xúng xính	U+88CE
+淁	xíp	渃𣴒淁 nước xim xíp	[翻] U+6DC1
+掇	xít	𦀵掇 xoắn xít [𠸨] · 𠎊掇 xúm xít [𠸨]	U+6387
+眇	xỉu	𤴥眇 ngất xỉu · 𪷉眇 té xỉu · 眇卬眇𨂔 xỉu ngang xỉu dọc	U+7707
+𱡁	xìu	夭𱡁 ỉu xìu	U+31841
+𱡁	xịu	夭𱡁 ỉu xịu [𠸨]	⇔ 𱡁 xìu
+䌔	xo	瘖䌔 ốm xo · 𢞂䌔 buồn xo · 䌔 𦠘 xo vai	U+4314
+搝	xỏ	搝𭛜 xỏ xiên · 搝蘿𠀧槻 xỏ lá ba que	U+641D
+𨻬	xó	𠬃𨻬 bỏ xó · 魔𨻬 ma xó · 𨻬省 xó xỉnh [𠸨] · 攝𨻬 xếp xó · 頭塘𨻬𢄂 đầu đường xó chợ	U+28EEC
+𢹧	xổ	𢹧𠓨 xổ vào · 𢹧𫥨 xổ ra	U+22E67
+娕	xơ	婆娕 bà xơ [摱]	U+5A15
+衩	xoa	𬌓𡲫衩 tấm vải xoa [摱]	U+8869
+捘	xoa	捘油 xoa dầu	U+6358
+捘	thoa	捘粉 thoa phấn	⇔ 捘 xoa
+捘	xòa	𣵶汊 xuề xòa [𠸨]	U+6C4A
+汊	xoà	𩯀汊 tóc xoà · 𣵶汊 xuề xoà · 唭汊 cười xoà · 唚汊 xùm xoà · 𥉹汊 loà xoà	
+撦	xoã	撦𩯀 xoã tóc · 撦𬺗 xoã xuống	U+64A6
+𪟒	xoạc	𪟒蹎 xoạc chân	U+2A7D2
+伬	xoạch	𠇷伬 xoành xoạch	U+4F2C
+𣒱	xoài	果𣒱 quả xoài	U+234B1
+槎	xoay	𣘃槎 cây xoay	U+69CE
+鬠（𫘽）	xoáy	𪋖鬠 lốc xoáy · 鬠渃 xoáy nước	U+9B20 (U+2B63D)
+𩰃	xoàm	𩮕𩰃 xồm xoàm [𠸨]	U+29C03
+萶	xoan	𡀳萶 còn xoan · 當萶 đương xoan · 𭿄萶 xẩm xoan · 𩈘𬃻萶 mặt trái xoan	U+8436
+𩭵	xoăn	𩯀𩭵 tóc xoăn · 𫜵𩭵𩯀 làm xoăn tóc	U+29B75
+𦀵	xoắn	𦀵掇 xoắn xít [𠸨]	U+26035
+侊	xoàng	侊省 xoàng xĩnh [𠸨] · 𩛷𩚵侊 bữa cơm xoàng	U+4F8A
+𠇷	xoành	𠇷伬 xoành xoạch	U+201F7
+咄	xoạt	唰咄 loạt xoạt [聲]	U+5484
+潚	xóc	潚𥐨 xóc đĩa · 吶潚 nói xóc	U+6F5A
+㒔	xốc	㒔𪜻 xốc xếch · 㒔𱠲 xốc vác	[翻] U+3494
+躅	xộc	躅斥 xộc xệch · 躅𠓨 xộc vào · 𨅃躅 xồng xộc	U+8E85
+𭇺	xoe	𠎄𭇺 xun xoe	[異] 吹 U+2D1FA
+撱	xoè	撱𦑃 xoè cánh · 撱𢄓 xoè ô	U+64B1
+𢹮	xoi	𢹮𢪛 xoi mói · 鑟𢹮𠬠溪 đục xoi một khe	U+22E6E
+𥸷	xôi	𥸷棘 xôi gấc · 生𥸷 sinh xôi ·賒𥸷 xa xôi [𠸨]	U+25E37
+㵊	xối	㵊捨 xối xả	[翻] U+3D4A
+𣔢	xới	沛𠬃𣔢𫥨𠫾 phải bỏ xới ra đi	U+23522
+𢲳	xới	𢲳𡐙 xới đất · 𢲳𩚵 xới cơm · 𢲳𬨠 xới lên · 钁𢲳 cuốc xới	U+22CB3
+𠽄	xòm	珥𠽄 nhẹ xòm · 嚏𠽄 xì xòm	U+20F44
+踮	xổm	𱖗踮 ngồi xổm	U+8E2E
+𩮕	xồm	𩯁𩮕 râu xồm · 𩮕𩰃 xồm xoàm [𠸨] · 羝𩮕 dê xồm	U+29B95
+嘇	xơm	𣭛嘇 bờm xơm · 𬦮嘇𠓨 nhảy xơm vào	U+5607
+𬇁	xờm	𩯀𬇁 tóc xờm · 𣭛𬇁 bờm xờm [𠸨] · 㘕𬇁 lờm xờm [𠸨]	U+2C1C1
+㖺	xon	㖮㖺 lon xon [𠸨]	U+35BA
+吋	xốn	吋唱 xốn xang [𠸨] · 吋眜 xốn mắt	U+540B
+𢺛	xởn	𢺛𩯀𬛑 xởn tóc gáy	[翻] U+22E9B
+𨅃	xồng	𨅃躅 xồng xộc	U+28143
+𨰚	xoong	丐𨰚 cái xoong [摱]	U+28C1A
+𣐝	xốp	楛𣐝 gỗ xốp · 𡐙𣐝 đất xốp · 𣐝挾 xốp xáp	[翻] U+2341D
+𨧣	xớt	遲𨧣 chầy xớt · 𤮾𨧣 ngọt xớt	[翻] U+289E3
+鏂	xu	銅鏂 đồng xu [摱]	U+93C2
+臭	XÚ	臭穢 xú uế · 狐臭 hồ xú · 除臭 trừ xú	U+81ED
+𣭃	xù	瀘𣭃 lù xù · 𣭃𧴱 xù nợ · 𠽤𣭃 kếch xù · 𣭃嚏 xù xì	U+23B43
+𣭃	sù	𣭃嚏 sù sì	⇔ 𣭃 xù
+椿	XUÂN	椿萱 xuân huyên	U+693F
+蠢	XUẨN	愚蠢 ngu xuẩn	U+8822
+𢴠	xức	𢴠油 xức dầu · 𢴠𫇿𧹻 xức thuốc đỏ	[翻] U+22D20
+𫈀	xuê	窒𫈀 rất xuê · 𫈀捘 xuê xoa	U+2B200
+𢭻	xúi	𢭻𠽖 xúi giục	[翻] U+22B7B
+穿	XUYÊN	穿過 xuyên qua · 𠫾穿 đi xuyên · 穿鑿 xuyên tạc · 穿墻 xuyên tường	U+7A7F
+串	XUYẾN	貫串 quán xuyến	U+4E32
+紃	xuyến	紃鐄 xuyến vàng · 嗃紃 xao xuyến	U+7D03
+啜	xuýt	啜捘 xuýt xoa · 啜𡛤 xuýt nữa ·啜脫 xuýt xoát [𠸨]	U+555C
+𠎊	xúm	𠎊𦤾 xúm đến · 𠎊𨒺 xúm quanh · 𠎊掇 xúm xít [𠸨]	[翻] U+2038A
+唚	xùm	唚汊 xùm xoà · 𠽛唚 um xùm	U+551A
+𠎄	xun	𠎄𭇺 xun xoe	[翻] U+20384
+𠎄	xum	𠎄𭇺 xum xoe	⇔ 𠎄 xun
+𨰧	xủng	𨰧鏯 xủng xoảng [聲]	U+28C27
+𨰧	sủng	𨰧鏯 sủng soảng [聲] · 𬂆鏯 loảng soảng [聲]	⇔ 𨰧 xủng
+䘪	xúng	䘪裎 xúng xính	U+462A
+秤	XỨNG	天秤 Thiên Xứng · 斤秤 Cân Xứng	U+79E4
+䓬	xước	𦹯䓬 cỏ xước	U+44EC
+鋽	xước	鋽䏧 xước da · 鋽𤿭𣖙 xước vỏ mía	U+92FD
+昌	XƯƠNG	昌盛 xương thịnh	U+660C
+唱	XƯỚNG	喝唱 hát xướng	U+5531
+唱	xang	吋唱 xốn xang [𠸨] · 𫕸唱 xênh xang [𠸨]	
+䉅	xụp	㡴䉅 lụp xụp · 嚏䉅 xì xụp	U+4245
+㻠	xụt	嚏㻠 xì xụt	[翻] U+3EE0
