@@ -1,7 +1,16 @@
-# 日本人名用汉字
+# 日本人名用汉字（人名用漢字，2017年更新）
 # 人名用漢字，共863字
+#
+# 资料
 # https://kanji.jitenon.jp/cat/jimmei
 # https://x0213.org/jinmeiyou-kanji-code/ 共861字，缺少“巫、渾”两个字。
+# https://www.kanshudo.com/collections/jinmeiyo_kanji 共862字（截止2016年），缺少“渾”字。
+# https://sound.jp/mtnest/k/jinmei.htm 人名用漢字（651字）+異体字（212字）
+#
+# 更新
+# 2010年：共861字；刪除已新增到常用漢字表的129字，新增常用漢字表刪除的5個字。
+# 2015年：新增1字（巫），共862字
+# 2017年：新增1字（渾），共863字。
 
 乃
 卜

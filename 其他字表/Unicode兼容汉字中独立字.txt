@@ -1,0 +1,16 @@
+# 12个无兼容字的汉字
+# 中日韩兼容表意文字区（英语：CJK Compatibility Ideographs）“豈~龎”
+# char	unicode
+
+﨎	U+FA0E
+﨏	U+FA0F
+﨑	U+FA11
+﨓	U+FA13
+﨔	U+FA14
+﨟	U+FA1F
+﨡	U+FA21
+﨣	U+FA23
+﨤	U+FA24
+﨧	U+FA27
+﨨	U+FA28
+﨩	U+FA29

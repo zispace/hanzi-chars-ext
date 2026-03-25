@@ -1,8 +1,9 @@
 # 【腾讯文档】通规外字
 # https://github.com/Honoka55/tonggui-ext
 # https://docs.qq.com/sheet/DUHNncEdMcnJMSWNx
+#
+# 汉字	编码	拆分	笔顺	拼音	繁异	分野	出典	备注
 
-汉字	编码	拆分	笔顺	拼音	繁异	分野	出典	备注
 氹	u6c39	⿺乙水	52534	dànɡ		地名	在澳门，～仔岛	
 𰵝	u30d5d	⿰讠禾	4531234	hé	訸	人名	简川～	
 𪨊	u2aa0a	⿸尸从	5133434	sónɡ	㞞	方言	常讹写为“怂”	
