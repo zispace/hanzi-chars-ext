@@ -1,6 +1,7 @@
 # 汉仪繁简字表
 # 共9169字（即“网络常用字”列表）
 # https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/hanyi_jianfan.txt
+# 相同 https://github.com/3type/glyphs-han/blob/master/Tables/Commonly%20Used%20on%20Internet.txt
 #
 #汉字	Unicode
 
